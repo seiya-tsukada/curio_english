@@ -1,6 +1,0 @@
-{
-  "name": "Curio",
-  "description": "Read a little. Learn a lot. An English micro-reading and knowledge discovery app for Japanese beginners.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

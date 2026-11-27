@@ -1,8 +1,7 @@
-import { Topic } from '../types/curio';
-import { CATEGORY_MAP } from './categories';
+import type { Topic } from '../types/curio';
 
 export const TOPICS: Topic[] = [
-  // 1. Space & Science (5 topics)
+  // Space & Science
   {
     id: 'topic-octopus-hearts',
     categoryId: 'space-science',
@@ -10,7 +9,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'タコに心臓が3つある理由',
     subtitleJa: '海の賢者タコの不思議な体の仕組みを5文で読み解く。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['space-science'].image,
     estimatedMinutes: 2,
   },
   {
@@ -20,7 +18,6 @@ export const TOPICS: Topic[] = [
     titleJa: '金星の1日は1年よりも長い',
     subtitleJa: '地球のお隣の惑星で起きている、奇妙な時間のルール。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['space-science'].image,
     estimatedMinutes: 2,
   },
   {
@@ -30,7 +27,6 @@ export const TOPICS: Topic[] = [
     titleJa: '森の木々が地下で栄養を分け合う仕組み',
     subtitleJa: '静かに見える森の足元で広がる、菌類とのネットワーク。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['space-science'].image,
     estimatedMinutes: 2,
   },
   {
@@ -40,7 +36,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'ハチミツが何千年も腐らない理由',
     subtitleJa: '古代の遺跡からも見つかる天然の保存食の秘密。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['space-science'].image,
     estimatedMinutes: 2,
   },
   {
@@ -50,11 +45,10 @@ export const TOPICS: Topic[] = [
     titleJa: '夕焼けの空が赤く染まる科学',
     subtitleJa: '青い空と赤い夕暮れをつくる光の旅路。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['space-science'].image,
     estimatedMinutes: 3,
   },
 
-  // 2. Technology (5 topics)
+  // Technology
   {
     id: 'topic-how-gps-works',
     categoryId: 'technology',
@@ -62,7 +56,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'GPSがあなたの現在地を知る仕組み',
     subtitleJa: '宇宙を回る衛星からの時計信号が地図を動かす。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['technology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -72,7 +65,6 @@ export const TOPICS: Topic[] = [
     titleJa: '飛行機の窓にある小さな穴の役目',
     subtitleJa: '上空1万メートルで安全な気圧を保つための小さな工夫。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['technology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -82,7 +74,6 @@ export const TOPICS: Topic[] = [
     titleJa: '最初のマウスは木製だった',
     subtitleJa: '1960年代に生まれた、PC操作を変えた小さな箱の物語。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['technology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -92,7 +83,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'キーボードがQWERTY配列になった理由',
     subtitleJa: 'タイプライター時代の弱点から生まれた意外な配置。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['technology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -102,11 +92,10 @@ export const TOPICS: Topic[] = [
     titleJa: 'ノイズキャンセリングが音を消す仕組み',
     subtitleJa: '音に「逆の音」をぶつけて静けさをつくる科学技術。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['technology'].image,
     estimatedMinutes: 3,
   },
 
-  // 3. History (5 topics)
+  // History
   {
     id: 'topic-history-of-salt',
     categoryId: 'history',
@@ -114,7 +103,6 @@ export const TOPICS: Topic[] = [
     titleJa: '塩が金と同じくらい貴重だった時代',
     subtitleJa: '「サラリー（給料）」の語源にもなった塩の物語。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['history'].image,
     estimatedMinutes: 2,
   },
   {
@@ -124,7 +112,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'コーヒーが世界の朝の習慣になるまで',
     subtitleJa: 'エチオピアからカフェ文化へ、一杯の豆がつないだ歴史。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['history'].image,
     estimatedMinutes: 2,
   },
   {
@@ -134,7 +121,6 @@ export const TOPICS: Topic[] = [
     titleJa: '古代ローマの道が今も残っている理由',
     subtitleJa: '「すべての道はローマに通ず」を支えた驚きの土木技術。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['history'].image,
     estimatedMinutes: 2,
   },
   {
@@ -144,7 +130,6 @@ export const TOPICS: Topic[] = [
     titleJa: '古代中国での「紙」の誕生',
     subtitleJa: '重い竹や高価な絹に代わり、知識を広げた大発明。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['history'].image,
     estimatedMinutes: 2,
   },
   {
@@ -154,11 +139,10 @@ export const TOPICS: Topic[] = [
     titleJa: '時計が変えた人間の時間の過ごし方',
     subtitleJa: '太陽のリズムから「正確な分と秒」へのシフト。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['history'].image,
     estimatedMinutes: 3,
   },
 
-  // 4. World & Culture (5 topics)
+  // World & Culture
   {
     id: 'topic-driving-sides',
     categoryId: 'world-culture',
@@ -166,7 +150,6 @@ export const TOPICS: Topic[] = [
     titleJa: '国によって車の右側・左側通行が違う理由',
     subtitleJa: '馬車の時代や騎士の習慣から続く道路のルール。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['world-culture'].image,
     estimatedMinutes: 2,
   },
   {
@@ -176,7 +159,6 @@ export const TOPICS: Topic[] = [
     titleJa: 'スウェーデンの大切なコーヒー時間「フィーカ」',
     subtitleJa: 'ただの休憩ではない、人とつながる北欧の習慣。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['world-culture'].image,
     estimatedMinutes: 2,
   },
   {
@@ -186,7 +168,6 @@ export const TOPICS: Topic[] = [
     titleJa: '日本に自動販売機がこんなにも多い理由',
     subtitleJa: '治安の良さ、硬貨文化、そして街の便利さが生んだ風景。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['world-culture'].image,
     estimatedMinutes: 2,
   },
   {
@@ -196,7 +177,6 @@ export const TOPICS: Topic[] = [
     titleJa: '週休二日制の「週末」はこうして生まれた',
     subtitleJa: '工場の働き方改革から広がった休日の文化。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['world-culture'].image,
     estimatedMinutes: 3,
   },
   {
@@ -206,11 +186,10 @@ export const TOPICS: Topic[] = [
     titleJa: '世界のパスポートが主に4色しかない理由',
     subtitleJa: '赤・青・緑・黒に込められた国ごとのストーリー。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['world-culture'].image,
     estimatedMinutes: 2,
   },
 
-  // 5. Business & Economy (5 topics)
+  // Business & Economy
   {
     id: 'topic-milk-back-of-store',
     categoryId: 'business-economy',
@@ -218,7 +197,6 @@ export const TOPICS: Topic[] = [
     titleJa: '牛乳がスーパーの一番奥に置かれる理由',
     subtitleJa: 'お店のレイアウトに隠された買い物のデザイン。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['business-economy'].image,
     estimatedMinutes: 2,
   },
   {
@@ -228,7 +206,6 @@ export const TOPICS: Topic[] = [
     titleJa: '鉄の箱「コンテナ」が世界貿易を変えた',
     subtitleJa: '港の積み降ろしを劇的に速くしたシンプルな規格化。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['business-economy'].image,
     estimatedMinutes: 2,
   },
   {
@@ -238,7 +215,6 @@ export const TOPICS: Topic[] = [
     titleJa: '仕事にも使える「80対20の法則」',
     subtitleJa: '大切な2割に集中することで大きな成果を生む考え方。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['business-economy'].image,
     estimatedMinutes: 2,
   },
   {
@@ -248,7 +224,6 @@ export const TOPICS: Topic[] = [
     titleJa: '航空会社が座席より多くチケットを売る理由',
     subtitleJa: 'データ予測と空席リスクの経済学。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['business-economy'].image,
     estimatedMinutes: 3,
   },
   {
@@ -258,11 +233,10 @@ export const TOPICS: Topic[] = [
     titleJa: 'バーコードがレジの行列を減らした物語',
     subtitleJa: '砂浜で指で描いた線から生まれた世界の共通規格。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['business-economy'].image,
     estimatedMinutes: 2,
   },
 
-  // 6. Human & Psychology (5 topics)
+  // Human & Psychology
   {
     id: 'topic-music-chills',
     categoryId: 'human-psychology',
@@ -270,7 +244,6 @@ export const TOPICS: Topic[] = [
     titleJa: '感動する音楽を聴くと鳥肌が立つ理由',
     subtitleJa: '音の予想とサプライズが脳の報酬系を刺激する。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['human-psychology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -280,7 +253,6 @@ export const TOPICS: Topic[] = [
     titleJa: '20分の短い昼寝が脳をすっきりさせる理由',
     subtitleJa: '深く眠りすぎない「パワーナップ」の科学的メリット。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['human-psychology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -290,7 +262,6 @@ export const TOPICS: Topic[] = [
     titleJa: '初対面の人の名前をすぐ忘れてしまう理由',
     subtitleJa: '記憶力のせいではない、脳の注意の仕組みとは。',
     difficulty: 'elementary',
-    image: CATEGORY_MAP['human-psychology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -300,7 +271,6 @@ export const TOPICS: Topic[] = [
     titleJa: '笑顔をつくるだけで脳の気分が変わる理由',
     subtitleJa: '表情から心へ信号が伝わる「顔面フィードバック」。',
     difficulty: 'beginner',
-    image: CATEGORY_MAP['human-psychology'].image,
     estimatedMinutes: 2,
   },
   {
@@ -310,11 +280,10 @@ export const TOPICS: Topic[] = [
     titleJa: '大人になると1年があっという間に感じる理由',
     subtitleJa: '新しい体験の数が、時間の長さを決める鍵になる。',
     difficulty: 'intermediate',
-    image: CATEGORY_MAP['human-psychology'].image,
     estimatedMinutes: 3,
   },
 ];
 
-export const TOPIC_MAP = Object.fromEntries(
+export const TOPIC_MAP: Record<string, Topic> = Object.fromEntries(
   TOPICS.map((t) => [t.id, t])
-) as Record<string, Topic>;
+);

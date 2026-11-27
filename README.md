@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Curio
 
-# Run and deploy your AI Studio app
+**Read a little. Learn a lot.**
 
-This contains everything you need to run your app locally.
+英語初心者向けのマイクロリーディングアプリです。宇宙・テクノロジー・歴史などの雑学を、1文ずつの短い英語で読みながら単語やフレーズを学べます。
 
-View your app in AI Studio: https://ai.studio/apps/ed0d6410-4e41-41a2-aada-e2c140d82a63
+## 機能
 
-## Run Locally
+- 興味のあるカテゴリ・レベル・1日の目標を設定するオンボーディング
+- 興味と既読状況にもとづくおすすめフィード
+- 単語タップでの意味表示、和訳・補足情報の表示
+- Web Speech API による読み上げ
+- 文・単語の保存、学習履歴、週間アクティビティ
 
-**Prerequisites:**  Node.js
+学習データはブラウザの `localStorage` に保存され、サーバーは不要です。
 
+## 開発
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Node.js 20 以上が必要です。
+
+```bash
+npm install
+npm run dev
+```
+
+| コマンド            | 内容                         |
+| ------------------- | ---------------------------- |
+| `npm run dev`       | 開発サーバーを起動           |
+| `npm run build`     | 型チェックと本番ビルド       |
+| `npm run preview`   | ビルド結果をプレビュー       |
+| `npm run typecheck` | 型チェックのみ               |
+| `npm test`          | ユニットテスト（Vitest）     |
+
+## ディレクトリ構成
+
+```
+public/images/        カテゴリ画像
+src/
+  components/         UI コンポーネント
+  data/               カテゴリ・トピック・例文データ
+    sentences/        カテゴリごとの例文
+  types/              型定義
+  utils/              おすすめ・保存・読み上げなどのロジック
+```

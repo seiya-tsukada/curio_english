@@ -39,7 +39,6 @@ export function CategoryImage({ categoryId, alt, className = '' }: CategoryImage
       <img
         src={category.image}
         alt={alt}
-        referrerPolicy="no-referrer"
         onError={() => setFailed(true)}
         className={`w-full h-full object-cover transition-transform duration-300 ${cropAdjustment}`}
       />

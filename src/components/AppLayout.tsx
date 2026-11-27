@@ -26,10 +26,10 @@ export function AppLayout({
 }: AppLayoutProps) {
   return (
     <div className="min-h-screen bg-[#F8FAFC] text-[#13284B] flex flex-col">
-      {/* Desktop & Mobile Top Header following strict 3-zone contract */}
+      {/* Header */}
       <header className="sticky top-0 z-30 h-[52px] md:h-16 bg-white/95 backdrop-blur-md border-b border-slate-200/80">
         <div className="max-w-6xl mx-auto h-full px-4 sm:px-6 flex items-center justify-between gap-8">
-          {/* Zone 1: Single-line brand wordmark */}
+          {/* Brand */}
           <button
             type="button"
             onClick={() => onSelectTab('discover')}
@@ -38,7 +38,7 @@ export function AppLayout({
             Curio
           </button>
 
-          {/* Zone 2: Clean single-line text nav links (Desktop) */}
+          {/* Desktop navigation */}
           <nav
             aria-label="デスクトップナビゲーション"
             className="hidden md:flex items-center gap-7"
@@ -63,7 +63,7 @@ export function AppLayout({
             })}
           </nav>
 
-          {/* Zone 3: Single primary action showing today's goal progress */}
+          {/* Today's goal progress */}
           <div className="flex items-center shrink-0">
             <button
               type="button"

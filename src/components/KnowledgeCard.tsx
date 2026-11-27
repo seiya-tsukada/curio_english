@@ -94,7 +94,7 @@ export function KnowledgeCard({
       aria-label={topic.titleEn}
       className="bg-white rounded-3xl border border-slate-200/80 shadow-sm overflow-hidden transition-shadow hover:shadow-md"
     >
-      {/* Editorial Header + Visual */}
+      {/* Header */}
       <div className="grid grid-cols-1 sm:grid-cols-12 items-stretch">
         <div className="sm:col-span-5 relative h-[152px] sm:h-auto sm:min-h-[220px]">
           <CategoryImage
@@ -106,7 +106,7 @@ export function KnowledgeCard({
 
         <div className="sm:col-span-7 p-5 sm:p-6 flex flex-col justify-between">
           <div>
-            {/* Clean unboxed metadata (Zero-Pill discipline) */}
+            {/* Metadata */}
             <div className="flex items-center justify-between gap-2 text-xs text-slate-500">
               <div className="flex items-center gap-1.5 flex-wrap">
                 <span className="font-semibold text-[#13284B]">{category.nameEn}</span>

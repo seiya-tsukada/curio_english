@@ -44,7 +44,7 @@ export function speakSentence(
     }
   }, 80);
 
-  if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+  if ('speechSynthesis' in window) {
     try {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
@@ -82,7 +82,7 @@ export function speakSentence(
     stop: () => {
       cancelled = true;
       cleanup();
-      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      if ('speechSynthesis' in window) {
         try {
           window.speechSynthesis.cancel();
         } catch {

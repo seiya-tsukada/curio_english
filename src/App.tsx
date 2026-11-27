@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { TOPIC_MAP } from './data';
-import {
+import type {
   LearningState,
   MainTab,
   SentenceItem,
@@ -25,27 +25,17 @@ import { ProfileView } from './components/ProfileView';
 import { SentenceReader } from './components/SentenceReader';
 import { TopicDetail } from './components/TopicDetail';
 
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 type ActiveDetail =
   | { type: 'none' }
   | { type: 'sentence'; sentence: SentenceItem }
   | { type: 'topic'; topicId: string; startOrder: number };
 
 export default function App() {
-  const [state, setState] = useState<LearningState>(() => {
-    const loaded = loadLearningState();
-    // Support ?autostart=1 for automated testing or direct exploration
-    if (
-      typeof window !== 'undefined' &&
-      new URLSearchParams(window.location.search).get('autostart') === '1'
-    ) {
-      return {
-        ...loaded,
-        preferences: { ...loaded.preferences, onboardingCompleted: true },
-      };
-    }
-    return loaded;
-  });
-
+  const [state, setState] = useState<LearningState>(loadLearningState);
   const [activeTab, setActiveTab] = useState<MainTab>('discover');
   const [detail, setDetail] = useState<ActiveDetail>({ type: 'none' });
 
@@ -73,9 +63,7 @@ export default function App() {
   const handleSelectTab = (tab: MainTab) => {
     setActiveTab(tab);
     setDetail({ type: 'none' });
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    scrollToTop();
   };
 
   const handleMarkRead = (sentenceId: string, topicId: string) => {
@@ -92,16 +80,12 @@ export default function App() {
 
   const handleOpenSentence = (sentence: SentenceItem) => {
     setDetail({ type: 'sentence', sentence });
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    scrollToTop();
   };
 
   const handleOpenTopic = (topicId: string, startOrder = 1) => {
     setDetail({ type: 'topic', topicId, startOrder });
-    if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    scrollToTop();
   };
 
   if (!state.preferences.onboardingCompleted) {

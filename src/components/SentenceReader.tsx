@@ -168,7 +168,7 @@ export function SentenceReader({
               {topic?.titleEn}
             </h1>
 
-            {/* Segmented Level Indicator (inspired by reference image) */}
+            {/* Level indicator */}
             <div className="mt-4 inline-flex items-center p-1 rounded-xl bg-slate-100 text-xs font-medium">
               {(['beginner', 'elementary', 'intermediate'] as const).map((lvl) => {
                 const isCurrent = sentence.difficulty === lvl;
@@ -316,7 +316,7 @@ export function SentenceReader({
         </section>
       )}
 
-      {/* Fixed Bottom Audio Player Bar (directly matching UI reference bar) */}
+      {/* Audio player */}
       <div
         className="fixed bottom-16 md:bottom-0 left-0 right-0 z-30 bg-white/95 backdrop-blur-md border-t border-slate-200"
         role="region"

@@ -174,7 +174,7 @@ export function ProfileView({
         </div>
       </section>
 
-      {/* Safe Reset Control */}
+      {/* Reset */}
       <section className="bg-white rounded-3xl border border-slate-200/80 p-6 shadow-xs">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div>

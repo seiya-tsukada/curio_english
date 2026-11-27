@@ -172,7 +172,7 @@ export function CategoryGrid({ readSentenceIds, onOpenTopic }: CategoryGridProps
         </div>
       </div>
 
-      {/* 6 Categories Grid */}
+      {/* Categories */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {CATEGORIES.map((category) => {
           const categoryTopics = getTopicsByCategory(category.id);
@@ -213,7 +213,7 @@ export function CategoryGrid({ readSentenceIds, onOpenTopic }: CategoryGridProps
         })}
       </div>
 
-      {/* Quick Spotlight List across all 30 topics */}
+      {/* All topics */}
       <section aria-labelledby="all-topics-preview" className="pt-2">
         <div className="flex items-baseline justify-between mb-3">
           <h2 id="all-topics-preview" className="text-base font-bold text-[#13284B]">

@@ -52,7 +52,7 @@ export function LearningDashboard({
         </p>
       </div>
 
-      {/* Encouraging Overview Cards */}
+      {/* Overview */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         <div className="bg-white rounded-3xl border border-slate-200/80 p-5 shadow-xs">
           <p className="text-xs font-medium text-slate-500">今日の目標進捗</p>
@@ -171,7 +171,7 @@ export function LearningDashboard({
         </section>
       )}
 
-      {/* Segmented Section Selector: Saved Sentences / Saved Vocabulary / Reading History */}
+      {/* Section tabs */}
       <div>
         <div
           className="inline-flex items-center p-1 bg-slate-100 rounded-xl"

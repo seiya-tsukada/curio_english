@@ -47,7 +47,6 @@ export interface Topic {
   titleJa: string;
   subtitleJa: string;
   difficulty: DifficultyLevel;
-  image: string;
   estimatedMinutes: number;
 }
 

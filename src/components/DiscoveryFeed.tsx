@@ -40,7 +40,6 @@ export function DiscoveryFeed({
   const feed = useMemo(
     () => getRecommendedFeed(ALL_SENTENCES, state, selectedCategory),
     // Keep feed order stable during active reading; re-rank only when category or preferences change
-    // eslint-disable-next-line react-hooks/exhaustive-deps
     [selectedCategory, state.preferences.interestedCategories, state.preferences.level]
   );
 
@@ -84,7 +83,7 @@ export function DiscoveryFeed({
 
   return (
     <div className="space-y-4 sm:space-y-6">
-      {/* Editorial Header + Reference-inspired Soft Sage Welcome Banner */}
+      {/* Header + welcome banner */}
       <div className="flex items-end justify-between gap-3">
         <div className="min-w-0">
           <h1 className="text-xl sm:text-3xl font-bold tracking-tight text-[#13284B]">
@@ -135,7 +134,7 @@ export function DiscoveryFeed({
         </div>
       )}
 
-      {/* Interactive Category Filter Bar */}
+      {/* Category filter */}
       <div
         className="flex items-center gap-2 overflow-x-auto no-scrollbar pb-1"
         role="tablist"
@@ -175,7 +174,7 @@ export function DiscoveryFeed({
         })}
       </div>
 
-      {/* Main 2-column Desktop Layout (Feed + Editorial Sidebar) */}
+      {/* Feed + sidebar */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-7 items-start">
         {/* Feed Stream */}
         <div className="lg:col-span-8 space-y-5">
@@ -226,7 +225,7 @@ export function DiscoveryFeed({
           )}
         </div>
 
-        {/* Desktop Contextual Sidebar */}
+        {/* Sidebar (desktop only) */}
         <aside className="lg:col-span-4 space-y-5 lg:sticky lg:top-24">
           {/* Today's Goal Summary */}
           <div className="bg-white rounded-3xl border border-slate-200/80 p-5 shadow-xs">
@@ -249,7 +248,7 @@ export function DiscoveryFeed({
             </p>
           </div>
 
-          {/* Mini-Stories Quick Picks */}
+          {/* Spotlight stories */}
           <div className="bg-white rounded-3xl border border-slate-200/80 p-5 shadow-xs">
             <div className="flex items-center justify-between mb-3.5">
               <h2 className="text-sm font-bold text-[#13284B]">
