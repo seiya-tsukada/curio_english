@@ -8,8 +8,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run",
-    "generate:topic": "node scripts/generate-topic.ts"
+    "test": "vitest run"
   },
   "dependencies": {
     "@fontsource-variable/source-serif-4": "^5.3.1",
@@ -19,7 +18,6 @@
     "react-dom": "^19.0.1"
   },
   "devDependencies": {
-    "@anthropic-ai/sdk": "^1.14.0",
     "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^22.14.0",
     "@types/react": "^19.3.0",
@@ -32,6 +30,6 @@
     "zod": "^4.6.7"
   },
   "engines": {
-    "node": ">=22.18.0"
+    "node": ">=22.12.0"
   }
 }

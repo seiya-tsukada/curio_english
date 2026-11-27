@@ -16,7 +16,7 @@
 
 ## 開発
 
-Node.js 22.18 以上が必要です（記事生成スクリプトを TypeScript のまま実行するため）。
+Node.js 22.12 以上が必要です。記事生成スクリプトを手元で動かす場合は [uv](https://docs.astral.sh/uv/) も必要です（Python 本体と依存ライブラリは uv が自動で用意します）。
 
 ```bash
 npm install
@@ -30,7 +30,6 @@ npm run dev
 | `npm run preview`   | ビルド結果をプレビュー       |
 | `npm run typecheck` | 型チェックのみ               |
 | `npm test`          | ユニットテスト（Vitest）     |
-| `npm run generate:topic` | Claude で記事を1件生成（要 `ANTHROPIC_API_KEY`） |
 
 ## コンテンツの追加・更新
 
@@ -74,7 +73,7 @@ GitHub Actions（[`.github/workflows/generate-topic.yml`](.github/workflows/gene
 
 ```
 毎日 06:00 JST  GitHub Actions
-  → scripts/generate-topic.ts が Claude（claude-opus-5-5）でトピックを1件生成
+  → scripts/generate_topic.py（Python）が LLM でトピックを1件生成（既定は Claude）
   → スキーマ検証・テスト・ビルド（不正ならここで失敗し、PR は作られない）
   → ブランチ content/topic-<slug> を作成して PR を提出
   → Vercel が PR ごとにプレビュー URL を発行
@@ -83,7 +82,10 @@ GitHub Actions（[`.github/workflows/generate-topic.yml`](.github/workflows/gene
 
 ### 初回セットアップ
 
-1. **API キー:** GitHub リポジトリの Settings → Secrets and variables → Actions → *New repository secret* で `ANTHROPIC_API_KEY` を登録する。未登録の間はワークフローが「スキップ」と表示して何もしません。
+1. **LLM の選択と API キー:** GitHub リポジトリの Settings → Secrets and variables → Actions で設定する。
+   - *Variables* に `LLM_PROVIDER`（`claude` / `openai` / `gemini`。未設定なら `claude`）と、必要なら `LLM_MODEL` を登録
+   - *Secrets* に、選んだプロバイダのキーを登録（`ANTHROPIC_API_KEY` / `OPENAI_API_KEY` / `GEMINI_API_KEY`）
+   - キーが未登録の間はワークフローが「スキップ」と表示して何もしません。
 2. **PR 作成の許可:** Settings → Actions → General → *Workflow permissions* で「Allow GitHub Actions to create and approve pull requests」にチェックを入れる。
 3. **動作確認:** Actions タブ → *Generate topic* → *Run workflow* で手動実行し、PR が作られることを確認する。
 
@@ -104,6 +106,9 @@ GitHub Actions（[`.github/workflows/generate-topic.yml`](.github/workflows/gene
 - **難易度:** そのカテゴリで最も少ない難易度を自動選択
 - **重複回避:** 既存の全トピックのタイトルをプロンプトに渡して重複を避ける
 - **ID・公開日:** スクリプトが `topic-<slug>` / `sent-<slug>-N` と、実行日（JST）の `publishedAt` を付与
+- **検証:** 記事の正式なスキーマは [`src/content/schema.ts`](src/content/schema.ts)（Zod）だけです。Python 側は LLM への出力形式（Pydantic）と ID・文数・重複のチェックのみを持ち、生成後にワークフローが `npm test` / `npm run build` でスキーマ検証します。スキーマに項目を足すときは Python の `GeneratedTopic` も合わせて更新してください。
+- **LLM の切り替え:** AI を呼ぶ部分は [`scripts/llm/`](scripts/llm/) に分離しています（下記「LLM プロバイダ」）。
+- **依存関係:** スクリプト先頭の `# /// script` ブロック（PEP 723）に記載しています。`uv run` が自動でインストールするため、`requirements.txt` などは不要です。
 
 ### よくある調整
 
@@ -113,14 +118,41 @@ GitHub Actions（[`.github/workflows/generate-topic.yml`](.github/workflows/gene
 | 一時停止する | Actions タブで *Generate topic* を *Disable workflow* |
 | 予約公開する | PR 上で `publishedAt` を未来日付に変えてマージ（その日から表示） |
 | 記事を取り下げる | 該当 JSON を削除してコミット（ID は再利用しない） |
-| 文体・方針を変える | [`scripts/generate-topic.ts`](scripts/generate-topic.ts) のプロンプト |
-| ローカルで試す | `ANTHROPIC_API_KEY=... npm run generate:topic -- --dry-run`（ファイルを書かずに出力のみ） |
+| LLM を切り替える | リポジトリ変数 `LLM_PROVIDER` / `LLM_MODEL` を変更し、対応する Secret を登録（手動実行時は画面で一時的に指定も可） |
+| 文体・方針を変える | [`scripts/generate_topic.py`](scripts/generate_topic.py) の `build_prompt` |
+| ローカルで試す | `uv run scripts/generate_topic.py --dry-run`（ファイルを書かずに出力のみ。`--provider openai --model <name>` で切り替え可） |
+| カテゴリ・日付を指定して生成 | `uv run scripts/generate_topic.py --category history --date 2026-12-24` → `npm test` で検証 |
 
 ### 注意点
 
 - GitHub の定期実行は数分〜数十分遅れることがあります。また、公開リポジトリは 60 日間アクティビティがないと自動で無効化されます（Actions タブから再有効化できます）。
-- 未マージの PR が溜まっても、同じ題材が重複する可能性があります。PR はこまめにマージ／クローズしてください。
-- API 利用料の目安は 1 回あたり数十円程度です（claude-opus-5-5、入力・出力トークン量に依存）。
+- 未マージの PR が溜まると、同じ題材が重複して生成される可能性があります（重複チェックはマージ済みの記事だけが対象）。PR はこまめにマージ／クローズしてください。
+- API 利用料は 1 回あたり数十円程度が目安です（既定の claude-opus-5-5 の場合。プロバイダ・モデルと入出力トークン量で変わります）。
+
+### LLM プロバイダ
+
+記事生成のロジック（カテゴリ選択・プロンプト・ID 付与・重複チェック）は特定の AI サービスに依存せず、[`scripts/llm/`](scripts/llm/) の共通インターフェースだけを使います。
+
+```python
+from llm import get_provider
+
+llm = get_provider()                      # LLM_PROVIDER / LLM_MODEL から決定
+topic = llm.generate(prompt, GeneratedTopic)  # Pydantic モデルで受け取る
+```
+
+| プロバイダ | `LLM_PROVIDER` | API キー | `LLM_MODEL` |
+| --- | --- | --- | --- |
+| Anthropic Claude | `claude`（既定） | `ANTHROPIC_API_KEY` | 省略時 `claude-opus-5-5` |
+| OpenAI | `openai` | `OPENAI_API_KEY` | 必須 |
+| Google Gemini | `gemini` | `GEMINI_API_KEY` | 必須 |
+
+いずれも各社の公式 SDK の「構造化出力（JSON スキーマ指定）」機能を使い、結果を同じ Pydantic モデルで受け取ります。拒否・パース失敗・API エラーはすべて `GenerationError` に統一されます。
+
+**プロバイダを追加するには:**
+
+1. `scripts/llm/<name>.py` に `Provider` クラスを作る（`name` / `model` 属性と `generate(prompt, schema)` メソッド）
+2. [`scripts/llm/__init__.py`](scripts/llm/__init__.py) の `PROVIDERS` に登録する
+3. `scripts/generate_topic.py` 先頭の依存関係に SDK を追加し、ワークフローの `check` ジョブと環境変数に API キーを追加する
 
 ## デプロイ（Vercel）
 
@@ -143,7 +175,8 @@ npx vercel --prod
 .github/workflows/    記事の定期生成ワークフロー
 content/topics/       記事データ（1トピック = 1 JSON）
 public/images/        カテゴリ画像
-scripts/              記事生成スクリプト
+scripts/              記事生成スクリプト（Python / uv）
+  llm/                LLM プロバイダの共通インターフェースと実装
 src/
   components/         UI コンポーネント
   content/            記事のスキーマと検証
