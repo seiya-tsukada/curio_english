@@ -2,7 +2,7 @@
 
 @theme {
   --font-sans: "Plus Jakarta Sans", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
-  --font-serif: "Source Serif 4", Georgia, serif;
+  --font-serif: "Source Serif 4 Variable", Georgia, serif;
 }
 
 @layer base {

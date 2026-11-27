@@ -12,11 +12,11 @@
 - Web Speech API による読み上げ
 - 文・単語の保存、学習履歴、週間アクティビティ
 
-学習データはブラウザの `localStorage` に保存され、サーバーは不要です。
+学習データはブラウザの `localStorage` に保存され、サーバーや外部 API は不要です。フォントも npm パッケージ（Fontsource）から同梱しているため、実行時に外部サービスへアクセスしません。
 
 ## 開発
 
-Node.js 20 以上が必要です。
+Node.js 22.12 以上が必要です。
 
 ```bash
 npm install
@@ -30,6 +30,21 @@ npm run dev
 | `npm run preview`   | ビルド結果をプレビュー       |
 | `npm run typecheck` | 型チェックのみ               |
 | `npm test`          | ユニットテスト（Vitest）     |
+
+## デプロイ（Vercel）
+
+静的サイトとしてそのままデプロイできます。環境変数は不要です。
+
+1. Vercel で GitHub リポジトリをインポート
+2. Deploy
+
+ビルド設定・キャッシュ・セキュリティヘッダーは [`vercel.json`](vercel.json) で管理しています（ダッシュボード側の設定より優先されます）。
+
+CLI を使う場合:
+
+```bash
+npx vercel --prod
+```
 
 ## ディレクトリ構成
 
