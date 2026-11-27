@@ -1,0 +1,167 @@
+{
+  "id": "topic-mechanical-clocks",
+  "categoryId": "history",
+  "titleEn": "How Clocks Changed Human Life",
+  "titleJa": "時計が変えた人間の時間の過ごし方",
+  "subtitleJa": "太陽のリズムから「正確な分と秒」へのシフト。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-clocks-1",
+      "english": "For most of human history, people told time by the Sun.",
+      "japanese": "人類の歴史のほとんどの期間、人々は太陽を見て時間を知っていました。",
+      "additionalInfoEn": "People woke up with sunrise and rested soon after sunset.",
+      "additionalInfoJa": "日の出とともに目を覚まし、日没の少しあとに休む暮らしをしていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "human",
+          "pos": "形容詞",
+          "meaningJa": "人間の、人類の"
+        },
+        {
+          "word": "told",
+          "pos": "動詞",
+          "meaningJa": "読み取った、伝えた（tellの過去形）"
+        },
+        {
+          "word": "time",
+          "pos": "名詞",
+          "meaningJa": "時間、時刻"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "told time",
+        "ja": "時刻を知った（tell timeの過去）"
+      },
+      "explanationJa": "「tell time」は「時計や太陽などを見て時刻を読み取る」という意味の定番表現です。"
+    },
+    {
+      "id": "sent-clocks-2",
+      "english": "In the late 1200s, mechanical clocks began appearing in European towns.",
+      "japanese": "1200年代後半、ヨーロッパの町に機械式の時計が現れ始めました。",
+      "additionalInfoEn": "Early tower clocks had no hands; instead, they rang bells every hour.",
+      "additionalInfoJa": "初期の時計塔には針がなく、代わりに1時間ごとに鐘を鳴らして知らせていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "mechanical",
+          "pos": "形容詞",
+          "meaningJa": "機械式の"
+        },
+        {
+          "word": "appearing",
+          "pos": "動詞",
+          "meaningJa": "現れること"
+        },
+        {
+          "word": "towns",
+          "pos": "名詞",
+          "meaningJa": "町"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began appearing",
+        "ja": "現れ始めた"
+      },
+      "explanationJa": "「begin + 動詞ing」または「begin to + 動詞」で「〜し始める」となります。"
+    },
+    {
+      "id": "sent-clocks-3",
+      "english": "Suddenly, every hour had the exact same length all year round.",
+      "japanese": "それによって突然、1年中どの季節でも1時間がまったく同じ長さになりました。",
+      "additionalInfoEn": "Before clocks, daytime hours were longer in summer and shorter in winter.",
+      "additionalInfoJa": "時計以前は、昼の1時間は夏に長く、冬に短いという不定時法が一般的でした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Suddenly",
+          "pos": "副詞",
+          "meaningJa": "突然、急に"
+        },
+        {
+          "word": "length",
+          "pos": "名詞",
+          "meaningJa": "長さ"
+        },
+        {
+          "word": "year",
+          "pos": "名詞",
+          "meaningJa": "年"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "all year round",
+        "ja": "一年中ずっと"
+      },
+      "explanationJa": "「all year round」は「一年を通してずっと」という意味のよく使われるイディオムです。"
+    },
+    {
+      "id": "sent-clocks-4",
+      "english": "Later, trains required towns to share one standard time schedule.",
+      "japanese": "その後、鉄道の登場により、町どうしでひとつの標準時刻表を共有する必要が生まれました。",
+      "additionalInfoEn": "Before railways, each city often set its own local noon by the sun.",
+      "additionalInfoJa": "鉄道ができる前は、各都市が太陽に合わせて独自の正午を決めていたこともありました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "trains",
+          "pos": "名詞",
+          "meaningJa": "列車、鉄道"
+        },
+        {
+          "word": "required",
+          "pos": "動詞",
+          "meaningJa": "必要とした"
+        },
+        {
+          "word": "schedule",
+          "pos": "名詞",
+          "meaningJa": "スケジュール、時刻表"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "standard time",
+        "ja": "標準時"
+      },
+      "explanationJa": "「require A to + 動詞」は「Aに〜することを求める・必要とする」という意味です。"
+    },
+    {
+      "id": "sent-clocks-5",
+      "english": "Today, tiny clocks inside our phones keep the whole world in sync.",
+      "japanese": "今日では、スマホの中の小さな時計が世界中の歩調を合わせています。",
+      "additionalInfoEn": "Modern networks sync time to the millisecond so messages and flights stay on track.",
+      "additionalInfoJa": "現代のネットワークはミリ秒単位で時刻を合わせ、メッセージや飛行機の運行を支えています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "inside",
+          "pos": "前置詞",
+          "meaningJa": "〜の中に"
+        },
+        {
+          "word": "whole",
+          "pos": "形容詞",
+          "meaningJa": "全体の"
+        },
+        {
+          "word": "sync",
+          "pos": "名詞",
+          "meaningJa": "同期、歩調合わせ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in sync",
+        "ja": "同期して、息が合って"
+      },
+      "explanationJa": "「keep A in sync」で「Aをぴったり同期した状態に保つ」というモダンな英語表現になります。"
+    }
+  ]
+}

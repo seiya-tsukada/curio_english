@@ -1,0 +1,167 @@
+{
+  "id": "topic-music-chills",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Great Music Gives You Chills",
+  "titleJa": "感動する音楽を聴くと鳥肌が立つ理由",
+  "subtitleJa": "音の予想とサプライズが脳の報酬系を刺激する。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-music-1",
+      "english": "Have you ever felt a sudden chill while listening to a great song?",
+      "japanese": "素晴らしい曲を聴いているとき、ふいにゾクッと鳥肌が立ったことはありますか？",
+      "additionalInfoEn": "Scientists call this pleasant shiver \"frisson,\" a French word for chill.",
+      "additionalInfoJa": "科学者たちはこの心地よい震えを、フランス語で「戦慄」を意味する「フリッソン」と呼びます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "felt",
+          "pos": "動詞",
+          "meaningJa": "感じた（feelの過去分詞）"
+        },
+        {
+          "word": "sudden",
+          "pos": "形容詞",
+          "meaningJa": "突然の"
+        },
+        {
+          "word": "chill",
+          "pos": "名詞",
+          "meaningJa": "鳥肌、ゾクッとする感覚"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "while listening to",
+        "ja": "〜を聴いている間に"
+      },
+      "explanationJa": "「listen」の後ろには必ず「to」をつけて「listen to + 音楽/曲」の形にします。"
+    },
+    {
+      "id": "sent-music-2",
+      "english": "As you hear a melody, your brain quietly guesses what note comes next.",
+      "japanese": "メロディを聴いている間、あなたの脳は「次にどの音が来るか」を無意識に予想しています。",
+      "additionalInfoEn": "Music is full of familiar rhythms and patterns that our minds love to follow.",
+      "additionalInfoJa": "音楽は、私たちの心が自然と追いかけたくなるリズムやパターンで満ちています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "melody",
+          "pos": "名詞",
+          "meaningJa": "メロディ、旋律"
+        },
+        {
+          "word": "brain",
+          "pos": "名詞",
+          "meaningJa": "脳"
+        },
+        {
+          "word": "note",
+          "pos": "名詞",
+          "meaningJa": "音符、音階"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "what comes next",
+        "ja": "次に何が来るか"
+      },
+      "explanationJa": "接続詞の「As」を文頭に置くと「〜しているときに／〜につれて」という自然な流れを作れます。"
+    },
+    {
+      "id": "sent-music-3",
+      "english": "When a song surprises you in a beautiful way, your brain rewards you.",
+      "japanese": "曲が美しい形であなたの予想を裏切ると、脳はご褒美を与えてくれます。",
+      "additionalInfoEn": "A sudden key change, a soaring voice, or a dramatic pause can trigger that feeling.",
+      "additionalInfoJa": "急な転調や伸びやかな歌声、劇的な「間」などがその感覚の引き金になります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "surprises",
+          "pos": "動詞",
+          "meaningJa": "驚かせる"
+        },
+        {
+          "word": "beautiful",
+          "pos": "形容詞",
+          "meaningJa": "美しい"
+        },
+        {
+          "word": "rewards",
+          "pos": "動詞",
+          "meaningJa": "報酬・ご褒美を与える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in a beautiful way",
+        "ja": "美しい形で"
+      },
+      "explanationJa": "「in a + 形容詞 + way」は「〜なやり方で・〜な形で」を表すとても使い勝手の良いフレーズです。"
+    },
+    {
+      "id": "sent-music-4",
+      "english": "It releases dopamine, a natural chemical linked to joy and curiosity.",
+      "japanese": "脳はドーパミンという、喜びや好奇心につながる自然な化学物質を放出します。",
+      "additionalInfoEn": "Brain scans show activity rising right before and during your favorite musical peak.",
+      "additionalInfoJa": "脳のスキャン検査でも、お気に入りのサビの直前と最中に活動が高まることが確認されています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "releases",
+          "pos": "動詞",
+          "meaningJa": "放出する"
+        },
+        {
+          "word": "joy",
+          "pos": "名詞",
+          "meaningJa": "喜び"
+        },
+        {
+          "word": "curiosity",
+          "pos": "名詞",
+          "meaningJa": "好奇心"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "linked to",
+        "ja": "〜と結びついている"
+      },
+      "explanationJa": "「linked to 〜」は「〜に関連している・結びついている」と関係性をスッキリ説明できる表現です。"
+    },
+    {
+      "id": "sent-music-5",
+      "english": "People who feel music chills often have rich emotional connections.",
+      "japanese": "音楽で鳥肌を感じやすい人は、豊かな感情のつながりを持っていることが多いです。",
+      "additionalInfoEn": "Research suggests their brains connect sound and emotion especially strongly.",
+      "additionalInfoJa": "研究によると、そうした人の脳は音と感情を特に強く結びつけているそうです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "rich",
+          "pos": "形容詞",
+          "meaningJa": "豊かな"
+        },
+        {
+          "word": "emotional",
+          "pos": "形容詞",
+          "meaningJa": "感情の"
+        },
+        {
+          "word": "connections",
+          "pos": "名詞",
+          "meaningJa": "つながり"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "People who feel",
+        "ja": "〜を感じる人々"
+      },
+      "explanationJa": "「People who + 動詞 〜」は「〜する人々」を表す最も基本的な関係代名詞の使い方です。"
+    }
+  ]
+}

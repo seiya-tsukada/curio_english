@@ -1,0 +1,167 @@
+{
+  "id": "topic-noise-canceling",
+  "categoryId": "technology",
+  "titleEn": "How Noise-Canceling Headphones Work",
+  "titleJa": "ノイズキャンセリングが音を消す仕組み",
+  "subtitleJa": "音に「逆の音」をぶつけて静けさをつくる科学技術。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-noise-1",
+      "english": "Sound travels through the air as invisible waves.",
+      "japanese": "音は目に見えない波として空気中を伝わります。",
+      "additionalInfoEn": "Loud noises are simply sound waves with tall peaks and deep valleys.",
+      "additionalInfoJa": "大きな騒音とは、山が高く谷が深い音の波のことです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Sound",
+          "pos": "名詞",
+          "meaningJa": "音"
+        },
+        {
+          "word": "travels",
+          "pos": "動詞",
+          "meaningJa": "伝わる、進む"
+        },
+        {
+          "word": "waves",
+          "pos": "名詞",
+          "meaningJa": "波"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "through the air",
+        "ja": "空気を通って"
+      },
+      "explanationJa": "「as + 名詞」は「〜として」という役割や状態を表す前置詞です。"
+    },
+    {
+      "id": "sent-noise-2",
+      "english": "Noise-canceling headphones have tiny microphones on the outside.",
+      "japanese": "ノイズキャンセリングヘッドホンには、外側に小さなマイクがついています。",
+      "additionalInfoEn": "These microphones listen constantly to background sounds like train engines.",
+      "additionalInfoJa": "これらのマイクは電車のエンジン音などの周囲の音を常に聞き取っています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "headphones",
+          "pos": "名詞",
+          "meaningJa": "ヘッドホン"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さな"
+        },
+        {
+          "word": "microphones",
+          "pos": "名詞",
+          "meaningJa": "マイク"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on the outside",
+        "ja": "外側に"
+      },
+      "explanationJa": "「on the outside（外側に）」と「on the inside（内側に）」をセットで覚えると便利です。"
+    },
+    {
+      "id": "sent-noise-3",
+      "english": "A small chip quickly creates an exact opposite sound wave.",
+      "japanese": "小さなチップが、それと正反対の音の波を素早く作り出します。",
+      "additionalInfoEn": "Where the noise wave goes up, the new wave goes down.",
+      "additionalInfoJa": "騒音の波が上に向く場所では、新しい波は下に向くように作られます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "chip",
+          "pos": "名詞",
+          "meaningJa": "チップ、半導体"
+        },
+        {
+          "word": "quickly",
+          "pos": "副詞",
+          "meaningJa": "素早く"
+        },
+        {
+          "word": "creates",
+          "pos": "動詞",
+          "meaningJa": "作り出す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "opposite sound wave",
+        "ja": "逆の音波"
+      },
+      "explanationJa": "「create」は新しいものを「生み出す・作り出す」という意味で、テック系の話題によく登場します。"
+    },
+    {
+      "id": "sent-noise-4",
+      "english": "When the two opposite waves meet, they cancel each other out.",
+      "japanese": "2つの反対の波が出会うと、お互いを打ち消し合います。",
+      "additionalInfoEn": "This physical process is called destructive interference.",
+      "additionalInfoJa": "この物理現象は「弱め合う干渉（相殺干渉）」と呼ばれています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "meet",
+          "pos": "動詞",
+          "meaningJa": "出会う、ぶつかる"
+        },
+        {
+          "word": "cancel",
+          "pos": "動詞",
+          "meaningJa": "打ち消す、取り消す"
+        },
+        {
+          "word": "waves",
+          "pos": "名詞",
+          "meaningJa": "波"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cancel each other out",
+        "ja": "お互いを相殺する"
+      },
+      "explanationJa": "「each other」は「お互いに」という定番表現。「cancel out」は「相殺してゼロにする」という意味です。"
+    },
+    {
+      "id": "sent-noise-5",
+      "english": "As a result, you hear calm silence instead of engine roar.",
+      "japanese": "その結果、エンジンの轟音の代わりに穏やかな静けさが聞こえるのです。",
+      "additionalInfoEn": "This works best for steady, low sounds like airplanes and air conditioners.",
+      "additionalInfoJa": "この仕組みは、飛行機やエアコンのような一定の低い音に対して最もよく働きます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "calm",
+          "pos": "形容詞",
+          "meaningJa": "穏やかな"
+        },
+        {
+          "word": "silence",
+          "pos": "名詞",
+          "meaningJa": "静けさ、無音"
+        },
+        {
+          "word": "engine",
+          "pos": "名詞",
+          "meaningJa": "エンジン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "As a result",
+        "ja": "その結果として"
+      },
+      "explanationJa": "「As a result, 〜」は原因のあとに結果を述べるときの最も使いやすく丁寧なつなぎ言葉です。"
+    }
+  ]
+}

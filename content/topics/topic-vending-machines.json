@@ -1,0 +1,167 @@
+{
+  "id": "topic-vending-machines",
+  "categoryId": "world-culture",
+  "titleEn": "Why Japan Has So Many Vending Machines",
+  "titleJa": "日本に自動販売機がこんなにも多い理由",
+  "subtitleJa": "治安の良さ、硬貨文化、そして街の便利さが生んだ風景。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-vending-1",
+      "english": "Japan has one of the highest numbers of vending machines per person.",
+      "japanese": "日本は、一人あたりの自動販売機の数が世界で最も多い国のひとつです。",
+      "additionalInfoEn": "You can find them on quiet mountain paths as well as busy city corners.",
+      "additionalInfoJa": "にぎやかな街角だけでなく、静かな山道にも置かれていることがあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "highest",
+          "pos": "形容詞",
+          "meaningJa": "最も高い、最も多い"
+        },
+        {
+          "word": "machines",
+          "pos": "名詞",
+          "meaningJa": "機械（machineの複数形）"
+        },
+        {
+          "word": "person",
+          "pos": "名詞",
+          "meaningJa": "人"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "per person",
+        "ja": "一人あたり"
+      },
+      "explanationJa": "「per + 名詞」は「〜あたり」を表す便利な表現です（例：per day = 1日あたり）。"
+    },
+    {
+      "id": "sent-vending-2",
+      "english": "Low crime rates make it safe to place machines outdoors everywhere.",
+      "japanese": "犯罪率が低いため、どこでも屋外に機械を安全に設置することができます。",
+      "additionalInfoEn": "In many countries, street machines are quickly broken or stolen.",
+      "additionalInfoJa": "多くの国では、路上にある機械が壊されたり盗まれたりするリスクが高いためです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "crime",
+          "pos": "名詞",
+          "meaningJa": "犯罪"
+        },
+        {
+          "word": "safe",
+          "pos": "形容詞",
+          "meaningJa": "安全な"
+        },
+        {
+          "word": "outdoors",
+          "pos": "副詞",
+          "meaningJa": "屋外に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make it safe to",
+        "ja": "〜するのを安全にする"
+      },
+      "explanationJa": "「make it + 形容詞 + to + 動詞」は「〜することを（形容詞）にする」という超頻出パターンです。"
+    },
+    {
+      "id": "sent-vending-3",
+      "english": "High city rents also push shops to save space with compact machines.",
+      "japanese": "都市部の高い家賃も、お店が省スペースな自販機で工夫する理由になっています。",
+      "additionalInfoEn": "A vending machine can sell drinks 24 hours a day without needing extra staff.",
+      "additionalInfoJa": "自販機なら追加のスタッフがいなくても、24時間飲み物を販売できます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "rents",
+          "pos": "名詞",
+          "meaningJa": "家賃、賃料"
+        },
+        {
+          "word": "space",
+          "pos": "名詞",
+          "meaningJa": "スペース、空間"
+        },
+        {
+          "word": "compact",
+          "pos": "形容詞",
+          "meaningJa": "コンパクトな、小型の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "save space",
+        "ja": "スペースを節約する"
+      },
+      "explanationJa": "「save」は「助ける」だけでなく、時間・お金・空間を「節約する」という意味でもよく使います。"
+    },
+    {
+      "id": "sent-vending-4",
+      "english": "Many machines keep drinks ice-cold in summer and piping hot in winter.",
+      "japanese": "多くの自販機は、夏はキンキンに冷たく、冬はアツアツの飲み物を提供しています。",
+      "additionalInfoEn": "Some modern machines even unlock free drinks during earthquakes or blackouts.",
+      "additionalInfoJa": "災害時や停電時に無料で飲み物を取り出せる災害支援型の自販機もあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "summer",
+          "pos": "名詞",
+          "meaningJa": "夏"
+        },
+        {
+          "word": "winter",
+          "pos": "名詞",
+          "meaningJa": "冬"
+        },
+        {
+          "word": "drinks",
+          "pos": "名詞",
+          "meaningJa": "飲み物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "piping hot",
+        "ja": "アツアツの"
+      },
+      "explanationJa": "「ice-cold（氷のように冷たい）」と「piping hot（湯気が出るほど熱い）」はそのまま覚えられる表現です。"
+    },
+    {
+      "id": "sent-vending-5",
+      "english": "Today you can even buy fresh apples, ramen, or umbrellas from a machine.",
+      "japanese": "今では、新鮮なリンゴやラーメン、傘まで自販機で買うことができます。",
+      "additionalInfoEn": "Visitors from abroad are often amazed by the variety and convenience.",
+      "additionalInfoJa": "海外からの旅行者は、その品揃えと便利さによく驚きます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "apples",
+          "pos": "名詞",
+          "meaningJa": "リンゴ"
+        },
+        {
+          "word": "umbrellas",
+          "pos": "名詞",
+          "meaningJa": "傘"
+        },
+        {
+          "word": "buy",
+          "pos": "動詞",
+          "meaningJa": "買う"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "you can even buy",
+        "ja": "〜さえ買うことができる"
+      },
+      "explanationJa": "「A, B, or C」と3つ並べるときは、最後の項目の前に「or」や「and」を置きます。"
+    }
+  ]
+}

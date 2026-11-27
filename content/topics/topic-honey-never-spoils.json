@@ -1,0 +1,167 @@
+{
+  "id": "topic-honey-never-spoils",
+  "categoryId": "space-science",
+  "titleEn": "Why Honey Never Spoils",
+  "titleJa": "ハチミツが何千年も腐らない理由",
+  "subtitleJa": "古代の遺跡からも見つかる天然の保存食の秘密。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-honey-1",
+      "english": "Natural honey can stay fresh for thousands of years.",
+      "japanese": "天然のハチミツは何千年もの間、新鮮な状態を保つことができます。",
+      "additionalInfoEn": "Archaeologists found jars of edible honey in ancient Egyptian tombs.",
+      "additionalInfoJa": "考古学者たちは古代エジプトの墓から、まだ食べられるハチミツの壺を発見しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Natural",
+          "pos": "形容詞",
+          "meaningJa": "天然の、自然の"
+        },
+        {
+          "word": "fresh",
+          "pos": "形容詞",
+          "meaningJa": "新鮮な"
+        },
+        {
+          "word": "thousands",
+          "pos": "名詞",
+          "meaningJa": "何千もの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stay fresh",
+        "ja": "新鮮な状態を保つ"
+      },
+      "explanationJa": "「stay + 形容詞」で「ずっと〜のままでいる」という意味になります。「stay healthy（健康でいる）」と同じ形です。"
+    },
+    {
+      "id": "sent-honey-2",
+      "english": "First, honey contains very little water.",
+      "japanese": "まず、ハチミツには水分がほとんど含まれていません。",
+      "additionalInfoEn": "Bacteria need water to grow and survive.",
+      "additionalInfoJa": "細菌が繁殖して生き残るためには水分が必要です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "contains",
+          "pos": "動詞",
+          "meaningJa": "含む"
+        },
+        {
+          "word": "little",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどない（不可算名詞の前）"
+        },
+        {
+          "word": "water",
+          "pos": "名詞",
+          "meaningJa": "水"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "very little water",
+        "ja": "ごくわずかな水分"
+      },
+      "explanationJa": "「a little」は「少しある」ですが、「little」だけ（または very little）だと「ほとんどない」という否定寄りの意味になります。"
+    },
+    {
+      "id": "sent-honey-3",
+      "english": "Second, honey is naturally acidic, which stops germs from growing.",
+      "japanese": "次に、ハチミツは自然な酸性であり、それが雑菌の繁殖を止めます。",
+      "additionalInfoEn": "Its low pH creates a harsh environment for unwanted microbes.",
+      "additionalInfoJa": "低いpH値が、不要な微生物にとって生きにくい環境を作ります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "acidic",
+          "pos": "形容詞",
+          "meaningJa": "酸性の"
+        },
+        {
+          "word": "germs",
+          "pos": "名詞",
+          "meaningJa": "細菌、ばい菌"
+        },
+        {
+          "word": "growing",
+          "pos": "動詞",
+          "meaningJa": "育つこと、増えること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stop A from ~ing",
+        "ja": "Aが〜するのを防ぐ"
+      },
+      "explanationJa": "「First, ... Second, ...」と順番に理由を説明すると、英語の文章がとても読みやすくなります。"
+    },
+    {
+      "id": "sent-honey-4",
+      "english": "Bees also fan their wings to dry the nectar inside the hive.",
+      "japanese": "ミツバチは巣の中で羽を扇いで、花の蜜を乾燥させます。",
+      "additionalInfoEn": "This simple teamwork removes moisture and thickens the honey.",
+      "additionalInfoJa": "このシンプルな共同作業によって水分が抜け、ハチミツが濃厚になります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Bees",
+          "pos": "名詞",
+          "meaningJa": "ミツバチ"
+        },
+        {
+          "word": "wings",
+          "pos": "名詞",
+          "meaningJa": "羽"
+        },
+        {
+          "word": "hive",
+          "pos": "名詞",
+          "meaningJa": "ハチの巣"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "fan their wings",
+        "ja": "羽を扇ぐ"
+      },
+      "explanationJa": "「fan」は名詞だと「扇風機・ファン」ですが、動詞では「風を送る・扇ぐ」という意味になります。"
+    },
+    {
+      "id": "sent-honey-5",
+      "english": "If stored in a sealed jar, honey can last almost forever.",
+      "japanese": "密閉された瓶に保存すれば、ハチミツはほぼ永久に持ちます。",
+      "additionalInfoEn": "Even if honey becomes hard and sugary, warming it gently makes it smooth again.",
+      "additionalInfoJa": "もし結晶化して固くなっても、優しく温めればまた滑らかになります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sealed",
+          "pos": "形容詞",
+          "meaningJa": "密閉された"
+        },
+        {
+          "word": "jar",
+          "pos": "名詞",
+          "meaningJa": "瓶（ビン）"
+        },
+        {
+          "word": "forever",
+          "pos": "副詞",
+          "meaningJa": "永遠に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "last almost forever",
+        "ja": "ほぼ永久に持つ"
+      },
+      "explanationJa": "「last」は「最後の」だけでなく、動詞として「（時間的に）続く・長持ちする」という意味でもよく使われます。"
+    }
+  ]
+}

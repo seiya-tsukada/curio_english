@@ -1,8 +1,8 @@
 import { test } from 'vitest';
 import assert from 'node:assert/strict';
-import { ALL_SENTENCES, CATEGORIES, TOPICS } from '../data';
-import { getRecommendedFeed, getRelatedSentences } from './recommendation';
-import { tokenizeSentenceWithVocab } from './textTokens';
+import { ALL_SENTENCES, CATEGORIES, SENTENCE_MAP, TOPICS } from './data';
+import { getRecommendedFeed, getRelatedSentences } from './utils/recommendation';
+import { tokenizeSentenceWithVocab } from './utils/textTokens';
 import {
   createInitialLearningState,
   getTodayKey,
@@ -11,7 +11,7 @@ import {
   recordSentenceRead,
   toggleSavedSentence,
   toggleSavedVocab,
-} from './storage';
+} from './utils/storage';
 
 test('content dataset meets minimum 6 categories, 30 topics, and 150 sentences', () => {
   assert.equal(CATEGORIES.length, 6);
@@ -67,7 +67,7 @@ test('category filter narrows recommended feed and related sentences exclude cur
 });
 
 test('tokenizer matches underlined vocabulary words while preserving punctuation', () => {
-  const sample = ALL_SENTENCES[0]; // "Octopuses have three hearts inside their soft bodies."
+  const sample = SENTENCE_MAP['sent-octopus-1']; // "Octopuses have three hearts inside their soft bodies."
   const tokens = tokenizeSentenceWithVocab(sample.english, sample.vocabulary);
   const vocabTokens = tokens.filter((t) => Boolean(t.vocab));
   assert.equal(vocabTokens.length, sample.vocabulary.length);

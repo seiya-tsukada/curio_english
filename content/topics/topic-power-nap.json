@@ -1,0 +1,167 @@
+{
+  "id": "topic-power-nap",
+  "categoryId": "human-psychology",
+  "titleEn": "Why a 20-Minute Nap Refreshes Your Brain",
+  "titleJa": "20分の短い昼寝が脳をすっきりさせる理由",
+  "subtitleJa": "深く眠りすぎない「パワーナップ」の科学的メリット。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-nap-1",
+      "english": "A short 20-minute nap in the afternoon can sharpen your focus.",
+      "japanese": "午後の20分間の短い昼寝は、集中力を研ぎ澄ませてくれます。",
+      "additionalInfoEn": "Many athletes, pilots, and busy thinkers use short naps to stay alert.",
+      "additionalInfoJa": "多くのアスリートやパイロット、クリエイターが集中力を保つために短い昼寝を活用しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "nap",
+          "pos": "名詞",
+          "meaningJa": "昼寝、仮眠"
+        },
+        {
+          "word": "sharpen",
+          "pos": "動詞",
+          "meaningJa": "研ぎ澄ます、鋭くする"
+        },
+        {
+          "word": "focus",
+          "pos": "名詞",
+          "meaningJa": "集中力"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "sharpen your focus",
+        "ja": "集中力を高める"
+      },
+      "explanationJa": "「sharp（鋭い）」に「-en」をつけると「sharpen（鋭くする・高める）」という動詞になります。"
+    },
+    {
+      "id": "sent-nap-2",
+      "english": "During a quick nap, your brain stays in light sleep.",
+      "japanese": "短い仮眠の間、脳は浅い睡眠の状態にとどまります。",
+      "additionalInfoEn": "This gentle rest clears away mental tiredness without putting you into deep sleep.",
+      "additionalInfoJa": "この優しい休息は、深い眠りに落ちることなく頭の疲れを洗い流してくれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "quick",
+          "pos": "形容詞",
+          "meaningJa": "素早い、短い"
+        },
+        {
+          "word": "light",
+          "pos": "形容詞",
+          "meaningJa": "浅い、軽い"
+        },
+        {
+          "word": "sleep",
+          "pos": "名詞",
+          "meaningJa": "睡眠"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "light sleep",
+        "ja": "浅い睡眠"
+      },
+      "explanationJa": "睡眠の「浅い・深い」は英語で「light sleep / deep sleep」と言います。とても覚えやすいペアです。"
+    },
+    {
+      "id": "sent-nap-3",
+      "english": "If you sleep longer than 30 minutes, you enter deep sleep.",
+      "japanese": "もし30分より長く眠ると、脳は深い睡眠に入ってしまいます。",
+      "additionalInfoEn": "Waking up from deep sleep makes you feel heavy and groggy.",
+      "additionalInfoJa": "深い睡眠から無理に起きると、頭が重くボーッとしてしまいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "longer",
+          "pos": "副詞",
+          "meaningJa": "より長く"
+        },
+        {
+          "word": "minutes",
+          "pos": "名詞",
+          "meaningJa": "分"
+        },
+        {
+          "word": "enter",
+          "pos": "動詞",
+          "meaningJa": "入る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "longer than",
+        "ja": "〜より長く"
+      },
+      "explanationJa": "「enter」は「enter the room」のように後ろに「in」や「into」をつけずにそのまま名詞を置きます。"
+    },
+    {
+      "id": "sent-nap-4",
+      "english": "Napping too late in the day can make falling asleep at night harder.",
+      "japanese": "一日の遅すぎる時間に昼寝をすると、夜に寝つきにくくなることがあります。",
+      "additionalInfoEn": "Sleep experts suggest taking a power nap in the early afternoon, around 1 to 3 p.m.",
+      "additionalInfoJa": "睡眠の専門家は、午後1時〜3時頃の早い時間帯に仮眠をとることをすすめています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "late",
+          "pos": "副詞",
+          "meaningJa": "遅く"
+        },
+        {
+          "word": "night",
+          "pos": "名詞",
+          "meaningJa": "夜"
+        },
+        {
+          "word": "harder",
+          "pos": "形容詞",
+          "meaningJa": "より難しい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "falling asleep",
+        "ja": "眠りにつくこと"
+      },
+      "explanationJa": "「fall asleep」は「眠りに落ちる（寝つく）」という日常で非常に役立つ表現です。"
+    },
+    {
+      "id": "sent-nap-5",
+      "english": "Even closing your eyes for ten quiet minutes helps your mind reset.",
+      "japanese": "静かに10分間目を閉じるだけでも、心のリセットに役立ちます。",
+      "additionalInfoEn": "Give your brain a tiny pause when afternoon tiredness hits.",
+      "additionalInfoJa": "午後の眠気がやってきたら、脳にちょっとしたお休みをあげてみてください。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "closing",
+          "pos": "動詞",
+          "meaningJa": "閉じること"
+        },
+        {
+          "word": "eyes",
+          "pos": "名詞",
+          "meaningJa": "目"
+        },
+        {
+          "word": "reset",
+          "pos": "動詞",
+          "meaningJa": "リセットする、立て直す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "helps your mind reset",
+        "ja": "心がリセットされるのを助ける"
+      },
+      "explanationJa": "「Even + 動詞ing」で「〜することさえ」とハードルの低い小さな行動を提案できます。"
+    }
+  ]
+}

@@ -1,28 +1,19 @@
-export type CategoryId =
-  | 'space-science'
-  | 'technology'
-  | 'history'
-  | 'world-culture'
-  | 'business-economy'
-  | 'human-psychology';
+import type { z } from 'zod';
+import type {
+  categoryIdSchema,
+  difficultySchema,
+  usefulPhraseSchema,
+  vocabularySchema,
+} from '../content/schema';
 
-export type DifficultyLevel = 'beginner' | 'elementary' | 'intermediate';
+export type CategoryId = z.infer<typeof categoryIdSchema>;
+export type DifficultyLevel = z.infer<typeof difficultySchema>;
+export type VocabularyItem = z.infer<typeof vocabularySchema>;
+export type UsefulPhrase = z.infer<typeof usefulPhraseSchema>;
 
 export type DailyGoal = 5 | 10 | 20;
 
 export type MainTab = 'discover' | 'topics' | 'learning' | 'profile';
-
-export interface VocabularyItem {
-  word: string;
-  pos: string;
-  meaningJa: string;
-  readingNote?: string;
-}
-
-export interface UsefulPhrase {
-  en: string;
-  ja: string;
-}
 
 export interface SentenceItem {
   id: string;
@@ -48,6 +39,7 @@ export interface Topic {
   subtitleJa: string;
   difficulty: DifficultyLevel;
   estimatedMinutes: number;
+  publishedAt: string;
 }
 
 export interface CategoryInfo {

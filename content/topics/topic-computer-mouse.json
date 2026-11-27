@@ -1,0 +1,167 @@
+{
+  "id": "topic-computer-mouse",
+  "categoryId": "technology",
+  "titleEn": "The Wooden First Computer Mouse",
+  "titleJa": "最初のマウスは木製だった",
+  "subtitleJa": "1960年代に生まれた、PC操作を変えた小さな箱の物語。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-mouse-1",
+      "english": "The first computer mouse was built out of wood in 1964.",
+      "japanese": "最初のコンピュータのマウスは、1964年に木で作られました。",
+      "additionalInfoEn": "Engineer Douglas Engelbart created it at a research lab in California.",
+      "additionalInfoJa": "エンジニアのダグラス・エンゲルバートがカリフォルニアの研究所で生み出しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "mouse",
+          "pos": "名詞",
+          "meaningJa": "マウス"
+        },
+        {
+          "word": "built",
+          "pos": "動詞",
+          "meaningJa": "作られた（buildの過去分詞）"
+        },
+        {
+          "word": "wood",
+          "pos": "名詞",
+          "meaningJa": "木材、木"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "built out of wood",
+        "ja": "木で作られた"
+      },
+      "explanationJa": "「out of + 素材」で「〜を材料にして」という意味になります。シンプルでイメージしやすい表現です。"
+    },
+    {
+      "id": "sent-mouse-2",
+      "english": "It was a small wooden block with just one red button on top.",
+      "japanese": "それは上に赤いボタンが1つだけついた、小さな木のブロックでした。",
+      "additionalInfoEn": "Underneath, two metal wheels rolled along the desk to track movement.",
+      "additionalInfoJa": "底面には2つの金属製ホイールがあり、机の上を転がって動きを読み取っていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wooden",
+          "pos": "形容詞",
+          "meaningJa": "木製の"
+        },
+        {
+          "word": "block",
+          "pos": "名詞",
+          "meaningJa": "ブロック、塊"
+        },
+        {
+          "word": "button",
+          "pos": "名詞",
+          "meaningJa": "ボタン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on top",
+        "ja": "上の面に"
+      },
+      "explanationJa": "「wood（木・名詞）」に「-en」をつけると「wooden（木製の・形容詞）」になります。"
+    },
+    {
+      "id": "sent-mouse-3",
+      "english": "People called it a \"mouse\" because the cord looked like a tail.",
+      "japanese": "コードがしっぽのように見えたため、人々はそれを「マウス（ネズミ）」と呼びました。",
+      "additionalInfoEn": "At first, the team expected the nickname to be temporary, but it stuck.",
+      "additionalInfoJa": "当初チームは一時的なあだ名のつもりでしたが、そのまま定着しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "呼んだ"
+        },
+        {
+          "word": "cord",
+          "pos": "名詞",
+          "meaningJa": "コード、ひも"
+        },
+        {
+          "word": "tail",
+          "pos": "名詞",
+          "meaningJa": "しっぽ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "looked like a tail",
+        "ja": "しっぽのように見えた"
+      },
+      "explanationJa": "「look like + 名詞」で「〜のように見える」という意味になります。「like」の後ろには名詞が来ます。"
+    },
+    {
+      "id": "sent-mouse-4",
+      "english": "Before the mouse, users had to type text commands for every task.",
+      "japanese": "マウスが登場する前、ユーザーはあらゆる操作に文字のコマンドを入力する必要がありました。",
+      "additionalInfoEn": "Pointing and clicking made computers much friendlier for everyone.",
+      "additionalInfoJa": "指し示してクリックできるようになったことで、コンピュータは誰にとっても身近になりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "users",
+          "pos": "名詞",
+          "meaningJa": "ユーザー、利用者"
+        },
+        {
+          "word": "type",
+          "pos": "動詞",
+          "meaningJa": "入力する、タイプする"
+        },
+        {
+          "word": "commands",
+          "pos": "名詞",
+          "meaningJa": "コマンド、命令"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "had to type",
+        "ja": "入力しなければならなかった"
+      },
+      "explanationJa": "「had to + 動詞」は過去の義務「〜しなければならなかった」を表します。"
+    },
+    {
+      "id": "sent-mouse-5",
+      "english": "Today, most mice use invisible light instead of rolling wheels.",
+      "japanese": "現在では、ほとんどのマウスが転がる車輪の代わりに目に見えない光を使っています。",
+      "additionalInfoEn": "Optical sensors take thousands of tiny pictures of your desk every second.",
+      "additionalInfoJa": "光学センサーは毎秒何千枚もの机の表面の写真を撮り、動きを捉えています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "mice",
+          "pos": "名詞",
+          "meaningJa": "マウス（複数形）"
+        },
+        {
+          "word": "invisible",
+          "pos": "形容詞",
+          "meaningJa": "目に見えない"
+        },
+        {
+          "word": "light",
+          "pos": "名詞",
+          "meaningJa": "光"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "instead of",
+        "ja": "〜の代わりに"
+      },
+      "explanationJa": "コンピュータの「mouse」の複数形も、動物のネズミと同じく「mice」または「mouses」が使われます。"
+    }
+  ]
+}

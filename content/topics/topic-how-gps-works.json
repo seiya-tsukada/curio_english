@@ -1,0 +1,167 @@
+{
+  "id": "topic-how-gps-works",
+  "categoryId": "technology",
+  "titleEn": "How GPS Knows Where You Are",
+  "titleJa": "GPSがあなたの現在地を知る仕組み",
+  "subtitleJa": "宇宙を回る衛星からの時計信号が地図を動かす。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-gps-1",
+      "english": "Your phone finds its location using signals from space satellites.",
+      "japanese": "あなたのスマホは、宇宙の人工衛星からの信号を使って現在地を見つけています。",
+      "additionalInfoEn": "More than thirty GPS satellites orbit high above the Earth.",
+      "additionalInfoJa": "30機以上のGPS衛星が地球のずっと上空を周回しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "location",
+          "pos": "名詞",
+          "meaningJa": "場所、位置"
+        },
+        {
+          "word": "signals",
+          "pos": "名詞",
+          "meaningJa": "信号"
+        },
+        {
+          "word": "satellites",
+          "pos": "名詞",
+          "meaningJa": "人工衛星"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "using signals from",
+        "ja": "〜からの信号を使って"
+      },
+      "explanationJa": "「using 〜」を文の後半に置くと、「〜を使って」という手段をスマートに付け加えられます。"
+    },
+    {
+      "id": "sent-gps-2",
+      "english": "Each satellite carries an atomic clock that keeps exact time.",
+      "japanese": "それぞれの衛星は、正確な時間を刻む原子時計を搭載しています。",
+      "additionalInfoEn": "These clocks are accurate to within a few billionths of a second.",
+      "additionalInfoJa": "これらの時計の誤差は数億分の1秒以内という超高精度です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "carries",
+          "pos": "動詞",
+          "meaningJa": "運ぶ、搭載している"
+        },
+        {
+          "word": "clock",
+          "pos": "名詞",
+          "meaningJa": "時計"
+        },
+        {
+          "word": "exact",
+          "pos": "形容詞",
+          "meaningJa": "正確な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keeps exact time",
+        "ja": "正確な時間を保つ"
+      },
+      "explanationJa": "「that」は前の「an atomic clock」を詳しく説明する関係代名詞として使われています。"
+    },
+    {
+      "id": "sent-gps-3",
+      "english": "A satellite sends a radio message with the exact time it left.",
+      "japanese": "衛星は、信号が出発した正確な時刻を含めた電波メッセージを送ります。",
+      "additionalInfoEn": "Radio waves travel at the speed of light through space.",
+      "additionalInfoJa": "電波は宇宙空間を光の速さで進みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "radio",
+          "pos": "名詞",
+          "meaningJa": "電波、ラジオ"
+        },
+        {
+          "word": "message",
+          "pos": "名詞",
+          "meaningJa": "メッセージ"
+        },
+        {
+          "word": "left",
+          "pos": "動詞",
+          "meaningJa": "出発した（leaveの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "exact time",
+        "ja": "正確な時刻"
+      },
+      "explanationJa": "「the exact time it left」は「それが出発した正確な時刻」という自然な省略表現です。"
+    },
+    {
+      "id": "sent-gps-4",
+      "english": "Your phone measures how long the signal took to arrive.",
+      "japanese": "スマホは、その信号が到着するのにどれだけ時間がかかったかを測ります。",
+      "additionalInfoEn": "By multiplying travel time by light speed, it calculates your distance.",
+      "additionalInfoJa": "移動時間に光の速さを掛けることで、衛星までの距離を計算します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "measures",
+          "pos": "動詞",
+          "meaningJa": "測る、計測する"
+        },
+        {
+          "word": "arrive",
+          "pos": "動詞",
+          "meaningJa": "到着する"
+        },
+        {
+          "word": "signal",
+          "pos": "名詞",
+          "meaningJa": "信号"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "how long it took",
+        "ja": "どれくらい時間がかかったか"
+      },
+      "explanationJa": "「how long + 主語 + took」は「〜するのにどれくらい時間がかかったか」を表す便利な塊です。"
+    },
+    {
+      "id": "sent-gps-5",
+      "english": "Signals from at least four satellites pinpoint your spot on the map.",
+      "japanese": "少なくとも4つの衛星からの信号が、地図上のあなたの位置を正確に特定します。",
+      "additionalInfoEn": "This clever math works smoothly even while you are walking or riding a train.",
+      "additionalInfoJa": "この賢い計算のおかげで、歩いているときも電車に乗っているときもスムーズに場所がわかります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "least",
+          "pos": "副詞",
+          "meaningJa": "少なくとも"
+        },
+        {
+          "word": "pinpoint",
+          "pos": "動詞",
+          "meaningJa": "正確に特定する"
+        },
+        {
+          "word": "spot",
+          "pos": "名詞",
+          "meaningJa": "地点、場所"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at least",
+        "ja": "少なくとも"
+      },
+      "explanationJa": "「at least + 数字」で「最低でも〜」という意味になります。日常会話でとてもよく使います。"
+    }
+  ]
+}

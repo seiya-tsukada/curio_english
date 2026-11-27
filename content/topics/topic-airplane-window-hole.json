@@ -1,0 +1,167 @@
+{
+  "id": "topic-airplane-window-hole",
+  "categoryId": "technology",
+  "titleEn": "Why Airplane Windows Have Tiny Holes",
+  "titleJa": "飛行機の窓にある小さな穴の役目",
+  "subtitleJa": "上空1万メートルで安全な気圧を保つための小さな工夫。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-window-1",
+      "english": "If you look closely at an airplane window, you will see a tiny hole.",
+      "japanese": "飛行機の窓をよく見ると、小さな穴がひとつ開いているのに気づきます。",
+      "additionalInfoEn": "It sits near the bottom of the middle plastic pane.",
+      "additionalInfoJa": "その穴は、3層構造のうち真ん中のプラスチック板の下の方にあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "closely",
+          "pos": "副詞",
+          "meaningJa": "じっくりと、注意深く"
+        },
+        {
+          "word": "airplane",
+          "pos": "名詞",
+          "meaningJa": "飛行機"
+        },
+        {
+          "word": "hole",
+          "pos": "名詞",
+          "meaningJa": "穴"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "look closely at",
+        "ja": "〜をじっくり見る"
+      },
+      "explanationJa": "「If you + 現在形, you will 〜」は「もし〜すれば、〜でしょう」と目の前の事実を伝える定番表現です。"
+    },
+    {
+      "id": "sent-window-2",
+      "english": "An airplane window is actually made of three separate layers.",
+      "japanese": "飛行機の窓は、実は3枚の別々の層からできています。",
+      "additionalInfoEn": "The inner layer you touch protects the stronger layers behind it.",
+      "additionalInfoJa": "私たちが手で触れる一番内側の層は、奥にある頑丈な層を保護する役目を持っています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "separate",
+          "pos": "形容詞",
+          "meaningJa": "別々の、分かれた"
+        },
+        {
+          "word": "layers",
+          "pos": "名詞",
+          "meaningJa": "層、重なり"
+        },
+        {
+          "word": "window",
+          "pos": "名詞",
+          "meaningJa": "窓"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is made of",
+        "ja": "〜でできている"
+      },
+      "explanationJa": "「be made of 〜」は材料や構成を説明するときの基本フレーズです。"
+    },
+    {
+      "id": "sent-window-3",
+      "english": "High in the sky, outside air pressure drops very low.",
+      "japanese": "高い上空では、機体の外の気圧がとても低くなります。",
+      "additionalInfoEn": "Meanwhile, air inside the cabin stays comfortable for passengers to breathe.",
+      "additionalInfoJa": "一方で、客室内の空気は乗客が呼吸しやすい気圧に保たれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "outside",
+          "pos": "形容詞",
+          "meaningJa": "外側の"
+        },
+        {
+          "word": "pressure",
+          "pos": "名詞",
+          "meaningJa": "圧力、気圧"
+        },
+        {
+          "word": "drops",
+          "pos": "動詞",
+          "meaningJa": "下がる、落ちる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "air pressure",
+        "ja": "気圧、空気圧"
+      },
+      "explanationJa": "「drop」は「落とす」だけでなく、気温や数値が「ぐっと下がる」という意味でもよく使われます。"
+    },
+    {
+      "id": "sent-window-4",
+      "english": "That tiny hole balances the pressure between the window layers.",
+      "japanese": "その小さな穴は、窓の層と層の間の気圧のバランスを整えています。",
+      "additionalInfoEn": "This ensures the strong outer pane handles the main pressure safely.",
+      "additionalInfoJa": "これにより、最も頑丈な外側の窓が安全に主な気圧を受け止めることができます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "balances",
+          "pos": "動詞",
+          "meaningJa": "バランスをとる、釣り合わせる"
+        },
+        {
+          "word": "between",
+          "pos": "前置詞",
+          "meaningJa": "〜の間に"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "balances the pressure",
+        "ja": "圧力のバランスをとる"
+      },
+      "explanationJa": "「between A and B」や「between the 〜（複数形）」で「〜の間で」という位置関係を示します。"
+    },
+    {
+      "id": "sent-window-5",
+      "english": "It also keeps the window from fogging up during your flight.",
+      "japanese": "また、フライト中に窓が曇ってしまうのも防いでいます。",
+      "additionalInfoEn": "So you can enjoy clear views of the clouds and cities below.",
+      "additionalInfoJa": "おかげで、雲や街並みのクリアな景色を空から楽しめるのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "keeps",
+          "pos": "動詞",
+          "meaningJa": "保つ、防ぐ"
+        },
+        {
+          "word": "fogging",
+          "pos": "動詞",
+          "meaningJa": "曇ること"
+        },
+        {
+          "word": "flight",
+          "pos": "名詞",
+          "meaningJa": "フライト、飛行"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keeps A from ~ing",
+        "ja": "Aが〜するのを防ぐ"
+      },
+      "explanationJa": "「keep A from 〜ing」は「Aが〜しないように防ぐ」という意味で、先ほどの「stop A from 〜ing」の仲間です。"
+    }
+  ]
+}

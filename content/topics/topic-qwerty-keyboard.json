@@ -1,0 +1,167 @@
+{
+  "id": "topic-qwerty-keyboard",
+  "categoryId": "technology",
+  "titleEn": "Why Keyboards Use the QWERTY Layout",
+  "titleJa": "キーボードがQWERTY配列になった理由",
+  "subtitleJa": "タイプライター時代の弱点から生まれた意外な配置。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-qwerty-1",
+      "english": "Look at the top row of your keyboard: the letters spell Q-W-E-R-T-Y.",
+      "japanese": "キーボードの上の段を見てみてください。文字がQ-W-E-R-T-Yと並んでいます。",
+      "additionalInfoEn": "Why are the letters not in simple A-B-C alphabetical order?",
+      "additionalInfoJa": "なぜシンプルなA-B-Cのアルファベット順になっていないのでしょうか？",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "row",
+          "pos": "名詞",
+          "meaningJa": "列、行"
+        },
+        {
+          "word": "keyboard",
+          "pos": "名詞",
+          "meaningJa": "キーボード"
+        },
+        {
+          "word": "letters",
+          "pos": "名詞",
+          "meaningJa": "文字"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "top row",
+        "ja": "上の段、最上列"
+      },
+      "explanationJa": "「Look at 〜」と命令形から始めることで、読者に親しみやすく話しかけることができます。"
+    },
+    {
+      "id": "sent-qwerty-2",
+      "english": "This design was created in the 1870s for early typewriters.",
+      "japanese": "この配置は1870年代に、初期のタイプライターのために作られました。",
+      "additionalInfoEn": "Early machines used metal arms that struck the paper when keys were pressed.",
+      "additionalInfoJa": "初期の機械は、キーを押すと金属のアームが紙を叩く仕組みになっていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "design",
+          "pos": "名詞",
+          "meaningJa": "設計、デザイン"
+        },
+        {
+          "word": "created",
+          "pos": "動詞",
+          "meaningJa": "作られた"
+        },
+        {
+          "word": "early",
+          "pos": "形容詞",
+          "meaningJa": "初期の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "was created in",
+        "ja": "〜に作られた"
+      },
+      "explanationJa": "年代の言い方「the 1870s」は「1870年代」を指します。数字の後ろに「s」をつけるのがポイントです。"
+    },
+    {
+      "id": "sent-qwerty-3",
+      "english": "When people typed too fast, nearby metal arms often jammed together.",
+      "japanese": "人が速く打ちすぎると、隣り合う金属アームがよく絡まって動かなくなりました。",
+      "additionalInfoEn": "Fixing a jammed typewriter forced the writer to stop and untangle it by hand.",
+      "additionalInfoJa": "詰まりを直すには、手を止めて指でアームをほどく必要がありました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "nearby",
+          "pos": "形容詞",
+          "meaningJa": "近くの、隣り合う"
+        },
+        {
+          "word": "jammed",
+          "pos": "動詞",
+          "meaningJa": "詰まった、引っかかった"
+        },
+        {
+          "word": "often",
+          "pos": "副詞",
+          "meaningJa": "よく、しばしば"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "too fast",
+        "ja": "速すぎて"
+      },
+      "explanationJa": "「too + 形容詞/副詞」は「〜すぎる」という意味です。日常で非常によく使う表現です。"
+    },
+    {
+      "id": "sent-qwerty-4",
+      "english": "Inventors placed common letter pairs apart to reduce jams.",
+      "japanese": "発明家たちは詰まりを減らすため、よく一緒に使われる文字同士を離して配置しました。",
+      "additionalInfoEn": "Alternating between the left and right hands also helped typists keep a steady rhythm.",
+      "additionalInfoJa": "左手と右手を交互に使うことで、タイピストが一定のリズムを保ちやすくもなりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "common",
+          "pos": "形容詞",
+          "meaningJa": "よくある、一般的な"
+        },
+        {
+          "word": "apart",
+          "pos": "副詞",
+          "meaningJa": "離れて"
+        },
+        {
+          "word": "reduce",
+          "pos": "動詞",
+          "meaningJa": "減らす"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "to reduce jams",
+        "ja": "詰まりを減らすために"
+      },
+      "explanationJa": "「apart」は「離れて」という副詞です。「place A apart」で「Aを離して置く」となります。"
+    },
+    {
+      "id": "sent-qwerty-5",
+      "english": "Even though computers do not jam, we still use QWERTY today.",
+      "japanese": "コンピュータは物理的に詰まりませんが、私たちは今日もQWERTY配列を使い続けています。",
+      "additionalInfoEn": "Once millions of people learned the layout, switching became almost impossible.",
+      "additionalInfoJa": "何百万人もの人がこの配置を覚えてしまったため、他の配列へ切り替えるのはほぼ不可能になりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "今でも、まだ"
+        },
+        {
+          "word": "use",
+          "pos": "動詞",
+          "meaningJa": "使う"
+        },
+        {
+          "word": "today",
+          "pos": "副詞",
+          "meaningJa": "今日では"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Even though",
+        "ja": "〜だけれども"
+      },
+      "explanationJa": "「Even though 〜」は「たとえ〜だとしても・〜にもかかわらず」と逆説をつなぐ便利な接続詞です。"
+    }
+  ]
+}

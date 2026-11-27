@@ -1,0 +1,167 @@
+{
+  "id": "topic-passport-colors",
+  "categoryId": "world-culture",
+  "titleEn": "Why Passports Come in Four Main Colors",
+  "titleJa": "世界のパスポートが主に4色しかない理由",
+  "subtitleJa": "赤・青・緑・黒に込められた国ごとのストーリー。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-passport-1",
+      "english": "Almost every passport in the world is red, blue, green, or black.",
+      "japanese": "世界中のほとんどすべてのパスポートは、赤・青・緑・黒の4色のいずれかです。",
+      "additionalInfoEn": "There is no strict international law on colors, yet countries pick dark, classic shades.",
+      "additionalInfoJa": "色に関する厳格な国際法はありませんが、各国は汚れにくく落ち着いた濃い色を選びます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Almost",
+          "pos": "副詞",
+          "meaningJa": "ほとんど"
+        },
+        {
+          "word": "passport",
+          "pos": "名詞",
+          "meaningJa": "パスポート"
+        },
+        {
+          "word": "world",
+          "pos": "名詞",
+          "meaningJa": "世界"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Almost every",
+        "ja": "ほとんどすべての"
+      },
+      "explanationJa": "「Almost every + 単数名詞」で「ほとんどすべての〜」という表現になります。"
+    },
+    {
+      "id": "sent-passport-2",
+      "english": "Dark colors look official and hide dirt during long trips.",
+      "japanese": "暗い色は公的でちゃんとした印象を与え、長い旅の汚れも目立ちにくくします。",
+      "additionalInfoEn": "Passport covers are handled hundreds of times at airports and hotels.",
+      "additionalInfoJa": "パスポートの表紙は空港やホテルで何百回も手に取られるため、耐久性と見た目が重視されます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Dark",
+          "pos": "形容詞",
+          "meaningJa": "暗い、濃い"
+        },
+        {
+          "word": "hide",
+          "pos": "動詞",
+          "meaningJa": "隠す"
+        },
+        {
+          "word": "dirt",
+          "pos": "名詞",
+          "meaningJa": "汚れ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "during long trips",
+        "ja": "長旅の間"
+      },
+      "explanationJa": "「look official」は「公的（公式）に見える」という意味です。「look + 形容詞」はここでも活躍します。"
+    },
+    {
+      "id": "sent-passport-3",
+      "english": "Many European Union nations choose a deep burgundy red cover.",
+      "japanese": "多くのEU加盟国は、深いバーガンディ（ワインレッド）の表紙を選んでいます。",
+      "additionalInfoEn": "Sharing a similar color makes it easy to recognize regional members.",
+      "additionalInfoJa": "似た色を共有することで、同じ地域のメンバー国であることが一目でわかりやすくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "nations",
+          "pos": "名詞",
+          "meaningJa": "国、国家"
+        },
+        {
+          "word": "choose",
+          "pos": "動詞",
+          "meaningJa": "選ぶ"
+        },
+        {
+          "word": "cover",
+          "pos": "名詞",
+          "meaningJa": "表紙"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "deep red",
+        "ja": "深い赤色"
+      },
+      "explanationJa": "「nation」は「country」と似ていますが、国という共同体・国家を少し丁寧に表すときによく使われます。"
+    },
+    {
+      "id": "sent-passport-4",
+      "english": "Blue passports are common across North and South America.",
+      "japanese": "青いパスポートは、北アメリカや南アメリカでよく見られます。",
+      "additionalInfoEn": "Many Caribbean and South American countries also use dark blue.",
+      "additionalInfoJa": "多くのカリブ海諸国や南米の国々も濃紺のパスポートを採用しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "common",
+          "pos": "形容詞",
+          "meaningJa": "一般的な、よくある"
+        },
+        {
+          "word": "across",
+          "pos": "前置詞",
+          "meaningJa": "〜の全域で"
+        },
+        {
+          "word": "passports",
+          "pos": "名詞",
+          "meaningJa": "パスポート（複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "are common across",
+        "ja": "〜の全域で一般的だ"
+      },
+      "explanationJa": "「across + 地域名」で「その地域全体にわたって」という広がりを表せます。"
+    },
+    {
+      "id": "sent-passport-5",
+      "english": "Inside, modern passports hold hidden microchips and glowing ultraviolet art.",
+      "japanese": "内側には、現代のパスポートは目立たないICチップやUVライトで光るアートが仕込まれています。",
+      "additionalInfoEn": "These hidden details protect travelers by making fake passports very hard to copy.",
+      "additionalInfoJa": "これらの隠された細工により偽造が非常に難しくなり、旅行者の安全を守っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Inside",
+          "pos": "副詞",
+          "meaningJa": "内側には"
+        },
+        {
+          "word": "hidden",
+          "pos": "形容詞",
+          "meaningJa": "隠された"
+        },
+        {
+          "word": "art",
+          "pos": "名詞",
+          "meaningJa": "アート、芸術"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hidden details",
+        "ja": "隠された細工"
+      },
+      "explanationJa": "「hidden」は「hide（隠す）」の過去分詞が形容詞になったもので、「隠れた・見えない」という意味です。"
+    }
+  ]
+}

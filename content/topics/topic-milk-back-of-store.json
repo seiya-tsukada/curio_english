@@ -1,0 +1,167 @@
+{
+  "id": "topic-milk-back-of-store",
+  "categoryId": "business-economy",
+  "titleEn": "Why Milk Is at the Back of the Store",
+  "titleJa": "牛乳がスーパーの一番奥に置かれる理由",
+  "subtitleJa": "お店のレイアウトに隠された買い物のデザイン。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-milk-1",
+      "english": "In most supermarkets, milk and eggs are placed at the very back.",
+      "japanese": "ほとんどのスーパーマーケットでは、牛乳や卵が一番奥に置かれています。",
+      "additionalInfoEn": "This layout is not an accident—it is carefully planned by retail designers.",
+      "additionalInfoJa": "この配置は偶然ではなく、店舗デザイナーによって意図的に計画されたものです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "supermarkets",
+          "pos": "名詞",
+          "meaningJa": "スーパーマーケット"
+        },
+        {
+          "word": "milk",
+          "pos": "名詞",
+          "meaningJa": "牛乳"
+        },
+        {
+          "word": "placed",
+          "pos": "動詞",
+          "meaningJa": "置かれている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at the very back",
+        "ja": "一番奥に"
+      },
+      "explanationJa": "「the very + back / top / end」のように「very」をつけると「まさにその一番〜」と強調できます。"
+    },
+    {
+      "id": "sent-milk-2",
+      "english": "Shoppers visit stores often just to pick up daily basics like milk.",
+      "japanese": "買い物客は、牛乳のような毎日の必需品だけを買うためによくお店を訪れます。",
+      "additionalInfoEn": "Because people already plan to buy milk, they will walk as far as needed to get it.",
+      "additionalInfoJa": "買うことが決まっている商品なので、少し奥にあってもお客さんはそこまで歩いていきます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Shoppers",
+          "pos": "名詞",
+          "meaningJa": "買い物客"
+        },
+        {
+          "word": "basics",
+          "pos": "名詞",
+          "meaningJa": "基本品、必需品"
+        },
+        {
+          "word": "visit",
+          "pos": "動詞",
+          "meaningJa": "訪れる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pick up",
+        "ja": "（お店で）サッと買う、手に入れる"
+      },
+      "explanationJa": "「pick up」は「拾う」だけでなく、お店に立ち寄って「ちょっとしたものを買う」ときによく使います。"
+    },
+    {
+      "id": "sent-milk-3",
+      "english": "On the way to the back, you pass colorful snacks, fruit, and drinks.",
+      "japanese": "奥へ行く途中で、あなたはカラフルなお菓子やフルーツ、飲み物の前を通り過ぎます。",
+      "additionalInfoEn": "Seeing tempting items along the path often adds one or two extra things to your basket.",
+      "additionalInfoJa": "通路で魅力的な商品を目にすることで、カゴに1つか2つ余分に入ることがよくあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pass",
+          "pos": "動詞",
+          "meaningJa": "通り過ぎる"
+        },
+        {
+          "word": "colorful",
+          "pos": "形容詞",
+          "meaningJa": "カラフルな"
+        },
+        {
+          "word": "fruit",
+          "pos": "名詞",
+          "meaningJa": "果物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "On the way to",
+        "ja": "〜へ向かう途中で"
+      },
+      "explanationJa": "「On the way to 〜」は「〜へ行く途中で」という日常会話で定番の便利なフレーズです。"
+    },
+    {
+      "id": "sent-milk-4",
+      "english": "Back walls also connect directly to cold storage rooms for delivery trucks.",
+      "japanese": "お店の奥の壁は、配送トラック用の冷蔵倉庫にも直接つながっています。",
+      "additionalInfoEn": "Staff can restock heavy milk cartons quickly from behind without blocking aisles.",
+      "additionalInfoJa": "スタッフは通路をふさがずに、裏側から重い牛乳パックを素早く補充できるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "walls",
+          "pos": "名詞",
+          "meaningJa": "壁"
+        },
+        {
+          "word": "connect",
+          "pos": "動詞",
+          "meaningJa": "つながる"
+        },
+        {
+          "word": "storage",
+          "pos": "名詞",
+          "meaningJa": "保管、倉庫"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "connect directly to",
+        "ja": "〜に直接つながっている"
+      },
+      "explanationJa": "心理学的な工夫だけでなく、物流の効率も考えられているのがビジネスの面白いところです。"
+    },
+    {
+      "id": "sent-milk-5",
+      "english": "Good store design helps both customers and businesses at the same time.",
+      "japanese": "優れた店舗デザインは、お客さんとお店の両方を同時に助けます。",
+      "additionalInfoEn": "Fresh items stay cold, shelves stay full, and shoppers discover new favorites.",
+      "additionalInfoJa": "生鮮品は冷たく保たれ、棚は満たされ、お客さんも新しいお気に入りに出会えます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "customers",
+          "pos": "名詞",
+          "meaningJa": "顧客、お客さん"
+        },
+        {
+          "word": "businesses",
+          "pos": "名詞",
+          "meaningJa": "企業、お店"
+        },
+        {
+          "word": "helps",
+          "pos": "動詞",
+          "meaningJa": "助ける、役立つ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at the same time",
+        "ja": "同時に"
+      },
+      "explanationJa": "「both A and B」で「AとBの両方」とバランスよく伝えることができます。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-driving-sides",
+  "categoryId": "world-culture",
+  "titleEn": "Why Countries Drive on Different Sides",
+  "titleJa": "国によって車の右側・左側通行が違う理由",
+  "subtitleJa": "馬車の時代や騎士の習慣から続く道路のルール。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-driving-1",
+      "english": "About one-third of the world drives on the left side of the road.",
+      "japanese": "世界の約3分の1の国では、道路の左側を走ります。",
+      "additionalInfoEn": "Countries like Japan, the United Kingdom, Australia, and India all drive on the left.",
+      "additionalInfoJa": "日本、イギリス、オーストラリア、インドなどの国々はすべて左側通行です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "world",
+          "pos": "名詞",
+          "meaningJa": "世界"
+        },
+        {
+          "word": "drives",
+          "pos": "動詞",
+          "meaningJa": "運転する"
+        },
+        {
+          "word": "left",
+          "pos": "形容詞",
+          "meaningJa": "左の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on the left side",
+        "ja": "左側を"
+      },
+      "explanationJa": "「one-third」は分数の「3分の1」を表します。「About（約）」と合わせて大まかな割合を伝えられます。"
+    },
+    {
+      "id": "sent-driving-2",
+      "english": "In medieval Europe, travelers often kept to the left for safety.",
+      "japanese": "中世ヨーロッパでは、旅人たちは安全のために左側を通ることがよくありました。",
+      "additionalInfoEn": "Most riders were right-handed and wanted their sword arm free near passing strangers.",
+      "additionalInfoJa": "多くの人が右利きだったため、すれ違う相手に備えて右手を自由にしておきたかったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "travelers",
+          "pos": "名詞",
+          "meaningJa": "旅人たち"
+        },
+        {
+          "word": "kept",
+          "pos": "動詞",
+          "meaningJa": "保った（keepの過去形）"
+        },
+        {
+          "word": "safety",
+          "pos": "名詞",
+          "meaningJa": "安全"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "kept to the left",
+        "ja": "左側を保って進んだ"
+      },
+      "explanationJa": "「keep to the left / right」は標識などでも見かける「左（右）側通行を守る」という表現です。"
+    },
+    {
+      "id": "sent-driving-3",
+      "english": "Later, big wagons in America and France made right-side driving popular.",
+      "japanese": "その後、アメリカやフランスの大型荷馬車の影響で右側通行が広まりました。",
+      "additionalInfoEn": "Drivers sat on the left horse to hold a whip in their right hand and watch oncoming wagons.",
+      "additionalInfoJa": "御者は右手でムチを扱いながら対向車を見やすいよう、左側の馬に跨っていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "wagons",
+          "pos": "名詞",
+          "meaningJa": "荷馬車、ワゴン"
+        },
+        {
+          "word": "made",
+          "pos": "動詞",
+          "meaningJa": "〜にした"
+        },
+        {
+          "word": "popular",
+          "pos": "形容詞",
+          "meaningJa": "人気のある、広まった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made A popular",
+        "ja": "Aを広めた、人気にした"
+      },
+      "explanationJa": "「make + モノ + popular」で「〜を普及させる・人気にする」という意味になります。"
+    },
+    {
+      "id": "sent-driving-4",
+      "english": "When cars arrived, each country kept the habit it already knew.",
+      "japanese": "自動車が登場したとき、それぞれの国はすでになじんでいた習慣をそのまま引き継ぎました。",
+      "additionalInfoEn": "In Japan, samurai etiquette and early British railway engineers supported keeping left.",
+      "additionalInfoJa": "日本では武士の習慣や初期のイギリス人鉄道技師の影響も左側通行につながったと言われます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "cars",
+          "pos": "名詞",
+          "meaningJa": "自動車"
+        },
+        {
+          "word": "habit",
+          "pos": "名詞",
+          "meaningJa": "習慣"
+        },
+        {
+          "word": "already",
+          "pos": "副詞",
+          "meaningJa": "すでに"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "kept the habit",
+        "ja": "習慣を保った"
+      },
+      "explanationJa": "「the habit it already knew」は関係代名詞が省略されたスッキリした表現です。"
+    },
+    {
+      "id": "sent-driving-5",
+      "english": "In 1967, Sweden famously switched from driving on the left to the right.",
+      "japanese": "1967年、スウェーデンは有名な出来事として左側通行から右側通行へ切り替えました。",
+      "additionalInfoEn": "All neighboring countries drove on the right, so Sweden changed overnight to match them.",
+      "additionalInfoJa": "近隣諸国がすべて右側通行だったため、スウェーデンは一晩で通行側を変更しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "famously",
+          "pos": "副詞",
+          "meaningJa": "有名な話として"
+        },
+        {
+          "word": "switched",
+          "pos": "動詞",
+          "meaningJa": "切り替えた"
+        },
+        {
+          "word": "right",
+          "pos": "名詞",
+          "meaningJa": "右、右側"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "switched from A to B",
+        "ja": "AからBへ切り替えた"
+      },
+      "explanationJa": "「switch from A to B」はツールや習慣などを「AからBへ変える」ときに便利です。"
+    }
+  ]
+}

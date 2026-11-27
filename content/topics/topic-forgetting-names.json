@@ -1,0 +1,167 @@
+{
+  "id": "topic-forgetting-names",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Forget New Names So Quickly",
+  "titleJa": "初対面の人の名前をすぐ忘れてしまう理由",
+  "subtitleJa": "記憶力のせいではない、脳の注意の仕組みとは。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-names-1",
+      "english": "Almost everyone forgets a new person’s name seconds after hearing it.",
+      "japanese": "ほとんどすべての人が、初対面の人の名前を聞いた数秒後に忘れてしまいます。",
+      "additionalInfoEn": "If this happens to you, it does not mean you have a bad memory.",
+      "additionalInfoJa": "もしそうなっても、あなたの記憶力が悪いというわけではありません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "forgets",
+          "pos": "動詞",
+          "meaningJa": "忘れる"
+        },
+        {
+          "word": "name",
+          "pos": "名詞",
+          "meaningJa": "名前"
+        },
+        {
+          "word": "seconds",
+          "pos": "名詞",
+          "meaningJa": "数秒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "seconds after hearing it",
+        "ja": "それを聞いた数秒後に"
+      },
+      "explanationJa": "「everyone」は意味は「みんな」ですが、文法上は単数扱いなので動詞は「forgets」とsがつきます。"
+    },
+    {
+      "id": "sent-names-2",
+      "english": "When you meet someone, your brain is busy worrying about what to say.",
+      "japanese": "誰かに会ったとき、脳は「何を話そうか」と考えることで手いっぱいになっています。",
+      "additionalInfoEn": "Because your attention is split, the name never gets stored deeply.",
+      "additionalInfoJa": "注意力が分散しているため、名前が記憶の深い場所まで保存されないのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "someone",
+          "pos": "代名詞",
+          "meaningJa": "誰か"
+        },
+        {
+          "word": "busy",
+          "pos": "形容詞",
+          "meaningJa": "忙しい、手いっぱいで"
+        },
+        {
+          "word": "worrying",
+          "pos": "動詞",
+          "meaningJa": "気にすること、心配すること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is busy ~ing",
+        "ja": "〜するのに忙しい"
+      },
+      "explanationJa": "「be busy + 動詞ing」は「〜することに夢中・忙しい」を表す便利な会話表現です。"
+    },
+    {
+      "id": "sent-names-3",
+      "english": "Also, most names are random labels with no visual picture attached.",
+      "japanese": "また、多くの名前は見た目のイメージと結びつかない単なる記号のようなものです。",
+      "additionalInfoEn": "Our brains remember jobs like \"baker\" far more easily than names like \"Baker.\"",
+      "additionalInfoJa": "人間の脳は「ベイカーという名前」より「パン屋さんという職業」の方がはるかに覚えやすいのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "random",
+          "pos": "形容詞",
+          "meaningJa": "無作為な、脈絡のない"
+        },
+        {
+          "word": "labels",
+          "pos": "名詞",
+          "meaningJa": "ラベル、記号"
+        },
+        {
+          "word": "visual",
+          "pos": "形容詞",
+          "meaningJa": "視覚的な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "visual picture",
+        "ja": "視覚的なイメージ"
+      },
+      "explanationJa": "「with no + 名詞」は「〜がまったくない状態で」とスッキリ否定を表すことができます。"
+    },
+    {
+      "id": "sent-names-4",
+      "english": "Repeating the person’s name politely once helps lock it into memory.",
+      "japanese": "相手の名前を丁寧に一度繰り返して言うと、記憶に定着させやすくなります。",
+      "additionalInfoEn": "Saying \"Nice to meet you, Ken\" gives your brain a clear second chance.",
+      "additionalInfoJa": "「はじめまして、ケンさん」と声に出すことで、脳に2度目の記憶のチャンスが生まれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Repeating",
+          "pos": "動詞",
+          "meaningJa": "繰り返すこと"
+        },
+        {
+          "word": "politely",
+          "pos": "副詞",
+          "meaningJa": "丁寧に"
+        },
+        {
+          "word": "memory",
+          "pos": "名詞",
+          "meaningJa": "記憶"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lock it into memory",
+        "ja": "記憶に定着させる"
+      },
+      "explanationJa": "「once」は「一度」。「Repeating 〜 once」で「一度繰り返すこと」となります。"
+    },
+    {
+      "id": "sent-names-5",
+      "english": "Most people feel happy when you honestly ask to hear their name again.",
+      "japanese": "正直にもう一度名前を聞き直しても、ほとんどの人は嬉しく感じてくれるものです。",
+      "additionalInfoEn": "Asking shows that you truly care about remembering them.",
+      "additionalInfoJa": "聞き直すことは、相手のことをちゃんと覚えたいと思っている気持ちの表れになるからです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "happy",
+          "pos": "形容詞",
+          "meaningJa": "嬉しい"
+        },
+        {
+          "word": "honestly",
+          "pos": "副詞",
+          "meaningJa": "正直に"
+        },
+        {
+          "word": "again",
+          "pos": "副詞",
+          "meaningJa": "もう一度"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "ask to hear again",
+        "ja": "もう一度聞かせてと頼む"
+      },
+      "explanationJa": "「feel + 形容詞」は感情を表す基本表現。「feel happy（嬉しく感じる）」はすぐに使えます。"
+    }
+  ]
+}

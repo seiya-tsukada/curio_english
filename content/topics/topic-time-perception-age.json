@@ -1,0 +1,167 @@
+{
+  "id": "topic-time-perception-age",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Time Feels Faster as We Grow Older",
+  "titleJa": "大人になると1年があっという間に感じる理由",
+  "subtitleJa": "新しい体験の数が、時間の長さを決める鍵になる。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-time-age-1",
+      "english": "Many adults feel that each year passes faster than when they were kids.",
+      "japanese": "多くの大人は、子どもの頃よりも1年が速く過ぎていくように感じます。",
+      "additionalInfoEn": "Summer holidays used to feel endless, while modern months fly by quickly.",
+      "additionalInfoJa": "かつて夏休みは果てしなく長く感じたのに、今は数ヶ月があっという間に過ぎてしまいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "adults",
+          "pos": "名詞",
+          "meaningJa": "大人"
+        },
+        {
+          "word": "passes",
+          "pos": "動詞",
+          "meaningJa": "過ぎる、経過する"
+        },
+        {
+          "word": "kids",
+          "pos": "名詞",
+          "meaningJa": "子どもたち"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "passes faster",
+        "ja": "より速く過ぎる"
+      },
+      "explanationJa": "「feel that 〜」で「〜だと感じる」と自分の感覚や意見を素直に表現できます。"
+    },
+    {
+      "id": "sent-time-age-2",
+      "english": "As a child, almost every week brings brand-new experiences.",
+      "japanese": "子どもの頃は、ほとんど毎週のようにまったく新しい体験に出会います。",
+      "additionalInfoEn": "Your brain works hard to record unfamiliar sights, words, and places.",
+      "additionalInfoJa": "脳は初めて見る景色や言葉、場所を一生懸命に記録しようと働きます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "child",
+          "pos": "名詞",
+          "meaningJa": "子ども"
+        },
+        {
+          "word": "brand-new",
+          "pos": "形容詞",
+          "meaningJa": "真新しい、まったく新しい"
+        },
+        {
+          "word": "experiences",
+          "pos": "名詞",
+          "meaningJa": "体験、経験"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "As a child",
+        "ja": "子どもの頃は"
+      },
+      "explanationJa": "「As a child」は「子どもだったとき」を短く言い表せるとても便利なフレーズです。"
+    },
+    {
+      "id": "sent-time-age-3",
+      "english": "When memories are rich and detailed, that period feels long looking back.",
+      "japanese": "記憶が豊かで細かいと、あとから振り返ったときにその期間はとても長く感じられます。",
+      "additionalInfoEn": "A four-day trip to a new country often feels longer than two routine weeks at home.",
+      "additionalInfoJa": "初めての国への4日間の旅行の方が、家でのいつもの2週間より長く感じられるのもそのためです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "memories",
+          "pos": "名詞",
+          "meaningJa": "記憶（memoryの複数形）"
+        },
+        {
+          "word": "detailed",
+          "pos": "形容詞",
+          "meaningJa": "詳細な、細かい"
+        },
+        {
+          "word": "period",
+          "pos": "名詞",
+          "meaningJa": "期間"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "looking back",
+        "ja": "振り返ってみると"
+      },
+      "explanationJa": "「looking back」は「過去を振り返ると」という意味で、エッセイや会話でよく使われます。"
+    },
+    {
+      "id": "sent-time-age-4",
+      "english": "As adults repeat familiar routines, the brain saves fewer new memories.",
+      "japanese": "大人が慣れたルーティンを繰り返すと、脳が保存する新しい記憶は少なくなります。",
+      "additionalInfoEn": "Daily commutes and similar workdays blend together smoothly in our minds.",
+      "additionalInfoJa": "毎日の通勤や似たような仕事の日々は、頭の中でひとつに溶け合ってしまうのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "repeat",
+          "pos": "動詞",
+          "meaningJa": "繰り返す"
+        },
+        {
+          "word": "familiar",
+          "pos": "形容詞",
+          "meaningJa": "慣れ親しんだ"
+        },
+        {
+          "word": "routines",
+          "pos": "名詞",
+          "meaningJa": "ルーティン、日課"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "saves fewer memories",
+        "ja": "保存する記憶が少なくなる"
+      },
+      "explanationJa": "「fewer + 数えられる名詞」で「より少ない〜」という比較表現になります。"
+    },
+    {
+      "id": "sent-time-age-5",
+      "english": "Learning one small new thing each day can make your year feel fuller.",
+      "japanese": "毎日ひとつ小さな新しいことを学ぶだけで、あなたの1年はもっと豊かに感じられるようになります。",
+      "additionalInfoEn": "Curiosity brings fresh details back into everyday life, at any age.",
+      "additionalInfoJa": "好奇心は、いくつになっても日常に新鮮な彩りを取り戻してくれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Learning",
+          "pos": "動詞",
+          "meaningJa": "学ぶこと"
+        },
+        {
+          "word": "small",
+          "pos": "形容詞",
+          "meaningJa": "小さな"
+        },
+        {
+          "word": "fuller",
+          "pos": "形容詞",
+          "meaningJa": "より充実した、より豊かな"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "each day",
+        "ja": "毎日"
+      },
+      "explanationJa": "Curioのテーマにもぴったりの1文です。「make A feel + 形容詞」で「Aを〜に感じさせる」となります。"
+    }
+  ]
+}

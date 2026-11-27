@@ -1,0 +1,167 @@
+{
+  "id": "topic-invention-of-paper",
+  "categoryId": "history",
+  "titleEn": "The Invention of Paper in Ancient China",
+  "titleJa": "古代中国での「紙」の誕生",
+  "subtitleJa": "重い竹や高価な絹に代わり、知識を広げた大発明。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-paper-1",
+      "english": "Before paper was invented, people wrote on heavy bamboo or expensive silk.",
+      "japanese": "紙が発明される前、人々は重い竹や高価な絹の上に文字を書いていました。",
+      "additionalInfoEn": "Carrying even a few books made of bamboo strips required a wooden cart.",
+      "additionalInfoJa": "竹簡で作られた本を数冊運ぶだけでも、木製の荷車が必要になるほど重かったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "invented",
+          "pos": "動詞",
+          "meaningJa": "発明された"
+        },
+        {
+          "word": "heavy",
+          "pos": "形容詞",
+          "meaningJa": "重い"
+        },
+        {
+          "word": "expensive",
+          "pos": "形容詞",
+          "meaningJa": "高価な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Before paper was invented",
+        "ja": "紙が発明される前は"
+      },
+      "explanationJa": "「wrote」は「write（書く）」の過去形です。「write on 〜」で「〜の上に書く」となります。"
+    },
+    {
+      "id": "sent-paper-2",
+      "english": "Around the year 105, a Chinese official named Cai Lun improved papermaking.",
+      "japanese": "西暦105年頃、蔡倫（サイリン）という中国の役人が製紙法を改良しました。",
+      "additionalInfoEn": "He used tree bark, hemp waste, old rags, and fishnets to make smooth sheets.",
+      "additionalInfoJa": "彼は木の樹皮や麻くず、古い布切れ、魚網などを原料にして滑らかな紙を作りました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "official",
+          "pos": "名詞",
+          "meaningJa": "役人、官僚"
+        },
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "〜という名前の"
+        },
+        {
+          "word": "improved",
+          "pos": "動詞",
+          "meaningJa": "改良した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Around the year",
+        "ja": "西暦〜年頃に"
+      },
+      "explanationJa": "「a person named 〜」で「〜という名前の人物」と紹介できます。日常でもよく使う表現です。"
+    },
+    {
+      "id": "sent-paper-3",
+      "english": "This new paper was light, smooth, and much cheaper to produce.",
+      "japanese": "この新しい紙は軽くて滑らかで、作るコストもずっと安価でした。",
+      "additionalInfoEn": "It folded easily and absorbed ink cleanly without smudging.",
+      "additionalInfoJa": "簡単に折りたたむことができ、インクもにじまずきれいに染み込みました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "light",
+          "pos": "形容詞",
+          "meaningJa": "軽い"
+        },
+        {
+          "word": "smooth",
+          "pos": "形容詞",
+          "meaningJa": "滑らかな"
+        },
+        {
+          "word": "produce",
+          "pos": "動詞",
+          "meaningJa": "生産する、作る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cheaper to produce",
+        "ja": "作るのがより安い"
+      },
+      "explanationJa": "「形容詞 + to + 動詞」で「〜するのが…だ」と性質を分かりやすく説明できます。"
+    },
+    {
+      "id": "sent-paper-4",
+      "english": "Over the centuries, papermaking skills spread along trade routes worldwide.",
+      "japanese": "何世紀にもわたり、紙づくりの技術は貿易ルートを通って世界中に広がりました。",
+      "additionalInfoEn": "Paper reached the Islamic world and later transformed bookmaking in Europe.",
+      "additionalInfoJa": "紙はイスラム世界へ伝わり、やがてヨーロッパの書物づくりにも革命を起こしました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "centuries",
+          "pos": "名詞",
+          "meaningJa": "何世紀（centuryの複数形）"
+        },
+        {
+          "word": "skills",
+          "pos": "名詞",
+          "meaningJa": "技術、スキル"
+        },
+        {
+          "word": "spread",
+          "pos": "動詞",
+          "meaningJa": "広がった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Over the centuries",
+        "ja": "何世紀にもわたって"
+      },
+      "explanationJa": "「spread」は現在形・過去形・過去分詞がすべて同じ形（spread）をとる動詞です。"
+    },
+    {
+      "id": "sent-paper-5",
+      "english": "Cheap paper allowed ideas and stories to travel farther than ever before.",
+      "japanese": "安価な紙の登場によって、アイデアや物語はかつてないほど遠くまで届くようになりました。",
+      "additionalInfoEn": "Without affordable paper, libraries and public schools could not have grown so fast.",
+      "additionalInfoJa": "手頃な紙がなければ、図書館や学校がこれほど急速に広がることはなかったでしょう。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "allowed",
+          "pos": "動詞",
+          "meaningJa": "可能にした、許した"
+        },
+        {
+          "word": "ideas",
+          "pos": "名詞",
+          "meaningJa": "アイデア、考え"
+        },
+        {
+          "word": "farther",
+          "pos": "副詞",
+          "meaningJa": "より遠くへ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "than ever before",
+        "ja": "かつてないほど"
+      },
+      "explanationJa": "「allow A to + 動詞」は「Aが〜できるようにする」という丁寧で洗練された表現です。"
+    }
+  ]
+}

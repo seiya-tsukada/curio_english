@@ -1,0 +1,167 @@
+{
+  "id": "topic-octopus-hearts",
+  "categoryId": "space-science",
+  "titleEn": "Why Octopuses Have Three Hearts",
+  "titleJa": "タコに心臓が3つある理由",
+  "subtitleJa": "海の賢者タコの不思議な体の仕組みを5文で読み解く。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-octopus-1",
+      "english": "Octopuses have three hearts inside their soft bodies.",
+      "japanese": "タコは柔らかい体の中に3つの心臓を持っています。",
+      "additionalInfoEn": "Two hearts pump blood to the gills, and the third sends blood to the rest of the body.",
+      "additionalInfoJa": "2つの心臓はエラに血液を送り、3つ目の心臓は体全体に血液を送り出します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Octopuses",
+          "pos": "名詞",
+          "meaningJa": "タコ（octopusの複数形）"
+        },
+        {
+          "word": "hearts",
+          "pos": "名詞",
+          "meaningJa": "心臓"
+        },
+        {
+          "word": "soft",
+          "pos": "形容詞",
+          "meaningJa": "柔らかい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "have three hearts",
+        "ja": "3つの心臓を持っている"
+      },
+      "explanationJa": "「have」は「〜を持っている」という基本動詞です。複数形の「Octopuses」に合わせて「have」を使います。"
+    },
+    {
+      "id": "sent-octopus-2",
+      "english": "Two of those hearts work only to send blood to the gills.",
+      "japanese": "そのうち2つの心臓は、エラに血液を送るためだけに働きます。",
+      "additionalInfoEn": "Gills help sea animals take in oxygen from the water.",
+      "additionalInfoJa": "エラは海の生き物が水の中から酸素を取り込むのを助けます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "blood",
+          "pos": "名詞",
+          "meaningJa": "血液"
+        },
+        {
+          "word": "gills",
+          "pos": "名詞",
+          "meaningJa": "エラ（呼吸器官）"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "〜だけ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Two of those",
+        "ja": "それらのうち2つ"
+      },
+      "explanationJa": "「Two of 〜」で「〜のうちの2つ」と数を限定できます。「work to + 動詞」は「〜するために働く」という意味です。"
+    },
+    {
+      "id": "sent-octopus-3",
+      "english": "Surprisingly, the main heart stops beating when an octopus swims.",
+      "japanese": "驚くことに、タコが泳ぐときメインの心臓は鼓動を止めます。",
+      "additionalInfoEn": "Swimming uses a lot of energy, so octopuses prefer crawling along the ocean floor.",
+      "additionalInfoJa": "泳ぐのはとても疲れるため、タコは海底を這って移動する方を好みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Surprisingly",
+          "pos": "副詞",
+          "meaningJa": "驚くべきことに"
+        },
+        {
+          "word": "beating",
+          "pos": "動詞",
+          "meaningJa": "鼓動すること、打つこと"
+        },
+        {
+          "word": "swims",
+          "pos": "動詞",
+          "meaningJa": "泳ぐ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stops beating",
+        "ja": "鼓動を止める"
+      },
+      "explanationJa": "「stop + 動詞ing」で「〜するのをやめる」という意味になります。会話でもよく使う便利な表現です。"
+    },
+    {
+      "id": "sent-octopus-4",
+      "english": "Their blood is blue because it uses copper instead of iron.",
+      "japanese": "タコの血液は鉄ではなく銅を使うため、青い色をしています。",
+      "additionalInfoEn": "Human blood is red because our blood carries oxygen with iron.",
+      "additionalInfoJa": "人間の血液は鉄を使って酸素を運ぶため赤くなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "blue",
+          "pos": "形容詞",
+          "meaningJa": "青い"
+        },
+        {
+          "word": "copper",
+          "pos": "名詞",
+          "meaningJa": "銅"
+        },
+        {
+          "word": "iron",
+          "pos": "名詞",
+          "meaningJa": "鉄"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "instead of",
+        "ja": "〜の代わりに"
+      },
+      "explanationJa": "「instead of A」は「Aの代わりに」という日常でもビジネスでも頻出のフレーズです。"
+    },
+    {
+      "id": "sent-octopus-5",
+      "english": "This blue blood works very well in cold, deep ocean water.",
+      "japanese": "この青い血液は、冷たく深い海の水の中でとてもよく働きます。",
+      "additionalInfoEn": "Copper-based blood carries oxygen efficiently even where oxygen levels are low.",
+      "additionalInfoJa": "銅をベースにした血液は、酸素が少ない場所でも効率よく酸素を運べます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cold",
+          "pos": "形容詞",
+          "meaningJa": "冷たい"
+        },
+        {
+          "word": "deep",
+          "pos": "形容詞",
+          "meaningJa": "深い"
+        },
+        {
+          "word": "ocean",
+          "pos": "名詞",
+          "meaningJa": "海、海洋"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "works very well",
+        "ja": "とてもよく機能する"
+      },
+      "explanationJa": "「work」は「仕事をする」だけでなく、機械や仕組みが「うまく機能する」という意味でもよく使われます。"
+    }
+  ]
+}

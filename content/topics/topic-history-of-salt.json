@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-salt",
+  "categoryId": "history",
+  "titleEn": "When Salt Was as Valuable as Gold",
+  "titleJa": "塩が金と同じくらい貴重だった時代",
+  "subtitleJa": "「サラリー（給料）」の語源にもなった塩の物語。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-salt-1",
+      "english": "Thousands of years ago, salt was one of the most valuable goods.",
+      "japanese": "何千年も前、塩は最も価値のある品物のひとつでした。",
+      "additionalInfoEn": "Before refrigerators existed, people relied on salt to keep meat and fish fresh.",
+      "additionalInfoJa": "冷蔵庫が存在する前、人々は肉や魚を新鮮に保つために塩に頼っていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "salt",
+          "pos": "名詞",
+          "meaningJa": "塩"
+        },
+        {
+          "word": "valuable",
+          "pos": "形容詞",
+          "meaningJa": "価値のある、貴重な"
+        },
+        {
+          "word": "goods",
+          "pos": "名詞",
+          "meaningJa": "品物、商品"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one of the most valuable",
+        "ja": "最も貴重なもののひとつ"
+      },
+      "explanationJa": "「one of the + 最上級 + 複数名詞」で「最も〜なもののひとつ」と表現できます。"
+    },
+    {
+      "id": "sent-salt-2",
+      "english": "In ancient Rome, soldiers used salt as part of their pay.",
+      "japanese": "古代ローマでは、兵士たちは給料の一部として塩を受け取っていました。",
+      "additionalInfoEn": "Or they received money specifically meant for buying salt.",
+      "additionalInfoJa": "あるいは、塩を買うための特別なお金を受け取っていたとも言われています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "ancient",
+          "pos": "形容詞",
+          "meaningJa": "古代の"
+        },
+        {
+          "word": "soldiers",
+          "pos": "名詞",
+          "meaningJa": "兵士たち"
+        },
+        {
+          "word": "pay",
+          "pos": "名詞",
+          "meaningJa": "報酬、給料"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as part of",
+        "ja": "〜の一部として"
+      },
+      "explanationJa": "「part of 〜」は「〜の一部」。「as part of their pay」で「報酬の一部として」という意味になります。"
+    },
+    {
+      "id": "sent-salt-3",
+      "english": "The English word \"salary\" comes from the Latin word for salt.",
+      "japanese": "英語の「salary（給料）」という言葉は、ラテン語の「塩」に由来します。",
+      "additionalInfoEn": "That Latin word was \"salarium,\" showing how vital salt was to daily life.",
+      "additionalInfoJa": "そのラテン語は「サラリウム」といい、塩が生活にいかに欠かせなかったかを示しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "word",
+          "pos": "名詞",
+          "meaningJa": "言葉、単語"
+        },
+        {
+          "word": "salary",
+          "pos": "名詞",
+          "meaningJa": "給料"
+        },
+        {
+          "word": "Latin",
+          "pos": "名詞",
+          "meaningJa": "ラテン語"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜に由来する"
+      },
+      "explanationJa": "「A comes from B」で、言葉の語源や出身地「AはBから来ている」を簡単に言えます。"
+    },
+    {
+      "id": "sent-salt-4",
+      "english": "Merchants even traded salt across the Sahara Desert for gold.",
+      "japanese": "商人たちはサハラ砂漠を越えて、塩を金と交換することさえありました。",
+      "additionalInfoEn": "Camels carried heavy blocks of desert salt for weeks under the hot sun.",
+      "additionalInfoJa": "ラクダたちは熱い太陽の下、何週間もかけて重い岩塩の塊を運びました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Merchants",
+          "pos": "名詞",
+          "meaningJa": "商人たち"
+        },
+        {
+          "word": "traded",
+          "pos": "動詞",
+          "meaningJa": "取引した、交換した"
+        },
+        {
+          "word": "gold",
+          "pos": "名詞",
+          "meaningJa": "金（ゴールド）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "traded A for B",
+        "ja": "AをBと交換した"
+      },
+      "explanationJa": "「even」を動詞の前に置くと「〜でさえ」という驚きのニュアンスを足せます。"
+    },
+    {
+      "id": "sent-salt-5",
+      "english": "Today salt is cheap, yet our bodies still need a tiny amount daily.",
+      "japanese": "今日では塩は安価ですが、私たちの体は今でも毎日ごく少量を必要としています。",
+      "additionalInfoEn": "Salt helps our nerves send signals and keeps body fluids balanced.",
+      "additionalInfoJa": "塩分は神経の信号伝達や、体内の水分バランスを保つのを助けています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "cheap",
+          "pos": "形容詞",
+          "meaningJa": "安い"
+        },
+        {
+          "word": "amount",
+          "pos": "名詞",
+          "meaningJa": "量"
+        },
+        {
+          "word": "daily",
+          "pos": "副詞",
+          "meaningJa": "毎日"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a tiny amount",
+        "ja": "ごく少量"
+      },
+      "explanationJa": "「yet」は「それなのに・しかし」という意味で、前の文と反対の事実を短くつなぐときに便利です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-coffee-history",
+  "categoryId": "history",
+  "titleEn": "How Coffee Became a Daily Habit",
+  "titleJa": "コーヒーが世界の朝の習慣になるまで",
+  "subtitleJa": "エチオピアからカフェ文化へ、一杯の豆がつないだ歴史。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-coffee-1",
+      "english": "Coffee plants originally grew wild in the highlands of Ethiopia.",
+      "japanese": "コーヒーの木はもともと、エチオピアの高地に野生で育っていました。",
+      "additionalInfoEn": "According to legend, a goat herder noticed his goats grew energetic after eating red berries.",
+      "additionalInfoJa": "伝説では、ヤギ飼いが赤い実を食べたヤギたちが元気になるのに気づいたと言われています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "plants",
+          "pos": "名詞",
+          "meaningJa": "植物"
+        },
+        {
+          "word": "originally",
+          "pos": "副詞",
+          "meaningJa": "もともと、最初は"
+        },
+        {
+          "word": "wild",
+          "pos": "副詞",
+          "meaningJa": "野生で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "grew wild",
+        "ja": "野生で育った"
+      },
+      "explanationJa": "「originally」は歴史やルーツを語るときにとても役立つ単語です。"
+    },
+    {
+      "id": "sent-coffee-2",
+      "english": "By the 1400s, people in Yemen were roasting and brewing coffee beans.",
+      "japanese": "1400年代までには、イエメンの人々がコーヒー豆を焙煎して淹れていました。",
+      "additionalInfoEn": "The rich, dark drink helped scholars and travelers stay awake at night.",
+      "additionalInfoJa": "その香り高く濃い飲み物は、学者や旅人が夜に目を覚ましておくのに役立ちました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "roasting",
+          "pos": "動詞",
+          "meaningJa": "焙煎すること、煎ること"
+        },
+        {
+          "word": "brewing",
+          "pos": "動詞",
+          "meaningJa": "淹れること"
+        },
+        {
+          "word": "beans",
+          "pos": "名詞",
+          "meaningJa": "豆"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "By the 1400s",
+        "ja": "1400年代までには"
+      },
+      "explanationJa": "「By + 時代」は「その頃までには（すでに〜していた）」という期限・到達点を表します。"
+    },
+    {
+      "id": "sent-coffee-3",
+      "english": "Soon, cozy coffeehouses opened across cities in the Middle East and Europe.",
+      "japanese": "やがて、居心地の良いコーヒーハウスが中東やヨーロッパの都市に次々と開かれました。",
+      "additionalInfoEn": "People gathered there to read newspapers, play chess, and share news.",
+      "additionalInfoJa": "人々はそこに集まって新聞を読んだり、チェスをしたり、最新ニュースを語り合いました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "cozy",
+          "pos": "形容詞",
+          "meaningJa": "居心地の良い"
+        },
+        {
+          "word": "opened",
+          "pos": "動詞",
+          "meaningJa": "開店した、開いた"
+        },
+        {
+          "word": "cities",
+          "pos": "名詞",
+          "meaningJa": "都市（cityの複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "across cities",
+        "ja": "各地の都市で"
+      },
+      "explanationJa": "「cozy」はカフェや部屋などが「あたたかく居心地が良い」ことを表す人気の単語です。"
+    },
+    {
+      "id": "sent-coffee-4",
+      "english": "In London, coffeehouses were even nicknamed \"penny universities.\"",
+      "japanese": "ロンドンでは、コーヒーハウスは「1ペニーの大学」とさえ呼ばれていました。",
+      "additionalInfoEn": "For the price of one cheap cup, anyone could join lively debates on science and politics.",
+      "additionalInfoJa": "安いコーヒー1杯分の値段で、誰でも科学や政治の活発な議論に参加できたからです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "nicknamed",
+          "pos": "動詞",
+          "meaningJa": "あだ名をつけられた"
+        },
+        {
+          "word": "penny",
+          "pos": "名詞",
+          "meaningJa": "ペニー（小額硬貨）"
+        },
+        {
+          "word": "universities",
+          "pos": "名詞",
+          "meaningJa": "大学（複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "were nicknamed",
+        "ja": "〜とあだ名をつけられた"
+      },
+      "explanationJa": "「nickname」は名詞だけでなく「〜とあだ名をつける」という動詞としても使えます。"
+    },
+    {
+      "id": "sent-coffee-5",
+      "english": "Now, more than two billion cups of coffee are enjoyed every day.",
+      "japanese": "今では、毎日20億杯以上のコーヒーが世界中で楽しまれています。",
+      "additionalInfoEn": "From espresso bars to quiet morning kitchens, coffee connects people worldwide.",
+      "additionalInfoJa": "エスプレッソバーから静かな朝のキッチンまで、コーヒーは世界中の人々をつないでいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "billion",
+          "pos": "名詞",
+          "meaningJa": "10億"
+        },
+        {
+          "word": "cups",
+          "pos": "名詞",
+          "meaningJa": "カップ、杯"
+        },
+        {
+          "word": "enjoyed",
+          "pos": "動詞",
+          "meaningJa": "楽しまれている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more than",
+        "ja": "〜以上"
+      },
+      "explanationJa": "「more than + 数字」で「〜より多い・〜以上」という数量の表現が簡単に作れます。"
+    }
+  ]
+}

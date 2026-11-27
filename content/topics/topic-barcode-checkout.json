@@ -1,0 +1,167 @@
+{
+  "id": "topic-barcode-checkout",
+  "categoryId": "business-economy",
+  "titleEn": "How the Barcode Sped Up Shopping",
+  "titleJa": "バーコードがレジの行列を減らした物語",
+  "subtitleJa": "砂浜で指で描いた線から生まれた世界の共通規格。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-barcode-1",
+      "english": "The first item ever scanned with a barcode was a pack of chewing gum.",
+      "japanese": "バーコードで史上初めてスキャンされた商品は、チューインガム1パックでした。",
+      "additionalInfoEn": "That historic moment happened at a supermarket in Ohio in June 1974.",
+      "additionalInfoJa": "その歴史的な瞬間は、1974年6月にアメリカ・オハイオ州のスーパーで起きました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "item",
+          "pos": "名詞",
+          "meaningJa": "商品、品目"
+        },
+        {
+          "word": "scanned",
+          "pos": "動詞",
+          "meaningJa": "スキャンされた"
+        },
+        {
+          "word": "pack",
+          "pos": "名詞",
+          "meaningJa": "パック、包み"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the first item ever",
+        "ja": "史上初めての商品"
+      },
+      "explanationJa": "「the first 〜 ever」で「これまでで最初の・史上初の〜」と歴史的な強調ができます。"
+    },
+    {
+      "id": "sent-barcode-2",
+      "english": "Inventor Joe Woodland got the barcode idea while sitting on a beach.",
+      "japanese": "発明者のジョー・ウッドランドは、砂浜に座っているときにバーコードのアイデアを思いつきました。",
+      "additionalInfoEn": "He drew Morse code dots and dashes in the sand and pulled them into lines.",
+      "additionalInfoJa": "彼は砂にモールス信号の点と線を描き、それを指で下に伸ばして縦の線にしたのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "idea",
+          "pos": "名詞",
+          "meaningJa": "アイデア"
+        },
+        {
+          "word": "sitting",
+          "pos": "動詞",
+          "meaningJa": "座っていること"
+        },
+        {
+          "word": "beach",
+          "pos": "名詞",
+          "meaningJa": "砂浜、ビーチ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "got the idea",
+        "ja": "アイデアを思いついた"
+      },
+      "explanationJa": "「while 〜ing」で「〜している間に」と同時進行の出来事を手短に表せます。"
+    },
+    {
+      "id": "sent-barcode-3",
+      "english": "Before barcodes, cashiers had to type every price by hand.",
+      "japanese": "バーコード以前は、レジの店員がすべての商品の価格を手で打ち込まなければなりませんでした。",
+      "additionalInfoEn": "That was slow and often caused simple typing mistakes at checkout.",
+      "additionalInfoJa": "それには時間がかかり、レジでの打ち間違いもよく起きていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cashiers",
+          "pos": "名詞",
+          "meaningJa": "レジ係"
+        },
+        {
+          "word": "price",
+          "pos": "名詞",
+          "meaningJa": "価格"
+        },
+        {
+          "word": "hand",
+          "pos": "名詞",
+          "meaningJa": "手"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by hand",
+        "ja": "手作業で、手で"
+      },
+      "explanationJa": "「by hand」は「機械を使わず手で」という意味のとても便利な熟語です。"
+    },
+    {
+      "id": "sent-barcode-4",
+      "english": "A quick beep reads the black and white lines in a split second.",
+      "japanese": "「ピッ」という一瞬の音で、白黒の線をコンマ数秒のうちに読み取ります。",
+      "additionalInfoEn": "It also updates the store inventory automatically so shelves can be refilled.",
+      "additionalInfoJa": "同時に店の在庫データも自動で更新されるため、棚の補充もスムーズになります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "beep",
+          "pos": "名詞",
+          "meaningJa": "ピッという電子音"
+        },
+        {
+          "word": "reads",
+          "pos": "動詞",
+          "meaningJa": "読み取る"
+        },
+        {
+          "word": "lines",
+          "pos": "名詞",
+          "meaningJa": "線"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in a split second",
+        "ja": "ほんの一瞬で"
+      },
+      "explanationJa": "「split second」は「1秒をさらに割った瞬間＝ほんの一瞬」という生き生きとした表現です。"
+    },
+    {
+      "id": "sent-barcode-5",
+      "english": "Now billions of barcodes are scanned around the world every single day.",
+      "japanese": "現在では、毎日世界中で何十億回ものバーコードがスキャンされています。",
+      "additionalInfoEn": "Simple black bars quietly keep modern stores and delivery systems moving.",
+      "additionalInfoJa": "シンプルな黒い縞模様が、現代のお店や配送システムを静かに動かし続けているのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "billions",
+          "pos": "名詞",
+          "meaningJa": "何十億もの"
+        },
+        {
+          "word": "barcodes",
+          "pos": "名詞",
+          "meaningJa": "バーコード"
+        },
+        {
+          "word": "every",
+          "pos": "形容詞",
+          "meaningJa": "毎〜、すべての"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "every single day",
+        "ja": "毎日毎日（強調）"
+      },
+      "explanationJa": "「every day」に「single」を挟んで「every single day」にすると「来る日も来る日も毎日」と強調できます。"
+    }
+  ]
+}

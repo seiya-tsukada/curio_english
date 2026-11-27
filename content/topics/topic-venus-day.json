@@ -1,0 +1,167 @@
+{
+  "id": "topic-venus-day",
+  "categoryId": "space-science",
+  "titleEn": "A Day on Venus Is Longer Than Its Year",
+  "titleJa": "金星の1日は1年よりも長い",
+  "subtitleJa": "地球のお隣の惑星で起きている、奇妙な時間のルール。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-venus-1",
+      "english": "Venus spins very slowly on its axis.",
+      "japanese": "金星は自分の軸を中心にとてもゆっくり自転しています。",
+      "additionalInfoEn": "One full spin on Venus takes 243 Earth days.",
+      "additionalInfoJa": "金星が1回完全に自転するのに、地球の日数で243日かかります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Venus",
+          "pos": "名詞",
+          "meaningJa": "金星"
+        },
+        {
+          "word": "spins",
+          "pos": "動詞",
+          "meaningJa": "回転する、自転する"
+        },
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on its axis",
+        "ja": "軸を中心に"
+      },
+      "explanationJa": "「spin」はコマのように「くるくる回る」イメージの動詞です。三単現の「s」がついています。"
+    },
+    {
+      "id": "sent-venus-2",
+      "english": "However, it travels around the Sun in just 225 Earth days.",
+      "japanese": "しかし、太陽の周りはわずか地球の225日で一周します。",
+      "additionalInfoEn": "That means a single day of rotation on Venus is longer than its year.",
+      "additionalInfoJa": "つまり、金星の「1回の自転（1日）」は「1年」より長いことになります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "travels",
+          "pos": "動詞",
+          "meaningJa": "移動する、旅する"
+        },
+        {
+          "word": "around",
+          "pos": "前置詞",
+          "meaningJa": "〜の周りを"
+        },
+        {
+          "word": "Sun",
+          "pos": "名詞",
+          "meaningJa": "太陽"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in just 225 days",
+        "ja": "わずか225日で"
+      },
+      "explanationJa": "「However,」を文頭に置くと「しかしながら」と前の文との対比をわかりやすく示せます。"
+    },
+    {
+      "id": "sent-venus-3",
+      "english": "Even stranger, Venus spins in the opposite direction from Earth.",
+      "japanese": "さらに不思議なことに、金星は地球とは逆の方向に自転しています。",
+      "additionalInfoEn": "On Venus, the Sun rises in the west and sets in the east.",
+      "additionalInfoJa": "そのため金星では、太陽は西から昇って東へ沈みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "stranger",
+          "pos": "形容詞",
+          "meaningJa": "より不思議な"
+        },
+        {
+          "word": "opposite",
+          "pos": "形容詞",
+          "meaningJa": "反対の、逆の"
+        },
+        {
+          "word": "direction",
+          "pos": "名詞",
+          "meaningJa": "方向"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the opposite direction",
+        "ja": "反対方向に"
+      },
+      "explanationJa": "「even + 比較級」で「さらに〜な」と強調できます。ここでは「even stranger（さらに不思議な）」です。"
+    },
+    {
+      "id": "sent-venus-4",
+      "english": "Thick clouds trap heat and make Venus the hottest planet.",
+      "japanese": "分厚い雲が熱を閉じ込め、金星を最も熱い惑星にしています。",
+      "additionalInfoEn": "Surface temperatures can reach around 465 degrees Celsius.",
+      "additionalInfoJa": "表面温度はおよそ摂氏465度にも達することがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Thick",
+          "pos": "形容詞",
+          "meaningJa": "厚い、濃い"
+        },
+        {
+          "word": "clouds",
+          "pos": "名詞",
+          "meaningJa": "雲"
+        },
+        {
+          "word": "hottest",
+          "pos": "形容詞",
+          "meaningJa": "最も熱い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "trap heat",
+        "ja": "熱を閉じ込める"
+      },
+      "explanationJa": "「make A B」で「AをBの状態にする」という便利な構文です。ここでは「金星を最も熱い惑星にする」となります。"
+    },
+    {
+      "id": "sent-venus-5",
+      "english": "You can often see Venus shining brightly right after sunset.",
+      "japanese": "日没のすぐ後には、明るく輝く金星をよく見ることができます。",
+      "additionalInfoEn": "Because it is so bright, people sometimes call it the Evening Star.",
+      "additionalInfoJa": "とても明るく見えるため、金星は「宵の明星」とも呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "often",
+          "pos": "副詞",
+          "meaningJa": "よく、しばしば"
+        },
+        {
+          "word": "shining",
+          "pos": "動詞",
+          "meaningJa": "輝いている"
+        },
+        {
+          "word": "sunset",
+          "pos": "名詞",
+          "meaningJa": "日没、夕暮れ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "right after sunset",
+        "ja": "日没のすぐ後に"
+      },
+      "explanationJa": "「see A 〜ing」で「Aが〜しているのを見る」という意味になります。視覚を表す定番のパターンです。"
+    }
+  ]
+}

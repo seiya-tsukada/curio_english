@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-weekend",
+  "categoryId": "world-culture",
+  "titleEn": "How the Two-Day Weekend Was Born",
+  "titleJa": "週休二日制の「週末」はこうして生まれた",
+  "subtitleJa": "工場の働き方改革から広がった休日の文化。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-weekend-1",
+      "english": "Two hundred years ago, most factory workers worked six days a week.",
+      "japanese": "200年前、ほとんどの工場労働者は週に6日間働いていました。",
+      "additionalInfoEn": "Sunday was usually the only day off for rest or religious services.",
+      "additionalInfoJa": "通常、休息や礼拝のための休みは日曜日だけでした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "factory",
+          "pos": "名詞",
+          "meaningJa": "工場"
+        },
+        {
+          "word": "workers",
+          "pos": "名詞",
+          "meaningJa": "労働者"
+        },
+        {
+          "word": "week",
+          "pos": "名詞",
+          "meaningJa": "週"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "six days a week",
+        "ja": "週に6日"
+      },
+      "explanationJa": "「回数/日数 + a week」で「週に〜回（日）」という頻度を簡単に表せます。"
+    },
+    {
+      "id": "sent-weekend-2",
+      "english": "In the late 1800s, British workers began asking for Saturday afternoon off.",
+      "japanese": "1800年代後半、イギリスの労働者たちは土曜日の午後を休みにするよう求め始めました。",
+      "additionalInfoEn": "They wanted time to shop at markets and watch local football matches.",
+      "additionalInfoJa": "市場で買い物をしたり、地元のサッカーの試合を観たりする時間が欲しかったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "British",
+          "pos": "形容詞",
+          "meaningJa": "イギリスの"
+        },
+        {
+          "word": "asking",
+          "pos": "動詞",
+          "meaningJa": "求めること"
+        },
+        {
+          "word": "afternoon",
+          "pos": "名詞",
+          "meaningJa": "午後"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "ask for time off",
+        "ja": "休みを求める"
+      },
+      "explanationJa": "「off」には「仕事が休みで」という意味があります。「day off」で「休日」です。"
+    },
+    {
+      "id": "sent-weekend-3",
+      "english": "In 1926, Henry Ford gave his car factory workers a full five-day week.",
+      "japanese": "1926年、ヘンリー・フォードは自動車工場の従業員に完全な週5日勤務を導入しました。",
+      "additionalInfoEn": "He believed rested workers with free weekends would also buy more cars.",
+      "additionalInfoJa": "休養をとり自由な週末がある労働者の方が、車もたくさん買ってくれると彼は考えたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "gave",
+          "pos": "動詞",
+          "meaningJa": "与えた（giveの過去形）"
+        },
+        {
+          "word": "full",
+          "pos": "形容詞",
+          "meaningJa": "完全な"
+        },
+        {
+          "word": "week",
+          "pos": "名詞",
+          "meaningJa": "週、1週間"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "five-day week",
+        "ja": "週5日勤務"
+      },
+      "explanationJa": "「five-day」のようにハイフンでつなぐと、後ろの「week」を修飾する1つの形容詞として使えます。"
+    },
+    {
+      "id": "sent-weekend-4",
+      "english": "Surprisingly, productivity went up because workers were less tired.",
+      "japanese": "驚くことに、従業員の疲れが減ったことで生産性が向上しました。",
+      "additionalInfoEn": "Other companies saw the success and gradually adopted the two-day weekend.",
+      "additionalInfoJa": "他の企業もその成功を見て、徐々に週休二日制を取り入れるようになりました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "productivity",
+          "pos": "名詞",
+          "meaningJa": "生産性"
+        },
+        {
+          "word": "tired",
+          "pos": "形容詞",
+          "meaningJa": "疲れた"
+        },
+        {
+          "word": "went",
+          "pos": "動詞",
+          "meaningJa": "上がった（goの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "went up",
+        "ja": "上昇した、上がった"
+      },
+      "explanationJa": "「go up（上がる）」と「go down（下がる）」はビジネスでも日常でも使えるシンプルな句動詞です。"
+    },
+    {
+      "id": "sent-weekend-5",
+      "english": "Now the weekend is a global rhythm for rest, travel, and family time.",
+      "japanese": "今や週末は、休息や旅行、家族との時間のための世界共通のリズムになっています。",
+      "additionalInfoEn": "Though exact weekend days vary in some regions, everyone values time to recharge.",
+      "additionalInfoJa": "地域によって休日の曜日は異なることもありますが、誰もが心身を充電する時間を大切にしています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "global",
+          "pos": "形容詞",
+          "meaningJa": "世界的な"
+        },
+        {
+          "word": "rhythm",
+          "pos": "名詞",
+          "meaningJa": "リズム"
+        },
+        {
+          "word": "rest",
+          "pos": "名詞",
+          "meaningJa": "休息"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "family time",
+        "ja": "家族との時間"
+      },
+      "explanationJa": "「for A, B, and C」と並べることで、目的をリズムよく伝えることができます。"
+    }
+  ]
+}

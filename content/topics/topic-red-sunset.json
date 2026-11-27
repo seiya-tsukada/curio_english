@@ -1,0 +1,167 @@
+{
+  "id": "topic-red-sunset",
+  "categoryId": "space-science",
+  "titleEn": "Why the Sky Turns Red at Sunset",
+  "titleJa": "夕焼けの空が赤く染まる科学",
+  "subtitleJa": "青い空と赤い夕暮れをつくる光の旅路。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-sunset-1",
+      "english": "Sunlight looks white, but it actually holds all rainbow colors.",
+      "japanese": "太陽光は白く見えますが、実は虹のすべての色を含んでいます。",
+      "additionalInfoEn": "Each color travels as a wave with a slightly different length.",
+      "additionalInfoJa": "それぞれの色は、少しずつ異なる長さの波として進んでいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Sunlight",
+          "pos": "名詞",
+          "meaningJa": "太陽光"
+        },
+        {
+          "word": "holds",
+          "pos": "動詞",
+          "meaningJa": "含む、保持する"
+        },
+        {
+          "word": "rainbow",
+          "pos": "名詞",
+          "meaningJa": "虹"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "looks white",
+        "ja": "白く見える"
+      },
+      "explanationJa": "「look + 形容詞」で「〜のように見える」という自然な表現が作れます。"
+    },
+    {
+      "id": "sent-sunset-2",
+      "english": "During the day, air molecules scatter blue light across the sky.",
+      "japanese": "昼間は、空気の分子が青い光を空いっぱいに散らします。",
+      "additionalInfoEn": "Blue light has shorter waves, so it bounces around the atmosphere more easily.",
+      "additionalInfoJa": "青い光は波が短いため、大気の中でより簡単に跳ね返って広がります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "molecules",
+          "pos": "名詞",
+          "meaningJa": "分子"
+        },
+        {
+          "word": "scatter",
+          "pos": "動詞",
+          "meaningJa": "散らす、拡散する"
+        },
+        {
+          "word": "sky",
+          "pos": "名詞",
+          "meaningJa": "空"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "During the day",
+        "ja": "昼の間は"
+      },
+      "explanationJa": "「During + 名詞」で「〜の期間中に」と時間帯を表すことができます。"
+    },
+    {
+      "id": "sent-sunset-3",
+      "english": "At sunset, the Sun sits much lower near the horizon.",
+      "japanese": "夕暮れ時には、太陽は地平線の近くのはるかに低い位置にあります。",
+      "additionalInfoEn": "Light has to travel through a thicker layer of air to reach your eyes.",
+      "additionalInfoJa": "光はあなたの目に届くまで、より厚い空気の層を通過しなければなりません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "lower",
+          "pos": "形容詞",
+          "meaningJa": "より低い"
+        },
+        {
+          "word": "near",
+          "pos": "前置詞",
+          "meaningJa": "〜の近くに"
+        },
+        {
+          "word": "horizon",
+          "pos": "名詞",
+          "meaningJa": "地平線、水平線"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "near the horizon",
+        "ja": "地平線の近くに"
+      },
+      "explanationJa": "「much + 比較級」で「ずっと〜」と差が大きいことを表せます。"
+    },
+    {
+      "id": "sent-sunset-4",
+      "english": "Most of the blue light scatters away before reaching us.",
+      "japanese": "青い光のほとんどは、私たちに届く前に散ってなくなってしまいます。",
+      "additionalInfoEn": "Longer red and orange waves pass straight through the air.",
+      "additionalInfoJa": "波長の長い赤やオレンジの光は、空気を通り抜けてまっすぐ届きます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "代名詞",
+          "meaningJa": "ほとんど"
+        },
+        {
+          "word": "before",
+          "pos": "前置詞",
+          "meaningJa": "〜の前に"
+        },
+        {
+          "word": "reaching",
+          "pos": "動詞",
+          "meaningJa": "届くこと、到達すること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "before reaching us",
+        "ja": "私たちに届く前に"
+      },
+      "explanationJa": "「before + 動詞ing」で「〜する前に」というシンプルな時間表現になります。"
+    },
+    {
+      "id": "sent-sunset-5",
+      "english": "That is why evening skies glow in warm shades of red and gold.",
+      "japanese": "それが、夕方の空が温かい赤や金色に輝く理由です。",
+      "additionalInfoEn": "Clean air after rain can make sunset colors look even clearer.",
+      "additionalInfoJa": "雨上がりの澄んだ空気の日には、夕焼けの色がさらにくっきり見えることがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "glow",
+          "pos": "動詞",
+          "meaningJa": "輝く、ぼんやり光る"
+        },
+        {
+          "word": "warm",
+          "pos": "形容詞",
+          "meaningJa": "温かい"
+        },
+        {
+          "word": "shades",
+          "pos": "名詞",
+          "meaningJa": "色合い、濃淡"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "That is why",
+        "ja": "そういうわけで、それが〜の理由です"
+      },
+      "explanationJa": "「That is why 〜」は会話でも文章でも理由をまとめるのに大活躍するフレーズです。"
+    }
+  ]
+}

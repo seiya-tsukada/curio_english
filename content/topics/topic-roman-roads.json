@@ -1,0 +1,167 @@
+{
+  "id": "topic-roman-roads",
+  "categoryId": "history",
+  "titleEn": "Why Ancient Roman Roads Still Survive",
+  "titleJa": "古代ローマの道が今も残っている理由",
+  "subtitleJa": "「すべての道はローマに通ず」を支えた驚きの土木技術。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-roman-1",
+      "english": "Ancient Rome built a giant network of paved stone roads.",
+      "japanese": "古代ローマは、石で舗装された巨大な道路網を築きました。",
+      "additionalInfoEn": "At its peak, the network stretched over 80,000 kilometers across Europe and North Africa.",
+      "additionalInfoJa": "最盛期には、その道路網はヨーロッパと北アフリカにまたがり8万キロ以上も伸びていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "giant",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        },
+        {
+          "word": "network",
+          "pos": "名詞",
+          "meaningJa": "ネットワーク、網"
+        },
+        {
+          "word": "stone",
+          "pos": "名詞",
+          "meaningJa": "石"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "network of roads",
+        "ja": "道路網"
+      },
+      "explanationJa": "「a network of 〜」で「〜の網・つながり」という便利な表現になります。"
+    },
+    {
+      "id": "sent-roman-2",
+      "english": "Roman engineers dug deep trenches and built roads in strong layers.",
+      "japanese": "ローマの技術者たちは深い溝を掘り、頑丈な層を重ねて道を作りました。",
+      "additionalInfoEn": "They put heavy stones at the bottom, gravel in the middle, and flat paving stones on top.",
+      "additionalInfoJa": "底に重い石、真ん中に砂利、一番上に平らな敷石を敷き詰めました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "engineers",
+          "pos": "名詞",
+          "meaningJa": "技術者、エンジニア"
+        },
+        {
+          "word": "dug",
+          "pos": "動詞",
+          "meaningJa": "掘った（digの過去形）"
+        },
+        {
+          "word": "strong",
+          "pos": "形容詞",
+          "meaningJa": "強い、頑丈な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in strong layers",
+        "ja": "頑丈な層にして"
+      },
+      "explanationJa": "「dug」は「掘る（dig）」の不規則な過去形です。セットで覚えておくと便利です。"
+    },
+    {
+      "id": "sent-roman-3",
+      "english": "They curved the road surface slightly so rainwater would drain off.",
+      "japanese": "雨水が流れ落ちるように、路面をわずかに丸くカーブさせていました。",
+      "additionalInfoEn": "Standing water can quickly destroy a road, so drainage was essential.",
+      "additionalInfoJa": "水たまりは道を傷める原因になるため、排水の工夫が不可欠でした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "curved",
+          "pos": "動詞",
+          "meaningJa": "カーブさせた、曲げた"
+        },
+        {
+          "word": "surface",
+          "pos": "名詞",
+          "meaningJa": "表面、路面"
+        },
+        {
+          "word": "slightly",
+          "pos": "副詞",
+          "meaningJa": "わずかに、少し"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "so that / so ... would",
+        "ja": "〜できるように"
+      },
+      "explanationJa": "「slightly」は「ほんの少し」と控えめな変化を伝える上品な副詞です。"
+    },
+    {
+      "id": "sent-roman-4",
+      "english": "These roads let soldiers, mail, and merchants travel quickly in any weather.",
+      "japanese": "これらの道のおかげで、兵士や郵便、商人がどんな天気でも素早く移動できました。",
+      "additionalInfoEn": "Milestones along the way told travelers the exact distance to the next town.",
+      "additionalInfoJa": "道沿いに立てられた里程標（マイルストーン）は、次の町までの正確な距離を旅人に知らせました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "mail",
+          "pos": "名詞",
+          "meaningJa": "郵便"
+        },
+        {
+          "word": "travel",
+          "pos": "動詞",
+          "meaningJa": "移動する、旅する"
+        },
+        {
+          "word": "weather",
+          "pos": "名詞",
+          "meaningJa": "天気"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in any weather",
+        "ja": "どんな天気でも"
+      },
+      "explanationJa": "「let + 人 + 動詞の原形」で「人に〜させる・できるようにする」という意味になります。"
+    },
+    {
+      "id": "sent-roman-5",
+      "english": "Even two thousand years later, parts of Roman roads still exist today.",
+      "japanese": "2000年経った今でも、ローマ街道の一部は現存しています。",
+      "additionalInfoEn": "Several modern European highways still follow the exact routes Roman builders drew.",
+      "additionalInfoJa": "現代のヨーロッパの幹線道路のいくつかも、ローマの技術者が引いたルートをそのまま使っています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "later",
+          "pos": "副詞",
+          "meaningJa": "〜後に"
+        },
+        {
+          "word": "parts",
+          "pos": "名詞",
+          "meaningJa": "部分、一部"
+        },
+        {
+          "word": "exist",
+          "pos": "動詞",
+          "meaningJa": "存在する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "still exist today",
+        "ja": "今日もなお存在する"
+      },
+      "explanationJa": "「時間 + later」で「〜後」という表現になります（例：two hours later = 2時間後）。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-80-20-rule",
+  "categoryId": "business-economy",
+  "titleEn": "The Power of the 80/20 Rule",
+  "titleJa": "仕事にも使える「80対20の法則」",
+  "subtitleJa": "大切な2割に集中することで大きな成果を生む考え方。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-pareto-1",
+      "english": "In 1896, an Italian economist noticed an interesting pattern in gardens.",
+      "japanese": "1896年、あるイタリアの経済学者が庭の観察から興味深い法則に気づきました。",
+      "additionalInfoEn": "Vilfredo Pareto saw that 20 percent of the pea pods produced 80 percent of the peas.",
+      "additionalInfoJa": "ヴィルフレド・パレートは、2割のさやから8割の豆が収穫できることに気づいたのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "economist",
+          "pos": "名詞",
+          "meaningJa": "経済学者"
+        },
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        },
+        {
+          "word": "pattern",
+          "pos": "名詞",
+          "meaningJa": "パターン、法則"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "noticed a pattern",
+        "ja": "法則に気づいた"
+      },
+      "explanationJa": "「notice」は「見て意識的に気づく」という意味のとてもよく使われる動詞です。"
+    },
+    {
+      "id": "sent-pareto-2",
+      "english": "He found the same imbalance in land ownership across his country.",
+      "japanese": "彼は同じような偏りが、国の土地所有にも当てはまることを発見しました。",
+      "additionalInfoEn": "Roughly 20 percent of the population owned about 80 percent of the land.",
+      "additionalInfoJa": "およそ20％の人々が、国内の約80％の土地を所有していたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "imbalance",
+          "pos": "名詞",
+          "meaningJa": "不均衡、偏り"
+        },
+        {
+          "word": "land",
+          "pos": "名詞",
+          "meaningJa": "土地"
+        },
+        {
+          "word": "country",
+          "pos": "名詞",
+          "meaningJa": "国"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same pattern / imbalance",
+        "ja": "同じ偏り"
+      },
+      "explanationJa": "「balance（均衡）」の前に「im-」をつけると反対の意味の「imbalance（不均衡）」になります。"
+    },
+    {
+      "id": "sent-pareto-3",
+      "english": "Today, people call this idea the 80/20 rule in business and life.",
+      "japanese": "今日では、人々はこの考え方をビジネスや生活における「80:20の法則」と呼びます。",
+      "additionalInfoEn": "Often, a small number of key actions create most of your results.",
+      "additionalInfoJa": "多くの場合、少数の重要な行動が、成果の大部分を生み出します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "rule",
+          "pos": "名詞",
+          "meaningJa": "法則、ルール"
+        },
+        {
+          "word": "business",
+          "pos": "名詞",
+          "meaningJa": "ビジネス"
+        },
+        {
+          "word": "life",
+          "pos": "名詞",
+          "meaningJa": "生活、人生"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "call A B",
+        "ja": "AをBと呼ぶ"
+      },
+      "explanationJa": "「call + A + B」で「AのことをBと呼ぶ」という便利な基本文型です。"
+    },
+    {
+      "id": "sent-pareto-4",
+      "english": "For example, you probably wear 20 percent of your clothes 80 percent of the time.",
+      "japanese": "例えば、あなたは持っている服の2割を、普段の8割の時間で着ていることが多いはずです。",
+      "additionalInfoEn": "Companies also find that a few loyal products often bring most of their sales.",
+      "additionalInfoJa": "企業でも、少数の主力商品が売上の大部分を支えていることがよくあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "おそらく、たいてい"
+        },
+        {
+          "word": "wear",
+          "pos": "動詞",
+          "meaningJa": "着る"
+        },
+        {
+          "word": "clothes",
+          "pos": "名詞",
+          "meaningJa": "服"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "For example",
+        "ja": "例えば"
+      },
+      "explanationJa": "「probably」は「たぶん・おそらく（可能性が高い）」を表す会話の必須ワードです。"
+    },
+    {
+      "id": "sent-pareto-5",
+      "english": "Focusing on the most useful English words helps you learn much faster.",
+      "japanese": "最もよく使われる英単語に集中すれば、ずっと速く英語を身につけることができます。",
+      "additionalInfoEn": "Just a few hundred common words make up a huge part of daily English.",
+      "additionalInfoJa": "わずか数百の基本単語だけで、日常英語の大きな割合がカバーできるのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Focusing",
+          "pos": "動詞",
+          "meaningJa": "集中すること"
+        },
+        {
+          "word": "useful",
+          "pos": "形容詞",
+          "meaningJa": "役に立つ"
+        },
+        {
+          "word": "faster",
+          "pos": "副詞",
+          "meaningJa": "より速く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Focusing on",
+        "ja": "〜に集中すること"
+      },
+      "explanationJa": "「focus on 〜」は「〜に焦点を当てる・集中する」という意味で、毎日使える表現です。"
+    }
+  ]
+}

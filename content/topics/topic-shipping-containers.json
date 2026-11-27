@@ -1,0 +1,167 @@
+{
+  "id": "topic-shipping-containers",
+  "categoryId": "business-economy",
+  "titleEn": "How Metal Boxes Changed Global Trade",
+  "titleJa": "鉄の箱「コンテナ」が世界貿易を変えた",
+  "subtitleJa": "港の積み降ろしを劇的に速くしたシンプルな規格化。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-container-1",
+      "english": "Before 1956, loading a cargo ship took days of hard hand labor.",
+      "japanese": "1956年以前は、貨物船に荷物を積むのに何日もの厳しい手作業がかかっていました。",
+      "additionalInfoEn": "Workers carried loose bags, wooden crates, and barrels one by one.",
+      "additionalInfoJa": "作業員たちはバラバラの袋や木箱、樽などをひとつずつ手で運んでいました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "cargo",
+          "pos": "名詞",
+          "meaningJa": "貨物"
+        },
+        {
+          "word": "ship",
+          "pos": "名詞",
+          "meaningJa": "船"
+        },
+        {
+          "word": "labor",
+          "pos": "名詞",
+          "meaningJa": "労働、作業"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "took days of",
+        "ja": "何日もの〜がかかった"
+      },
+      "explanationJa": "「It took 〜」や「loading ... took days」のように、「take + 時間」で「時間がかかる」を表せます。"
+    },
+    {
+      "id": "sent-container-2",
+      "english": "Then, Malcolm McLean had a simple idea: use one standard metal box.",
+      "japanese": "そこへマルコム・マクリーンが「規格を統一したひとつの金属の箱を使う」というシンプルな発想を持ち込みました。",
+      "additionalInfoEn": "Every shipping container has the exact same width and corner locks.",
+      "additionalInfoJa": "すべての海上コンテナは、まったく同じ幅と角の固定金具を持っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "simple",
+          "pos": "形容詞",
+          "meaningJa": "シンプルな、単純な"
+        },
+        {
+          "word": "standard",
+          "pos": "形容詞",
+          "meaningJa": "標準の、統一規格の"
+        },
+        {
+          "word": "metal",
+          "pos": "名詞",
+          "meaningJa": "金属"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "had a simple idea",
+        "ja": "シンプルなアイデアを思いついた"
+      },
+      "explanationJa": "コロン（:）を使うと、前の「idea」の内容を後ろで具体的に説明できます。"
+    },
+    {
+      "id": "sent-container-3",
+      "english": "Cranes could lift a whole container straight from a truck onto a ship.",
+      "japanese": "クレーンを使えば、トラックから船へコンテナを丸ごとそのまま持ち上げて載せられました。",
+      "additionalInfoEn": "Nobody had to open the box or repack the goods at the port.",
+      "additionalInfoJa": "港で箱を開けたり、荷物を詰め直したりする必要がなくなったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "lift",
+          "pos": "動詞",
+          "meaningJa": "持ち上げる"
+        },
+        {
+          "word": "container",
+          "pos": "名詞",
+          "meaningJa": "コンテナ"
+        },
+        {
+          "word": "truck",
+          "pos": "名詞",
+          "meaningJa": "トラック"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "straight from A onto B",
+        "ja": "AからBへ直接"
+      },
+      "explanationJa": "「from A onto B」で「AからBの上へ」と動きの方向を視覚的に伝えられます。"
+    },
+    {
+      "id": "sent-container-4",
+      "english": "Shipping costs dropped dramatically, and port waiting times shrank.",
+      "japanese": "輸送コストは劇的に下がり、港での待ち時間も一気に縮まりました。",
+      "additionalInfoEn": "What once took weeks in harbor could now happen in less than a single day.",
+      "additionalInfoJa": "かつて港で何週間もかかっていた作業が、1日足らずで終わるようになったのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "costs",
+          "pos": "名詞",
+          "meaningJa": "コスト、費用"
+        },
+        {
+          "word": "dramatically",
+          "pos": "副詞",
+          "meaningJa": "劇的に"
+        },
+        {
+          "word": "shrank",
+          "pos": "動詞",
+          "meaningJa": "縮んだ（shrinkの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "dropped dramatically",
+        "ja": "劇的に下がった"
+      },
+      "explanationJa": "「drop dramatically」は経済やビジネスのニュースでよく使われる定番のペア表現です。"
+    },
+    {
+      "id": "sent-container-5",
+      "english": "Because of that metal box, goods from anywhere can reach your home.",
+      "japanese": "その金属の箱のおかげで、世界中のどこからの品物でもあなたの家に届くようになりました。",
+      "additionalInfoEn": "Today, giant container ships carry everything from coffee beans to laptops.",
+      "additionalInfoJa": "今日、巨大なコンテナ船はコーヒー豆からノートパソコンまであらゆるものを運んでいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "anywhere",
+          "pos": "副詞",
+          "meaningJa": "どこからでも、どこでも"
+        },
+        {
+          "word": "reach",
+          "pos": "動詞",
+          "meaningJa": "届く、到達する"
+        },
+        {
+          "word": "home",
+          "pos": "名詞",
+          "meaningJa": "家、家庭"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Because of",
+        "ja": "〜のおかげで、〜が理由で"
+      },
+      "explanationJa": "「Because of + 名詞」は「〜のせいで」だけでなく「〜のおかげで」という良い理由にも使えます。"
+    }
+  ]
+}

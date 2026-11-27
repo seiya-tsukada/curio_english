@@ -1,0 +1,167 @@
+{
+  "id": "topic-smiling-brain",
+  "categoryId": "human-psychology",
+  "titleEn": "How a Small Smile Changes Your Mood",
+  "titleJa": "笑顔をつくるだけで脳の気分が変わる理由",
+  "subtitleJa": "表情から心へ信号が伝わる「顔面フィードバック」。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-smile-1",
+      "english": "We usually smile when we feel happy inside.",
+      "japanese": "普段、私たちは心の中で幸せを感じたときに笑顔になります。",
+      "additionalInfoEn": "A smile is one of the first human signals shared across every culture.",
+      "additionalInfoJa": "笑顔は、あらゆる文化を超えて共有される最も基本的な人間のサインのひとつです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "usually",
+          "pos": "副詞",
+          "meaningJa": "普段は、たいてい"
+        },
+        {
+          "word": "smile",
+          "pos": "動詞",
+          "meaningJa": "微笑む、笑顔になる"
+        },
+        {
+          "word": "inside",
+          "pos": "副詞",
+          "meaningJa": "心の中で、内側に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "feel happy inside",
+        "ja": "心の中で幸せを感じる"
+      },
+      "explanationJa": "「usually」を使うと「いつもではないけれど普段はだいたい」という自然な頻度を伝えられます。"
+    },
+    {
+      "id": "sent-smile-2",
+      "english": "Interestingly, the opposite can also happen: smiling can lift your mood.",
+      "japanese": "興味深いことに、その逆も起こります。笑顔をつくることで気分が上向くことがあるのです。",
+      "additionalInfoEn": "Psychologists call this gentle loop the facial feedback effect.",
+      "additionalInfoJa": "心理学者はこの穏やかなループを「顔面フィードバック効果」と呼んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Interestingly",
+          "pos": "副詞",
+          "meaningJa": "興味深いことに"
+        },
+        {
+          "word": "lift",
+          "pos": "動詞",
+          "meaningJa": "持ち上げる、高める"
+        },
+        {
+          "word": "mood",
+          "pos": "名詞",
+          "meaningJa": "気分"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lift your mood",
+        "ja": "気分を上げる"
+      },
+      "explanationJa": "「lift your mood」は「気分を持ち上げる＝元気にする」という前向きな英語フレーズです。"
+    },
+    {
+      "id": "sent-smile-3",
+      "english": "Moving your face muscles sends a calm message to your brain.",
+      "japanese": "顔の筋肉を動かすことで、脳に「落ち着いているよ」というメッセージが送られます。",
+      "additionalInfoEn": "Your brain reads the relaxed muscles and lowers stress signals slightly.",
+      "additionalInfoJa": "脳はほぐれた筋肉の動きを読み取り、ストレスの信号を少し弱めてくれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "face",
+          "pos": "名詞",
+          "meaningJa": "顔"
+        },
+        {
+          "word": "muscles",
+          "pos": "名詞",
+          "meaningJa": "筋肉"
+        },
+        {
+          "word": "sends",
+          "pos": "動詞",
+          "meaningJa": "送る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "sends a message",
+        "ja": "メッセージを送る"
+      },
+      "explanationJa": "「Moving your face muscles」のように動名詞を主語にして、何がメッセージを送るのかを明確にしています。"
+    },
+    {
+      "id": "sent-smile-4",
+      "english": "Even a tiny, gentle smile can help you feel calmer during stress.",
+      "japanese": "ごく小さな優しい笑顔でも、ストレスの多いときに心を落ち着かせる助けになります。",
+      "additionalInfoEn": "It will not solve big problems, yet it gives you a softer starting point.",
+      "additionalInfoJa": "大きな問題そのものを解決するわけではありませんが、心の余裕を生むきっかけになります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "gentle",
+          "pos": "形容詞",
+          "meaningJa": "優しい、穏やかな"
+        },
+        {
+          "word": "calmer",
+          "pos": "形容詞",
+          "meaningJa": "より落ち着いた"
+        },
+        {
+          "word": "stress",
+          "pos": "名詞",
+          "meaningJa": "ストレス"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "feel calmer",
+        "ja": "より落ち着いた気分になる"
+      },
+      "explanationJa": "「calm（落ち着いた）」の比較級「calmer」を使うことで「以前より落ち着く」という変化を表せます。"
+    },
+    {
+      "id": "sent-smile-5",
+      "english": "Smiling at someone else often makes them smile right back at you.",
+      "japanese": "誰かに向かって微笑みかけると、相手も自然と笑顔を返してくれることが多いです。",
+      "additionalInfoEn": "Humans naturally mirror the friendly expressions of people nearby.",
+      "additionalInfoJa": "人間には、近くにいる人の友好的な表情を自然と真似する性質があるからです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Smiling",
+          "pos": "動詞",
+          "meaningJa": "微笑むこと"
+        },
+        {
+          "word": "someone",
+          "pos": "代名詞",
+          "meaningJa": "誰か"
+        },
+        {
+          "word": "back",
+          "pos": "副詞",
+          "meaningJa": "返して、戻って"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "smile back at",
+        "ja": "〜に笑顔を返す"
+      },
+      "explanationJa": "「smile at + 人」で「（人）に向かって微笑む」という意味になります。"
+    }
+  ]
+}

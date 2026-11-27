@@ -1,0 +1,167 @@
+{
+  "id": "topic-airline-overbooking",
+  "categoryId": "business-economy",
+  "titleEn": "Why Airlines Sometimes Sell Extra Tickets",
+  "titleJa": "航空会社が座席より多くチケットを売る理由",
+  "subtitleJa": "データ予測と空席リスクの経済学。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-airline-1",
+      "english": "Have you ever wondered why flights are sometimes overbooked?",
+      "japanese": "飛行機の座席が時々オーバーブッキング（予約超過）になる理由を不思議に思ったことはありますか？",
+      "additionalInfoEn": "Airlines actually sell a few more tickets than the plane has seats.",
+      "additionalInfoJa": "航空会社は実際、飛行機の座席数より少し多くのチケットを販売しています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wondered",
+          "pos": "動詞",
+          "meaningJa": "不思議に思った"
+        },
+        {
+          "word": "flights",
+          "pos": "名詞",
+          "meaningJa": "フライト、航空便"
+        },
+        {
+          "word": "sometimes",
+          "pos": "副詞",
+          "meaningJa": "時々"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Have you ever wondered",
+        "ja": "〜と不思議に思ったことはありますか？"
+      },
+      "explanationJa": "「Have you ever + 過去分詞?」は「これまでに〜したことがありますか？」という経験を聞く表現です。"
+    },
+    {
+      "id": "sent-airline-2",
+      "english": "On average, a small number of passengers miss or cancel their flight.",
+      "japanese": "平均すると、少数の乗客は飛行機に乗り遅れたり、直前にキャンセルしたりします。",
+      "additionalInfoEn": "Traffic jams, missed connections, or sudden illnesses happen every single day.",
+      "additionalInfoJa": "渋滞や乗り継ぎの遅れ、急な体調不良などが毎日必ず発生するからです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "average",
+          "pos": "名詞",
+          "meaningJa": "平均"
+        },
+        {
+          "word": "passengers",
+          "pos": "名詞",
+          "meaningJa": "乗客"
+        },
+        {
+          "word": "miss",
+          "pos": "動詞",
+          "meaningJa": "乗り遅れる、逃す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "On average",
+        "ja": "平均して"
+      },
+      "explanationJa": "「On average, 〜」を文頭につけるだけで、データや傾向の話がとても自然になります。"
+    },
+    {
+      "id": "sent-airline-3",
+      "english": "An empty seat on a flight brings zero income once the plane takes off.",
+      "japanese": "飛行機が一度離陸してしまうと、空席は利益をまったく生み出しません。",
+      "additionalInfoEn": "Unlike a shirt in a shop, an unsold seat cannot be sold tomorrow.",
+      "additionalInfoJa": "お店のシャツと違って、売れ残った座席を翌日に売ることはできないからです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "empty",
+          "pos": "形容詞",
+          "meaningJa": "空の"
+        },
+        {
+          "word": "seat",
+          "pos": "名詞",
+          "meaningJa": "座席"
+        },
+        {
+          "word": "income",
+          "pos": "名詞",
+          "meaningJa": "収入、利益"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "takes off",
+        "ja": "離陸する"
+      },
+      "explanationJa": "「once + 主語 + 動詞」で「一度〜してしまうと」という条件を表すことができます。"
+    },
+    {
+      "id": "sent-airline-4",
+      "english": "Airlines use past data to guess how many seats will stay empty.",
+      "japanese": "航空会社は過去のデータを使って、何席くらい空席が出るかを予測します。",
+      "additionalInfoEn": "If everyone shows up, the airline offers travel vouchers to volunteers.",
+      "additionalInfoJa": "もし全員が空港に現れた場合、航空会社は別の便に譲ってくれる協力者に謝礼を提示します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "data",
+          "pos": "名詞",
+          "meaningJa": "データ"
+        },
+        {
+          "word": "guess",
+          "pos": "動詞",
+          "meaningJa": "推測する、予想する"
+        },
+        {
+          "word": "stay",
+          "pos": "動詞",
+          "meaningJa": "〜のままでいる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "past data",
+        "ja": "過去のデータ"
+      },
+      "explanationJa": "「how many + 複数名詞」で「いくつの〜か」を聞く・表すことができます。"
+    },
+    {
+      "id": "sent-airline-5",
+      "english": "Filling more seats helps airlines keep average ticket prices lower.",
+      "japanese": "座席をより多く埋めることで、航空会社は平均的なチケット価格を低く抑えられるのです。",
+      "additionalInfoEn": "Hotels and rental car companies also use similar booking predictions.",
+      "additionalInfoJa": "ホテルやレンタカー会社も、同じような予約予測の仕組みを活用しています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Filling",
+          "pos": "動詞",
+          "meaningJa": "埋めること"
+        },
+        {
+          "word": "ticket",
+          "pos": "名詞",
+          "meaningJa": "チケット、航空券"
+        },
+        {
+          "word": "prices",
+          "pos": "名詞",
+          "meaningJa": "価格"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep prices lower",
+        "ja": "価格をより低く保つ"
+      },
+      "explanationJa": "「keep + 名詞 + 形容詞」で「〜をずっと（形容詞）の状態に保つ」という意味になります。"
+    }
+  ]
+}

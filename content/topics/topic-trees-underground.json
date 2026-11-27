@@ -1,0 +1,167 @@
+{
+  "id": "topic-trees-underground",
+  "categoryId": "space-science",
+  "titleEn": "How Forest Trees Share Food Underground",
+  "titleJa": "森の木々が地下で栄養を分け合う仕組み",
+  "subtitleJa": "静かに見える森の足元で広がる、菌類とのネットワーク。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-trees-1",
+      "english": "Trees in a forest are connected underground by tiny fungi.",
+      "japanese": "森の木々は、地下で小さな菌類によってつながっています。",
+      "additionalInfoEn": "Scientists sometimes call this hidden network the \"Wood Wide Web.\"",
+      "additionalInfoJa": "科学者たちはこの隠れたネットワークを「ウッド・ワイド・ウェブ」と呼ぶことがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "forest",
+          "pos": "名詞",
+          "meaningJa": "森"
+        },
+        {
+          "word": "connected",
+          "pos": "動詞",
+          "meaningJa": "つながっている"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さな"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "connected by",
+        "ja": "〜によってつながっている"
+      },
+      "explanationJa": "「are connected」は受動態（〜されている）の形です。状態を表すときによく使われます。"
+    },
+    {
+      "id": "sent-trees-2",
+      "english": "Big trees can send sugar and water to smaller young trees.",
+      "japanese": "大きな木は、小さな若い木に糖分や水を送ることができます。",
+      "additionalInfoEn": "Young trees in deep shade do not get enough sunlight to make their own food.",
+      "additionalInfoJa": "日陰にいる若い木は、自分で栄養をつくるのに十分な日光を浴びられないからです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sugar",
+          "pos": "名詞",
+          "meaningJa": "糖分、砂糖"
+        },
+        {
+          "word": "young",
+          "pos": "形容詞",
+          "meaningJa": "若い"
+        },
+        {
+          "word": "send",
+          "pos": "動詞",
+          "meaningJa": "送る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "send A to B",
+        "ja": "AをBに送る"
+      },
+      "explanationJa": "「send + モノ + to + 相手」というシンプルな語順で、誰に何を送るかを伝えられます。"
+    },
+    {
+      "id": "sent-trees-3",
+      "english": "In return, the fungi receive carbon from the tree roots.",
+      "japanese": "その見返りとして、菌類は木の根から炭素を受け取ります。",
+      "additionalInfoEn": "Both the trees and the fungi help each other survive.",
+      "additionalInfoJa": "木と菌類の両方が、お互いに生き残るのを助け合っているのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "receive",
+          "pos": "動詞",
+          "meaningJa": "受け取る"
+        },
+        {
+          "word": "carbon",
+          "pos": "名詞",
+          "meaningJa": "炭素"
+        },
+        {
+          "word": "roots",
+          "pos": "名詞",
+          "meaningJa": "根"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "In return",
+        "ja": "お返しに、見返りとして"
+      },
+      "explanationJa": "「In return」を文の始めに置くと、「その代わりに・お返しに」という流れをスムーズに作れます。"
+    },
+    {
+      "id": "sent-trees-4",
+      "english": "Trees can also send chemical warnings when insects attack them.",
+      "japanese": "木々は、虫に襲われたときに化学的な警告信号を送ることもできます。",
+      "additionalInfoEn": "Nearby trees receive the signal and begin producing bitter leaves.",
+      "additionalInfoJa": "近くの木はその信号を受け取ると、虫が嫌がる苦い葉を作り始めます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "chemical",
+          "pos": "形容詞",
+          "meaningJa": "化学的な"
+        },
+        {
+          "word": "warnings",
+          "pos": "名詞",
+          "meaningJa": "警告"
+        },
+        {
+          "word": "insects",
+          "pos": "名詞",
+          "meaningJa": "昆虫"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "send warnings",
+        "ja": "警告を送る"
+      },
+      "explanationJa": "「also」は「〜もまた」という意味で、動詞（can の後）の近くに置いて追加情報を伝えます。"
+    },
+    {
+      "id": "sent-trees-5",
+      "english": "A quiet forest is actually a busy community under the soil.",
+      "japanese": "静かに見える森は、実は土の下ではにぎやかなコミュニティなのです。",
+      "additionalInfoEn": "Healthy soil supports thousands of living species in a single handful.",
+      "additionalInfoJa": "健康な土には、ひと握りの中に何千もの生き物が暮らしています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "quiet",
+          "pos": "形容詞",
+          "meaningJa": "静かな"
+        },
+        {
+          "word": "community",
+          "pos": "名詞",
+          "meaningJa": "コミュニティ、共同体"
+        },
+        {
+          "word": "soil",
+          "pos": "名詞",
+          "meaningJa": "土、土壌"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "actually",
+        "ja": "実は、実際は"
+      },
+      "explanationJa": "「actually」は「実はね」と意外な事実を伝えるときに会話で非常によく使われる単語です。"
+    }
+  ]
+}

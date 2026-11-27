@@ -1,0 +1,167 @@
+{
+  "id": "topic-sweden-fika",
+  "categoryId": "world-culture",
+  "titleEn": "The Meaning of \"Fika\" in Sweden",
+  "titleJa": "スウェーデンの大切なコーヒー時間「フィーカ」",
+  "subtitleJa": "ただの休憩ではない、人とつながる北欧の習慣。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-fika-1",
+      "english": "In Sweden, people love a daily tradition called \"fika.\"",
+      "japanese": "スウェーデンでは、人々は「フィーカ」と呼ばれる毎日の習慣を大切にしています。",
+      "additionalInfoEn": "It simply means slowing down to enjoy coffee and a sweet pastry with others.",
+      "additionalInfoJa": "それは、誰かと一緒にコーヒーと甘いお菓子を楽しみながら一息つく時間を意味します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Sweden",
+          "pos": "名詞",
+          "meaningJa": "スウェーデン"
+        },
+        {
+          "word": "daily",
+          "pos": "形容詞",
+          "meaningJa": "毎日の"
+        },
+        {
+          "word": "tradition",
+          "pos": "名詞",
+          "meaningJa": "伝統、習慣"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "called \"fika\"",
+        "ja": "「フィーカ」と呼ばれる"
+      },
+      "explanationJa": "「名詞 + called 〜」で「〜と呼ばれる（名詞）」という説明を後ろから付け足せます。"
+    },
+    {
+      "id": "sent-fika-2",
+      "english": "Fika is much more than just grabbing a quick coffee at your desk.",
+      "japanese": "フィーカは、デスクでサッとコーヒーを飲むだけのこととはまったく違います。",
+      "additionalInfoEn": "People step away from screens and sit together to talk face to face.",
+      "additionalInfoJa": "人々は画面から離れ、一緒に座って顔を合わせておしゃべりをします。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "grabbing",
+          "pos": "動詞",
+          "meaningJa": "サッと手に取ること"
+        },
+        {
+          "word": "quick",
+          "pos": "形容詞",
+          "meaningJa": "素早い、ちょっとの"
+        },
+        {
+          "word": "desk",
+          "pos": "名詞",
+          "meaningJa": "机、デスク"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more than just",
+        "ja": "ただの〜以上のもの"
+      },
+      "explanationJa": "「more than just 〜」で「単なる〜にとどまらない」という豊かなニュアンスを出せます。"
+    },
+    {
+      "id": "sent-fika-3",
+      "english": "Cinnamon buns are the classic snack served during fika.",
+      "japanese": "シナモンロールは、フィーカの時間に出される定番のお菓子です。",
+      "additionalInfoEn": "Swedish bakeries bake warm, cardamom-scented buns fresh every morning.",
+      "additionalInfoJa": "スウェーデンのパン屋さんでは毎朝、カルダモンが香る焼きたてのパンが並びます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "classic",
+          "pos": "形容詞",
+          "meaningJa": "定番の、伝統的な"
+        },
+        {
+          "word": "snack",
+          "pos": "名詞",
+          "meaningJa": "おやつ、軽食"
+        },
+        {
+          "word": "served",
+          "pos": "動詞",
+          "meaningJa": "出される、提供される"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "classic snack",
+        "ja": "定番のおやつ"
+      },
+      "explanationJa": "「classic」は「古い」だけでなく「王道の・定番の」というポジティブな意味でよく使われます。"
+    },
+    {
+      "id": "sent-fika-4",
+      "english": "Many Swedish companies even schedule fika breaks into the workday.",
+      "japanese": "スウェーデンの多くの企業では、勤務時間の中にフィーカの休憩を組み込んでさえいます。",
+      "additionalInfoEn": "Relaxed chats between managers and staff often spark fresh ideas.",
+      "additionalInfoJa": "上司と部下がリラックスして会話することで、新しいアイデアが生まれることも多いのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "companies",
+          "pos": "名詞",
+          "meaningJa": "企業、会社"
+        },
+        {
+          "word": "schedule",
+          "pos": "動詞",
+          "meaningJa": "予定に組み込む"
+        },
+        {
+          "word": "breaks",
+          "pos": "名詞",
+          "meaningJa": "休憩"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "schedule breaks",
+        "ja": "休憩を予定に入れる"
+      },
+      "explanationJa": "「Many + 複数名詞」で「多くの〜」。ここでは「companies（companyの複数形）」が来ています。"
+    },
+    {
+      "id": "sent-fika-5",
+      "english": "Taking fifteen calm minutes to pause can brighten the whole afternoon.",
+      "japanese": "15分間ゆったりと立ち止まる時間を持つだけで、午後全体が明るくなります。",
+      "additionalInfoEn": "You can enjoy your own fika anywhere with a warm cup and no rush.",
+      "additionalInfoJa": "温かい飲み物と少しの余裕があれば、どこでも自分だけのフィーカを楽しめます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "fifteen",
+          "pos": "数詞",
+          "meaningJa": "15"
+        },
+        {
+          "word": "pause",
+          "pos": "動詞",
+          "meaningJa": "一息つく、立ち止まる"
+        },
+        {
+          "word": "brighten",
+          "pos": "動詞",
+          "meaningJa": "明るくする"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Taking fifteen minutes",
+        "ja": "15分の時間を使うこと"
+      },
+      "explanationJa": "動詞に「-ing」をつけた動名詞（Taking ...）を主語にすると、「〜すること」という文が作れます。"
+    }
+  ]
+}
