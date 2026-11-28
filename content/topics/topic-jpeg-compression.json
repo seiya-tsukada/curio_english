@@ -1,0 +1,167 @@
+{
+  "id": "topic-jpeg-compression",
+  "categoryId": "technology",
+  "titleEn": "How Photos Get Smaller Without Looking Worse",
+  "titleJa": "写真のデータが見た目を変えずに小さくなる仕組み",
+  "subtitleJa": "JPEGは、人間の目が気づかない情報をこっそり捨てている。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-17",
+  "sentences": [
+    {
+      "id": "sent-jpeg-compression-1",
+      "english": "A single photo from a phone camera contains millions of pixels.",
+      "japanese": "スマホのカメラで撮った1枚の写真には、何百万もの画素が含まれています。",
+      "additionalInfoEn": "Storing every pixel exactly would make each file very large.",
+      "additionalInfoJa": "すべての画素をそのまま保存すると、ファイルはとても大きくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "single",
+          "pos": "形容詞",
+          "meaningJa": "たった一つの"
+        },
+        {
+          "word": "contains",
+          "pos": "動詞",
+          "meaningJa": "含む"
+        },
+        {
+          "word": "pixels",
+          "pos": "名詞",
+          "meaningJa": "画素"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "millions of",
+        "ja": "何百万もの"
+      },
+      "explanationJa": "「A single 〜」は「たった1つの〜」と、1つであることを強調する表現です。"
+    },
+    {
+      "id": "sent-jpeg-compression-2",
+      "english": "The JPEG format shrinks photos by throwing away details we barely notice.",
+      "japanese": "JPEG形式は、私たちがほとんど気づかない細部を捨てることで写真を小さくします。",
+      "additionalInfoEn": "This often makes a file about ten times smaller.",
+      "additionalInfoJa": "これにより、ファイルが10分の1ほどになることもよくあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "format",
+          "pos": "名詞",
+          "meaningJa": "形式"
+        },
+        {
+          "word": "shrinks",
+          "pos": "動詞",
+          "meaningJa": "縮める"
+        },
+        {
+          "word": "barely",
+          "pos": "副詞",
+          "meaningJa": "ほとんど〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "throw away",
+        "ja": "捨てる"
+      },
+      "explanationJa": "「details we barely notice」は that が省略され、「ほとんど気づかない細部」となっています。"
+    },
+    {
+      "id": "sent-jpeg-compression-3",
+      "english": "Our eyes are much more sensitive to brightness than to small changes in color.",
+      "japanese": "私たちの目は、色の小さな変化よりも明るさにずっと敏感です。",
+      "additionalInfoEn": "So JPEG keeps brightness carefully but stores color more roughly.",
+      "additionalInfoJa": "そのためJPEGは、明るさは丁寧に残し、色はより大まかに保存します。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "sensitive",
+          "pos": "形容詞",
+          "meaningJa": "敏感な"
+        },
+        {
+          "word": "brightness",
+          "pos": "名詞",
+          "meaningJa": "明るさ"
+        },
+        {
+          "word": "changes",
+          "pos": "名詞",
+          "meaningJa": "変化"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be sensitive to",
+        "ja": "〜に敏感である"
+      },
+      "explanationJa": "「much more 〜 than …」で「…よりずっと〜」と、大きな差を強調できます。"
+    },
+    {
+      "id": "sent-jpeg-compression-4",
+      "english": "It also splits the image into small blocks and simplifies the fine patterns inside.",
+      "japanese": "また、画像を小さなブロックに分けて、その中の細かい模様を単純にします。",
+      "additionalInfoEn": "Each block is just eight pixels wide and eight pixels tall.",
+      "additionalInfoJa": "各ブロックは、縦横たった8画素ずつです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "splits",
+          "pos": "動詞",
+          "meaningJa": "分割する"
+        },
+        {
+          "word": "blocks",
+          "pos": "名詞",
+          "meaningJa": "ブロック"
+        },
+        {
+          "word": "simplifies",
+          "pos": "動詞",
+          "meaningJa": "単純にする"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "split A into B",
+        "ja": "AをBに分ける"
+      },
+      "explanationJa": "「split A into B」で「AをBに分ける」。into は分けた後の形を表します。"
+    },
+    {
+      "id": "sent-jpeg-compression-5",
+      "english": "If you edit and save a JPEG again and again, it loses detail each time.",
+      "japanese": "JPEGを何度も編集して保存し直すと、そのたびに細部が失われていきます。",
+      "additionalInfoEn": "Heavily squeezed photos may show blurry, blocky edges.",
+      "additionalInfoJa": "強く圧縮された写真には、ぼやけたブロック状のふちが出ることがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "edit",
+          "pos": "動詞",
+          "meaningJa": "編集する"
+        },
+        {
+          "word": "save",
+          "pos": "動詞",
+          "meaningJa": "保存する"
+        },
+        {
+          "word": "detail",
+          "pos": "名詞",
+          "meaningJa": "細部"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "again and again",
+        "ja": "何度も"
+      },
+      "explanationJa": "「again and again」は「何度も繰り返して」という意味で、同じ動作が続くことを表します。"
+    }
+  ]
+}

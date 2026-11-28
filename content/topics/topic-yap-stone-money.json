@@ -1,0 +1,167 @@
+{
+  "id": "topic-yap-stone-money",
+  "categoryId": "business-economy",
+  "titleEn": "The Giant Stone Money of Yap",
+  "titleJa": "ヤップ島の動かない巨大な石のお金",
+  "subtitleJa": "お金の正体は、石ではなく「みんなの記憶」だった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-25",
+  "sentences": [
+    {
+      "id": "sent-yap-stone-money-1",
+      "english": "On the Pacific island of Yap, people once used giant stones as money.",
+      "japanese": "太平洋のヤップ島では、かつて人々が巨大な石をお金として使っていました。",
+      "additionalInfoEn": "Yap is part of Micronesia, in the western Pacific Ocean.",
+      "additionalInfoJa": "ヤップ島は、西太平洋にあるミクロネシアの一部です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "island",
+          "pos": "名詞",
+          "meaningJa": "島"
+        },
+        {
+          "word": "once",
+          "pos": "副詞",
+          "meaningJa": "かつて"
+        },
+        {
+          "word": "giant",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as money",
+        "ja": "お金として"
+      },
+      "explanationJa": "「use A as B」で「AをBとして使う」という意味です。「once」は「かつて」を表します。"
+    },
+    {
+      "id": "sent-yap-stone-money-2",
+      "english": "Some of these round stones were taller than a grown man.",
+      "japanese": "これらの丸い石の中には、大人の男性より背の高いものもありました。",
+      "additionalInfoEn": "The largest ones are about 3.6 meters wide.",
+      "additionalInfoJa": "最も大きいものは、直径が約3.6メートルもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "round",
+          "pos": "形容詞",
+          "meaningJa": "丸い"
+        },
+        {
+          "word": "taller",
+          "pos": "形容詞",
+          "meaningJa": "より背が高い"
+        },
+        {
+          "word": "grown",
+          "pos": "形容詞",
+          "meaningJa": "成長した、大人の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "taller than",
+        "ja": "〜より高い"
+      },
+      "explanationJa": "「Some of 〜」で「〜のうちのいくつか」です。「grown man」は「大人の男性」という意味です。"
+    },
+    {
+      "id": "sent-yap-stone-money-3",
+      "english": "The stones were too heavy to move, so they stayed in one place.",
+      "japanese": "石は重すぎて動かせなかったので、一か所に置かれたままでした。",
+      "additionalInfoEn": "They were carried by canoe from Palau, hundreds of kilometers away.",
+      "additionalInfoJa": "石は数百キロ離れたパラオからカヌーで運ばれてきました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "heavy",
+          "pos": "形容詞",
+          "meaningJa": "重い"
+        },
+        {
+          "word": "move",
+          "pos": "動詞",
+          "meaningJa": "動かす"
+        },
+        {
+          "word": "stayed",
+          "pos": "動詞",
+          "meaningJa": "とどまった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "too heavy to move",
+        "ja": "重すぎて動かせない"
+      },
+      "explanationJa": "「too + 形容詞 + to 〜」で「…すぎて〜できない」という意味になります。"
+    },
+    {
+      "id": "sent-yap-stone-money-4",
+      "english": "When a stone changed owners, everyone simply remembered who owned it now.",
+      "japanese": "石の持ち主が変わると、みんなは今だれが持っているかをただ覚えておきました。",
+      "additionalInfoEn": "Ownership was recorded in people's memories, not on paper.",
+      "additionalInfoJa": "所有権は紙ではなく、人々の記憶に記録されていたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "owners",
+          "pos": "名詞",
+          "meaningJa": "持ち主"
+        },
+        {
+          "word": "simply",
+          "pos": "副詞",
+          "meaningJa": "ただ単に"
+        },
+        {
+          "word": "owned",
+          "pos": "動詞",
+          "meaningJa": "所有した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "changed owners",
+        "ja": "持ち主が変わった"
+      },
+      "explanationJa": "「who owned it now」は「今だれがそれを持っているか」という意味の名詞のかたまりです。"
+    },
+    {
+      "id": "sent-yap-stone-money-5",
+      "english": "One stone even sank in the sea but was still used for payment.",
+      "japanese": "ある石は海に沈んでしまいましたが、それでも支払いに使われ続けました。",
+      "additionalInfoEn": "Everyone agreed it existed, so it kept its value.",
+      "additionalInfoJa": "みんながその存在を認めていたので、価値は失われなかったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sank",
+          "pos": "動詞",
+          "meaningJa": "沈んだ（sinkの過去形）"
+        },
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "それでも"
+        },
+        {
+          "word": "payment",
+          "pos": "名詞",
+          "meaningJa": "支払い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "used for payment",
+        "ja": "支払いに使われた"
+      },
+      "explanationJa": "「even」は「〜さえ」と驚きを表します。「sank」は「sink（沈む）」の不規則な過去形です。"
+    }
+  ]
+}

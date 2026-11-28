@@ -1,0 +1,167 @@
+{
+  "id": "topic-qr-code-squares",
+  "categoryId": "technology",
+  "titleEn": "The Secret of the QR Code Squares",
+  "titleJa": "QRコードの角にある3つの四角の役目",
+  "subtitleJa": "日本生まれの小さな模様に隠された工夫。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-03",
+  "sentences": [
+    {
+      "id": "sent-qr-code-squares-1",
+      "english": "QR codes were invented in Japan in 1994.",
+      "japanese": "QRコードは1994年に日本で発明されました。",
+      "additionalInfoEn": "A company used them to keep track of car parts in factories.",
+      "additionalInfoJa": "ある会社が、工場で車の部品を管理するために使いました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "codes",
+          "pos": "名詞",
+          "meaningJa": "コード"
+        },
+        {
+          "word": "invented",
+          "pos": "動詞",
+          "meaningJa": "発明した"
+        },
+        {
+          "word": "Japan",
+          "pos": "名詞",
+          "meaningJa": "日本"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "were invented in",
+        "ja": "〜で発明された"
+      },
+      "explanationJa": "「were + 過去分詞」は受け身の形で、「〜された」という意味になります。"
+    },
+    {
+      "id": "sent-qr-code-squares-2",
+      "english": "They can hold much more information than a normal barcode.",
+      "japanese": "QRコードは、普通のバーコードよりずっと多くの情報を入れられます。",
+      "additionalInfoEn": "A barcode is read in one direction, but a QR code is read in two.",
+      "additionalInfoJa": "バーコードは一方向に読みますが、QRコードは縦と横の二方向で読みます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "hold",
+          "pos": "動詞",
+          "meaningJa": "保持する、入れる"
+        },
+        {
+          "word": "information",
+          "pos": "名詞",
+          "meaningJa": "情報"
+        },
+        {
+          "word": "normal",
+          "pos": "形容詞",
+          "meaningJa": "普通の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "much more ~ than",
+        "ja": "〜よりずっと多くの"
+      },
+      "explanationJa": "「much + 比較級」で「ずっと〜」と、比較の差を強めることができます。"
+    },
+    {
+      "id": "sent-qr-code-squares-3",
+      "english": "If you look closely, you will see three big squares in the corners.",
+      "japanese": "よく見ると、角に3つの大きな四角があるのがわかります。",
+      "additionalInfoEn": "The fourth corner is left without a big square on purpose.",
+      "additionalInfoJa": "4つ目の角には、わざと大きな四角が置かれていません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "closely",
+          "pos": "副詞",
+          "meaningJa": "よく、注意深く"
+        },
+        {
+          "word": "squares",
+          "pos": "名詞",
+          "meaningJa": "四角"
+        },
+        {
+          "word": "corners",
+          "pos": "名詞",
+          "meaningJa": "角"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the corners",
+        "ja": "角に"
+      },
+      "explanationJa": "「If you 〜, you will …」で「〜すれば…するでしょう」と、条件と結果を表せます。"
+    },
+    {
+      "id": "sent-qr-code-squares-4",
+      "english": "These squares show the scanner where the code is and how it is turned.",
+      "japanese": "この四角が、コードの位置と向きを読み取り機に教えます。",
+      "additionalInfoEn": "So you can scan a QR code from almost any angle.",
+      "additionalInfoJa": "そのため、ほぼどんな角度からでもQRコードを読み取れます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "scanner",
+          "pos": "名詞",
+          "meaningJa": "読み取り機"
+        },
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "示す、教える"
+        },
+        {
+          "word": "turned",
+          "pos": "動詞",
+          "meaningJa": "向けられた、回された"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "where the code is",
+        "ja": "コードがどこにあるか"
+      },
+      "explanationJa": "「where the code is」は、疑問詞のあとが「主語 + 動詞」の語順になる間接疑問です。"
+    },
+    {
+      "id": "sent-qr-code-squares-5",
+      "english": "A QR code still works even if part of it is dirty or torn.",
+      "japanese": "QRコードは、一部が汚れたり破れたりしていても読み取れます。",
+      "additionalInfoEn": "Backup data inside lets scanners fix up to about 30% damage.",
+      "additionalInfoJa": "内部の予備データのおかげで、約30%までの損傷なら補えます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "works",
+          "pos": "動詞",
+          "meaningJa": "機能する"
+        },
+        {
+          "word": "dirty",
+          "pos": "形容詞",
+          "meaningJa": "汚れた"
+        },
+        {
+          "word": "torn",
+          "pos": "形容詞",
+          "meaningJa": "破れた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "even if",
+        "ja": "たとえ〜でも"
+      },
+      "explanationJa": "「even if 〜」は「たとえ〜でも」という意味で、条件があっても結果が変わらないことを表します。"
+    }
+  ]
+}

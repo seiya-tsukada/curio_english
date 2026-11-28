@@ -1,0 +1,167 @@
+{
+  "id": "topic-rice-cooker-switch",
+  "categoryId": "technology",
+  "titleEn": "How a Rice Cooker Knows Rice Is Ready",
+  "titleJa": "炊飯器がご飯の炊き上がりを知る仕組み",
+  "subtitleJa": "カギは、水が沸騰する温度「100℃」にあった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-27",
+  "sentences": [
+    {
+      "id": "sent-rice-cooker-switch-1",
+      "english": "A simple rice cooker has no timer, yet it stops at the right moment.",
+      "japanese": "シンプルな炊飯器にはタイマーがないのに、ちょうどいいときに止まります。",
+      "additionalInfoEn": "The first automatic electric rice cooker went on sale in Japan in 1955.",
+      "additionalInfoJa": "最初の自動式電気炊飯器は、1955年に日本で発売されました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "simple",
+          "pos": "形容詞",
+          "meaningJa": "シンプルな"
+        },
+        {
+          "word": "timer",
+          "pos": "名詞",
+          "meaningJa": "タイマー"
+        },
+        {
+          "word": "moment",
+          "pos": "名詞",
+          "meaningJa": "瞬間、とき"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at the right moment",
+        "ja": "ちょうどいいときに"
+      },
+      "explanationJa": "「yet」は「それなのに」という意味で、意外な内容をつなぐときに使います。"
+    },
+    {
+      "id": "sent-rice-cooker-switch-2",
+      "english": "The trick is that boiling water stays at about 100 degrees Celsius.",
+      "japanese": "その秘密は、沸騰している水がおよそ100℃のままだということです。",
+      "additionalInfoEn": "Extra heat turns the water into steam instead of raising its temperature.",
+      "additionalInfoJa": "余分な熱は、温度を上げる代わりに水を蒸気に変えます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "trick",
+          "pos": "名詞",
+          "meaningJa": "秘訣、仕掛け"
+        },
+        {
+          "word": "boiling",
+          "pos": "形容詞",
+          "meaningJa": "沸騰している"
+        },
+        {
+          "word": "degrees",
+          "pos": "名詞",
+          "meaningJa": "度"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stays at about",
+        "ja": "約〜のままである"
+      },
+      "explanationJa": "「The trick is that 〜」で「秘訣は〜ということだ」と、ポイントを伝えられます。"
+    },
+    {
+      "id": "sent-rice-cooker-switch-3",
+      "english": "As long as there is water in the pot, the bottom stays that hot.",
+      "japanese": "釜に水が残っている間は、底もその温度のままです。",
+      "additionalInfoEn": "Meanwhile, the rice slowly soaks up the water as it cooks.",
+      "additionalInfoJa": "その間に、お米は炊けながらゆっくりと水を吸い込んでいきます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "pot",
+          "pos": "名詞",
+          "meaningJa": "釜、なべ"
+        },
+        {
+          "word": "bottom",
+          "pos": "名詞",
+          "meaningJa": "底"
+        },
+        {
+          "word": "stays",
+          "pos": "動詞",
+          "meaningJa": "〜のままでいる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as long as",
+        "ja": "〜する限り、〜する間は"
+      },
+      "explanationJa": "「as long as 〜」は「〜である限り、〜する間は」と、条件や期間を表します。"
+    },
+    {
+      "id": "sent-rice-cooker-switch-4",
+      "english": "When the water is gone, the temperature quickly rises above 100 degrees.",
+      "japanese": "水がなくなると、温度はすぐに100℃を超えて上がります。",
+      "additionalInfoEn": "This sudden rise is the signal that the rice is done.",
+      "additionalInfoJa": "この急な上昇が、ご飯が炊けたという合図になります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "gone",
+          "pos": "形容詞",
+          "meaningJa": "なくなった"
+        },
+        {
+          "word": "temperature",
+          "pos": "名詞",
+          "meaningJa": "温度"
+        },
+        {
+          "word": "rises",
+          "pos": "動詞",
+          "meaningJa": "上がる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rise above",
+        "ja": "〜を超えて上がる"
+      },
+      "explanationJa": "「be gone」は「なくなった、消えた」という状態を表す、会話でもよく使う表現です。"
+    },
+    {
+      "id": "sent-rice-cooker-switch-5",
+      "english": "A special magnet loses its pull at that heat and flips the switch off.",
+      "japanese": "特別な磁石がその熱で磁力を失い、スイッチを切ります。",
+      "additionalInfoEn": "Many cookers then move to a gentle keep-warm mode.",
+      "additionalInfoJa": "多くの炊飯器は、その後やさしい保温モードに切り替わります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "magnet",
+          "pos": "名詞",
+          "meaningJa": "磁石"
+        },
+        {
+          "word": "loses",
+          "pos": "動詞",
+          "meaningJa": "失う"
+        },
+        {
+          "word": "flips",
+          "pos": "動詞",
+          "meaningJa": "パチンと切り替える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "flip the switch off",
+        "ja": "スイッチを切る"
+      },
+      "explanationJa": "「flip 〜 off」は「パチンと〜を切る」。逆に「flip 〜 on」で「オンにする」となります。"
+    }
+  ]
+}

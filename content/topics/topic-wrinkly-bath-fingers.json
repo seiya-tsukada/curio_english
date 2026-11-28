@@ -1,0 +1,167 @@
+{
+  "id": "topic-wrinkly-bath-fingers",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Fingers Wrinkle in Water",
+  "titleJa": "お風呂で指がしわしわになる理由",
+  "subtitleJa": "ただ水を吸っているだけではなかった。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-18",
+  "sentences": [
+    {
+      "id": "sent-wrinkly-bath-fingers-1",
+      "english": "After a long bath, your fingers and toes become wrinkly.",
+      "japanese": "長くお風呂に入ったあと、手足の指はしわしわになります。",
+      "additionalInfoEn": "It usually starts after about five to ten minutes in water.",
+      "additionalInfoJa": "たいてい、水に入って5分から10分ほどで始まります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "bath",
+          "pos": "名詞",
+          "meaningJa": "お風呂"
+        },
+        {
+          "word": "toes",
+          "pos": "名詞",
+          "meaningJa": "足の指"
+        },
+        {
+          "word": "wrinkly",
+          "pos": "形容詞",
+          "meaningJa": "しわの寄った"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "after a long bath",
+        "ja": "長いお風呂のあとで"
+      },
+      "explanationJa": "「become + 形容詞」は「〜になる」。状態が変化することを表す基本の形です。"
+    },
+    {
+      "id": "sent-wrinkly-bath-fingers-2",
+      "english": "Many people think the skin simply soaks up water like a sponge.",
+      "japanese": "多くの人は、皮膚がスポンジのように水を吸っているだけだと思っています。",
+      "additionalInfoEn": "That idea sounds natural, but it is not the full story.",
+      "additionalInfoJa": "自然な考えに聞こえますが、それだけでは説明しきれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "skin",
+          "pos": "名詞",
+          "meaningJa": "皮膚"
+        },
+        {
+          "word": "simply",
+          "pos": "副詞",
+          "meaningJa": "単に"
+        },
+        {
+          "word": "sponge",
+          "pos": "名詞",
+          "meaningJa": "スポンジ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "soak up",
+        "ja": "吸い取る"
+      },
+      "explanationJa": "「like + 名詞」は「〜のように」。likeは「好き」以外に、たとえを表す前置詞にもなります。"
+    },
+    {
+      "id": "sent-wrinkly-bath-fingers-3",
+      "english": "In fact, your nerves tell tiny blood vessels in your fingers to shrink.",
+      "japanese": "実は、神経が指の細い血管に「縮め」という指令を出しているのです。",
+      "additionalInfoEn": "People with certain kinds of nerve damage don't get wrinkly fingers at all.",
+      "additionalInfoJa": "神経に特定の損傷がある人は、指がまったくしわしわになりません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "nerves",
+          "pos": "名詞",
+          "meaningJa": "神経"
+        },
+        {
+          "word": "vessels",
+          "pos": "名詞",
+          "meaningJa": "管、血管"
+        },
+        {
+          "word": "shrink",
+          "pos": "動詞",
+          "meaningJa": "縮む"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "In fact",
+        "ja": "実は"
+      },
+      "explanationJa": "「tell + 人 + to 〜」は「人に〜するよう言う」。ここでは神経が血管に指令を出すイメージです。"
+    },
+    {
+      "id": "sent-wrinkly-bath-fingers-4",
+      "english": "Some scientists think the wrinkles help us hold wet things better.",
+      "japanese": "このしわは、濡れたものをつかみやすくしてくれると考える科学者もいます。",
+      "additionalInfoEn": "They may work a bit like the grooves on car tires.",
+      "additionalInfoJa": "車のタイヤの溝のような働きをしているのかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wrinkles",
+          "pos": "名詞",
+          "meaningJa": "しわ"
+        },
+        {
+          "word": "hold",
+          "pos": "動詞",
+          "meaningJa": "つかむ、持つ"
+        },
+        {
+          "word": "wet",
+          "pos": "形容詞",
+          "meaningJa": "濡れた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "help us hold",
+        "ja": "私たちが〜をつかむのを助ける"
+      },
+      "explanationJa": "「help + 人 + 動詞の原形」は「人が〜するのを助ける」。toを入れずに言えます。"
+    },
+    {
+      "id": "sent-wrinkly-bath-fingers-5",
+      "english": "However, not every study agrees, so the question is still open.",
+      "japanese": "ただし、すべての研究が一致しているわけではなく、まだ答えは出ていません。",
+      "additionalInfoEn": "Even a simple bath can hide a scientific mystery.",
+      "additionalInfoJa": "何気ないお風呂にも、科学の謎が隠れているのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "However",
+          "pos": "副詞",
+          "meaningJa": "しかしながら"
+        },
+        {
+          "word": "agrees",
+          "pos": "動詞",
+          "meaningJa": "一致する、同意する"
+        },
+        {
+          "word": "open",
+          "pos": "形容詞",
+          "meaningJa": "未解決の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "still open",
+        "ja": "まだ答えが出ていない"
+      },
+      "explanationJa": "「not every 〜」は「すべてが〜というわけではない」という部分否定の表現です。"
+    }
+  ]
+}

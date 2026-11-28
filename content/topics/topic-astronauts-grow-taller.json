@@ -1,0 +1,167 @@
+{
+  "id": "topic-astronauts-grow-taller",
+  "categoryId": "space-science",
+  "titleEn": "Astronauts Grow Taller in Space",
+  "titleJa": "宇宙に行くと背が伸びる理由",
+  "subtitleJa": "重力がない場所で、人間の体に起こる小さな変化。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-08",
+  "sentences": [
+    {
+      "id": "sent-astronauts-grow-taller-1",
+      "english": "Astronauts can become a few centimeters taller in space.",
+      "japanese": "宇宙飛行士は、宇宙で数センチメートル背が伸びることがあります。",
+      "additionalInfoEn": "Some astronauts grow up to about five centimeters.",
+      "additionalInfoJa": "なかには、5センチメートル近く伸びる宇宙飛行士もいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "become",
+          "pos": "動詞",
+          "meaningJa": "〜になる"
+        },
+        {
+          "word": "few",
+          "pos": "形容詞",
+          "meaningJa": "少数の"
+        },
+        {
+          "word": "taller",
+          "pos": "形容詞",
+          "meaningJa": "より背が高い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a few centimeters",
+        "ja": "数センチメートル"
+      },
+      "explanationJa": "「a few + 複数名詞」で「いくつかの、少しの」という意味です。「a」がないと「ほとんどない」になります。"
+    },
+    {
+      "id": "sent-astronauts-grow-taller-2",
+      "english": "On Earth, gravity always presses our spine down.",
+      "japanese": "地球では、重力がいつも私たちの背骨を下に押しつけています。",
+      "additionalInfoEn": "That is why people are slightly shorter at night than in the morning.",
+      "additionalInfoJa": "そのため、人は朝よりも夜のほうが少しだけ背が低くなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "gravity",
+          "pos": "名詞",
+          "meaningJa": "重力"
+        },
+        {
+          "word": "presses",
+          "pos": "動詞",
+          "meaningJa": "押す、押しつける"
+        },
+        {
+          "word": "spine",
+          "pos": "名詞",
+          "meaningJa": "背骨"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "presses our spine down",
+        "ja": "背骨を下に押しつける"
+      },
+      "explanationJa": "「always」のような頻度を表す副詞は、一般動詞の前に置くのが基本です。"
+    },
+    {
+      "id": "sent-astronauts-grow-taller-3",
+      "english": "Without gravity, the soft parts between the bones can spread out.",
+      "japanese": "重力がないと、骨と骨の間にあるやわらかい部分が広がることができます。",
+      "additionalInfoEn": "These soft cushions are called discs.",
+      "additionalInfoJa": "このやわらかいクッションは「椎間板」と呼ばれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Without",
+          "pos": "前置詞",
+          "meaningJa": "〜がなければ"
+        },
+        {
+          "word": "bones",
+          "pos": "名詞",
+          "meaningJa": "骨"
+        },
+        {
+          "word": "spread out",
+          "pos": "動詞句",
+          "meaningJa": "広がる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "spread out",
+        "ja": "広がる"
+      },
+      "explanationJa": "「Without 〜,」を文頭に置くと「〜がなければ」という条件を表せます。「spread out」は「広がる」です。"
+    },
+    {
+      "id": "sent-astronauts-grow-taller-4",
+      "english": "This stretches the spine and makes the body longer.",
+      "japanese": "これによって背骨が伸び、体が長くなるのです。",
+      "additionalInfoEn": "Spacesuits are designed with a little extra room for this reason.",
+      "additionalInfoJa": "このため、宇宙服は少しだけ余裕を持たせて作られています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "stretches",
+          "pos": "動詞",
+          "meaningJa": "伸ばす"
+        },
+        {
+          "word": "body",
+          "pos": "名詞",
+          "meaningJa": "体"
+        },
+        {
+          "word": "longer",
+          "pos": "形容詞",
+          "meaningJa": "より長い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "makes the body longer",
+        "ja": "体を長くする"
+      },
+      "explanationJa": "「make A + 形容詞」で「Aを〜にする」という意味です。「This」は前の文の内容全体を指しています。"
+    },
+    {
+      "id": "sent-astronauts-grow-taller-5",
+      "english": "After returning to Earth, they go back to their normal height.",
+      "japanese": "地球に戻ると、宇宙飛行士たちの身長は元に戻ります。",
+      "additionalInfoEn": "Some astronauts get back pain while their bodies adjust.",
+      "additionalInfoJa": "体が慣れるまでの間、背中の痛みを感じる宇宙飛行士もいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "returning",
+          "pos": "動詞",
+          "meaningJa": "戻ること"
+        },
+        {
+          "word": "normal",
+          "pos": "形容詞",
+          "meaningJa": "ふつうの、元の"
+        },
+        {
+          "word": "height",
+          "pos": "名詞",
+          "meaningJa": "身長、高さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "go back to",
+        "ja": "〜に戻る"
+      },
+      "explanationJa": "「After + 動詞ing」で「〜した後で」という意味です。前置詞の後ろの動詞は ing 形にします。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-rosetta-stone",
+  "categoryId": "history",
+  "titleEn": "The Stone That Unlocked Egyptian Writing",
+  "titleJa": "古代エジプト文字の謎を解いた石",
+  "subtitleJa": "3種類の文字で同じ内容が刻まれた「ロゼッタ・ストーン」。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-11",
+  "sentences": [
+    {
+      "id": "sent-rosetta-stone-1",
+      "english": "For centuries, nobody could read the ancient Egyptian writing called hieroglyphs.",
+      "japanese": "何世紀もの間、ヒエログリフと呼ばれる古代エジプトの文字を誰も読めませんでした。",
+      "additionalInfoEn": "The last known hieroglyphic text was carved in the year 394.",
+      "additionalInfoJa": "知られている最後のヒエログリフの碑文は、西暦394年に刻まれたものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "read",
+          "pos": "動詞",
+          "meaningJa": "読む"
+        },
+        {
+          "word": "writing",
+          "pos": "名詞",
+          "meaningJa": "文字、書かれたもの"
+        },
+        {
+          "word": "hieroglyphs",
+          "pos": "名詞",
+          "meaningJa": "ヒエログリフ（象形文字）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "nobody could read",
+        "ja": "誰も読めなかった"
+      },
+      "explanationJa": "「called 〜」は「〜と呼ばれる」。過去分詞が後ろから名詞を説明しています。"
+    },
+    {
+      "id": "sent-rosetta-stone-2",
+      "english": "In 1799, French soldiers found a broken stone slab near the town of Rosetta.",
+      "japanese": "1799年、フランス兵がロゼッタという町の近くで、割れた石板を見つけました。",
+      "additionalInfoEn": "They discovered it while rebuilding an old fort in northern Egypt.",
+      "additionalInfoJa": "彼らはエジプト北部で古い砦を建て直している最中に、それを発見しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "soldiers",
+          "pos": "名詞",
+          "meaningJa": "兵士たち"
+        },
+        {
+          "word": "broken",
+          "pos": "形容詞",
+          "meaningJa": "割れた、壊れた"
+        },
+        {
+          "word": "slab",
+          "pos": "名詞",
+          "meaningJa": "厚い板"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "near the town of",
+        "ja": "〜という町の近くで"
+      },
+      "explanationJa": "「the town of 〜」で「〜という町」。「of」の後ろに町の名前を置いて説明しています。"
+    },
+    {
+      "id": "sent-rosetta-stone-3",
+      "english": "The stone carried the same message written in three different scripts.",
+      "japanese": "その石には、同じ内容が3種類の異なる文字で刻まれていました。",
+      "additionalInfoEn": "These were hieroglyphs, a later Egyptian script called Demotic, and ancient Greek.",
+      "additionalInfoJa": "それはヒエログリフ、デモティックと呼ばれる後代のエジプト文字、そして古代ギリシャ語でした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "carried",
+          "pos": "動詞",
+          "meaningJa": "（文字などを）載せていた"
+        },
+        {
+          "word": "message",
+          "pos": "名詞",
+          "meaningJa": "文、内容"
+        },
+        {
+          "word": "scripts",
+          "pos": "名詞",
+          "meaningJa": "文字（体系）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same message",
+        "ja": "同じ内容"
+      },
+      "explanationJa": "「written in 〜」は「〜で書かれた」。言語や文字の種類を表すときは「in」を使います。"
+    },
+    {
+      "id": "sent-rosetta-stone-4",
+      "english": "Since scholars could read Greek, they used it as a key to the hieroglyphs.",
+      "japanese": "学者たちはギリシャ語が読めたので、それをヒエログリフを解く鍵にしました。",
+      "additionalInfoEn": "Royal names like Ptolemy were circled in the hieroglyphs, which helped a lot.",
+      "additionalInfoJa": "プトレマイオスなどの王の名前は枠で囲まれていて、大きな手がかりになりました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Since",
+          "pos": "接続詞",
+          "meaningJa": "〜なので"
+        },
+        {
+          "word": "scholars",
+          "pos": "名詞",
+          "meaningJa": "学者"
+        },
+        {
+          "word": "key",
+          "pos": "名詞",
+          "meaningJa": "鍵、手がかり"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a key to",
+        "ja": "〜を解く鍵"
+      },
+      "explanationJa": "「Since」は「〜なので」。理由が相手もすでに知っている事実のときによく使われます。"
+    },
+    {
+      "id": "sent-rosetta-stone-5",
+      "english": "In 1822, Jean-François Champollion finally announced that he had cracked the code.",
+      "japanese": "1822年、ジャン＝フランソワ・シャンポリオンがついに解読に成功したと発表しました。",
+      "additionalInfoEn": "Today, the stone is one of the most visited objects in the British Museum.",
+      "additionalInfoJa": "現在、この石は大英博物館で最も多くの人が見に訪れる展示品のひとつです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "announced",
+          "pos": "動詞",
+          "meaningJa": "発表した"
+        },
+        {
+          "word": "cracked",
+          "pos": "動詞",
+          "meaningJa": "解読した"
+        },
+        {
+          "word": "code",
+          "pos": "名詞",
+          "meaningJa": "暗号"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cracked the code",
+        "ja": "暗号を解いた"
+      },
+      "explanationJa": "「crack the code」は「暗号を解く」。難しい問題の答えを見つけたときにも使えます。"
+    }
+  ]
+}

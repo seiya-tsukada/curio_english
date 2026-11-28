@@ -1,0 +1,167 @@
+{
+  "id": "topic-dutch-bicycles",
+  "categoryId": "world-culture",
+  "titleEn": "Why the Netherlands Has More Bikes Than People",
+  "titleJa": "オランダに人より自転車が多い理由",
+  "subtitleJa": "平らな国土が育てた、世界有数の自転車文化。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-30",
+  "sentences": [
+    {
+      "id": "sent-dutch-bicycles-1",
+      "english": "The Netherlands has more bicycles than people.",
+      "japanese": "オランダには、人の数よりも多くの自転車があります。",
+      "additionalInfoEn": "There are about 23 million bikes for around 18 million people.",
+      "additionalInfoJa": "約1,800万人の人口に対して、自転車はおよそ2,300万台あると言われています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Netherlands",
+          "pos": "名詞",
+          "meaningJa": "オランダ"
+        },
+        {
+          "word": "bicycles",
+          "pos": "名詞",
+          "meaningJa": "自転車"
+        },
+        {
+          "word": "people",
+          "pos": "名詞",
+          "meaningJa": "人々"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more A than B",
+        "ja": "BよりもたくさんのA"
+      },
+      "explanationJa": "「more + 名詞 + than 〜」で「〜よりも多くの（名詞）」と数の比較ができます。"
+    },
+    {
+      "id": "sent-dutch-bicycles-2",
+      "english": "The country is very flat, so riding a bike is easy.",
+      "japanese": "国土がとても平らなので、自転車に乗るのが楽なのです。",
+      "additionalInfoEn": "Much of the land is close to sea level, with almost no hills.",
+      "additionalInfoJa": "国土の多くは海抜に近い高さで、坂道がほとんどありません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "country",
+          "pos": "名詞",
+          "meaningJa": "国"
+        },
+        {
+          "word": "flat",
+          "pos": "形容詞",
+          "meaningJa": "平らな"
+        },
+        {
+          "word": "riding",
+          "pos": "動詞",
+          "meaningJa": "乗ること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "so riding a bike is easy",
+        "ja": "だから自転車に乗るのは楽だ"
+      },
+      "explanationJa": "「A, so B」で「Aだから、B」と理由と結果をつなげられます。順番どおりに読めて便利です。"
+    },
+    {
+      "id": "sent-dutch-bicycles-3",
+      "english": "Cities have special bike lanes and even traffic lights for cyclists.",
+      "japanese": "都市には自転車専用の道があり、自転車用の信号まであります。",
+      "additionalInfoEn": "Bike lanes are often separated from cars to keep riders safe.",
+      "additionalInfoJa": "自転車専用レーンは、乗る人の安全のために車道と分けられていることが多いです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "special",
+          "pos": "形容詞",
+          "meaningJa": "専用の、特別な"
+        },
+        {
+          "word": "lanes",
+          "pos": "名詞",
+          "meaningJa": "車線、レーン"
+        },
+        {
+          "word": "cyclists",
+          "pos": "名詞",
+          "meaningJa": "自転車に乗る人"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "even traffic lights",
+        "ja": "信号まで"
+      },
+      "explanationJa": "「even」は「〜さえ、〜まで」という意味で、ちょっと驚く情報を付け足すときに使います。"
+    },
+    {
+      "id": "sent-dutch-bicycles-4",
+      "english": "Children often ride to school by themselves from a young age.",
+      "japanese": "子どもたちは小さいころから、ひとりで自転車通学をすることがよくあります。",
+      "additionalInfoEn": "Many parents also carry small kids in big boxes on the front.",
+      "additionalInfoJa": "前に大きな箱のついた自転車で、小さな子どもを乗せて走る親も多くいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Children",
+          "pos": "名詞",
+          "meaningJa": "子どもたち"
+        },
+        {
+          "word": "school",
+          "pos": "名詞",
+          "meaningJa": "学校"
+        },
+        {
+          "word": "young",
+          "pos": "形容詞",
+          "meaningJa": "若い、幼い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by themselves",
+        "ja": "自分たちだけで"
+      },
+      "explanationJa": "「by oneself」で「ひとりで、自力で」。主語に合わせて themselves のように形が変わります。"
+    },
+    {
+      "id": "sent-dutch-bicycles-5",
+      "english": "Near big train stations, you can find huge parking areas just for bikes.",
+      "japanese": "大きな駅の近くには、自転車専用の巨大な駐輪場があります。",
+      "additionalInfoEn": "Some of them hold thousands of bikes on several floors.",
+      "additionalInfoJa": "中には、何階にもわたって数千台の自転車をとめられるものもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Near",
+          "pos": "前置詞",
+          "meaningJa": "〜の近くに"
+        },
+        {
+          "word": "huge",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        },
+        {
+          "word": "parking",
+          "pos": "名詞",
+          "meaningJa": "駐車、駐輪"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "just for bikes",
+        "ja": "自転車専用の"
+      },
+      "explanationJa": "「just for 〜」で「〜だけのための、〜専用の」という意味になります。"
+    }
+  ]
+}

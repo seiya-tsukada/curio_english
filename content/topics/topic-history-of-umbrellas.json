@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-umbrellas",
+  "categoryId": "history",
+  "titleEn": "Umbrellas Were First Made for Sunshine",
+  "titleJa": "傘はもともと日差しよけだった",
+  "subtitleJa": "雨の日の必需品が、ロンドンで笑われた時代もありました。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-01",
+  "sentences": [
+    {
+      "id": "sent-history-of-umbrellas-1",
+      "english": "The first umbrellas were made for the sun, not the rain.",
+      "japanese": "最初の傘は雨のためではなく、太陽の光をさえぎるために作られました。",
+      "additionalInfoEn": "In ancient Egypt and China, they gave shade to kings and rich people.",
+      "additionalInfoJa": "古代エジプトや中国では、王様や裕福な人に日陰を作っていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "umbrellas",
+          "pos": "名詞",
+          "meaningJa": "傘"
+        },
+        {
+          "word": "sun",
+          "pos": "名詞",
+          "meaningJa": "太陽"
+        },
+        {
+          "word": "rain",
+          "pos": "名詞",
+          "meaningJa": "雨"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "A, not B",
+        "ja": "BではなくA"
+      },
+      "explanationJa": "「A, not B」で「BではなくA」。大事な方を先に言い、間違えやすい方を後ろに置きます。"
+    },
+    {
+      "id": "sent-history-of-umbrellas-2",
+      "english": "The word \"umbrella\" is related to \"umbra,\" meaning shade in Latin.",
+      "japanese": "「umbrella」は、ラテン語で「影」を意味する「umbra」と関係があります。",
+      "additionalInfoEn": "It reached English through the Italian word \"ombrello.\"",
+      "additionalInfoJa": "この言葉は、イタリア語の「オンブレッロ」を通じて英語に入りました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "related",
+          "pos": "形容詞",
+          "meaningJa": "関係がある"
+        },
+        {
+          "word": "meaning",
+          "pos": "動詞",
+          "meaningJa": "〜を意味する（分詞）"
+        },
+        {
+          "word": "shade",
+          "pos": "名詞",
+          "meaningJa": "日陰、影"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is related to",
+        "ja": "〜と関係がある"
+      },
+      "explanationJa": "「meaning 〜」は「〜を意味する」。直前の言葉を後ろから説明する便利な形です。"
+    },
+    {
+      "id": "sent-history-of-umbrellas-3",
+      "english": "In China, people covered paper umbrellas with oil or wax to keep out water.",
+      "japanese": "中国では、水を防ぐために紙の傘を油やろうで覆いました。",
+      "additionalInfoEn": "This simple trick turned a sunshade into a rain umbrella.",
+      "additionalInfoJa": "この簡単な工夫によって、日傘が雨傘に変わりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "covered",
+          "pos": "動詞",
+          "meaningJa": "覆った"
+        },
+        {
+          "word": "wax",
+          "pos": "名詞",
+          "meaningJa": "ろう"
+        },
+        {
+          "word": "water",
+          "pos": "名詞",
+          "meaningJa": "水"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep out water",
+        "ja": "水を防ぐ"
+      },
+      "explanationJa": "「keep out 〜」で「〜を中に入れない・防ぐ」という意味。雨や寒さにも使えます。"
+    },
+    {
+      "id": "sent-history-of-umbrellas-4",
+      "english": "In the 1750s, a London man named Jonas Hanway carried one everywhere.",
+      "japanese": "1750年代、ロンドンのジョナス・ハンウェイという男性は、どこへでも傘を持ち歩きました。",
+      "additionalInfoEn": "At that time, most men in London thought umbrellas were only for women.",
+      "additionalInfoJa": "当時のロンドンでは、傘は女性が使うものだと多くの男性が考えていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "〜という名前の"
+        },
+        {
+          "word": "carried",
+          "pos": "動詞",
+          "meaningJa": "持ち歩いた"
+        },
+        {
+          "word": "everywhere",
+          "pos": "副詞",
+          "meaningJa": "どこへでも"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a man named",
+        "ja": "〜という名前の男性"
+      },
+      "explanationJa": "「one」は前に出た名詞のくり返しを避ける言葉で、ここでは「傘」を指しています。"
+    },
+    {
+      "id": "sent-history-of-umbrellas-5",
+      "english": "People laughed at him, but soon many others copied him.",
+      "japanese": "人々は彼を笑いましたが、やがて多くの人が彼のまねをしました。",
+      "additionalInfoEn": "Carriage drivers disliked umbrellas because they feared losing customers.",
+      "additionalInfoJa": "馬車の御者たちは、客を失うことを恐れて傘を嫌いました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "pos": "動詞",
+          "meaningJa": "笑った"
+        },
+        {
+          "word": "others",
+          "pos": "代名詞",
+          "meaningJa": "ほかの人々"
+        },
+        {
+          "word": "copied",
+          "pos": "動詞",
+          "meaningJa": "まねした"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "laughed at",
+        "ja": "〜を笑った"
+      },
+      "explanationJa": "「laugh at 〜」は「〜を笑う・からかう」。「at」を忘れないようにしましょう。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-onions-make-tears",
+  "categoryId": "space-science",
+  "titleEn": "Why Cutting Onions Makes You Cry",
+  "titleJa": "玉ねぎを切ると涙が出る仕組み",
+  "subtitleJa": "キッチンで流れる涙の正体は、玉ねぎの防衛作戦。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-24",
+  "sentences": [
+    {
+      "id": "sent-onions-make-tears-1",
+      "english": "Cutting an onion often makes people cry in the kitchen.",
+      "japanese": "玉ねぎを切ると、台所で涙が出てしまうことがよくあります。",
+      "additionalInfoEn": "It is not sadness, of course, but a chemical reaction.",
+      "additionalInfoJa": "もちろん悲しいからではなく、化学反応によるものです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Cutting",
+          "pos": "動詞",
+          "meaningJa": "切ること"
+        },
+        {
+          "word": "onion",
+          "pos": "名詞",
+          "meaningJa": "玉ねぎ"
+        },
+        {
+          "word": "cry",
+          "pos": "動詞",
+          "meaningJa": "泣く、涙を流す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make people cry",
+        "ja": "人を泣かせる"
+      },
+      "explanationJa": "「動詞ing」は文の主語にもなります。「make + 人 + 動詞の原形」で「人に〜させる」という意味です。"
+    },
+    {
+      "id": "sent-onions-make-tears-2",
+      "english": "When you cut it, you break many tiny cells inside.",
+      "japanese": "玉ねぎを切ると、中にあるたくさんの小さな細胞が壊れます。",
+      "additionalInfoEn": "Each cell holds different chemicals that are normally kept apart.",
+      "additionalInfoJa": "細胞の中には、ふだんは別々に保たれている化学物質が入っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "break",
+          "pos": "動詞",
+          "meaningJa": "壊す"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さい"
+        },
+        {
+          "word": "cells",
+          "pos": "名詞",
+          "meaningJa": "細胞"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "break cells",
+        "ja": "細胞を壊す"
+      },
+      "explanationJa": "「When + 文,」で「〜するとき」という意味です。主語の「you」は「一般の人」を指しています。"
+    },
+    {
+      "id": "sent-onions-make-tears-3",
+      "english": "These chemicals mix and quickly create a gas that floats upward.",
+      "japanese": "これらの化学物質が混ざり、上に漂うガスがすぐに作られます。",
+      "additionalInfoEn": "Onions probably developed this trick to protect themselves from animals.",
+      "additionalInfoJa": "玉ねぎはおそらく、動物から身を守るためにこの仕組みを身につけました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "chemicals",
+          "pos": "名詞",
+          "meaningJa": "化学物質"
+        },
+        {
+          "word": "create",
+          "pos": "動詞",
+          "meaningJa": "作り出す"
+        },
+        {
+          "word": "upward",
+          "pos": "副詞",
+          "meaningJa": "上の方へ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "floats upward",
+        "ja": "上へ漂う"
+      },
+      "explanationJa": "「a gas that 〜」の「that」は関係代名詞で、後ろから「gas」を説明しています。"
+    },
+    {
+      "id": "sent-onions-make-tears-4",
+      "english": "When the gas reaches your eyes, it makes them sting.",
+      "japanese": "そのガスが目に届くと、目がしみるようになります。",
+      "additionalInfoEn": "Your eyes then make tears to wash the gas away.",
+      "additionalInfoJa": "すると目は、ガスを洗い流すために涙を出すのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "reaches",
+          "pos": "動詞",
+          "meaningJa": "届く"
+        },
+        {
+          "word": "eyes",
+          "pos": "名詞",
+          "meaningJa": "目（複数形）"
+        },
+        {
+          "word": "sting",
+          "pos": "動詞",
+          "meaningJa": "ひりひりする、しみる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make them sting",
+        "ja": "それらをひりひりさせる"
+      },
+      "explanationJa": "「make + 目的語 + 動詞の原形」で「〜を…させる」という使役の表現です。"
+    },
+    {
+      "id": "sent-onions-make-tears-5",
+      "english": "Chilling the onion first can help you cry less.",
+      "japanese": "先に玉ねぎを冷やしておくと、涙が出にくくなります。",
+      "additionalInfoEn": "Cold slows down the reaction, and a sharp knife breaks fewer cells.",
+      "additionalInfoJa": "冷たいと反応が遅くなり、よく切れる包丁なら壊れる細胞も少なくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Chilling",
+          "pos": "動詞",
+          "meaningJa": "冷やすこと"
+        },
+        {
+          "word": "first",
+          "pos": "副詞",
+          "meaningJa": "先に、最初に"
+        },
+        {
+          "word": "less",
+          "pos": "副詞",
+          "meaningJa": "より少なく"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "help you cry less",
+        "ja": "涙を減らすのに役立つ"
+      },
+      "explanationJa": "「help + 人 + 動詞の原形」で「人が〜するのを助ける」です。「less」は「little」の比較級です。"
+    }
+  ]
+}

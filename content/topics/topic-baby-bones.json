@@ -1,0 +1,167 @@
+{
+  "id": "topic-baby-bones",
+  "categoryId": "space-science",
+  "titleEn": "Babies Have More Bones Than Adults",
+  "titleJa": "赤ちゃんの骨が大人より多い理由",
+  "subtitleJa": "成長とともに骨の数が減っていく、体の不思議。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-22",
+  "sentences": [
+    {
+      "id": "sent-baby-bones-1",
+      "english": "A newborn baby has about 300 bones in its body.",
+      "japanese": "生まれたばかりの赤ちゃんの体には、およそ300個の骨があります。",
+      "additionalInfoEn": "Many of these bones are still soft and partly made of cartilage.",
+      "additionalInfoJa": "これらの骨の多くはまだやわらかく、一部は軟骨でできています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "newborn",
+          "pos": "形容詞",
+          "meaningJa": "生まれたばかりの"
+        },
+        {
+          "word": "baby",
+          "pos": "名詞",
+          "meaningJa": "赤ちゃん"
+        },
+        {
+          "word": "bones",
+          "pos": "名詞",
+          "meaningJa": "骨"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in its body",
+        "ja": "体の中に"
+      },
+      "explanationJa": "「about + 数字」で「およそ〜」という意味です。「newborn」は「new（新しい）+ born（生まれた）」です。"
+    },
+    {
+      "id": "sent-baby-bones-2",
+      "english": "But an adult has only 206 bones.",
+      "japanese": "しかし、大人の骨はわずか206個しかありません。",
+      "additionalInfoEn": "The exact number can be slightly different from person to person.",
+      "additionalInfoJa": "正確な数は、人によって少し違うこともあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "adult",
+          "pos": "名詞",
+          "meaningJa": "大人"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "わずか、〜だけ"
+        },
+        {
+          "word": "bones",
+          "pos": "名詞",
+          "meaningJa": "骨"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "only 206 bones",
+        "ja": "わずか206個の骨"
+      },
+      "explanationJa": "「only + 数字」で「たった〜しかない」と少なさを強調できます。前の文との対比を「But」で示しています。"
+    },
+    {
+      "id": "sent-baby-bones-3",
+      "english": "As babies grow, some small bones join together.",
+      "japanese": "赤ちゃんが成長するにつれて、いくつかの小さな骨がくっついていきます。",
+      "additionalInfoEn": "This process continues until people are in their twenties.",
+      "additionalInfoJa": "この変化は、人が20代になるころまで続きます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "grow",
+          "pos": "動詞",
+          "meaningJa": "成長する"
+        },
+        {
+          "word": "small",
+          "pos": "形容詞",
+          "meaningJa": "小さい"
+        },
+        {
+          "word": "join",
+          "pos": "動詞",
+          "meaningJa": "結合する、つながる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "join together",
+        "ja": "くっついて一つになる"
+      },
+      "explanationJa": "「As + 文」で「〜するにつれて」と、変化が同時に進む様子を表せます。"
+    },
+    {
+      "id": "sent-baby-bones-4",
+      "english": "A baby's skull has soft spots between its bones.",
+      "japanese": "赤ちゃんの頭蓋骨には、骨と骨の間にやわらかい部分があります。",
+      "additionalInfoEn": "These soft spots help the head pass through the birth canal.",
+      "additionalInfoJa": "このやわらかい部分は、出産のときに頭が産道を通りやすくしてくれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "skull",
+          "pos": "名詞",
+          "meaningJa": "頭蓋骨"
+        },
+        {
+          "word": "soft",
+          "pos": "形容詞",
+          "meaningJa": "やわらかい"
+        },
+        {
+          "word": "spots",
+          "pos": "名詞",
+          "meaningJa": "部分、場所"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "soft spots",
+        "ja": "やわらかい部分"
+      },
+      "explanationJa": "「between A」は「Aの間に」という意味です。「baby's」の「's」は「〜の」と持ち主を表します。"
+    },
+    {
+      "id": "sent-baby-bones-5",
+      "english": "These spots slowly close up during the first two years.",
+      "japanese": "これらの部分は、生まれてから2年ほどの間にゆっくり閉じていきます。",
+      "additionalInfoEn": "The bones of the skull then fit together like a puzzle.",
+      "additionalInfoJa": "その後、頭蓋骨の骨はパズルのようにぴったりと組み合わさります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと"
+        },
+        {
+          "word": "close up",
+          "pos": "動詞句",
+          "meaningJa": "閉じる、ふさがる"
+        },
+        {
+          "word": "during",
+          "pos": "前置詞",
+          "meaningJa": "〜の間に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "during the first two years",
+        "ja": "最初の2年の間に"
+      },
+      "explanationJa": "「during + 期間」で「〜の間に」という意味です。後ろには名詞が来る点に注意しましょう。"
+    }
+  ]
+}

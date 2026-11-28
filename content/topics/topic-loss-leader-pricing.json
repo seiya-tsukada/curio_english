@@ -1,0 +1,167 @@
+{
+  "id": "topic-loss-leader-pricing",
+  "categoryId": "business-economy",
+  "titleEn": "Why Stores Sell Some Items at a Loss",
+  "titleJa": "お店がわざと損をして売る商品がある理由",
+  "subtitleJa": "赤字の商品は、お客さんを呼ぶための招待状。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-07",
+  "sentences": [
+    {
+      "id": "sent-loss-leader-pricing-1",
+      "english": "Sometimes a store sells an item for less than it paid.",
+      "japanese": "お店は時々、仕入れた値段よりも安く商品を売ることがあります。",
+      "additionalInfoEn": "Eggs, milk or bananas are common examples.",
+      "additionalInfoJa": "卵や牛乳、バナナがよくある例です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Sometimes",
+          "pos": "副詞",
+          "meaningJa": "時々"
+        },
+        {
+          "word": "sells",
+          "pos": "動詞",
+          "meaningJa": "売る"
+        },
+        {
+          "word": "less",
+          "pos": "代名詞",
+          "meaningJa": "より少ない量"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for less than",
+        "ja": "〜より安く"
+      },
+      "explanationJa": "「for + 金額」で「〜の値段で」を表します。「less than 〜」は「〜より少なく」です。"
+    },
+    {
+      "id": "sent-loss-leader-pricing-2",
+      "english": "This kind of product is called a loss leader.",
+      "japanese": "このような商品は「ロスリーダー（目玉商品）」と呼ばれます。",
+      "additionalInfoEn": "The store loses money on it on purpose.",
+      "additionalInfoJa": "お店はわざとその商品で損をしているのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "kind",
+          "pos": "名詞",
+          "meaningJa": "種類"
+        },
+        {
+          "word": "product",
+          "pos": "名詞",
+          "meaningJa": "商品"
+        },
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "呼ばれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This kind of",
+        "ja": "この種の"
+      },
+      "explanationJa": "「be called 〜」で「〜と呼ばれる」という意味です。新しい言葉を紹介するときに便利です。"
+    },
+    {
+      "id": "sent-loss-leader-pricing-3",
+      "english": "Its job is to bring more customers through the door.",
+      "japanese": "その役割は、より多くのお客さんをお店の中に呼び込むことです。",
+      "additionalInfoEn": "Shops often put these deals in flyers and ads.",
+      "additionalInfoJa": "お店はこうしたお買い得品をよくチラシや広告に載せます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "job",
+          "pos": "名詞",
+          "meaningJa": "役割、仕事"
+        },
+        {
+          "word": "bring",
+          "pos": "動詞",
+          "meaningJa": "連れてくる"
+        },
+        {
+          "word": "door",
+          "pos": "名詞",
+          "meaningJa": "ドア、入口"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "through the door",
+        "ja": "店の中へ"
+      },
+      "explanationJa": "「Its job is to 〜」で「その役割は〜することだ」と目的を説明できます。"
+    },
+    {
+      "id": "sent-loss-leader-pricing-4",
+      "english": "Once inside, most shoppers also buy other things at normal prices.",
+      "japanese": "一度店に入ると、ほとんどの買い物客は通常価格の他の商品も買います。",
+      "additionalInfoEn": "The profit from those items more than covers the first loss.",
+      "additionalInfoJa": "それらの商品の利益で、最初の損失を十分に取り戻せます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "inside",
+          "pos": "副詞",
+          "meaningJa": "中に"
+        },
+        {
+          "word": "other",
+          "pos": "形容詞",
+          "meaningJa": "他の"
+        },
+        {
+          "word": "normal",
+          "pos": "形容詞",
+          "meaningJa": "通常の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at normal prices",
+        "ja": "通常価格で"
+      },
+      "explanationJa": "「Once inside」は「Once they are inside」の省略形で、「一度中に入ると」という意味です。"
+    },
+    {
+      "id": "sent-loss-leader-pricing-5",
+      "english": "So that cheap bargain is really an invitation to keep shopping.",
+      "japanese": "つまり、その格安品は実は「もっと買い物して」という招待状なのです。",
+      "additionalInfoEn": "Smart shoppers buy the deal and skip the extras.",
+      "additionalInfoJa": "賢い買い物客は、お買い得品だけ買って余計なものは買いません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "bargain",
+          "pos": "名詞",
+          "meaningJa": "お買い得品"
+        },
+        {
+          "word": "invitation",
+          "pos": "名詞",
+          "meaningJa": "招待"
+        },
+        {
+          "word": "keep",
+          "pos": "動詞",
+          "meaningJa": "続ける"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep shopping",
+        "ja": "買い物を続ける"
+      },
+      "explanationJa": "「keep + 〜ing」で「〜し続ける」という意味です。「invitation to 〜」は「〜への招待」です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-monopoly-game-origin",
+  "categoryId": "business-economy",
+  "titleEn": "The Hidden Lesson of Monopoly",
+  "titleJa": "ボードゲーム「モノポリー」に隠された本当の教え",
+  "subtitleJa": "お金持ちになるゲームは、もともと独占への警告だった。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-16",
+  "sentences": [
+    {
+      "id": "sent-monopoly-game-origin-1",
+      "english": "The board game Monopoly began as a warning, not a celebration of wealth.",
+      "japanese": "ボードゲームのモノポリーは、富をたたえるためではなく、警告として始まりました。",
+      "additionalInfoEn": "Its roots go back to the early 1900s in the United States.",
+      "additionalInfoJa": "そのルーツは、1900年代初めのアメリカにさかのぼります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "warning",
+          "pos": "名詞",
+          "meaningJa": "警告"
+        },
+        {
+          "word": "celebration",
+          "pos": "名詞",
+          "meaningJa": "称賛、祝い"
+        },
+        {
+          "word": "wealth",
+          "pos": "名詞",
+          "meaningJa": "富"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began as",
+        "ja": "〜として始まった"
+      },
+      "explanationJa": "「A, not B」で「BではなくA」と対比を強調できます。「began as 〜」は「〜として始まった」です。"
+    },
+    {
+      "id": "sent-monopoly-game-origin-2",
+      "english": "In 1904, Lizzie Magie patented a game called The Landlord's Game.",
+      "japanese": "1904年、リジー・マギーは「地主ゲーム」というゲームの特許を取りました。",
+      "additionalInfoEn": "She was a writer and inventor who cared deeply about fairness.",
+      "additionalInfoJa": "彼女は公平さを深く大切にする作家であり、発明家でもありました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "patented",
+          "pos": "動詞",
+          "meaningJa": "特許を取った"
+        },
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "〜という名の"
+        },
+        {
+          "word": "Landlord's",
+          "pos": "名詞",
+          "meaningJa": "地主の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a game called",
+        "ja": "〜というゲーム"
+      },
+      "explanationJa": "「名詞 + called 〜」で「〜という名前の…」と説明できます。過去分詞が後ろから名詞を修飾しています。"
+    },
+    {
+      "id": "sent-monopoly-game-origin-3",
+      "english": "She wanted to show how landowners could grow rich while tenants grew poor.",
+      "japanese": "彼女は、借り手が貧しくなる一方で地主がどう豊かになるかを示したかったのです。",
+      "additionalInfoEn": "Her ideas came from the economist Henry George.",
+      "additionalInfoJa": "彼女の考えは、経済学者ヘンリー・ジョージの影響を受けていました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "landowners",
+          "pos": "名詞",
+          "meaningJa": "地主"
+        },
+        {
+          "word": "tenants",
+          "pos": "名詞",
+          "meaningJa": "借り手、借家人"
+        },
+        {
+          "word": "while",
+          "pos": "接続詞",
+          "meaningJa": "〜する一方で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "grow rich",
+        "ja": "豊かになる"
+      },
+      "explanationJa": "「grow + 形容詞」で「〜になる」と変化を表します。「while」はここでは対比の「一方で」です。"
+    },
+    {
+      "id": "sent-monopoly-game-origin-4",
+      "english": "Her rules even included a version where everyone shared the wealth.",
+      "japanese": "彼女のルールには、全員が富を分かち合うバージョンまで含まれていました。",
+      "additionalInfoEn": "Players could compare which set of rules felt fairer.",
+      "additionalInfoJa": "プレイヤーは、どちらのルールのほうが公平に感じるかを比べられました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "rules",
+          "pos": "名詞",
+          "meaningJa": "ルール"
+        },
+        {
+          "word": "included",
+          "pos": "動詞",
+          "meaningJa": "含んでいた"
+        },
+        {
+          "word": "version",
+          "pos": "名詞",
+          "meaningJa": "バージョン、型"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "shared the wealth",
+        "ja": "富を分け合った"
+      },
+      "explanationJa": "「where」は関係副詞で、どんなバージョンかを後ろから説明しています。「even」は「〜さえ」です。"
+    },
+    {
+      "id": "sent-monopoly-game-origin-5",
+      "english": "Decades later, a modified version was sold as Monopoly and became a hit.",
+      "japanese": "数十年後、手を加えたバージョンがモノポリーとして発売され、大ヒットしました。",
+      "additionalInfoEn": "Ironically, the version that survived rewards players for crushing their rivals.",
+      "additionalInfoJa": "皮肉なことに、残ったのはライバルを打ち負かすほど得をするバージョンでした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Decades",
+          "pos": "名詞",
+          "meaningJa": "数十年"
+        },
+        {
+          "word": "modified",
+          "pos": "形容詞",
+          "meaningJa": "改良された、手を加えた"
+        },
+        {
+          "word": "hit",
+          "pos": "名詞",
+          "meaningJa": "ヒット"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "became a hit",
+        "ja": "ヒットした"
+      },
+      "explanationJa": "「Decades later」は「数十年後」という意味で、物語の時間の流れを示すのに便利な表現です。"
+    }
+  ]
+}

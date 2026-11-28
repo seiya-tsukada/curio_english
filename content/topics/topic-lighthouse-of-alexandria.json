@@ -1,0 +1,167 @@
+{
+  "id": "topic-lighthouse-of-alexandria",
+  "categoryId": "history",
+  "titleEn": "The Lighthouse That Named All Lighthouses",
+  "titleJa": "世界の灯台の名前のもとになった灯台",
+  "subtitleJa": "古代の七不思議のひとつ、アレクサンドリアの大灯台。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-26",
+  "sentences": [
+    {
+      "id": "sent-lighthouse-of-alexandria-1",
+      "english": "Around 280 BC, a giant lighthouse was built in Alexandria, Egypt.",
+      "japanese": "紀元前280年頃、エジプトのアレクサンドリアに巨大な灯台が建てられました。",
+      "additionalInfoEn": "It stood on a small island called Pharos, near the busy harbor.",
+      "additionalInfoJa": "それはにぎやかな港の近くの、ファロスという小さな島に立っていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "giant",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        },
+        {
+          "word": "lighthouse",
+          "pos": "名詞",
+          "meaningJa": "灯台"
+        },
+        {
+          "word": "built",
+          "pos": "動詞",
+          "meaningJa": "建てられた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "was built",
+        "ja": "建てられた"
+      },
+      "explanationJa": "「was built」は受け身の過去形で「建てられた」。buildの過去分詞はbuiltです。"
+    },
+    {
+      "id": "sent-lighthouse-of-alexandria-2",
+      "english": "It was probably over 100 meters tall, like a modern 30-story building.",
+      "japanese": "高さはおそらく100メートル以上で、現代の30階建てのビルほどありました。",
+      "additionalInfoEn": "For centuries, it was one of the tallest buildings on Earth.",
+      "additionalInfoJa": "何世紀もの間、それは地球上で最も高い建物のひとつでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "おそらく"
+        },
+        {
+          "word": "tall",
+          "pos": "形容詞",
+          "meaningJa": "高い"
+        },
+        {
+          "word": "story",
+          "pos": "名詞",
+          "meaningJa": "（建物の）階"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "over 100 meters",
+        "ja": "100メートル以上"
+      },
+      "explanationJa": "「story」には「物語」のほか「（建物の）階」の意味もあります。「30-story」で「30階建て」。"
+    },
+    {
+      "id": "sent-lighthouse-of-alexandria-3",
+      "english": "At night, a large fire on top guided ships safely into port.",
+      "japanese": "夜になると、頂上の大きな火が船を安全に港へ導きました。",
+      "additionalInfoEn": "Ancient writers said its light could be seen from far out at sea.",
+      "additionalInfoJa": "古代の作家たちは、その光は遠い海の上からも見えたと書いています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "guided",
+          "pos": "動詞",
+          "meaningJa": "導いた"
+        },
+        {
+          "word": "ships",
+          "pos": "名詞",
+          "meaningJa": "船"
+        },
+        {
+          "word": "port",
+          "pos": "名詞",
+          "meaningJa": "港"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on top",
+        "ja": "頂上に"
+      },
+      "explanationJa": "「guide A into B」で「AをBへ導く」。人を案内するときにも使える動詞です。"
+    },
+    {
+      "id": "sent-lighthouse-of-alexandria-4",
+      "english": "It was one of the Seven Wonders of the Ancient World.",
+      "japanese": "それは古代世界の七不思議のひとつでした。",
+      "additionalInfoEn": "Another wonder was the Great Pyramid of Giza, which still stands today.",
+      "additionalInfoJa": "別の不思議にはギザの大ピラミッドがあり、今も立っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Seven",
+          "pos": "形容詞",
+          "meaningJa": "7つの"
+        },
+        {
+          "word": "Wonders",
+          "pos": "名詞",
+          "meaningJa": "驚異、不思議"
+        },
+        {
+          "word": "Ancient",
+          "pos": "形容詞",
+          "meaningJa": "古代の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one of the",
+        "ja": "〜のひとつ"
+      },
+      "explanationJa": "「wonder」は「驚くべきもの」。動詞では「〜かなと思う」という意味にもなります。"
+    },
+    {
+      "id": "sent-lighthouse-of-alexandria-5",
+      "english": "Earthquakes destroyed it, but its name lives on in many languages.",
+      "japanese": "地震で壊れてしまいましたが、その名前は多くの言語に生き続けています。",
+      "additionalInfoEn": "In French, a lighthouse is \"phare,\" and in Italian and Spanish it is \"faro.\"",
+      "additionalInfoJa": "灯台はフランス語で「ファール」、イタリア語やスペイン語で「ファロ」と言います。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Earthquakes",
+          "pos": "名詞",
+          "meaningJa": "地震"
+        },
+        {
+          "word": "destroyed",
+          "pos": "動詞",
+          "meaningJa": "破壊した"
+        },
+        {
+          "word": "languages",
+          "pos": "名詞",
+          "meaningJa": "言語"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lives on",
+        "ja": "生き続ける"
+      },
+      "explanationJa": "「live on」は「（名前や記憶が）生き続ける」。人がいなくなった後にも使える表現です。"
+    }
+  ]
+}

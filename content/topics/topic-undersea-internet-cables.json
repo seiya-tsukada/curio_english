@@ -1,0 +1,167 @@
+{
+  "id": "topic-undersea-internet-cables",
+  "categoryId": "technology",
+  "titleEn": "The Internet Lives Under the Sea",
+  "titleJa": "インターネットは海の底を通っている",
+  "subtitleJa": "世界をつなぐデータの多くは、衛星ではなく海底ケーブルで届く。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-09",
+  "sentences": [
+    {
+      "id": "sent-undersea-internet-cables-1",
+      "english": "When you watch a video from abroad, the data rarely comes from space.",
+      "japanese": "海外の動画を見るとき、そのデータが宇宙から届くことはめったにありません。",
+      "additionalInfoEn": "Many people imagine satellites, but they carry only a small share.",
+      "additionalInfoJa": "多くの人は衛星を想像しますが、衛星が運ぶのはごく一部です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "abroad",
+          "pos": "副詞",
+          "meaningJa": "海外から、海外で"
+        },
+        {
+          "word": "data",
+          "pos": "名詞",
+          "meaningJa": "データ"
+        },
+        {
+          "word": "rarely",
+          "pos": "副詞",
+          "meaningJa": "めったに〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from abroad",
+        "ja": "海外から"
+      },
+      "explanationJa": "「rarely」は「めったに〜ない」という否定の意味を持つ副詞で、not は不要です。"
+    },
+    {
+      "id": "sent-undersea-internet-cables-2",
+      "english": "Most of it travels through cables lying on the ocean floor.",
+      "japanese": "そのほとんどは、海底に横たわるケーブルを通って運ばれます。",
+      "additionalInfoEn": "These cables carry over 95 percent of the data between continents.",
+      "additionalInfoJa": "これらのケーブルが、大陸間のデータの95%以上を運んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "travels",
+          "pos": "動詞",
+          "meaningJa": "移動する"
+        },
+        {
+          "word": "cables",
+          "pos": "名詞",
+          "meaningJa": "ケーブル"
+        },
+        {
+          "word": "floor",
+          "pos": "名詞",
+          "meaningJa": "底"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "ocean floor",
+        "ja": "海底"
+      },
+      "explanationJa": "「lying on 〜」は「〜の上に横たわっている」と、前の「cables」を後ろから説明しています。"
+    },
+    {
+      "id": "sent-undersea-internet-cables-3",
+      "english": "Inside each cable, thin glass threads carry data as flashes of light.",
+      "japanese": "各ケーブルの中では、細いガラスの糸がデータを光の点滅として運びます。",
+      "additionalInfoEn": "Light moves through glass extremely fast, so messages cross oceans in a blink.",
+      "additionalInfoJa": "光はガラスの中をとても速く進むので、メッセージは一瞬で海を越えます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "thin",
+          "pos": "形容詞",
+          "meaningJa": "細い"
+        },
+        {
+          "word": "glass",
+          "pos": "名詞",
+          "meaningJa": "ガラス"
+        },
+        {
+          "word": "flashes",
+          "pos": "名詞",
+          "meaningJa": "きらめき、点滅"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as flashes of light",
+        "ja": "光の点滅として"
+      },
+      "explanationJa": "「as + 名詞」は「〜として」という意味で、データがどんな形で運ばれるかを示します。"
+    },
+    {
+      "id": "sent-undersea-internet-cables-4",
+      "english": "Many deep-sea cables are only about as thick as a garden hose.",
+      "japanese": "深海のケーブルの多くは、庭のホースくらいの太さしかありません。",
+      "additionalInfoEn": "Cables near the shore are thicker to protect them from ships' anchors.",
+      "additionalInfoJa": "岸の近くのケーブルは、船のいかりから守るために太くなっています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "deep-sea",
+          "pos": "形容詞",
+          "meaningJa": "深海の"
+        },
+        {
+          "word": "thick",
+          "pos": "形容詞",
+          "meaningJa": "太い"
+        },
+        {
+          "word": "hose",
+          "pos": "名詞",
+          "meaningJa": "ホース"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as thick as",
+        "ja": "〜と同じくらいの太さ"
+      },
+      "explanationJa": "「as + 形容詞 + as 〜」で「〜と同じくらい…」と比べる表現になります。"
+    },
+    {
+      "id": "sent-undersea-internet-cables-5",
+      "english": "Satellites are used less because signals must travel far up and back.",
+      "japanese": "信号がはるか上空まで行って戻る必要があるため、衛星はあまり使われません。",
+      "additionalInfoEn": "Cables can also carry much more data at once.",
+      "additionalInfoJa": "ケーブルなら、一度にずっと多くのデータを運ぶこともできます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Satellites",
+          "pos": "名詞",
+          "meaningJa": "人工衛星"
+        },
+        {
+          "word": "less",
+          "pos": "副詞",
+          "meaningJa": "より少なく"
+        },
+        {
+          "word": "travel",
+          "pos": "動詞",
+          "meaningJa": "移動する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "up and back",
+        "ja": "行って戻って"
+      },
+      "explanationJa": "「are used less」は受け身と比較級の組み合わせで、「あまり使われない」という意味です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-touchscreen-gloves",
+  "categoryId": "technology",
+  "titleEn": "Why Touchscreens Ignore Your Gloves",
+  "titleJa": "手袋をするとスマホが反応しない理由",
+  "subtitleJa": "画面が感じ取っているのは、指の力ではなく電気。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-01",
+  "sentences": [
+    {
+      "id": "sent-touchscreen-gloves-1",
+      "english": "Most smartphone screens do not feel how hard you press.",
+      "japanese": "ほとんどのスマホの画面は、どれだけ強く押したかを感じ取っていません。",
+      "additionalInfoEn": "A light tap works just as well as a strong push.",
+      "additionalInfoJa": "軽く触れるだけでも、強く押すのと同じように反応します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "screens",
+          "pos": "名詞",
+          "meaningJa": "画面"
+        },
+        {
+          "word": "press",
+          "pos": "動詞",
+          "meaningJa": "押す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "how hard you press",
+        "ja": "どれだけ強く押すか"
+      },
+      "explanationJa": "「how + 形容詞・副詞 + 主語 + 動詞」で「どれほど〜か」を表します。"
+    },
+    {
+      "id": "sent-touchscreen-gloves-2",
+      "english": "Instead, they sense the tiny amount of electricity in your body.",
+      "japanese": "その代わりに、体にあるわずかな電気を感知しているのです。",
+      "additionalInfoEn": "Your body is full of water and salt, which carry electricity well.",
+      "additionalInfoJa": "体は水分と塩分でいっぱいで、これらは電気をよく通します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Instead",
+          "pos": "副詞",
+          "meaningJa": "その代わりに"
+        },
+        {
+          "word": "sense",
+          "pos": "動詞",
+          "meaningJa": "感知する"
+        },
+        {
+          "word": "electricity",
+          "pos": "名詞",
+          "meaningJa": "電気"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a tiny amount of",
+        "ja": "ごくわずかな量の"
+      },
+      "explanationJa": "「Instead,」は文頭で「その代わりに」と、前の内容とは違う事実を示すときに使います。"
+    },
+    {
+      "id": "sent-touchscreen-gloves-3",
+      "english": "When your finger touches the glass, it changes the electric field there.",
+      "japanese": "指がガラスに触れると、その場所の電気の状態が変わります。",
+      "additionalInfoEn": "The phone finds that spot and knows exactly where you touched.",
+      "additionalInfoJa": "スマホはその場所を見つけ、どこに触れたかを正確に知ります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "finger",
+          "pos": "名詞",
+          "meaningJa": "指"
+        },
+        {
+          "word": "touches",
+          "pos": "動詞",
+          "meaningJa": "触れる"
+        },
+        {
+          "word": "field",
+          "pos": "名詞",
+          "meaningJa": "場（電場）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "electric field",
+        "ja": "電場、電界"
+      },
+      "explanationJa": "「When + 主語 + 動詞」で「〜するとき」と、出来事が起きるタイミングを表します。"
+    },
+    {
+      "id": "sent-touchscreen-gloves-4",
+      "english": "Normal gloves block this electricity, so the screen cannot feel you.",
+      "japanese": "普通の手袋はこの電気をさえぎるので、画面はあなたの指を感じ取れません。",
+      "additionalInfoEn": "Wood, plastic, and dry cloth also do not work on these screens.",
+      "additionalInfoJa": "木やプラスチック、乾いた布も、こうした画面には反応しません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "gloves",
+          "pos": "名詞",
+          "meaningJa": "手袋"
+        },
+        {
+          "word": "block",
+          "pos": "動詞",
+          "meaningJa": "さえぎる"
+        },
+        {
+          "word": "feel",
+          "pos": "動詞",
+          "meaningJa": "感じる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "block this electricity",
+        "ja": "この電気をさえぎる"
+      },
+      "explanationJa": "「A, so B」で「AなのでB」と、原因と結果を一文でつなげられます。"
+    },
+    {
+      "id": "sent-touchscreen-gloves-5",
+      "english": "Special touchscreen gloves have metal threads woven into the fingertips.",
+      "japanese": "タッチパネル対応の手袋は、指先に金属の糸が織り込まれています。",
+      "additionalInfoEn": "These threads carry electricity from your finger to the screen.",
+      "additionalInfoJa": "この糸が、指の電気を画面まで伝えてくれるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Special",
+          "pos": "形容詞",
+          "meaningJa": "特別な"
+        },
+        {
+          "word": "threads",
+          "pos": "名詞",
+          "meaningJa": "糸"
+        },
+        {
+          "word": "fingertips",
+          "pos": "名詞",
+          "meaningJa": "指先"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "woven into",
+        "ja": "〜に織り込まれた"
+      },
+      "explanationJa": "「woven」は weave（織る）の過去分詞で、「〜に織り込まれた」と名詞を後ろから説明しています。"
+    }
+  ]
+}

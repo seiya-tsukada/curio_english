@@ -1,0 +1,167 @@
+{
+  "id": "topic-moroccan-mint-tea",
+  "categoryId": "world-culture",
+  "titleEn": "Morocco's Mint Tea Welcome",
+  "titleJa": "モロッコのおもてなし「ミントティー」",
+  "subtitleJa": "高い位置から注ぐ一杯に込められた歓迎の心。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-31",
+  "sentences": [
+    {
+      "id": "sent-moroccan-mint-tea-1",
+      "english": "In Morocco, guests are almost always welcomed with a glass of mint tea.",
+      "japanese": "モロッコでは、お客さんはほぼ必ずミントティーでもてなされます。",
+      "additionalInfoEn": "It is served at home, in shops, and even at business meetings.",
+      "additionalInfoJa": "家でもお店でも、仕事の打ち合わせでさえも出されます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "guests",
+          "pos": "名詞",
+          "meaningJa": "お客さん"
+        },
+        {
+          "word": "welcomed",
+          "pos": "動詞",
+          "meaningJa": "歓迎される"
+        },
+        {
+          "word": "glass",
+          "pos": "名詞",
+          "meaningJa": "グラス、コップ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a glass of",
+        "ja": "グラス1杯の"
+      },
+      "explanationJa": "「a glass of + 飲み物」で「グラス1杯の〜」。a cup of とともに覚えると便利です。"
+    },
+    {
+      "id": "sent-moroccan-mint-tea-2",
+      "english": "The tea is made with green tea, fresh mint leaves, and lots of sugar.",
+      "japanese": "このお茶は、緑茶と新鮮なミントの葉、そしてたっぷりの砂糖で作られます。",
+      "additionalInfoEn": "The sweet taste and cool smell make it very refreshing.",
+      "additionalInfoJa": "甘い味とさわやかな香りで、とてもすっきりします。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "fresh",
+          "pos": "形容詞",
+          "meaningJa": "新鮮な"
+        },
+        {
+          "word": "leaves",
+          "pos": "名詞",
+          "meaningJa": "葉（leafの複数形）"
+        },
+        {
+          "word": "sugar",
+          "pos": "名詞",
+          "meaningJa": "砂糖"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lots of",
+        "ja": "たくさんの"
+      },
+      "explanationJa": "「be made with 〜」で「〜を使って作られる」。料理の材料を説明するときの定番です。"
+    },
+    {
+      "id": "sent-moroccan-mint-tea-3",
+      "english": "The host pours the tea from high above the glass.",
+      "japanese": "もてなす人は、グラスのはるか上からお茶を注ぎます。",
+      "additionalInfoEn": "This creates a light foam on top of the tea.",
+      "additionalInfoJa": "こうすることで、お茶の表面に軽い泡ができます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "host",
+          "pos": "名詞",
+          "meaningJa": "もてなす人、主人"
+        },
+        {
+          "word": "pours",
+          "pos": "動詞",
+          "meaningJa": "注ぐ"
+        },
+        {
+          "word": "above",
+          "pos": "前置詞",
+          "meaningJa": "〜の上に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from high above",
+        "ja": "高いところから"
+      },
+      "explanationJa": "「pour」は液体を「注ぐ」。雨が「激しく降る」という意味でも使われます。"
+    },
+    {
+      "id": "sent-moroccan-mint-tea-4",
+      "english": "Pouring from high also helps the tea cool down a little.",
+      "japanese": "高い位置から注ぐと、お茶が少し冷めるという効果もあります。",
+      "additionalInfoEn": "Guests usually drink more than one glass during a visit.",
+      "additionalInfoJa": "訪問中、お客さんはたいてい1杯以上飲みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Pouring",
+          "pos": "動詞",
+          "meaningJa": "注ぐこと"
+        },
+        {
+          "word": "helps",
+          "pos": "動詞",
+          "meaningJa": "役立つ"
+        },
+        {
+          "word": "cool",
+          "pos": "動詞",
+          "meaningJa": "冷める"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cool down a little",
+        "ja": "少し冷める"
+      },
+      "explanationJa": "「help + 人/物 + 動詞の原形」で「…が〜するのを助ける」。to を入れなくてもOKです。"
+    },
+    {
+      "id": "sent-moroccan-mint-tea-5",
+      "english": "Saying no to the tea can feel a little unfriendly.",
+      "japanese": "お茶を断ると、少しよそよそしい印象になることがあります。",
+      "additionalInfoEn": "Accepting a glass is a simple way to show thanks.",
+      "additionalInfoJa": "1杯受け取ることは、感謝を示すシンプルな方法なのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Saying",
+          "pos": "動詞",
+          "meaningJa": "言うこと"
+        },
+        {
+          "word": "feel",
+          "pos": "動詞",
+          "meaningJa": "〜に感じられる"
+        },
+        {
+          "word": "unfriendly",
+          "pos": "形容詞",
+          "meaningJa": "よそよそしい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "say no to",
+        "ja": "〜を断る"
+      },
+      "explanationJa": "「say no to 〜」で「〜を断る」。動名詞 Saying が文の主語になっています。"
+    }
+  ]
+}

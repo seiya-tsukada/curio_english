@@ -1,0 +1,167 @@
+{
+  "id": "topic-automatic-doors",
+  "categoryId": "technology",
+  "titleEn": "How Automatic Doors Know You Are Coming",
+  "titleJa": "自動ドアがあなたに気づく仕組み",
+  "subtitleJa": "ドアの上にある小さな箱が、ずっと見張っている。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-01",
+  "sentences": [
+    {
+      "id": "sent-automatic-doors-1",
+      "english": "Automatic doors open as soon as you walk up to them.",
+      "japanese": "自動ドアは、あなたが近づいたとたんに開きます。",
+      "additionalInfoEn": "They feel almost like magic, but there is no magic inside.",
+      "additionalInfoJa": "まるで魔法のようですが、中に魔法はありません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Automatic",
+          "pos": "形容詞",
+          "meaningJa": "自動の"
+        },
+        {
+          "word": "doors",
+          "pos": "名詞",
+          "meaningJa": "ドア"
+        },
+        {
+          "word": "walk",
+          "pos": "動詞",
+          "meaningJa": "歩く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as soon as",
+        "ja": "〜するとすぐに"
+      },
+      "explanationJa": "「as soon as + 主語 + 動詞」で「〜するとすぐに」という意味になります。"
+    },
+    {
+      "id": "sent-automatic-doors-2",
+      "english": "A small box above the door is always watching for movement.",
+      "japanese": "ドアの上にある小さな箱が、いつも動きを見張っています。",
+      "additionalInfoEn": "This box is a sensor, a tool that notices changes around it.",
+      "additionalInfoJa": "この箱はセンサーで、周りの変化に気づく装置です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "above",
+          "pos": "前置詞",
+          "meaningJa": "〜の上に"
+        },
+        {
+          "word": "watching",
+          "pos": "動詞",
+          "meaningJa": "見張っている"
+        },
+        {
+          "word": "movement",
+          "pos": "名詞",
+          "meaningJa": "動き"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "watch for",
+        "ja": "〜を見張る"
+      },
+      "explanationJa": "「watch for 〜」は「〜が来ないか注意して見る」という意味の表現です。"
+    },
+    {
+      "id": "sent-automatic-doors-3",
+      "english": "Many sensors send out invisible waves, a bit like a quiet bat.",
+      "japanese": "多くのセンサーは、静かなコウモリのように目に見えない波を出しています。",
+      "additionalInfoEn": "Bats find food by listening to the echoes of their calls.",
+      "additionalInfoJa": "コウモリは、自分の鳴き声の反響を聞いて食べ物を見つけます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sensors",
+          "pos": "名詞",
+          "meaningJa": "センサー"
+        },
+        {
+          "word": "send",
+          "pos": "動詞",
+          "meaningJa": "送る"
+        },
+        {
+          "word": "bat",
+          "pos": "名詞",
+          "meaningJa": "コウモリ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "send out",
+        "ja": "発する、送り出す"
+      },
+      "explanationJa": "「like + 名詞」で「〜のように」と、たとえを使って説明できます。「a bit」で少しやわらげています。"
+    },
+    {
+      "id": "sent-automatic-doors-4",
+      "english": "When you move, the waves bounce back differently, and the door opens.",
+      "japanese": "あなたが動くと波の跳ね返り方が変わり、ドアが開きます。",
+      "additionalInfoEn": "Other sensors use infrared light instead of these waves.",
+      "additionalInfoJa": "ほかに、こうした波の代わりに赤外線を使うセンサーもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "bounce",
+          "pos": "動詞",
+          "meaningJa": "跳ね返る"
+        },
+        {
+          "word": "differently",
+          "pos": "副詞",
+          "meaningJa": "違ったふうに"
+        },
+        {
+          "word": "opens",
+          "pos": "動詞",
+          "meaningJa": "開く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "bounce back",
+        "ja": "跳ね返る"
+      },
+      "explanationJa": "「differently」は形容詞 different に -ly がついた副詞で、「違ったやり方で」という意味です。"
+    },
+    {
+      "id": "sent-automatic-doors-5",
+      "english": "Another sensor near the door keeps it from closing on people.",
+      "japanese": "ドアの近くにある別のセンサーが、ドアが人を挟まないようにしています。",
+      "additionalInfoEn": "That is why the door waits while someone stands in the way.",
+      "additionalInfoJa": "だから誰かが通り道に立っていると、ドアは閉まらずに待つのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Another",
+          "pos": "形容詞",
+          "meaningJa": "別の"
+        },
+        {
+          "word": "near",
+          "pos": "前置詞",
+          "meaningJa": "〜の近くに"
+        },
+        {
+          "word": "closing",
+          "pos": "動詞",
+          "meaningJa": "閉まること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep A from -ing",
+        "ja": "Aが〜するのを防ぐ"
+      },
+      "explanationJa": "「keep A from -ing」で「Aが〜しないようにする」という、防ぐ意味の表現です。"
+    }
+  ]
+}

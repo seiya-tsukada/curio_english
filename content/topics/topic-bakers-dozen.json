@@ -1,0 +1,167 @@
+{
+  "id": "topic-bakers-dozen",
+  "categoryId": "business-economy",
+  "titleEn": "Why a Baker's Dozen Is Thirteen",
+  "titleJa": "パン屋の1ダースが13個になった理由",
+  "subtitleJa": "1個のおまけには、昔の厳しいルールが関係している。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-04",
+  "sentences": [
+    {
+      "id": "sent-bakers-dozen-1",
+      "english": "A dozen means twelve, but a baker's dozen means thirteen.",
+      "japanese": "1ダースは12のことですが、「パン屋の1ダース」は13のことです。",
+      "additionalInfoEn": "This English phrase is still used today for thirteen of something.",
+      "additionalInfoJa": "この英語の表現は、今でも何かが13個あることを表すのに使われます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "dozen",
+          "pos": "名詞",
+          "meaningJa": "ダース、12個"
+        },
+        {
+          "word": "means",
+          "pos": "動詞",
+          "meaningJa": "意味する"
+        },
+        {
+          "word": "baker's",
+          "pos": "名詞",
+          "meaningJa": "パン屋の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a baker's dozen",
+        "ja": "13個"
+      },
+      "explanationJa": "「baker's」の「's」は「〜の」を表します。「baker」はパン屋さん、パン職人のことです。"
+    },
+    {
+      "id": "sent-bakers-dozen-2",
+      "english": "Long ago in England, bread had strict rules about its weight.",
+      "japanese": "昔のイングランドでは、パンの重さについて厳しい決まりがありました。",
+      "additionalInfoEn": "A law from the 1200s controlled the price and weight of bread.",
+      "additionalInfoJa": "1200年代の法律が、パンの値段と重さを管理していました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "bread",
+          "pos": "名詞",
+          "meaningJa": "パン"
+        },
+        {
+          "word": "strict",
+          "pos": "形容詞",
+          "meaningJa": "厳しい"
+        },
+        {
+          "word": "weight",
+          "pos": "名詞",
+          "meaningJa": "重さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rules about",
+        "ja": "〜についての決まり"
+      },
+      "explanationJa": "「Long ago」は「ずっと昔」です。「its」は「その」で、ここでは bread を指しています。"
+    },
+    {
+      "id": "sent-bakers-dozen-3",
+      "english": "Bakers who sold loaves that were too light could be punished.",
+      "japanese": "軽すぎるパンを売ったパン屋は、罰を受けることがありました。",
+      "additionalInfoEn": "They might have to pay a fine or face public shame.",
+      "additionalInfoJa": "罰金を払ったり、人前でさらし者にされたりすることもありました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Bakers",
+          "pos": "名詞",
+          "meaningJa": "パン屋、パン職人"
+        },
+        {
+          "word": "loaves",
+          "pos": "名詞",
+          "meaningJa": "パンのかたまり（loafの複数形）"
+        },
+        {
+          "word": "punished",
+          "pos": "動詞",
+          "meaningJa": "罰せられる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "could be punished",
+        "ja": "罰せられることがあった"
+      },
+      "explanationJa": "「Bakers who 〜」の「who」は、どんなパン屋かを後ろから説明する関係代名詞です。"
+    },
+    {
+      "id": "sent-bakers-dozen-4",
+      "english": "To be safe, many bakers added one extra loaf to every dozen.",
+      "japanese": "念のため、多くのパン屋は1ダースごとにパンを1個おまけしました。",
+      "additionalInfoEn": "One extra loaf was cheaper than paying a penalty.",
+      "additionalInfoJa": "1個おまけするほうが、罰を受けるより安く済んだのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "safe",
+          "pos": "形容詞",
+          "meaningJa": "安全な"
+        },
+        {
+          "word": "added",
+          "pos": "動詞",
+          "meaningJa": "加えた"
+        },
+        {
+          "word": "extra",
+          "pos": "形容詞",
+          "meaningJa": "余分の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "To be safe",
+        "ja": "念のため"
+      },
+      "explanationJa": "「To be safe」は「念のため、安全のために」という意味で、日常会話でもよく使います。"
+    },
+    {
+      "id": "sent-bakers-dozen-5",
+      "english": "That small bonus slowly turned into a phrase we still use.",
+      "japanese": "その小さなおまけは、やがて今でも使われる言葉になりました。",
+      "additionalInfoEn": "Some bakeries still give thirteen when you order a dozen.",
+      "additionalInfoJa": "今でも、1ダース頼むと13個くれるパン屋さんがあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "bonus",
+          "pos": "名詞",
+          "meaningJa": "おまけ"
+        },
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと、徐々に"
+        },
+        {
+          "word": "phrase",
+          "pos": "名詞",
+          "meaningJa": "表現、言い回し"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turned into",
+        "ja": "〜に変わった"
+      },
+      "explanationJa": "「turn into 〜」で「〜に変わる、〜になる」という変化を表せます。"
+    }
+  ]
+}

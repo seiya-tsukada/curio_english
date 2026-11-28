@@ -1,0 +1,167 @@
+{
+  "id": "topic-why-we-hiccup",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Get Hiccups",
+  "titleJa": "しゃっくりが出る理由",
+  "subtitleJa": "「ヒック」という音の正体は、体の中の小さなけいれん。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-02",
+  "sentences": [
+    {
+      "id": "sent-why-we-hiccup-1",
+      "english": "A hiccup starts with a sudden jump of a muscle under your lungs.",
+      "japanese": "しゃっくりは、肺の下にある筋肉が突然ぴくっと動くことから始まります。",
+      "additionalInfoEn": "This big muscle is called the diaphragm, and it helps you breathe.",
+      "additionalInfoJa": "この大きな筋肉は横隔膜と呼ばれ、呼吸を助けています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sudden",
+          "pos": "形容詞",
+          "meaningJa": "突然の"
+        },
+        {
+          "word": "muscle",
+          "pos": "名詞",
+          "meaningJa": "筋肉"
+        },
+        {
+          "word": "lungs",
+          "pos": "名詞",
+          "meaningJa": "肺"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "start with",
+        "ja": "〜から始まる"
+      },
+      "explanationJa": "「start with 〜」は「〜で始まる」。物事のきっかけを説明するときによく使います。"
+    },
+    {
+      "id": "sent-why-we-hiccup-2",
+      "english": "Air rushes in, and your vocal cords quickly close with a hic sound.",
+      "japanese": "空気が一気に入り、声帯がすばやく閉じて「ヒック」という音が出ます。",
+      "additionalInfoEn": "The sound comes from this quick closing, not from your stomach.",
+      "additionalInfoJa": "あの音は胃からではなく、この素早く閉じる動きから生まれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "rushes",
+          "pos": "動詞",
+          "meaningJa": "勢いよく流れ込む"
+        },
+        {
+          "word": "quickly",
+          "pos": "副詞",
+          "meaningJa": "すばやく"
+        },
+        {
+          "word": "close",
+          "pos": "動詞",
+          "meaningJa": "閉じる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rush in",
+        "ja": "どっと入ってくる"
+      },
+      "explanationJa": "「rush in」は「勢いよく入ってくる」。人や空気、水などさまざまなものに使えます。"
+    },
+    {
+      "id": "sent-why-we-hiccup-3",
+      "english": "Eating too fast or drinking fizzy drinks can start hiccups.",
+      "japanese": "早食いや炭酸飲料を飲むことが、しゃっくりのきっかけになることがあります。",
+      "additionalInfoEn": "A full stomach can push on the muscle and bother it.",
+      "additionalInfoJa": "いっぱいになった胃が筋肉を押して、刺激してしまうのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "fast",
+          "pos": "副詞",
+          "meaningJa": "速く"
+        },
+        {
+          "word": "fizzy",
+          "pos": "形容詞",
+          "meaningJa": "炭酸の、泡立つ"
+        },
+        {
+          "word": "drinks",
+          "pos": "名詞",
+          "meaningJa": "飲み物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "too fast",
+        "ja": "速すぎる"
+      },
+      "explanationJa": "「Eating 〜 or drinking 〜」のように、動詞のing形を主語にすると「〜すること」の意味になります。"
+    },
+    {
+      "id": "sent-why-we-hiccup-4",
+      "english": "Surprisingly, babies even hiccup inside their mothers before they are born.",
+      "japanese": "驚くことに、赤ちゃんは生まれる前からお母さんのお腹の中でしゃっくりをしています。",
+      "additionalInfoEn": "Some scientists think this helps babies practice breathing.",
+      "additionalInfoJa": "これは赤ちゃんの呼吸の練習になっている、と考える科学者もいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Surprisingly",
+          "pos": "副詞",
+          "meaningJa": "驚くことに"
+        },
+        {
+          "word": "inside",
+          "pos": "前置詞",
+          "meaningJa": "〜の中で"
+        },
+        {
+          "word": "born",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "生まれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "before they are born",
+        "ja": "生まれる前に"
+      },
+      "explanationJa": "「be born」で「生まれる」。受け身の形なので、bornの前にbe動詞が必要です。"
+    },
+    {
+      "id": "sent-why-we-hiccup-5",
+      "english": "Most hiccups go away by themselves within a few minutes.",
+      "japanese": "ほとんどのしゃっくりは、数分以内に自然と止まります。",
+      "additionalInfoEn": "So there is usually no need to worry about them.",
+      "additionalInfoJa": "ですから、たいていは心配する必要はありません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "themselves",
+          "pos": "代名詞",
+          "meaningJa": "それら自身"
+        },
+        {
+          "word": "minutes",
+          "pos": "名詞",
+          "meaningJa": "分"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "go away by themselves",
+        "ja": "自然になくなる"
+      },
+      "explanationJa": "「by oneself」は「ひとりでに、自然に」。主語に合わせてthemselvesなどに形が変わります。"
+    }
+  ]
+}

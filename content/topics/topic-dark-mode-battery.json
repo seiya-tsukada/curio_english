@@ -1,0 +1,167 @@
+{
+  "id": "topic-dark-mode-battery",
+  "categoryId": "technology",
+  "titleEn": "Why Dark Mode Can Save Battery",
+  "titleJa": "ダークモードで電池が長持ちする理由",
+  "subtitleJa": "画面が黒いとき、その光は本当に消えている。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-21",
+  "sentences": [
+    {
+      "id": "sent-dark-mode-battery-1",
+      "english": "Many phones let you switch to a dark screen called dark mode.",
+      "japanese": "多くのスマホでは、ダークモードという暗い画面に切り替えられます。",
+      "additionalInfoEn": "White letters appear on a black background.",
+      "additionalInfoJa": "黒い背景に白い文字が表示されます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "switch",
+          "pos": "動詞",
+          "meaningJa": "切り替える"
+        },
+        {
+          "word": "dark",
+          "pos": "形容詞",
+          "meaningJa": "暗い"
+        },
+        {
+          "word": "screen",
+          "pos": "名詞",
+          "meaningJa": "画面"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "let you ~",
+        "ja": "〜させてくれる"
+      },
+      "explanationJa": "「let + 人 + 動詞の原形」で「人に〜させてあげる」。機能の説明によく使います。"
+    },
+    {
+      "id": "sent-dark-mode-battery-2",
+      "english": "Some screens are made of millions of tiny lights called pixels.",
+      "japanese": "画面の中には、画素と呼ばれる何百万もの小さな光でできているものがあります。",
+      "additionalInfoEn": "On these screens, each pixel makes its own light.",
+      "additionalInfoJa": "こうした画面では、画素一つひとつが自分で光を出しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "millions",
+          "pos": "名詞",
+          "meaningJa": "何百万"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さな"
+        },
+        {
+          "word": "pixels",
+          "pos": "名詞",
+          "meaningJa": "画素、ピクセル"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "millions of",
+        "ja": "何百万もの"
+      },
+      "explanationJa": "「millions of 〜」は「何百万もの〜」で、とても数が多いことを表します。"
+    },
+    {
+      "id": "sent-dark-mode-battery-3",
+      "english": "To show black, these pixels simply turn off.",
+      "japanese": "黒を表示するとき、これらの画素は単に光を消します。",
+      "additionalInfoEn": "A pixel that is off uses almost no power.",
+      "additionalInfoJa": "消えている画素は、ほとんど電力を使いません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "表示する"
+        },
+        {
+          "word": "black",
+          "pos": "名詞",
+          "meaningJa": "黒"
+        },
+        {
+          "word": "simply",
+          "pos": "副詞",
+          "meaningJa": "単に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turn off",
+        "ja": "消える、オフになる"
+      },
+      "explanationJa": "「To + 動詞の原形」を文頭に置くと、「〜するために」と目的を表せます。"
+    },
+    {
+      "id": "sent-dark-mode-battery-4",
+      "english": "So a mostly black screen can use less battery than a white one.",
+      "japanese": "そのため、ほとんど黒い画面は、白い画面より電池の消費が少なくなります。",
+      "additionalInfoEn": "The saving is biggest when the screen is very bright.",
+      "additionalInfoJa": "画面がとても明るいときほど、節約の効果は大きくなります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "mostly",
+          "pos": "副詞",
+          "meaningJa": "主に、ほとんど"
+        },
+        {
+          "word": "less",
+          "pos": "形容詞",
+          "meaningJa": "より少ない"
+        },
+        {
+          "word": "battery",
+          "pos": "名詞",
+          "meaningJa": "電池"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "less ~ than",
+        "ja": "〜より少ない"
+      },
+      "explanationJa": "「a white one」の「one」は、同じ名詞「screen」の繰り返しを避けるための言葉です。"
+    },
+    {
+      "id": "sent-dark-mode-battery-5",
+      "english": "Screens that use a backlight save much less, because the light stays on.",
+      "japanese": "バックライトを使う画面では、光がつけっぱなしなので節約はずっと少なくなります。",
+      "additionalInfoEn": "On those screens, black parts just block the light from behind.",
+      "additionalInfoJa": "そうした画面では、黒い部分は後ろからの光をさえぎっているだけです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "backlight",
+          "pos": "名詞",
+          "meaningJa": "バックライト"
+        },
+        {
+          "word": "save",
+          "pos": "動詞",
+          "meaningJa": "節約する"
+        },
+        {
+          "word": "stays",
+          "pos": "動詞",
+          "meaningJa": "〜のままでいる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stays on",
+        "ja": "ついたままである"
+      },
+      "explanationJa": "「stay + 形容詞・副詞」で「〜のままでいる」。「stays on」は「ついたまま」です。"
+    }
+  ]
+}

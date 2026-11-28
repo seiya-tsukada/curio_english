@@ -1,0 +1,167 @@
+{
+  "id": "topic-baby-memories",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Can't Remember Being Babies",
+  "titleJa": "赤ちゃんの頃の記憶がない理由",
+  "subtitleJa": "記憶は消えたのか、それとも取り出せないだけなのか。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-13",
+  "sentences": [
+    {
+      "id": "sent-baby-memories-1",
+      "english": "Most adults cannot recall anything that happened before about age three.",
+      "japanese": "ほとんどの大人は、3歳くらいより前に起きたことを何も思い出せません。",
+      "additionalInfoEn": "Scientists call this childhood amnesia, or infantile amnesia.",
+      "additionalInfoJa": "科学者はこれを「幼児期健忘」と呼んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "adults",
+          "pos": "名詞",
+          "meaningJa": "大人"
+        },
+        {
+          "word": "recall",
+          "pos": "動詞",
+          "meaningJa": "思い出す"
+        },
+        {
+          "word": "happened",
+          "pos": "動詞",
+          "meaningJa": "起こった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "before about age three",
+        "ja": "3歳くらいより前に"
+      },
+      "explanationJa": "「not 〜 anything」は「何も〜ない」。nothingと同じ意味で、会話でもよく使われます。"
+    },
+    {
+      "id": "sent-baby-memories-2",
+      "english": "This is strange, because babies clearly learn a huge amount every day.",
+      "japanese": "赤ちゃんは毎日、明らかにたくさんのことを学んでいるので、これは不思議です。",
+      "additionalInfoEn": "They learn faces, voices, words, and how to walk.",
+      "additionalInfoJa": "顔や声、言葉、そして歩き方まで覚えていきます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "strange",
+          "pos": "形容詞",
+          "meaningJa": "不思議な"
+        },
+        {
+          "word": "clearly",
+          "pos": "副詞",
+          "meaningJa": "明らかに"
+        },
+        {
+          "word": "huge",
+          "pos": "形容詞",
+          "meaningJa": "莫大な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a huge amount",
+        "ja": "膨大な量"
+      },
+      "explanationJa": "「amount」は数えられないものの「量」。a huge amount of 〜で「大量の〜」となります。"
+    },
+    {
+      "id": "sent-baby-memories-3",
+      "english": "One explanation is that the hippocampus, a key memory area, is still developing.",
+      "japanese": "一つの説明は、記憶の要となる海馬がまだ発達途中だというものです。",
+      "additionalInfoEn": "Language skills and a sense of self also develop slowly in early childhood.",
+      "additionalInfoJa": "言葉の力や「自分」という感覚も、幼い時期にゆっくりと育っていきます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "explanation",
+          "pos": "名詞",
+          "meaningJa": "説明"
+        },
+        {
+          "word": "key",
+          "pos": "形容詞",
+          "meaningJa": "重要な"
+        },
+        {
+          "word": "developing",
+          "pos": "動詞",
+          "meaningJa": "発達している"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "One explanation is that",
+        "ja": "一つの説明は〜だ"
+      },
+      "explanationJa": "「a key memory area」は直前のhippocampusを言い換えて説明する、同格の表現です。"
+    },
+    {
+      "id": "sent-baby-memories-4",
+      "english": "Recent studies suggest babies do form memories, but we later lose access to them.",
+      "japanese": "最近の研究では、赤ちゃんも記憶を作るが、後で取り出せなくなるのではと考えられています。",
+      "additionalInfoEn": "The memories may still exist somewhere, just locked away.",
+      "additionalInfoJa": "記憶はどこかにまだあり、ただ鍵がかかっているだけなのかもしれません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Recent",
+          "pos": "形容詞",
+          "meaningJa": "最近の"
+        },
+        {
+          "word": "form",
+          "pos": "動詞",
+          "meaningJa": "形成する"
+        },
+        {
+          "word": "access",
+          "pos": "名詞",
+          "meaningJa": "アクセス、接近"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lose access to",
+        "ja": "〜にアクセスできなくなる"
+      },
+      "explanationJa": "「do form」のdoは動詞を強調する働き。「本当に作っている」という意味になります。"
+    },
+    {
+      "id": "sent-baby-memories-5",
+      "english": "So your earliest memory might actually be built from photos and family stories.",
+      "japanese": "ですから、あなたの一番古い記憶は、実は写真や家族の話から作られたものかもしれません。",
+      "additionalInfoEn": "Our brains can easily turn things we've heard into scenes we \"remember.\"",
+      "additionalInfoJa": "脳は、聞いた話を「覚えている」場面に簡単に変えてしまうことがあるのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "earliest",
+          "pos": "形容詞",
+          "meaningJa": "最も古い"
+        },
+        {
+          "word": "actually",
+          "pos": "副詞",
+          "meaningJa": "実は"
+        },
+        {
+          "word": "built",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "作られた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be built from",
+        "ja": "〜から作られる"
+      },
+      "explanationJa": "「might be + 過去分詞」は「〜されたのかもしれない」。推量と受け身を組み合わせた形です。"
+    }
+  ]
+}

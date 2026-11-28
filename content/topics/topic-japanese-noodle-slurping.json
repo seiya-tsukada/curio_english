@@ -1,0 +1,167 @@
+{
+  "id": "topic-japanese-noodle-slurping",
+  "categoryId": "world-culture",
+  "titleEn": "Why Slurping Noodles Is OK in Japan",
+  "titleJa": "日本で麺をすすって食べてもいい理由",
+  "subtitleJa": "音を立てることには、ちゃんとした意味がある。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-03",
+  "sentences": [
+    {
+      "id": "sent-japanese-noodle-slurping-1",
+      "english": "In Japan, people often slurp their noodles loudly.",
+      "japanese": "日本では、人々は麺を音を立ててすすることがよくあります。",
+      "additionalInfoEn": "This is common with soba, udon, and ramen.",
+      "additionalInfoJa": "これは、そば・うどん・ラーメンでよく見られます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "slurp",
+          "pos": "動詞",
+          "meaningJa": "すする"
+        },
+        {
+          "word": "noodles",
+          "pos": "名詞",
+          "meaningJa": "麺"
+        },
+        {
+          "word": "loudly",
+          "pos": "副詞",
+          "meaningJa": "大きな音で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "slurp noodles",
+        "ja": "麺をすする"
+      },
+      "explanationJa": "「often」は「よく、しばしば」。一般動詞の前に置くのが基本の位置です。"
+    },
+    {
+      "id": "sent-japanese-noodle-slurping-2",
+      "english": "In many other countries, eating with noise is seen as rude.",
+      "japanese": "ほかの多くの国では、音を立てて食べることは失礼だと考えられています。",
+      "additionalInfoEn": "So visitors are sometimes surprised when they first hear it.",
+      "additionalInfoJa": "そのため、初めて聞いた旅行者が驚くこともあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "countries",
+          "pos": "名詞",
+          "meaningJa": "国々"
+        },
+        {
+          "word": "noise",
+          "pos": "名詞",
+          "meaningJa": "音、騒音"
+        },
+        {
+          "word": "rude",
+          "pos": "形容詞",
+          "meaningJa": "失礼な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is seen as rude",
+        "ja": "失礼だと見なされる"
+      },
+      "explanationJa": "「be seen as 〜」で「〜と見なされる」。人々の一般的な見方を伝える表現です。"
+    },
+    {
+      "id": "sent-japanese-noodle-slurping-3",
+      "english": "Slurping helps to cool down the hot noodles.",
+      "japanese": "すすることで、熱い麺を冷ますことができます。",
+      "additionalInfoEn": "Pulling in air with the noodles keeps you from burning your mouth.",
+      "additionalInfoJa": "麺と一緒に空気を吸い込むので、口をやけどしにくくなります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "helps",
+          "pos": "動詞",
+          "meaningJa": "役立つ、助ける"
+        },
+        {
+          "word": "cool",
+          "pos": "動詞",
+          "meaningJa": "冷ます"
+        },
+        {
+          "word": "hot",
+          "pos": "形容詞",
+          "meaningJa": "熱い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cool down",
+        "ja": "冷ます"
+      },
+      "explanationJa": "「help to + 動詞」で「〜するのに役立つ」。to は省略して help cool とも言えます。"
+    },
+    {
+      "id": "sent-japanese-noodle-slurping-4",
+      "english": "It also brings the smell of the soup to your nose.",
+      "japanese": "さらに、スープの香りが鼻まで届きます。",
+      "additionalInfoEn": "Many people say the noodles taste better this way.",
+      "additionalInfoJa": "このほうが麺がおいしく感じられると言う人も多くいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "brings",
+          "pos": "動詞",
+          "meaningJa": "運ぶ、持ってくる"
+        },
+        {
+          "word": "smell",
+          "pos": "名詞",
+          "meaningJa": "におい、香り"
+        },
+        {
+          "word": "nose",
+          "pos": "名詞",
+          "meaningJa": "鼻"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "bring A to B",
+        "ja": "AをBへ運ぶ"
+      },
+      "explanationJa": "「also」は「〜もまた」。前の文に続けて、さらに理由を付け足すときに使います。"
+    },
+    {
+      "id": "sent-japanese-noodle-slurping-5",
+      "english": "For many cooks, a happy slurp means you enjoy their food.",
+      "japanese": "多くの料理人にとって、おいしそうにすする音は料理を楽しんでいる証です。",
+      "additionalInfoEn": "Still, slurping pasta or soup is not common in Japan.",
+      "additionalInfoJa": "ただし、日本でもパスタやスープをすするのは一般的ではありません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cooks",
+          "pos": "名詞",
+          "meaningJa": "料理人"
+        },
+        {
+          "word": "happy",
+          "pos": "形容詞",
+          "meaningJa": "楽しそうな、うれしい"
+        },
+        {
+          "word": "enjoy",
+          "pos": "動詞",
+          "meaningJa": "楽しむ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "For many cooks",
+        "ja": "多くの料理人にとって"
+      },
+      "explanationJa": "「For + 人」で「（人）にとって」。誰の立場から見た話なのかを示せます。"
+    }
+  ]
+}

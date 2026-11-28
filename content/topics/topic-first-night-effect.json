@@ -1,0 +1,167 @@
+{
+  "id": "topic-first-night-effect",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Sleep Badly in a New Place",
+  "titleJa": "旅先の最初の夜によく眠れない理由",
+  "subtitleJa": "脳の半分が「夜の見張り番」をしている。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-10",
+  "sentences": [
+    {
+      "id": "sent-first-night-effect-1",
+      "english": "Many people sleep poorly on their first night in a hotel.",
+      "japanese": "多くの人は、ホテルに泊まった最初の夜にあまりよく眠れません。",
+      "additionalInfoEn": "Scientists call this the first-night effect.",
+      "additionalInfoJa": "科学者はこれを「第一夜効果」と呼んでいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "sleep",
+          "pos": "動詞",
+          "meaningJa": "眠る"
+        },
+        {
+          "word": "poorly",
+          "pos": "副詞",
+          "meaningJa": "不十分に、よくない状態で"
+        },
+        {
+          "word": "first",
+          "pos": "形容詞",
+          "meaningJa": "最初の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on their first night",
+        "ja": "最初の夜に"
+      },
+      "explanationJa": "「poorly」は「よくない状態で」。sleep poorlyで「よく眠れない」という意味になります。"
+    },
+    {
+      "id": "sent-first-night-effect-2",
+      "english": "A 2016 study looked at how the brain behaves during that night.",
+      "japanese": "2016年のある研究で、その夜に脳がどのように働いているかが調べられました。",
+      "additionalInfoEn": "Researchers measured activity on both sides of the brain.",
+      "additionalInfoJa": "研究者たちは、脳の左右両側の活動を測定しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "study",
+          "pos": "名詞",
+          "meaningJa": "研究"
+        },
+        {
+          "word": "behaves",
+          "pos": "動詞",
+          "meaningJa": "ふるまう、働く"
+        },
+        {
+          "word": "during",
+          "pos": "前置詞",
+          "meaningJa": "〜の間"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "look at",
+        "ja": "〜を調べる"
+      },
+      "explanationJa": "「look at」は「見る」のほか、「調べる、検討する」という意味でもよく使われます。"
+    },
+    {
+      "id": "sent-first-night-effect-3",
+      "english": "They found the left side of the brain stayed more alert than the right.",
+      "japanese": "その結果、脳の左側は右側よりも警戒した状態を保っていました。",
+      "additionalInfoEn": "It reacted more strongly to strange sounds in the room.",
+      "additionalInfoJa": "左側は、部屋の中の聞き慣れない音により強く反応しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "left",
+          "pos": "形容詞",
+          "meaningJa": "左の"
+        },
+        {
+          "word": "stayed",
+          "pos": "動詞",
+          "meaningJa": "〜のままでいた"
+        },
+        {
+          "word": "alert",
+          "pos": "形容詞",
+          "meaningJa": "警戒している"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stay alert",
+        "ja": "警戒したままでいる"
+      },
+      "explanationJa": "「stay + 形容詞」は「〜のままでいる」。stay alertで「警戒したままでいる」です。"
+    },
+    {
+      "id": "sent-first-night-effect-4",
+      "english": "It works like a night guard, watching for possible danger.",
+      "japanese": "それはまるで夜の見張り番のように、危険がないか見張っているのです。",
+      "additionalInfoEn": "Some birds and dolphins go further, letting half their brain sleep at a time.",
+      "additionalInfoJa": "一部の鳥やイルカはさらに極端で、脳を半分ずつ眠らせます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "guard",
+          "pos": "名詞",
+          "meaningJa": "見張り、警備員"
+        },
+        {
+          "word": "watching",
+          "pos": "動詞",
+          "meaningJa": "見張っている"
+        },
+        {
+          "word": "danger",
+          "pos": "名詞",
+          "meaningJa": "危険"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "watch for",
+        "ja": "〜を警戒して見張る"
+      },
+      "explanationJa": "「watch for 〜」は「〜が来ないか注意して見る」。何かを待ち構えるイメージです。"
+    },
+    {
+      "id": "sent-first-night-effect-5",
+      "english": "Luckily, this effect usually fades by the second night.",
+      "japanese": "幸いなことに、この効果はたいてい2日目の夜には弱まります。",
+      "additionalInfoEn": "Once the brain feels safe, it lets you sleep deeply again.",
+      "additionalInfoJa": "脳が安全だと感じると、再び深く眠れるようになるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Luckily",
+          "pos": "副詞",
+          "meaningJa": "幸運にも"
+        },
+        {
+          "word": "effect",
+          "pos": "名詞",
+          "meaningJa": "効果"
+        },
+        {
+          "word": "fades",
+          "pos": "動詞",
+          "meaningJa": "薄れる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by the second night",
+        "ja": "2日目の夜までに"
+      },
+      "explanationJa": "「by」は「〜までに」と期限を表します。「until（〜までずっと）」との違いに注意しましょう。"
+    }
+  ]
+}

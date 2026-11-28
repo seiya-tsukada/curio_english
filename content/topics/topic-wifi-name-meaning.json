@@ -1,0 +1,167 @@
+{
+  "id": "topic-wifi-name-meaning",
+  "categoryId": "technology",
+  "titleEn": "What Does Wi-Fi Stand For?",
+  "titleJa": "「Wi-Fi」という名前の本当の意味",
+  "subtitleJa": "多くの人が信じている略語は、実は存在しなかった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-10",
+  "sentences": [
+    {
+      "id": "sent-wifi-name-meaning-1",
+      "english": "Many people think Wi-Fi is short for wireless fidelity.",
+      "japanese": "多くの人は、Wi-Fiは「ワイヤレス・フィデリティ」の略だと思っています。",
+      "additionalInfoEn": "Fidelity means how true a copy is to the original.",
+      "additionalInfoJa": "「フィデリティ」とは、コピーがどれだけ元に忠実かという意味です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "short",
+          "pos": "形容詞",
+          "meaningJa": "短縮した（be short for）"
+        },
+        {
+          "word": "wireless",
+          "pos": "形容詞",
+          "meaningJa": "無線の"
+        },
+        {
+          "word": "fidelity",
+          "pos": "名詞",
+          "meaningJa": "忠実度"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be short for",
+        "ja": "〜の略である"
+      },
+      "explanationJa": "「A is short for B」で「AはBの略だ」。略語の説明でよく使う表現です。"
+    },
+    {
+      "id": "sent-wifi-name-meaning-2",
+      "english": "In fact, the name does not stand for anything at all.",
+      "japanese": "実は、この名前は何の略でもありません。",
+      "additionalInfoEn": "It is simply a catchy brand name.",
+      "additionalInfoJa": "単に覚えやすいブランド名なのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "fact",
+          "pos": "名詞",
+          "meaningJa": "事実"
+        },
+        {
+          "word": "name",
+          "pos": "名詞",
+          "meaningJa": "名前"
+        },
+        {
+          "word": "anything",
+          "pos": "代名詞",
+          "meaningJa": "何も（否定文で）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not ~ at all",
+        "ja": "まったく〜ない"
+      },
+      "explanationJa": "「not 〜 at all」は「まったく〜ない」と、否定を強める表現です。"
+    },
+    {
+      "id": "sent-wifi-name-meaning-3",
+      "english": "The technology's official name is IEEE 802.11, which is hard to remember.",
+      "japanese": "この技術の正式名称は「IEEE 802.11」で、とても覚えにくいものです。",
+      "additionalInfoEn": "IEEE is a large group of engineers that creates technical standards.",
+      "additionalInfoJa": "IEEEは、技術の規格を作る大きな技術者団体です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "official",
+          "pos": "形容詞",
+          "meaningJa": "正式な"
+        },
+        {
+          "word": "hard",
+          "pos": "形容詞",
+          "meaningJa": "難しい"
+        },
+        {
+          "word": "remember",
+          "pos": "動詞",
+          "meaningJa": "覚える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hard to remember",
+        "ja": "覚えにくい"
+      },
+      "explanationJa": "「, which 〜」は、前の内容に説明を付け足す関係代名詞の使い方です。"
+    },
+    {
+      "id": "sent-wifi-name-meaning-4",
+      "english": "In 1999, a branding company was hired to create a friendlier name.",
+      "japanese": "1999年、より親しみやすい名前を作るために、ブランド会社が雇われました。",
+      "additionalInfoEn": "Wi-Fi was chosen from a list of several ideas.",
+      "additionalInfoJa": "Wi-Fiは、いくつかの候補の中から選ばれました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "branding",
+          "pos": "名詞",
+          "meaningJa": "ブランド作り"
+        },
+        {
+          "word": "hired",
+          "pos": "動詞",
+          "meaningJa": "雇われた"
+        },
+        {
+          "word": "friendlier",
+          "pos": "形容詞",
+          "meaningJa": "より親しみやすい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "was hired to",
+        "ja": "〜するために雇われた"
+      },
+      "explanationJa": "「was hired」は受け身で「雇われた」。後ろの「to create」は目的を表します。"
+    },
+    {
+      "id": "sent-wifi-name-meaning-5",
+      "english": "They chose Wi-Fi because it sounded like Hi-Fi, a word for good sound.",
+      "japanese": "高音質を意味する「Hi-Fi」に響きが似ていたので、Wi-Fiが選ばれました。",
+      "additionalInfoEn": "The words wireless fidelity were added later, which caused the confusion.",
+      "additionalInfoJa": "「ワイヤレス・フィデリティ」は後から付け加えられ、誤解の元になりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "chose",
+          "pos": "動詞",
+          "meaningJa": "選んだ"
+        },
+        {
+          "word": "sounded",
+          "pos": "動詞",
+          "meaningJa": "〜のように聞こえた"
+        },
+        {
+          "word": "word",
+          "pos": "名詞",
+          "meaningJa": "言葉"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "sound like",
+        "ja": "〜のように聞こえる"
+      },
+      "explanationJa": "「sound like + 名詞」で「〜のように聞こえる」。響きが似ていることを表します。"
+    }
+  ]
+}

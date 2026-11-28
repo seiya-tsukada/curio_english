@@ -1,0 +1,167 @@
+{
+  "id": "topic-chinese-tea-tapping",
+  "categoryId": "world-culture",
+  "titleEn": "Why People Tap the Table for Tea",
+  "titleJa": "中国でお茶を注がれたら指でテーブルをたたく理由",
+  "subtitleJa": "言葉を使わない「ありがとう」の合図。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-25",
+  "sentences": [
+    {
+      "id": "sent-chinese-tea-tapping-1",
+      "english": "In southern China, people often tap the table when someone pours them tea.",
+      "japanese": "中国南部では、お茶を注いでもらったときにテーブルを指で軽くたたくことがよくあります。",
+      "additionalInfoEn": "You can see this a lot in Hong Kong and Guangdong.",
+      "additionalInfoJa": "香港や広東省では、この光景がよく見られます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "southern",
+          "pos": "形容詞",
+          "meaningJa": "南の"
+        },
+        {
+          "word": "tap",
+          "pos": "動詞",
+          "meaningJa": "軽くたたく"
+        },
+        {
+          "word": "pours",
+          "pos": "動詞",
+          "meaningJa": "注ぐ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pour someone tea",
+        "ja": "人にお茶を注ぐ"
+      },
+      "explanationJa": "「pour + 人 + 物」で「人に物を注ぐ」。give と同じように目的語を2つ取れます。"
+    },
+    {
+      "id": "sent-chinese-tea-tapping-2",
+      "english": "They gently knock two or three fingers on the table to say thanks.",
+      "japanese": "人々は、感謝を伝えるために2〜3本の指でテーブルをそっとたたきます。",
+      "additionalInfoEn": "It is a quiet way to thank someone without stopping the conversation.",
+      "additionalInfoJa": "会話を止めずに感謝を伝えられる、さりげない方法です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "gently",
+          "pos": "副詞",
+          "meaningJa": "そっと"
+        },
+        {
+          "word": "knock",
+          "pos": "動詞",
+          "meaningJa": "たたく、ノックする"
+        },
+        {
+          "word": "fingers",
+          "pos": "名詞",
+          "meaningJa": "指"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "to say thanks",
+        "ja": "お礼を言うために"
+      },
+      "explanationJa": "「to + 動詞の原形」で「〜するために」と目的を表せます。不定詞の基本の使い方です。"
+    },
+    {
+      "id": "sent-chinese-tea-tapping-3",
+      "english": "A famous legend says this habit started with an emperor long ago.",
+      "japanese": "有名な言い伝えによると、この習慣は昔のある皇帝から始まったそうです。",
+      "additionalInfoEn": "He traveled in secret, dressed as an ordinary person.",
+      "additionalInfoJa": "皇帝は、ふつうの人の格好をしてお忍びで旅をしていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "legend",
+          "pos": "名詞",
+          "meaningJa": "伝説、言い伝え"
+        },
+        {
+          "word": "habit",
+          "pos": "名詞",
+          "meaningJa": "習慣"
+        },
+        {
+          "word": "emperor",
+          "pos": "名詞",
+          "meaningJa": "皇帝"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "long ago",
+        "ja": "ずっと昔に"
+      },
+      "explanationJa": "「A legend says 〜」で「言い伝えでは〜とされる」。本当かどうか不確かな話の紹介に使います。"
+    },
+    {
+      "id": "sent-chinese-tea-tapping-4",
+      "english": "When he poured tea for his servant, the servant could not bow openly.",
+      "japanese": "皇帝が従者にお茶を注いだとき、従者は人前でおじぎをすることができませんでした。",
+      "additionalInfoEn": "Bowing would have shown everyone who the emperor really was.",
+      "additionalInfoJa": "おじぎをすれば、皇帝の正体がみんなにばれてしまったからです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "servant",
+          "pos": "名詞",
+          "meaningJa": "召使い、従者"
+        },
+        {
+          "word": "bow",
+          "pos": "動詞",
+          "meaningJa": "おじぎをする"
+        },
+        {
+          "word": "openly",
+          "pos": "副詞",
+          "meaningJa": "人前で、公然と"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "could not",
+        "ja": "〜できなかった"
+      },
+      "explanationJa": "「could not + 動詞」は「〜できなかった」。can の過去形 could を使っています。"
+    },
+    {
+      "id": "sent-chinese-tea-tapping-5",
+      "english": "So he tapped his bent fingers on the table to show his thanks.",
+      "japanese": "そこで従者は、曲げた指でテーブルをたたいて感謝を表しました。",
+      "additionalInfoEn": "The bent fingers were meant to look like a person bowing.",
+      "additionalInfoJa": "曲げた指は、おじぎをする人の姿に見立てたものだったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "tapped",
+          "pos": "動詞",
+          "meaningJa": "軽くたたいた"
+        },
+        {
+          "word": "bent",
+          "pos": "形容詞",
+          "meaningJa": "曲がった"
+        },
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "示す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "show thanks",
+        "ja": "感謝を示す"
+      },
+      "explanationJa": "「bent」は「bend（曲げる）」の過去分詞で、「曲がった」という形容詞として使われています。"
+    }
+  ]
+}

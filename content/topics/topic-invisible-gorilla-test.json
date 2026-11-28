@@ -1,0 +1,167 @@
+{
+  "id": "topic-invisible-gorilla-test",
+  "categoryId": "human-psychology",
+  "titleEn": "How We Can Miss a Gorilla in Plain Sight",
+  "titleJa": "目の前のゴリラに気づかない理由",
+  "subtitleJa": "集中しているとき、私たちの目は意外と多くを見逃す。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-13",
+  "sentences": [
+    {
+      "id": "sent-invisible-gorilla-test-1",
+      "english": "In a famous 1999 experiment, people watched a short basketball video.",
+      "japanese": "1999年の有名な実験で、人々はバスケットボールの短い動画を見ました。",
+      "additionalInfoEn": "Their task was to count how many passes one team made.",
+      "additionalInfoJa": "彼らの課題は、一方のチームが何回パスをしたかを数えることでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "famous",
+          "pos": "形容詞",
+          "meaningJa": "有名な"
+        },
+        {
+          "word": "experiment",
+          "pos": "名詞",
+          "meaningJa": "実験"
+        },
+        {
+          "word": "watched",
+          "pos": "動詞",
+          "meaningJa": "見た"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a short basketball video",
+        "ja": "バスケットボールの短い動画"
+      },
+      "explanationJa": "「famous 1999 experiment」のように、年号を形容詞のように名詞の前に置くことができます。"
+    },
+    {
+      "id": "sent-invisible-gorilla-test-2",
+      "english": "Midway through, a person in a gorilla suit walked across the scene.",
+      "japanese": "途中で、ゴリラの着ぐるみを着た人が画面を横切りました。",
+      "additionalInfoEn": "The gorilla even stopped, faced the camera, and beat its chest.",
+      "additionalInfoJa": "ゴリラは立ち止まり、カメラの方を向いて胸をたたきさえしました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Midway",
+          "pos": "副詞",
+          "meaningJa": "途中で"
+        },
+        {
+          "word": "suit",
+          "pos": "名詞",
+          "meaningJa": "着ぐるみ、スーツ"
+        },
+        {
+          "word": "scene",
+          "pos": "名詞",
+          "meaningJa": "場面"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "walk across",
+        "ja": "〜を横切って歩く"
+      },
+      "explanationJa": "「in a gorilla suit」の「in」は「〜を着て」。服装を表すときによく使います。"
+    },
+    {
+      "id": "sent-invisible-gorilla-test-3",
+      "english": "Remarkably, about half of the viewers completely failed to notice it.",
+      "japanese": "驚くべきことに、見ていた人のおよそ半数がそれにまったく気づきませんでした。",
+      "additionalInfoEn": "Many refused to believe it until they watched the video again.",
+      "additionalInfoJa": "もう一度動画を見るまで、それを信じようとしない人も多くいました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Remarkably",
+          "pos": "副詞",
+          "meaningJa": "驚くべきことに"
+        },
+        {
+          "word": "completely",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        },
+        {
+          "word": "failed",
+          "pos": "動詞",
+          "meaningJa": "〜しそこなった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "fail to notice",
+        "ja": "気づかない"
+      },
+      "explanationJa": "「fail to 〜」は「〜しそこなう、〜できない」。notを使わずに否定の意味を表します。"
+    },
+    {
+      "id": "sent-invisible-gorilla-test-4",
+      "english": "Psychologists call this inattentional blindness: missing what we aren't focused on.",
+      "japanese": "心理学者はこれを「非注意性盲目」と呼びます。注意を向けていないものを見逃す現象です。",
+      "additionalInfoEn": "Attention acts like a spotlight that leaves everything else in the dark.",
+      "additionalInfoJa": "注意はスポットライトのようなもので、それ以外のものは暗闇に残されてしまうのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Psychologists",
+          "pos": "名詞",
+          "meaningJa": "心理学者"
+        },
+        {
+          "word": "blindness",
+          "pos": "名詞",
+          "meaningJa": "盲目、見えないこと"
+        },
+        {
+          "word": "focused",
+          "pos": "形容詞",
+          "meaningJa": "集中した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be focused on",
+        "ja": "〜に集中している"
+      },
+      "explanationJa": "「what we aren't focused on」は「集中していないもの」。whatが「〜なもの」を表します。"
+    },
+    {
+      "id": "sent-invisible-gorilla-test-5",
+      "english": "Even trained experts can do this, as a later study with doctors showed.",
+      "japanese": "医師を対象にした後の研究が示すように、訓練を受けた専門家でさえ見逃すことがあります。",
+      "additionalInfoEn": "Most radiologists missed a tiny gorilla hidden in lung scans.",
+      "additionalInfoJa": "多くの放射線科医が、肺の画像に隠された小さなゴリラを見逃したのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "trained",
+          "pos": "形容詞",
+          "meaningJa": "訓練を受けた"
+        },
+        {
+          "word": "experts",
+          "pos": "名詞",
+          "meaningJa": "専門家"
+        },
+        {
+          "word": "showed",
+          "pos": "動詞",
+          "meaningJa": "示した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as a study showed",
+        "ja": "研究が示したように"
+      },
+      "explanationJa": "「as + 主語 + 動詞」は「〜が…したように」。根拠を添えるときに使える表現です。"
+    }
+  ]
+}

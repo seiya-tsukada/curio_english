@@ -1,0 +1,167 @@
+{
+  "id": "topic-moon-same-side",
+  "categoryId": "space-science",
+  "titleEn": "We Always See the Same Side of the Moon",
+  "titleJa": "月がいつも同じ面を地球に向けている理由",
+  "subtitleJa": "月の「裏側」が地球から見えない、ぴったりのタイミング。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-26",
+  "sentences": [
+    {
+      "id": "sent-moon-same-side-1",
+      "english": "From Earth, we always see the same side of the Moon.",
+      "japanese": "地球からは、いつも月の同じ面しか見ることができません。",
+      "additionalInfoEn": "The pattern of dark spots on the Moon never changes.",
+      "additionalInfoJa": "月の表面に見える暗い模様は、いつ見ても変わりません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "always",
+          "pos": "副詞",
+          "meaningJa": "いつも"
+        },
+        {
+          "word": "same",
+          "pos": "形容詞",
+          "meaningJa": "同じ"
+        },
+        {
+          "word": "side",
+          "pos": "名詞",
+          "meaningJa": "面、側"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same side",
+        "ja": "同じ面"
+      },
+      "explanationJa": "「same」は必ず「the」と一緒に使い「the same 〜」の形になります。セットで覚えましょう。"
+    },
+    {
+      "id": "sent-moon-same-side-2",
+      "english": "This is not because the Moon does not spin.",
+      "japanese": "これは、月が自転していないからではありません。",
+      "additionalInfoEn": "The Moon really does turn around once, just very slowly.",
+      "additionalInfoJa": "月は実際にちゃんと1回転しています。ただ、とてもゆっくりなのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "because",
+          "pos": "接続詞",
+          "meaningJa": "なぜなら"
+        },
+        {
+          "word": "spin",
+          "pos": "動詞",
+          "meaningJa": "回転する"
+        },
+        {
+          "word": "not",
+          "pos": "副詞",
+          "meaningJa": "〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This is not because",
+        "ja": "これは〜だからではない"
+      },
+      "explanationJa": "「This is not because 〜」は、よくある誤解を打ち消すときに使える表現です。"
+    },
+    {
+      "id": "sent-moon-same-side-3",
+      "english": "It spins exactly once each time it circles Earth.",
+      "japanese": "月は地球の周りを1周するたびに、ちょうど1回だけ自転します。",
+      "additionalInfoEn": "Both take about 27 days, so the timing matches perfectly.",
+      "additionalInfoJa": "どちらも約27日かかるので、タイミングがぴったり合っているのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "exactly",
+          "pos": "副詞",
+          "meaningJa": "ちょうど、正確に"
+        },
+        {
+          "word": "once",
+          "pos": "副詞",
+          "meaningJa": "1回"
+        },
+        {
+          "word": "circles",
+          "pos": "動詞",
+          "meaningJa": "〜の周りを回る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "each time",
+        "ja": "〜するたびに"
+      },
+      "explanationJa": "「each time + 文」で「〜するたびに」という意味の接続表現になります。"
+    },
+    {
+      "id": "sent-moon-same-side-4",
+      "english": "Over billions of years, Earth's gravity locked the Moon this way.",
+      "japanese": "何十億年もの間に、地球の重力が月をこの状態に固定しました。",
+      "additionalInfoEn": "Scientists call this effect tidal locking.",
+      "additionalInfoJa": "科学者はこの現象を「潮汐ロック」と呼んでいます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "billions",
+          "pos": "名詞",
+          "meaningJa": "何十億"
+        },
+        {
+          "word": "gravity",
+          "pos": "名詞",
+          "meaningJa": "重力"
+        },
+        {
+          "word": "locked",
+          "pos": "動詞",
+          "meaningJa": "固定した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "over billions of years",
+        "ja": "何十億年もかけて"
+      },
+      "explanationJa": "「over + 期間」で「〜にわたって」と長い時間をかけた変化を表します。"
+    },
+    {
+      "id": "sent-moon-same-side-5",
+      "english": "The far side is not dark, but it always faces away from us.",
+      "japanese": "月の裏側は暗いわけではありませんが、いつも私たちとは反対を向いています。",
+      "additionalInfoEn": "People first saw the far side in 1959, in photos from a space probe.",
+      "additionalInfoJa": "人類が初めて月の裏側を見たのは1959年、探査機が撮った写真でした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "far",
+          "pos": "形容詞",
+          "meaningJa": "遠い方の"
+        },
+        {
+          "word": "dark",
+          "pos": "形容詞",
+          "meaningJa": "暗い"
+        },
+        {
+          "word": "faces",
+          "pos": "動詞",
+          "meaningJa": "〜の方を向く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "faces away from us",
+        "ja": "私たちと反対を向いている"
+      },
+      "explanationJa": "「face」は名詞の「顔」だけでなく、動詞で「〜の方を向く」という意味もあります。"
+    }
+  ]
+}

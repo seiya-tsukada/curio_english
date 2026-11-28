@@ -1,0 +1,167 @@
+{
+  "id": "topic-after-lunch-sleepiness",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Feel Sleepy After Lunch",
+  "titleJa": "お昼ごはんのあとに眠くなる理由",
+  "subtitleJa": "原因は食事だけでなく、体内時計にもあった。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-04",
+  "sentences": [
+    {
+      "id": "sent-after-lunch-sleepiness-1",
+      "english": "Many people feel very sleepy in the early afternoon.",
+      "japanese": "多くの人は、午後の早い時間にとても眠くなります。",
+      "additionalInfoEn": "It often happens around one to three o'clock.",
+      "additionalInfoJa": "たいてい1時から3時ごろに起こります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "sleepy",
+          "pos": "形容詞",
+          "meaningJa": "眠い"
+        },
+        {
+          "word": "early",
+          "pos": "形容詞",
+          "meaningJa": "早い"
+        },
+        {
+          "word": "afternoon",
+          "pos": "名詞",
+          "meaningJa": "午後"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the early afternoon",
+        "ja": "午後の早い時間に"
+      },
+      "explanationJa": "「feel + 形容詞」で「〜と感じる」。feel sleepyで「眠く感じる」です。"
+    },
+    {
+      "id": "sent-after-lunch-sleepiness-2",
+      "english": "Most of us blame lunch, but food is only part of the story.",
+      "japanese": "多くの人は昼食のせいにしますが、食べ物は理由の一部にすぎません。",
+      "additionalInfoEn": "A very big meal can make the feeling stronger, though.",
+      "additionalInfoJa": "ただし、たくさん食べるとその眠気が強くなることはあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "blame",
+          "pos": "動詞",
+          "meaningJa": "〜のせいにする"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "ただ〜だけ"
+        },
+        {
+          "word": "part",
+          "pos": "名詞",
+          "meaningJa": "一部"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "part of the story",
+        "ja": "話の一部"
+      },
+      "explanationJa": "「only part of 〜」は「〜の一部にすぎない」。ほかにも理由があることをほのめかします。"
+    },
+    {
+      "id": "sent-after-lunch-sleepiness-3",
+      "english": "Our body clock naturally makes us less alert at this time.",
+      "japanese": "体内時計が、この時間帯に自然と頭をぼんやりさせるのです。",
+      "additionalInfoEn": "Scientists call this the post-lunch dip.",
+      "additionalInfoJa": "科学者はこれを「ポストランチ・ディップ（昼食後の落ち込み）」と呼びます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "clock",
+          "pos": "名詞",
+          "meaningJa": "時計"
+        },
+        {
+          "word": "naturally",
+          "pos": "副詞",
+          "meaningJa": "自然に"
+        },
+        {
+          "word": "alert",
+          "pos": "形容詞",
+          "meaningJa": "頭がさえた、注意深い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "body clock",
+        "ja": "体内時計"
+      },
+      "explanationJa": "「make + 人 + 形容詞」は「人を〜の状態にする」。less alertで「頭がさえない状態」です。"
+    },
+    {
+      "id": "sent-after-lunch-sleepiness-4",
+      "english": "You can feel this dip even if you skip lunch.",
+      "japanese": "たとえ昼食を抜いても、この眠気を感じることがあります。",
+      "additionalInfoEn": "This suggests that the body clock plays a big role.",
+      "additionalInfoJa": "このことから、体内時計が大きな役割を果たしていると考えられます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "dip",
+          "pos": "名詞",
+          "meaningJa": "落ち込み"
+        },
+        {
+          "word": "skip",
+          "pos": "動詞",
+          "meaningJa": "抜く、とばす"
+        },
+        {
+          "word": "lunch",
+          "pos": "名詞",
+          "meaningJa": "昼食"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "even if",
+        "ja": "たとえ〜でも"
+      },
+      "explanationJa": "「even if 〜」は「たとえ〜だとしても」。仮定の話を強調するときに使います。"
+    },
+    {
+      "id": "sent-after-lunch-sleepiness-5",
+      "english": "This may be one reason some countries have a tradition of afternoon naps.",
+      "japanese": "昼寝の習慣がある国があるのも、これが理由の一つかもしれません。",
+      "additionalInfoEn": "In Spain, this rest is famously called a siesta.",
+      "additionalInfoJa": "スペインでは、この休息は「シエスタ」として有名です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "reason",
+          "pos": "名詞",
+          "meaningJa": "理由"
+        },
+        {
+          "word": "tradition",
+          "pos": "名詞",
+          "meaningJa": "伝統、習慣"
+        },
+        {
+          "word": "naps",
+          "pos": "名詞",
+          "meaningJa": "昼寝"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a tradition of",
+        "ja": "〜の伝統"
+      },
+      "explanationJa": "「may be」は「〜かもしれない」。断定を避けて、やわらかく推測を伝えられます。"
+    }
+  ]
+}

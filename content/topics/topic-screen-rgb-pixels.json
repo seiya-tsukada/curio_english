@@ -1,0 +1,167 @@
+{
+  "id": "topic-screen-rgb-pixels",
+  "categoryId": "technology",
+  "titleEn": "Your Screen Uses Only Three Colors",
+  "titleJa": "画面のすべての色は3色でできている",
+  "subtitleJa": "赤・緑・青の小さな光が、何百万もの色をつくり出す。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-09",
+  "sentences": [
+    {
+      "id": "sent-screen-rgb-pixels-1",
+      "english": "Your phone screen can show millions of colors, but it uses only three.",
+      "japanese": "スマホの画面は何百万もの色を表示できますが、使っているのは3色だけです。",
+      "additionalInfoEn": "These three colors are red, green, and blue.",
+      "additionalInfoJa": "その3色とは、赤、緑、青です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "表示する"
+        },
+        {
+          "word": "colors",
+          "pos": "名詞",
+          "meaningJa": "色"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "〜だけ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "only three",
+        "ja": "たった3つ"
+      },
+      "explanationJa": "「only」は数や量の前に置くと「たった〜だけ」と、少なさを強調できます。"
+    },
+    {
+      "id": "sent-screen-rgb-pixels-2",
+      "english": "Each pixel is made of tiny red, green, and blue lights.",
+      "japanese": "各画素は、小さな赤・緑・青の光でできています。",
+      "additionalInfoEn": "These tiny lights are called subpixels.",
+      "additionalInfoJa": "この小さな光は「サブピクセル」と呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "pixel",
+          "pos": "名詞",
+          "meaningJa": "画素"
+        },
+        {
+          "word": "made",
+          "pos": "動詞",
+          "meaningJa": "作られた"
+        },
+        {
+          "word": "lights",
+          "pos": "名詞",
+          "meaningJa": "光、明かり"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be made of",
+        "ja": "〜でできている"
+      },
+      "explanationJa": "「Each」の後ろは単数形の名詞が来て、動詞も「is」のように単数に合わせます。"
+    },
+    {
+      "id": "sent-screen-rgb-pixels-3",
+      "english": "By changing how bright each light is, the screen mixes new colors.",
+      "japanese": "それぞれの光の明るさを変えることで、画面は新しい色を混ぜ合わせます。",
+      "additionalInfoEn": "Red and green light together look yellow to our eyes.",
+      "additionalInfoJa": "赤と緑の光を合わせると、私たちの目には黄色に見えます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "changing",
+          "pos": "動詞",
+          "meaningJa": "変えること"
+        },
+        {
+          "word": "bright",
+          "pos": "形容詞",
+          "meaningJa": "明るい"
+        },
+        {
+          "word": "mixes",
+          "pos": "動詞",
+          "meaningJa": "混ぜる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "By changing",
+        "ja": "〜を変えることで"
+      },
+      "explanationJa": "「By + -ing」で「〜することによって」と、手段や方法を表します。"
+    },
+    {
+      "id": "sent-screen-rgb-pixels-4",
+      "english": "When all three shine fully, the pixel looks white.",
+      "japanese": "3つすべてが全力で光ると、その画素は白く見えます。",
+      "additionalInfoEn": "Mixing light works differently from mixing paint, which gets darker.",
+      "additionalInfoJa": "光を混ぜるのは、混ぜるほど暗くなる絵の具とは仕組みが違います。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "shine",
+          "pos": "動詞",
+          "meaningJa": "光る"
+        },
+        {
+          "word": "fully",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        },
+        {
+          "word": "looks",
+          "pos": "動詞",
+          "meaningJa": "〜に見える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "look white",
+        "ja": "白く見える"
+      },
+      "explanationJa": "「look + 形容詞」で「〜に見える」。見た目の印象を伝える基本的な形です。"
+    },
+    {
+      "id": "sent-screen-rgb-pixels-5",
+      "english": "This works because our eyes also sense color with just three types of cells.",
+      "japanese": "これがうまくいくのは、私たちの目も3種類の細胞だけで色を感じているからです。",
+      "additionalInfoEn": "Look at a screen through a magnifying glass to see the tiny dots.",
+      "additionalInfoJa": "虫眼鏡で画面を見ると、小さな光の点が見えます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "works",
+          "pos": "動詞",
+          "meaningJa": "うまくいく"
+        },
+        {
+          "word": "sense",
+          "pos": "動詞",
+          "meaningJa": "感じ取る"
+        },
+        {
+          "word": "cells",
+          "pos": "名詞",
+          "meaningJa": "細胞"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This works because",
+        "ja": "これがうまくいくのは〜だから"
+      },
+      "explanationJa": "「This works because 〜」は、仕組みが成り立つ理由を説明するときに便利な表現です。"
+    }
+  ]
+}

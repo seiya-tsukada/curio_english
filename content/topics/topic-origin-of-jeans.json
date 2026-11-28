@@ -1,0 +1,167 @@
+{
+  "id": "topic-origin-of-jeans",
+  "categoryId": "history",
+  "titleEn": "Jeans Began as Work Clothes",
+  "titleJa": "ジーンズはもともと作業着だった",
+  "subtitleJa": "小さな金属の鋲が、世界的なファッションを生みました。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-29",
+  "sentences": [
+    {
+      "id": "sent-origin-of-jeans-1",
+      "english": "In the 1800s, many workers in the American West needed strong pants.",
+      "japanese": "1800年代、アメリカ西部の多くの労働者は丈夫なズボンを必要としていました。",
+      "additionalInfoEn": "Miners, farmers, and cowboys often tore their pockets while working.",
+      "additionalInfoJa": "鉱山労働者や農家、カウボーイは、仕事中によくポケットを破いていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "workers",
+          "pos": "名詞",
+          "meaningJa": "労働者"
+        },
+        {
+          "word": "needed",
+          "pos": "動詞",
+          "meaningJa": "必要とした"
+        },
+        {
+          "word": "pants",
+          "pos": "名詞",
+          "meaningJa": "ズボン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the American West",
+        "ja": "アメリカ西部"
+      },
+      "explanationJa": "アメリカ英語で「pants」はズボンのこと。イギリス英語では下着の意味になるので注意。"
+    },
+    {
+      "id": "sent-origin-of-jeans-2",
+      "english": "A tailor named Jacob Davis added small metal rivets to the pockets.",
+      "japanese": "ジェイコブ・デイビスという仕立て屋が、ポケットに小さな金属の鋲を付けました。",
+      "additionalInfoEn": "The rivets kept the corners of the pockets from tearing.",
+      "additionalInfoJa": "鋲のおかげで、ポケットの角が破れにくくなりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "tailor",
+          "pos": "名詞",
+          "meaningJa": "仕立て屋"
+        },
+        {
+          "word": "metal",
+          "pos": "形容詞",
+          "meaningJa": "金属の"
+        },
+        {
+          "word": "rivets",
+          "pos": "名詞",
+          "meaningJa": "リベット、鋲"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "added A to B",
+        "ja": "AをBに付け加えた"
+      },
+      "explanationJa": "「add A to B」で「AをBに加える」。料理で「塩を加える」ときにも使えます。"
+    },
+    {
+      "id": "sent-origin-of-jeans-3",
+      "english": "He asked Levi Strauss, a cloth seller, to help him get a patent.",
+      "japanese": "彼は布の商人リーバイ・ストラウスに、特許を取る手伝いを頼みました。",
+      "additionalInfoEn": "They received the patent together in 1873, often called the birth of jeans.",
+      "additionalInfoJa": "2人は1873年に共同で特許を取得し、これがジーンズの誕生とよく言われます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "cloth",
+          "pos": "名詞",
+          "meaningJa": "布"
+        },
+        {
+          "word": "seller",
+          "pos": "名詞",
+          "meaningJa": "売る人、商人"
+        },
+        {
+          "word": "patent",
+          "pos": "名詞",
+          "meaningJa": "特許"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "asked A to help",
+        "ja": "Aに手伝いを頼んだ"
+      },
+      "explanationJa": "「ask 人 to + 動詞」で「人に〜するよう頼む」。お願いの内容をtoの後ろに置きます。"
+    },
+    {
+      "id": "sent-origin-of-jeans-4",
+      "english": "The word \"denim\" probably comes from a French town called Nîmes.",
+      "japanese": "「デニム」という言葉は、おそらくフランスの町ニームに由来します。",
+      "additionalInfoEn": "The fabric was once called \"serge de Nîmes,\" meaning cloth from Nîmes.",
+      "additionalInfoJa": "その布はかつて「セルジュ・ド・ニーム（ニームの布）」と呼ばれていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "おそらく"
+        },
+        {
+          "word": "French",
+          "pos": "形容詞",
+          "meaningJa": "フランスの"
+        },
+        {
+          "word": "town",
+          "pos": "名詞",
+          "meaningJa": "町"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a town called",
+        "ja": "〜という町"
+      },
+      "explanationJa": "「called 〜」は「〜と呼ばれる」。名前を後ろから説明するときに使えます。"
+    },
+    {
+      "id": "sent-origin-of-jeans-5",
+      "english": "Today, jeans have changed from work clothes into everyday fashion.",
+      "japanese": "今日、ジーンズは作業着から日常のファッションへと変わりました。",
+      "additionalInfoEn": "Many jeans still have small rivets on their front pockets.",
+      "additionalInfoJa": "今でも多くのジーンズの前ポケットには、小さな鋲が付いています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "changed",
+          "pos": "動詞",
+          "meaningJa": "変わった"
+        },
+        {
+          "word": "clothes",
+          "pos": "名詞",
+          "meaningJa": "服"
+        },
+        {
+          "word": "everyday",
+          "pos": "形容詞",
+          "meaningJa": "日常の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "changed from A into B",
+        "ja": "AからBへ変わった"
+      },
+      "explanationJa": "「change from A into B」で「AからBへ変わる」。変化の前と後を一度に言えます。"
+    }
+  ]
+}

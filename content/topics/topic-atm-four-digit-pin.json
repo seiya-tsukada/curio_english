@@ -1,0 +1,167 @@
+{
+  "id": "topic-atm-four-digit-pin",
+  "categoryId": "business-economy",
+  "titleEn": "Why ATM PINs Have Four Digits",
+  "titleJa": "暗証番号が4桁になったのは妻のひと言から",
+  "subtitleJa": "初期のATMと、覚えやすさをめぐる小さな物語。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-07",
+  "sentences": [
+    {
+      "id": "sent-atm-four-digit-pin-1",
+      "english": "One of the world's first cash machines opened in London in 1967.",
+      "japanese": "世界で最初期の現金自動支払機の1つが、1967年にロンドンで登場しました。",
+      "additionalInfoEn": "It was placed outside a bank in the north of the city.",
+      "additionalInfoJa": "それはロンドン北部にある銀行の外に設置されました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cash",
+          "pos": "名詞",
+          "meaningJa": "現金"
+        },
+        {
+          "word": "machines",
+          "pos": "名詞",
+          "meaningJa": "機械"
+        },
+        {
+          "word": "opened",
+          "pos": "動詞",
+          "meaningJa": "営業を始めた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one of the",
+        "ja": "〜のうちの1つ"
+      },
+      "explanationJa": "「one of the + 複数名詞」で「〜のうちの1つ」です。後ろの名詞は複数形になることに注意しましょう。"
+    },
+    {
+      "id": "sent-atm-four-digit-pin-2",
+      "english": "Its inventor, John Shepherd-Barron, first planned a six-digit secret number.",
+      "japanese": "発明者のジョン・シェパード＝バロンは、最初は6桁の暗証番号を考えていました。",
+      "additionalInfoEn": "He based the idea on his old army number, which he still remembered.",
+      "additionalInfoJa": "彼は、今でも覚えていた軍隊時代の番号をもとにこのアイデアを考えました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "inventor",
+          "pos": "名詞",
+          "meaningJa": "発明者"
+        },
+        {
+          "word": "planned",
+          "pos": "動詞",
+          "meaningJa": "計画した"
+        },
+        {
+          "word": "secret",
+          "pos": "形容詞",
+          "meaningJa": "秘密の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "secret number",
+        "ja": "暗証番号"
+      },
+      "explanationJa": "「six-digit」のようにハイフンでつなぐと形容詞になり、「6桁の」と名詞を説明できます。"
+    },
+    {
+      "id": "sent-atm-four-digit-pin-3",
+      "english": "But his wife said she could only remember four numbers easily.",
+      "japanese": "しかし彼の妻は、楽に覚えられるのは4つの数字までだと言いました。",
+      "additionalInfoEn": "According to his later stories, she told him at the kitchen table.",
+      "additionalInfoJa": "後の彼の話によると、それは台所のテーブルでの会話でした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "wife",
+          "pos": "名詞",
+          "meaningJa": "妻"
+        },
+        {
+          "word": "remember",
+          "pos": "動詞",
+          "meaningJa": "覚えている"
+        },
+        {
+          "word": "easily",
+          "pos": "副詞",
+          "meaningJa": "簡単に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "could only",
+        "ja": "〜しかできなかった"
+      },
+      "explanationJa": "「could only + 動詞」で「〜しかできない」という意味です。時制の一致で can が could になっています。"
+    },
+    {
+      "id": "sent-atm-four-digit-pin-4",
+      "english": "So he changed the plan, and four digits became the common standard.",
+      "japanese": "そこで彼は計画を変え、4桁がよく使われる標準になりました。",
+      "additionalInfoEn": "Many banks around the world later used four-digit PINs as well.",
+      "additionalInfoJa": "その後、世界中の多くの銀行も4桁の暗証番号を使うようになりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "changed",
+          "pos": "動詞",
+          "meaningJa": "変えた"
+        },
+        {
+          "word": "digits",
+          "pos": "名詞",
+          "meaningJa": "桁、数字"
+        },
+        {
+          "word": "standard",
+          "pos": "名詞",
+          "meaningJa": "標準"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "changed the plan",
+        "ja": "計画を変えた"
+      },
+      "explanationJa": "「So」は「そこで、だから」と結果を表します。「become」の過去形は「became」です。"
+    },
+    {
+      "id": "sent-atm-four-digit-pin-5",
+      "english": "Thanks to one short talk at home, millions of people use four digits.",
+      "japanese": "家庭での短い会話のおかげで、何百万もの人が4桁の番号を使っています。",
+      "additionalInfoEn": "The first machine did not even use plastic cards, but special paper checks.",
+      "additionalInfoJa": "最初の機械はプラスチックのカードではなく、特別な紙の小切手を使っていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "short",
+          "pos": "形容詞",
+          "meaningJa": "短い"
+        },
+        {
+          "word": "talk",
+          "pos": "名詞",
+          "meaningJa": "会話"
+        },
+        {
+          "word": "millions",
+          "pos": "名詞",
+          "meaningJa": "何百万"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Thanks to",
+        "ja": "〜のおかげで"
+      },
+      "explanationJa": "「Thanks to 〜」は「〜のおかげで」と原因を表します。良い結果のときによく使われます。"
+    }
+  ]
+}

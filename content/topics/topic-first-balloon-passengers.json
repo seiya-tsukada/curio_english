@@ -1,0 +1,167 @@
+{
+  "id": "topic-first-balloon-passengers",
+  "categoryId": "history",
+  "titleEn": "The First Balloon Passengers Were Animals",
+  "titleJa": "熱気球の最初の乗客は動物たちだった",
+  "subtitleJa": "ヒツジとアヒルとニワトリが空を飛んだ日。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-20",
+  "sentences": [
+    {
+      "id": "sent-first-balloon-passengers-1",
+      "english": "In 1783, two French brothers made a big balloon fly.",
+      "japanese": "1783年、フランスの兄弟が大きな気球を空に飛ばしました。",
+      "additionalInfoEn": "Joseph and Étienne Montgolfier came from a family of paper makers.",
+      "additionalInfoJa": "ジョゼフとエティエンヌのモンゴルフィエ兄弟は、紙を作る家の出身でした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "brothers",
+          "pos": "名詞",
+          "meaningJa": "兄弟"
+        },
+        {
+          "word": "balloon",
+          "pos": "名詞",
+          "meaningJa": "気球"
+        },
+        {
+          "word": "fly",
+          "pos": "動詞",
+          "meaningJa": "飛ぶ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made a balloon fly",
+        "ja": "気球を飛ばした"
+      },
+      "explanationJa": "「make + 物 + 動詞の原形」で「〜に…させる」。ここでは「気球を飛ばした」となります。"
+    },
+    {
+      "id": "sent-first-balloon-passengers-2",
+      "english": "They filled it with hot air from a fire.",
+      "japanese": "彼らは、火で温めた空気を気球の中に満たしました。",
+      "additionalInfoEn": "Hot air is lighter than cool air, so the balloon rose.",
+      "additionalInfoJa": "温かい空気は冷たい空気より軽いので、気球は上昇しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "filled",
+          "pos": "動詞",
+          "meaningJa": "満たした"
+        },
+        {
+          "word": "hot",
+          "pos": "形容詞",
+          "meaningJa": "熱い"
+        },
+        {
+          "word": "fire",
+          "pos": "名詞",
+          "meaningJa": "火"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "filled A with B",
+        "ja": "AをBで満たした"
+      },
+      "explanationJa": "「fill A with B」で「AをBでいっぱいにする」。コップに水を注ぐときにも使えます。"
+    },
+    {
+      "id": "sent-first-balloon-passengers-3",
+      "english": "But nobody knew if people could safely breathe high in the sky.",
+      "japanese": "しかし、空の高いところで人が安全に呼吸できるのか、誰も知りませんでした。",
+      "additionalInfoEn": "Some people worried that the air up there might be harmful.",
+      "additionalInfoJa": "上空の空気は体に悪いかもしれないと心配する人もいました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "nobody",
+          "pos": "代名詞",
+          "meaningJa": "誰も〜ない"
+        },
+        {
+          "word": "safely",
+          "pos": "副詞",
+          "meaningJa": "安全に"
+        },
+        {
+          "word": "breathe",
+          "pos": "動詞",
+          "meaningJa": "呼吸する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "nobody knew if",
+        "ja": "〜かどうか誰も知らなかった"
+      },
+      "explanationJa": "「know if 〜」で「〜かどうか知っている」。ここでの「if」は「もし」ではありません。"
+    },
+    {
+      "id": "sent-first-balloon-passengers-4",
+      "english": "So the first passengers were a sheep, a duck, and a rooster.",
+      "japanese": "そこで最初の乗客は、ヒツジとアヒルとオンドリになりました。",
+      "additionalInfoEn": "They flew for about eight minutes in front of King Louis XVI.",
+      "additionalInfoJa": "彼らはルイ16世の前で、約8分間空を飛びました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "passengers",
+          "pos": "名詞",
+          "meaningJa": "乗客"
+        },
+        {
+          "word": "sheep",
+          "pos": "名詞",
+          "meaningJa": "ヒツジ"
+        },
+        {
+          "word": "rooster",
+          "pos": "名詞",
+          "meaningJa": "オンドリ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the first passengers",
+        "ja": "最初の乗客"
+      },
+      "explanationJa": "「sheep」は単数も複数も同じ形です。「a sheep」で1匹、「two sheep」で2匹となります。"
+    },
+    {
+      "id": "sent-first-balloon-passengers-5",
+      "english": "All three animals landed safely, and humans flew freely two months later.",
+      "japanese": "3匹とも無事に着陸し、その2か月後には人間が自由に空を飛びました。",
+      "additionalInfoEn": "In November 1783, two men floated over Paris for about 25 minutes.",
+      "additionalInfoJa": "1783年11月、2人の男性がパリの上空を約25分間飛びました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "landed",
+          "pos": "動詞",
+          "meaningJa": "着陸した"
+        },
+        {
+          "word": "humans",
+          "pos": "名詞",
+          "meaningJa": "人間"
+        },
+        {
+          "word": "later",
+          "pos": "副詞",
+          "meaningJa": "後で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "two months later",
+        "ja": "2か月後に"
+      },
+      "explanationJa": "「期間 + later」で「〜後に」。「a week later」のように過去の話でよく使います。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-tip-of-the-tongue",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Words Get Stuck on the Tip of Your Tongue",
+  "titleJa": "言葉が「喉まで出かかる」理由",
+  "subtitleJa": "知っているのに思い出せない、もどかしさの正体。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-11",
+  "sentences": [
+    {
+      "id": "sent-tip-of-the-tongue-1",
+      "english": "Sometimes you know a word but just can't say it.",
+      "japanese": "ある言葉を知っているのに、どうしても口に出せないことがあります。",
+      "additionalInfoEn": "In English, this is called a tip-of-the-tongue moment.",
+      "additionalInfoJa": "英語では、これを「舌の先まで出かかった瞬間」と呼びます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Sometimes",
+          "pos": "副詞",
+          "meaningJa": "ときどき"
+        },
+        {
+          "word": "know",
+          "pos": "動詞",
+          "meaningJa": "知っている"
+        },
+        {
+          "word": "just",
+          "pos": "副詞",
+          "meaningJa": "どうしても"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "just can't",
+        "ja": "どうしても〜できない"
+      },
+      "explanationJa": "「just」は否定と一緒に使うと「どうしても〜ない」という強調になります。"
+    },
+    {
+      "id": "sent-tip-of-the-tongue-2",
+      "english": "Most people have this experience about once a week.",
+      "japanese": "ほとんどの人は、週に1回ほどこの経験をしています。",
+      "additionalInfoEn": "It tends to happen more often as we get older.",
+      "additionalInfoJa": "年齢を重ねるにつれて、より頻繁に起こるようになります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "experience",
+          "pos": "名詞",
+          "meaningJa": "経験"
+        },
+        {
+          "word": "once",
+          "pos": "副詞",
+          "meaningJa": "一度"
+        },
+        {
+          "word": "week",
+          "pos": "名詞",
+          "meaningJa": "週"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "once a week",
+        "ja": "週に1回"
+      },
+      "explanationJa": "「once a week」の「a」は「〜につき」という意味。twice a monthなども同じ形です。"
+    },
+    {
+      "id": "sent-tip-of-the-tongue-3",
+      "english": "Strangely, you often remember the first letter or the word's length.",
+      "japanese": "不思議なことに、最初の文字や単語の長さは思い出せることがよくあります。",
+      "additionalInfoEn": "You might say, \"It starts with B and has three syllables!\"",
+      "additionalInfoJa": "「Bで始まる3音節の言葉なんだけど！」と言ったりするかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Strangely",
+          "pos": "副詞",
+          "meaningJa": "不思議なことに"
+        },
+        {
+          "word": "letter",
+          "pos": "名詞",
+          "meaningJa": "文字"
+        },
+        {
+          "word": "length",
+          "pos": "名詞",
+          "meaningJa": "長さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the first letter",
+        "ja": "最初の文字"
+      },
+      "explanationJa": "「word's」の「's」は「〜の」を表す所有の形。「単語の長さ」という意味になります。"
+    },
+    {
+      "id": "sent-tip-of-the-tongue-4",
+      "english": "Scientists think your brain finds the meaning but only part of the sound.",
+      "japanese": "脳は意味を見つけても、音の一部しか取り出せていないと考えられています。",
+      "additionalInfoEn": "Meaning and sound seem to be stored in slightly different ways.",
+      "additionalInfoJa": "意味と音は、少し異なる形で記憶されているようです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "finds",
+          "pos": "動詞",
+          "meaningJa": "見つける"
+        },
+        {
+          "word": "meaning",
+          "pos": "名詞",
+          "meaningJa": "意味"
+        },
+        {
+          "word": "sound",
+          "pos": "名詞",
+          "meaningJa": "音"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "only part of",
+        "ja": "〜の一部だけ"
+      },
+      "explanationJa": "「finds A but only B」は「Aは見つけるがBは一部だけ」。同じ動詞の繰り返しを省いています。"
+    },
+    {
+      "id": "sent-tip-of-the-tongue-5",
+      "english": "Often, the missing word suddenly pops into your head later.",
+      "japanese": "多くの場合、思い出せなかった言葉は、あとでふと頭に浮かんできます。",
+      "additionalInfoEn": "It sometimes comes back while you are thinking about something else.",
+      "additionalInfoJa": "ほかのことを考えているときに、ふと戻ってくることもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "missing",
+          "pos": "形容詞",
+          "meaningJa": "欠けている、見つからない"
+        },
+        {
+          "word": "suddenly",
+          "pos": "副詞",
+          "meaningJa": "突然"
+        },
+        {
+          "word": "later",
+          "pos": "副詞",
+          "meaningJa": "あとで"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pop into your head",
+        "ja": "頭にふと浮かぶ"
+      },
+      "explanationJa": "「pop into 〜」は「〜にひょいと入る」。アイデアが急に浮かぶ様子を表します。"
+    }
+  ]
+}

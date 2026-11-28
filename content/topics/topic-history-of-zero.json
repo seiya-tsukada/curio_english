@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-zero",
+  "categoryId": "history",
+  "titleEn": "The Long Journey of the Number Zero",
+  "titleJa": "数字の「0」が世界に広まるまで",
+  "subtitleJa": "「何もない」を数として扱う、大きな発想の転換。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-14",
+  "sentences": [
+    {
+      "id": "sent-history-of-zero-1",
+      "english": "For thousands of years, many great civilizations had no symbol for zero.",
+      "japanese": "何千年もの間、多くの偉大な文明には0を表す記号がありませんでした。",
+      "additionalInfoEn": "The Romans, for example, wrote numbers without any zero at all.",
+      "additionalInfoJa": "例えばローマ人は、0をまったく使わずに数字を書いていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "civilizations",
+          "pos": "名詞",
+          "meaningJa": "文明"
+        },
+        {
+          "word": "symbol",
+          "pos": "名詞",
+          "meaningJa": "記号"
+        },
+        {
+          "word": "zero",
+          "pos": "名詞",
+          "meaningJa": "ゼロ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a symbol for",
+        "ja": "〜を表す記号"
+      },
+      "explanationJa": "「a symbol for 〜」で「〜を表す記号」。「for」が何を表しているかを示します。"
+    },
+    {
+      "id": "sent-history-of-zero-2",
+      "english": "The Babylonians used a mark to show an empty place in numbers.",
+      "japanese": "バビロニア人は、数字の中の空いた位を示すために印を使いました。",
+      "additionalInfoEn": "It helped tell 61 and 3,601 apart, but it was not yet a real number.",
+      "additionalInfoJa": "これで61と3,601を区別できましたが、まだ本当の「数」ではありませんでした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "mark",
+          "pos": "名詞",
+          "meaningJa": "印"
+        },
+        {
+          "word": "empty",
+          "pos": "形容詞",
+          "meaningJa": "空の"
+        },
+        {
+          "word": "place",
+          "pos": "名詞",
+          "meaningJa": "位、場所"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "to show",
+        "ja": "示すために"
+      },
+      "explanationJa": "「to + 動詞」で「〜するために」と目的を表せます。文の後半に置くと自然です。"
+    },
+    {
+      "id": "sent-history-of-zero-3",
+      "english": "In 628, the Indian mathematician Brahmagupta wrote rules for calculating with zero.",
+      "japanese": "628年、インドの数学者ブラフマグプタが、0を使った計算のルールを書き記しました。",
+      "additionalInfoEn": "He explained, for example, that a number minus itself equals zero.",
+      "additionalInfoJa": "例えば彼は、ある数からその数自身を引くと0になると説明しました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "mathematician",
+          "pos": "名詞",
+          "meaningJa": "数学者"
+        },
+        {
+          "word": "rules",
+          "pos": "名詞",
+          "meaningJa": "規則、ルール"
+        },
+        {
+          "word": "calculating",
+          "pos": "動詞",
+          "meaningJa": "計算すること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rules for",
+        "ja": "〜のための規則"
+      },
+      "explanationJa": "前置詞の後ろに動詞を置くときはing形にします。「for calculating」で「計算するための」。"
+    },
+    {
+      "id": "sent-history-of-zero-4",
+      "english": "Scholars in the Islamic world later adopted these ideas and carried them westward.",
+      "japanese": "その後、イスラム世界の学者たちがこの考えを取り入れ、西へと伝えました。",
+      "additionalInfoEn": "The word \"zero\" comes from the Arabic word \"sifr,\" meaning empty.",
+      "additionalInfoJa": "「zero」という言葉は、「空っぽ」を意味するアラビア語「シフル」から来ています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Scholars",
+          "pos": "名詞",
+          "meaningJa": "学者たち"
+        },
+        {
+          "word": "adopted",
+          "pos": "動詞",
+          "meaningJa": "取り入れた"
+        },
+        {
+          "word": "westward",
+          "pos": "副詞",
+          "meaningJa": "西の方へ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "carried them westward",
+        "ja": "それらを西へ伝えた"
+      },
+      "explanationJa": "「-ward」は方向を表します。「westward」は「西へ」、「forward」は「前へ」という意味です。"
+    },
+    {
+      "id": "sent-history-of-zero-5",
+      "english": "In 1202, Fibonacci's book helped bring zero and Hindu-Arabic numerals to Europe.",
+      "japanese": "1202年、フィボナッチの本が、0とアラビア数字をヨーロッパに広める助けとなりました。",
+      "additionalInfoEn": "Without zero, modern math and computers would be almost impossible.",
+      "additionalInfoJa": "0がなければ、現代の数学やコンピューターはほぼ不可能だったでしょう。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "bring",
+          "pos": "動詞",
+          "meaningJa": "もたらす"
+        },
+        {
+          "word": "numerals",
+          "pos": "名詞",
+          "meaningJa": "数字"
+        },
+        {
+          "word": "Europe",
+          "pos": "名詞",
+          "meaningJa": "ヨーロッパ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "helped bring",
+        "ja": "もたらすのに役立った"
+      },
+      "explanationJa": "「Hindu-Arabic numerals」は0〜9の数字のこと。日本では「アラビア数字」と呼ばれます。"
+    }
+  ]
+}

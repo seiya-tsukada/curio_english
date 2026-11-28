@@ -1,0 +1,167 @@
+{
+  "id": "topic-free-samples-work",
+  "categoryId": "business-economy",
+  "titleEn": "Why Stores Give Free Samples",
+  "titleJa": "お店が無料で試食を配る理由",
+  "subtitleJa": "「タダでもらった」気持ちが、お店の売り上げにつながる。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-03",
+  "sentences": [
+    {
+      "id": "sent-free-samples-work-1",
+      "english": "Supermarkets often give free samples of food to shoppers.",
+      "japanese": "スーパーでは、よく買い物客に食べ物の試食を無料で配っています。",
+      "additionalInfoEn": "You might try a piece of cheese, sausage or a new snack.",
+      "additionalInfoJa": "チーズやソーセージ、新しいお菓子をひと口食べることもあるでしょう。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "often",
+          "pos": "副詞",
+          "meaningJa": "よく"
+        },
+        {
+          "word": "samples",
+          "pos": "名詞",
+          "meaningJa": "試供品、試食"
+        },
+        {
+          "word": "food",
+          "pos": "名詞",
+          "meaningJa": "食べ物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "free samples",
+        "ja": "無料の試供品"
+      },
+      "explanationJa": "「give A to B」で「AをBにあげる」です。「often」は一般動詞の前に置くのが基本です。"
+    },
+    {
+      "id": "sent-free-samples-work-2",
+      "english": "Tasting something new makes people less worried about buying it.",
+      "japanese": "新しいものを味見すると、人はそれを買うことへの不安が小さくなります。",
+      "additionalInfoEn": "You already know if you like it, so buying feels less risky.",
+      "additionalInfoJa": "好きかどうかもう分かっているので、買うことが冒険ではなくなるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Tasting",
+          "pos": "名詞",
+          "meaningJa": "味見すること"
+        },
+        {
+          "word": "less",
+          "pos": "副詞",
+          "meaningJa": "より少なく"
+        },
+        {
+          "word": "worried",
+          "pos": "形容詞",
+          "meaningJa": "心配な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "worried about",
+        "ja": "〜を心配して"
+      },
+      "explanationJa": "「Tasting」は動名詞で「味見すること」という主語です。「make + 人 + 形容詞」で「人を〜にする」です。"
+    },
+    {
+      "id": "sent-free-samples-work-3",
+      "english": "A free gift also makes us feel we should give something back.",
+      "japanese": "無料でもらうと、私たちは何かお返しをすべきだと感じてしまいます。",
+      "additionalInfoEn": "Scientists call this feeling reciprocity.",
+      "additionalInfoJa": "科学者はこの気持ちを「返報性」と呼んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "gift",
+          "pos": "名詞",
+          "meaningJa": "贈り物"
+        },
+        {
+          "word": "feel",
+          "pos": "動詞",
+          "meaningJa": "感じる"
+        },
+        {
+          "word": "should",
+          "pos": "助動詞",
+          "meaningJa": "〜すべき"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "give something back",
+        "ja": "何かをお返しする"
+      },
+      "explanationJa": "「give back」は「返す、お返しする」という意味です。「make + 人 + 動詞の原形」で「〜させる」です。"
+    },
+    {
+      "id": "sent-free-samples-work-4",
+      "english": "So many people buy the product after trying a sample.",
+      "japanese": "そのため、多くの人が試食をした後にその商品を買います。",
+      "additionalInfoEn": "Some stores see sales jump on days when they offer samples.",
+      "additionalInfoJa": "試食を出した日に売り上げが大きく伸びるお店もあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "product",
+          "pos": "名詞",
+          "meaningJa": "商品"
+        },
+        {
+          "word": "after",
+          "pos": "前置詞",
+          "meaningJa": "〜の後に"
+        },
+        {
+          "word": "trying",
+          "pos": "動詞",
+          "meaningJa": "試すこと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "after trying",
+        "ja": "〜を試した後で"
+      },
+      "explanationJa": "前置詞「after」の後ろに動詞を置くときは「trying」のように〜ing形にします。"
+    },
+    {
+      "id": "sent-free-samples-work-5",
+      "english": "One small free bite can lead to a big sale.",
+      "japanese": "小さな無料のひと口が、大きな売り上げにつながることがあります。",
+      "additionalInfoEn": "That is why samples are a favorite tool for stores everywhere.",
+      "additionalInfoJa": "だからこそ、試食は世界中のお店で人気の売り方なのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "small",
+          "pos": "形容詞",
+          "meaningJa": "小さな"
+        },
+        {
+          "word": "bite",
+          "pos": "名詞",
+          "meaningJa": "ひと口"
+        },
+        {
+          "word": "sale",
+          "pos": "名詞",
+          "meaningJa": "販売、売り上げ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lead to",
+        "ja": "〜につながる"
+      },
+      "explanationJa": "「lead to 〜」で「〜につながる、〜という結果になる」という意味です。「can」は可能性を表します。"
+    }
+  ]
+}

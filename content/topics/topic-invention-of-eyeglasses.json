@@ -1,0 +1,167 @@
+{
+  "id": "topic-invention-of-eyeglasses",
+  "categoryId": "history",
+  "titleEn": "Who Invented Eyeglasses?",
+  "titleJa": "メガネを発明したのは誰？",
+  "subtitleJa": "700年以上前のイタリアで生まれた、名もなき大発明。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-07",
+  "sentences": [
+    {
+      "id": "sent-invention-of-eyeglasses-1",
+      "english": "Eyeglasses first appeared in Italy around the year 1286.",
+      "japanese": "メガネは1286年頃、イタリアで初めて登場しました。",
+      "additionalInfoEn": "In a 1306 sermon, a friar said they had existed for less than 20 years.",
+      "additionalInfoJa": "ある修道士は1306年の説教で、メガネができてまだ20年もたっていないと述べました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Eyeglasses",
+          "pos": "名詞",
+          "meaningJa": "メガネ"
+        },
+        {
+          "word": "appeared",
+          "pos": "動詞",
+          "meaningJa": "現れた、登場した"
+        },
+        {
+          "word": "Italy",
+          "pos": "名詞",
+          "meaningJa": "イタリア"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "first appeared",
+        "ja": "初めて登場した"
+      },
+      "explanationJa": "「first」を動詞の前に置くと「初めて〜した」。物の誕生を説明するときに便利です。"
+    },
+    {
+      "id": "sent-invention-of-eyeglasses-2",
+      "english": "Nobody knows who made the first pair.",
+      "japanese": "最初のメガネを作ったのが誰なのかは、誰にも分かりません。",
+      "additionalInfoEn": "The inventor may have kept the method secret to make money.",
+      "additionalInfoJa": "発明者はお金をもうけるために、作り方を秘密にしていたのかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Nobody",
+          "pos": "代名詞",
+          "meaningJa": "誰も〜ない"
+        },
+        {
+          "word": "knows",
+          "pos": "動詞",
+          "meaningJa": "知っている"
+        },
+        {
+          "word": "pair",
+          "pos": "名詞",
+          "meaningJa": "一組"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Nobody knows who",
+        "ja": "誰が〜か誰も知らない"
+      },
+      "explanationJa": "メガネは2つのレンズで1組なので「a pair of glasses」と数えます。"
+    },
+    {
+      "id": "sent-invention-of-eyeglasses-3",
+      "english": "Early glasses helped older people read and do close work.",
+      "japanese": "初期のメガネは、年配の人が本を読んだり細かい作業をしたりするのを助けました。",
+      "additionalInfoEn": "These lenses were thicker in the middle, like a magnifying glass.",
+      "additionalInfoJa": "これらのレンズは虫眼鏡のように、真ん中が厚くなっていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Early",
+          "pos": "形容詞",
+          "meaningJa": "初期の"
+        },
+        {
+          "word": "older",
+          "pos": "形容詞",
+          "meaningJa": "年配の"
+        },
+        {
+          "word": "close",
+          "pos": "形容詞",
+          "meaningJa": "細かい、近くの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "helped A read",
+        "ja": "Aが読むのを助けた"
+      },
+      "explanationJa": "「help 人 + 動詞の原形」で「人が〜するのを手伝う」。toを入れなくても大丈夫です。"
+    },
+    {
+      "id": "sent-invention-of-eyeglasses-4",
+      "english": "There were no arms, so people held them or balanced them on their noses.",
+      "japanese": "つるがなかったので、人々は手で持つか鼻の上にのせて使いました。",
+      "additionalInfoEn": "Glasses with arms that rest on the ears became popular in the 1700s.",
+      "additionalInfoJa": "耳にかけるつるの付いたメガネは、1700年代に広まりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "arms",
+          "pos": "名詞",
+          "meaningJa": "（メガネの）つる"
+        },
+        {
+          "word": "held",
+          "pos": "動詞",
+          "meaningJa": "持った（holdの過去形）"
+        },
+        {
+          "word": "balanced",
+          "pos": "動詞",
+          "meaningJa": "バランスをとってのせた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "balanced them on",
+        "ja": "〜の上にのせた"
+      },
+      "explanationJa": "「arm」は「腕」ですが、メガネの「つる」の意味でも使います。英語らしい面白い表現です。"
+    },
+    {
+      "id": "sent-invention-of-eyeglasses-5",
+      "english": "Today, eyeglasses help billions of people see the world clearly.",
+      "japanese": "今日、メガネは何十億もの人々が世界をはっきり見るのを助けています。",
+      "additionalInfoEn": "Glasses for people who cannot see far away came later, in the 1400s.",
+      "additionalInfoJa": "遠くが見えにくい人のためのメガネは、その後1400年代に生まれました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "billions",
+          "pos": "名詞",
+          "meaningJa": "何十億"
+        },
+        {
+          "word": "see",
+          "pos": "動詞",
+          "meaningJa": "見る"
+        },
+        {
+          "word": "clearly",
+          "pos": "副詞",
+          "meaningJa": "はっきりと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "billions of",
+        "ja": "何十億もの"
+      },
+      "explanationJa": "「billion」は「10億」。「billions of 〜」で「何十億もの〜」と、とても多い数を表せます。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-spaced-study-sessions",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Short Study Sessions Beat Cramming",
+  "titleJa": "一夜漬けより分けて勉強したほうが覚えられる理由",
+  "subtitleJa": "100年以上前から知られる「分散学習」の力。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-08",
+  "sentences": [
+    {
+      "id": "sent-spaced-study-sessions-1",
+      "english": "Many students study for many hours the night before a test.",
+      "japanese": "多くの学生は、テストの前の晩に何時間も勉強します。",
+      "additionalInfoEn": "This habit is often called cramming.",
+      "additionalInfoJa": "この習慣は英語で「cramming（一夜漬け）」と呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "students",
+          "pos": "名詞",
+          "meaningJa": "学生"
+        },
+        {
+          "word": "hours",
+          "pos": "名詞",
+          "meaningJa": "時間"
+        },
+        {
+          "word": "test",
+          "pos": "名詞",
+          "meaningJa": "テスト"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the night before",
+        "ja": "前の晩に"
+      },
+      "explanationJa": "「the night before 〜」は「〜の前の晩」。the day beforeなら「前日」です。"
+    },
+    {
+      "id": "sent-spaced-study-sessions-2",
+      "english": "It can work for tomorrow, but most of it is soon forgotten.",
+      "japanese": "翌日には役立つかもしれませんが、その大部分はすぐに忘れてしまいます。",
+      "additionalInfoEn": "The information never gets a chance to settle in.",
+      "additionalInfoJa": "情報が記憶に定着するチャンスがないのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "work",
+          "pos": "動詞",
+          "meaningJa": "うまくいく"
+        },
+        {
+          "word": "soon",
+          "pos": "副詞",
+          "meaningJa": "すぐに"
+        },
+        {
+          "word": "forgotten",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "忘れられる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "most of it",
+        "ja": "その大部分"
+      },
+      "explanationJa": "「is forgotten」は受け身の形。「忘れられる」と、情報の側から見た言い方です。"
+    },
+    {
+      "id": "sent-spaced-study-sessions-3",
+      "english": "In the 1880s, Hermann Ebbinghaus measured how quickly we forget things.",
+      "japanese": "1880年代、ヘルマン・エビングハウスは人がどれくらい速く物事を忘れるかを測りました。",
+      "additionalInfoEn": "He tested himself by learning lists of nonsense syllables.",
+      "additionalInfoJa": "彼は意味のない音の並びを覚えることで、自分自身を実験台にしました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "measured",
+          "pos": "動詞",
+          "meaningJa": "測った"
+        },
+        {
+          "word": "quickly",
+          "pos": "副詞",
+          "meaningJa": "速く"
+        },
+        {
+          "word": "forget",
+          "pos": "動詞",
+          "meaningJa": "忘れる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "how quickly",
+        "ja": "どれくらい速く"
+      },
+      "explanationJa": "「how quickly 〜」は文の中に入った疑問文。後ろは「主語＋動詞」の語順になります。"
+    },
+    {
+      "id": "sent-spaced-study-sessions-4",
+      "english": "He found that reviewing over several days made memories much stronger.",
+      "japanese": "彼は、数日に分けて復習すると記憶がずっと強くなることを発見しました。",
+      "additionalInfoEn": "Today, this is known as the spacing effect.",
+      "additionalInfoJa": "現在、これは「分散効果（スペーシング効果）」として知られています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "reviewing",
+          "pos": "動詞",
+          "meaningJa": "復習すること"
+        },
+        {
+          "word": "several",
+          "pos": "形容詞",
+          "meaningJa": "いくつかの"
+        },
+        {
+          "word": "stronger",
+          "pos": "形容詞",
+          "meaningJa": "より強い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "over several days",
+        "ja": "数日にわたって"
+      },
+      "explanationJa": "「make + 名詞 + 形容詞」は「〜を…にする」。made memories strongerで「記憶を強くした」です。"
+    },
+    {
+      "id": "sent-spaced-study-sessions-5",
+      "english": "Hundreds of later studies have confirmed this simple idea.",
+      "japanese": "その後の何百もの研究が、このシンプルな考えを裏付けています。",
+      "additionalInfoEn": "Short reviews spread over time still beat one long session.",
+      "additionalInfoJa": "時間をあけた短い復習は、今でも一回の長い勉強に勝るのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Hundreds",
+          "pos": "名詞",
+          "meaningJa": "何百"
+        },
+        {
+          "word": "confirmed",
+          "pos": "動詞",
+          "meaningJa": "確認した、裏付けた"
+        },
+        {
+          "word": "simple",
+          "pos": "形容詞",
+          "meaningJa": "単純な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Hundreds of",
+        "ja": "何百もの"
+      },
+      "explanationJa": "「have confirmed」は現在完了。過去から今までに積み重なった結果を表しています。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-ancient-olympic-games",
+  "categoryId": "history",
+  "titleEn": "The First Olympics Had Only One Race",
+  "titleJa": "最初のオリンピックは徒競走ひとつだけ",
+  "subtitleJa": "約2,800年前の古代ギリシャで始まった祭典の話。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-02",
+  "sentences": [
+    {
+      "id": "sent-ancient-olympic-games-1",
+      "english": "The first recorded Olympic Games took place in Greece in 776 BC.",
+      "japanese": "記録に残る最初のオリンピックは、紀元前776年にギリシャで開かれました。",
+      "additionalInfoEn": "They were held in Olympia, a holy place for the god Zeus.",
+      "additionalInfoJa": "大会は、ゼウス神をまつる聖地オリンピアで開かれました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "recorded",
+          "pos": "形容詞",
+          "meaningJa": "記録された"
+        },
+        {
+          "word": "took",
+          "pos": "動詞",
+          "meaningJa": "取った（take placeで「行われた」）"
+        },
+        {
+          "word": "Greece",
+          "pos": "名詞",
+          "meaningJa": "ギリシャ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "took place",
+        "ja": "行われた"
+      },
+      "explanationJa": "「take place」は「（行事などが）行われる」。「happen」より計画された出来事に使います。"
+    },
+    {
+      "id": "sent-ancient-olympic-games-2",
+      "english": "At first, there was only one event: a short running race.",
+      "japanese": "最初は、短い距離の徒競走という競技がひとつあるだけでした。",
+      "additionalInfoEn": "The race was about 190 meters long, the length of the stadium.",
+      "additionalInfoJa": "そのレースは約190メートルで、競技場の長さと同じでした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "たった〜だけ"
+        },
+        {
+          "word": "event",
+          "pos": "名詞",
+          "meaningJa": "競技、種目"
+        },
+        {
+          "word": "race",
+          "pos": "名詞",
+          "meaningJa": "競走"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "At first",
+        "ja": "最初は"
+      },
+      "explanationJa": "「At first」は「最初のうちは」。後で状況が変わることをほのめかす表現です。"
+    },
+    {
+      "id": "sent-ancient-olympic-games-3",
+      "english": "Our word \"stadium\" comes from the name of this race.",
+      "japanese": "英語の「stadium（競技場）」という言葉は、このレースの名前から来ています。",
+      "additionalInfoEn": "The Greek race was called the \"stadion,\" which was also a unit of length.",
+      "additionalInfoJa": "そのレースは「スタディオン」と呼ばれ、長さの単位でもありました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "word",
+          "pos": "名詞",
+          "meaningJa": "言葉、単語"
+        },
+        {
+          "word": "stadium",
+          "pos": "名詞",
+          "meaningJa": "競技場、スタジアム"
+        },
+        {
+          "word": "name",
+          "pos": "名詞",
+          "meaningJa": "名前"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the name of",
+        "ja": "〜の名前"
+      },
+      "explanationJa": "「Our word」は「私たちの（英語の）言葉」。話し手と聞き手を含む身近な言い方です。"
+    },
+    {
+      "id": "sent-ancient-olympic-games-4",
+      "english": "Later, wrestling, boxing, and chariot races were added.",
+      "japanese": "その後、レスリングやボクシング、戦車競走が加えられました。",
+      "additionalInfoEn": "Chariots were small carts pulled by fast horses.",
+      "additionalInfoJa": "戦車とは、速い馬が引く小さな二輪の乗り物のことです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wrestling",
+          "pos": "名詞",
+          "meaningJa": "レスリング"
+        },
+        {
+          "word": "chariot",
+          "pos": "名詞",
+          "meaningJa": "（古代の）戦車"
+        },
+        {
+          "word": "added",
+          "pos": "動詞",
+          "meaningJa": "加えられた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "were added",
+        "ja": "加えられた"
+      },
+      "explanationJa": "「be動詞 + 過去分詞」は受け身の形。「〜された」と、されたものを主語にできます。"
+    },
+    {
+      "id": "sent-ancient-olympic-games-5",
+      "english": "Winners did not get medals, but crowns made of olive leaves.",
+      "japanese": "優勝者がもらったのはメダルではなく、オリーブの葉でできた冠でした。",
+      "additionalInfoEn": "The modern Olympic Games began much later, in Athens in 1896.",
+      "additionalInfoJa": "近代オリンピックはずっと後の1896年に、アテネで始まりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Winners",
+          "pos": "名詞",
+          "meaningJa": "勝者たち"
+        },
+        {
+          "word": "medals",
+          "pos": "名詞",
+          "meaningJa": "メダル"
+        },
+        {
+          "word": "crowns",
+          "pos": "名詞",
+          "meaningJa": "冠"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made of",
+        "ja": "〜でできた"
+      },
+      "explanationJa": "「made of 〜」は「〜でできた」。材料が見て分かるときに使う表現です。"
+    }
+  ]
+}

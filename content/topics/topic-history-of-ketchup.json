@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-ketchup",
+  "categoryId": "history",
+  "titleEn": "Ketchup Was Once a Fish Sauce",
+  "titleJa": "ケチャップはもともと魚のソースだった",
+  "subtitleJa": "トマトが入る前のケチャップは、まったく別の味でした。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-09",
+  "sentences": [
+    {
+      "id": "sent-history-of-ketchup-1",
+      "english": "The first ketchup had no tomatoes in it at all.",
+      "japanese": "最初のケチャップには、トマトがまったく入っていませんでした。",
+      "additionalInfoEn": "It was a salty sauce made from fermented fish.",
+      "additionalInfoJa": "それは発酵させた魚から作られた、しょっぱいソースでした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "ketchup",
+          "pos": "名詞",
+          "meaningJa": "ケチャップ"
+        },
+        {
+          "word": "tomatoes",
+          "pos": "名詞",
+          "meaningJa": "トマト"
+        },
+        {
+          "word": "at all",
+          "pos": "副詞",
+          "meaningJa": "まったく（〜ない）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "no 〜 at all",
+        "ja": "まったく〜ない"
+      },
+      "explanationJa": "「no 〜 at all」で「まったく〜ない」。否定を強めるときに「at all」を付けます。"
+    },
+    {
+      "id": "sent-history-of-ketchup-2",
+      "english": "The word probably comes from a Chinese word for fish sauce.",
+      "japanese": "この言葉は、おそらく中国の言葉で魚のソースを意味する語に由来します。",
+      "additionalInfoEn": "In Hokkien, a language of southern China, it sounded like \"kê-tsiap.\"",
+      "additionalInfoJa": "中国南部の言葉である福建語では、「ケーチャップ」のような発音でした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "おそらく"
+        },
+        {
+          "word": "Chinese",
+          "pos": "形容詞",
+          "meaningJa": "中国の"
+        },
+        {
+          "word": "sauce",
+          "pos": "名詞",
+          "meaningJa": "ソース"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "probably comes from",
+        "ja": "おそらく〜に由来する"
+      },
+      "explanationJa": "「probably」は「おそらく」。かなり確かだけれど100%ではないときに使います。"
+    },
+    {
+      "id": "sent-history-of-ketchup-3",
+      "english": "Around 1700, British traders discovered the sauce in Southeast Asia.",
+      "japanese": "1700年頃、イギリスの商人たちは東南アジアでこのソースに出会いました。",
+      "additionalInfoEn": "Back home, they tried to copy it with mushrooms, walnuts, or oysters.",
+      "additionalInfoJa": "帰国後、彼らはキノコやクルミ、カキを使ってそれをまねしようとしました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "traders",
+          "pos": "名詞",
+          "meaningJa": "商人、貿易商"
+        },
+        {
+          "word": "discovered",
+          "pos": "動詞",
+          "meaningJa": "発見した、出会った"
+        },
+        {
+          "word": "Southeast",
+          "pos": "形容詞",
+          "meaningJa": "南東の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Around 1700",
+        "ja": "1700年頃"
+      },
+      "explanationJa": "「discover」は「発見する」。初めて知ったり、出会ったりしたときにも使えます。"
+    },
+    {
+      "id": "sent-history-of-ketchup-4",
+      "english": "Tomato ketchup recipes appeared in the United States in the early 1800s.",
+      "japanese": "トマトケチャップのレシピは、1800年代初めにアメリカで登場しました。",
+      "additionalInfoEn": "One of the first known recipes was published in 1812 in Philadelphia.",
+      "additionalInfoJa": "知られている最初期のレシピのひとつは、1812年にフィラデルフィアで発表されました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "recipes",
+          "pos": "名詞",
+          "meaningJa": "レシピ"
+        },
+        {
+          "word": "appeared",
+          "pos": "動詞",
+          "meaningJa": "登場した"
+        },
+        {
+          "word": "early",
+          "pos": "形容詞",
+          "meaningJa": "初めの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the early 1800s",
+        "ja": "1800年代初めに"
+      },
+      "explanationJa": "「early」は「初めの」。「in the early 1800s」で「1800年代の初めに」となります。"
+    },
+    {
+      "id": "sent-history-of-ketchup-5",
+      "english": "In 1876, the Heinz company started selling it in glass bottles.",
+      "japanese": "1876年、ハインツ社がケチャップをガラス瓶に入れて売り出しました。",
+      "additionalInfoEn": "Its sweet and sour taste soon made it popular all over the world.",
+      "additionalInfoJa": "その甘酸っぱい味で、ケチャップはやがて世界中で人気になりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "company",
+          "pos": "名詞",
+          "meaningJa": "会社"
+        },
+        {
+          "word": "glass",
+          "pos": "名詞",
+          "meaningJa": "ガラス"
+        },
+        {
+          "word": "bottles",
+          "pos": "名詞",
+          "meaningJa": "瓶"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "started selling",
+        "ja": "売り始めた"
+      },
+      "explanationJa": "「start + 動詞ing」は「〜し始める」。「start to + 動詞」とほぼ同じ意味です。"
+    }
+  ]
+}

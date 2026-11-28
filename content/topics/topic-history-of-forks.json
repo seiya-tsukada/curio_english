@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-forks",
+  "categoryId": "history",
+  "titleEn": "When Forks Were Seen as Strange",
+  "titleJa": "フォークが「変な道具」だった時代",
+  "subtitleJa": "ヨーロッパで手づかみの食事が当たり前だった頃の話。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-09",
+  "sentences": [
+    {
+      "id": "sent-history-of-forks-1",
+      "english": "For a long time, most Europeans ate with their hands and knives.",
+      "japanese": "長い間、ほとんどのヨーロッパ人は手とナイフを使って食事をしていました。",
+      "additionalInfoEn": "Spoons were used for soup, but forks were rarely seen at the table.",
+      "additionalInfoJa": "スープにはスプーンを使いましたが、食卓でフォークを見ることはまれでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Europeans",
+          "pos": "名詞",
+          "meaningJa": "ヨーロッパの人々"
+        },
+        {
+          "word": "hands",
+          "pos": "名詞",
+          "meaningJa": "手"
+        },
+        {
+          "word": "knives",
+          "pos": "名詞",
+          "meaningJa": "ナイフ（knifeの複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "For a long time",
+        "ja": "長い間"
+      },
+      "explanationJa": "「knives」は「knife」の複数形です。「f」で終わる名詞は「-ves」になることがあります。"
+    },
+    {
+      "id": "sent-history-of-forks-2",
+      "english": "Small forks for eating were used earlier in the Byzantine Empire.",
+      "japanese": "食事用の小さなフォークは、それ以前からビザンツ帝国で使われていました。",
+      "additionalInfoEn": "This empire was centered in Constantinople, today's Istanbul.",
+      "additionalInfoJa": "この帝国は、現在のイスタンブールであるコンスタンティノープルを中心としていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Small",
+          "pos": "形容詞",
+          "meaningJa": "小さな"
+        },
+        {
+          "word": "earlier",
+          "pos": "副詞",
+          "meaningJa": "それより前に"
+        },
+        {
+          "word": "Empire",
+          "pos": "名詞",
+          "meaningJa": "帝国"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "were used",
+        "ja": "使われていた"
+      },
+      "explanationJa": "「earlier」は「early」の比較級で、ここでは「それより前に」という意味で使われています。"
+    },
+    {
+      "id": "sent-history-of-forks-3",
+      "english": "From there, forks slowly spread to Italy, where pasta was popular.",
+      "japanese": "そこからフォークはゆっくりと、パスタが人気だったイタリアへ広まりました。",
+      "additionalInfoEn": "Many historians think long pasta made forks especially useful there.",
+      "additionalInfoJa": "長いパスタがあったため、フォークが特に便利だったと考える歴史家も多くいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと"
+        },
+        {
+          "word": "spread",
+          "pos": "動詞",
+          "meaningJa": "広まった"
+        },
+        {
+          "word": "popular",
+          "pos": "形容詞",
+          "meaningJa": "人気のある"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "From there",
+        "ja": "そこから"
+      },
+      "explanationJa": "「, where 〜」は場所を後ろから説明します。「そしてそこでは〜」と考えると分かりやすいです。"
+    },
+    {
+      "id": "sent-history-of-forks-4",
+      "english": "In the 1600s, an English traveler named Thomas Coryat brought the habit home.",
+      "japanese": "1600年代、トマス・コリエットというイギリスの旅行家がこの習慣を持ち帰りました。",
+      "additionalInfoEn": "He had seen Italians eating with forks during his long trip.",
+      "additionalInfoJa": "彼は長い旅の途中で、イタリア人がフォークで食事をするのを見ていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "traveler",
+          "pos": "名詞",
+          "meaningJa": "旅行者"
+        },
+        {
+          "word": "habit",
+          "pos": "名詞",
+          "meaningJa": "習慣"
+        },
+        {
+          "word": "home",
+          "pos": "副詞",
+          "meaningJa": "家へ、故郷へ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "brought the habit home",
+        "ja": "その習慣を持ち帰った"
+      },
+      "explanationJa": "「home」は「家へ」という副詞なので、「bring 〜 home」のように前に「to」は不要です。"
+    },
+    {
+      "id": "sent-history-of-forks-5",
+      "english": "Many people mocked him, but by the 1700s forks were common in England.",
+      "japanese": "多くの人に笑われましたが、1700年代にはイギリスでフォークが一般的になりました。",
+      "additionalInfoEn": "His friends jokingly called him \"Furcifer,\" a Latin word linked to forks.",
+      "additionalInfoJa": "友人たちは冗談で彼を、フォークにちなむラテン語で「フルキフェル」と呼びました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "mocked",
+          "pos": "動詞",
+          "meaningJa": "からかった"
+        },
+        {
+          "word": "by",
+          "pos": "前置詞",
+          "meaningJa": "〜までに"
+        },
+        {
+          "word": "common",
+          "pos": "形容詞",
+          "meaningJa": "一般的な、よくある"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by the 1700s",
+        "ja": "1700年代までには"
+      },
+      "explanationJa": "「by + 時」は「〜までには」。その時点までに何かが完了していることを表します。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-starlight-from-past",
+  "categoryId": "space-science",
+  "titleEn": "Looking at Stars Means Looking Into the Past",
+  "titleJa": "星を見ることは過去を見ることである理由",
+  "subtitleJa": "夜空の光が教えてくれる、時間と距離の深い関係。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-12",
+  "sentences": [
+    {
+      "id": "sent-starlight-from-past-1",
+      "english": "When you look at the stars, you are actually seeing the past.",
+      "japanese": "星を見るとき、あなたは実は過去の姿を見ています。",
+      "additionalInfoEn": "This is true for every object we see in the night sky.",
+      "additionalInfoJa": "これは、夜空に見えるすべての天体に当てはまります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "look at",
+          "pos": "動詞句",
+          "meaningJa": "〜を見る"
+        },
+        {
+          "word": "actually",
+          "pos": "副詞",
+          "meaningJa": "実は"
+        },
+        {
+          "word": "past",
+          "pos": "名詞",
+          "meaningJa": "過去"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "see the past",
+        "ja": "過去を見る"
+      },
+      "explanationJa": "「are seeing」は現在進行形で、「今まさに見ている」というニュアンスを強調しています。"
+    },
+    {
+      "id": "sent-starlight-from-past-2",
+      "english": "Starlight travels enormous distances before it finally reaches our eyes.",
+      "japanese": "星の光は、私たちの目にやっと届くまでにとてつもない距離を旅します。",
+      "additionalInfoEn": "Even light, the fastest thing there is, needs time to cross space.",
+      "additionalInfoJa": "最も速い存在である光でさえ、宇宙を横切るには時間がかかります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Starlight",
+          "pos": "名詞",
+          "meaningJa": "星の光"
+        },
+        {
+          "word": "enormous",
+          "pos": "形容詞",
+          "meaningJa": "莫大な、巨大な"
+        },
+        {
+          "word": "distances",
+          "pos": "名詞",
+          "meaningJa": "距離"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "before it finally reaches",
+        "ja": "ようやく届く前に"
+      },
+      "explanationJa": "「finally」は「長い時間の末にようやく」というニュアンスを持つ副詞です。"
+    },
+    {
+      "id": "sent-starlight-from-past-3",
+      "english": "Astronomers measure these huge distances in units called light-years.",
+      "japanese": "天文学者は、これらの巨大な距離を「光年」という単位で測ります。",
+      "additionalInfoEn": "A light-year is the distance light travels in one year, about 9.5 trillion kilometers.",
+      "additionalInfoJa": "1光年は光が1年で進む距離で、約9兆5000億キロメートルです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Astronomers",
+          "pos": "名詞",
+          "meaningJa": "天文学者たち"
+        },
+        {
+          "word": "measure",
+          "pos": "動詞",
+          "meaningJa": "測る"
+        },
+        {
+          "word": "light-years",
+          "pos": "名詞",
+          "meaningJa": "光年"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in units called",
+        "ja": "〜と呼ばれる単位で"
+      },
+      "explanationJa": "「light-year」は時間ではなく距離の単位です。名前に「year」が入っていても誤解しないようにしましょう。"
+    },
+    {
+      "id": "sent-starlight-from-past-4",
+      "english": "The nearest star after the Sun is over four light-years away.",
+      "japanese": "太陽の次に近い恒星でさえ、4光年以上離れています。",
+      "additionalInfoEn": "So the light we see from it left more than four years ago.",
+      "additionalInfoJa": "つまり、その星から見える光は4年以上前に出発したものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "nearest",
+          "pos": "形容詞",
+          "meaningJa": "最も近い"
+        },
+        {
+          "word": "over",
+          "pos": "前置詞",
+          "meaningJa": "〜以上"
+        },
+        {
+          "word": "away",
+          "pos": "副詞",
+          "meaningJa": "離れて"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "over four light-years away",
+        "ja": "4光年以上離れて"
+      },
+      "explanationJa": "「over + 数字」は「〜を超えて」という意味で、「more than」とほぼ同じように使えます。"
+    },
+    {
+      "id": "sent-starlight-from-past-5",
+      "english": "The Andromeda Galaxy's light began its journey about 2.5 million years ago.",
+      "japanese": "アンドロメダ銀河の光は、約250万年前に旅を始めたものです。",
+      "additionalInfoEn": "On a dark night, you can see this galaxy without a telescope.",
+      "additionalInfoJa": "暗い夜なら、望遠鏡を使わなくてもこの銀河を見ることができます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Galaxy",
+          "pos": "名詞",
+          "meaningJa": "銀河"
+        },
+        {
+          "word": "journey",
+          "pos": "名詞",
+          "meaningJa": "旅"
+        },
+        {
+          "word": "million",
+          "pos": "名詞",
+          "meaningJa": "百万"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began its journey",
+        "ja": "旅を始めた"
+      },
+      "explanationJa": "「数字 + years ago」で「〜年前に」と過去の時点を表します。「ago」は必ず期間の後ろに置きます。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-soap",
+  "categoryId": "history",
+  "titleEn": "Soap Is Over 4,000 Years Old",
+  "titleJa": "石けんの歴史は4,000年以上",
+  "subtitleJa": "古代の人々も、脂と灰で汚れを落としていました。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-27",
+  "sentences": [
+    {
+      "id": "sent-history-of-soap-1",
+      "english": "People have been making soap for over 4,000 years.",
+      "japanese": "人々は4,000年以上もの間、石けんを作り続けてきました。",
+      "additionalInfoEn": "A clay tablet from ancient Mesopotamia describes how to make soap.",
+      "additionalInfoJa": "古代メソポタミアの粘土板には、石けんの作り方が記されています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "making",
+          "pos": "動詞",
+          "meaningJa": "作ること"
+        },
+        {
+          "word": "soap",
+          "pos": "名詞",
+          "meaningJa": "石けん"
+        },
+        {
+          "word": "over",
+          "pos": "前置詞",
+          "meaningJa": "〜以上"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "have been making",
+        "ja": "ずっと作り続けている"
+      },
+      "explanationJa": "「have been + 動詞ing」は現在完了進行形。昔から今までずっと続いていることを表します。"
+    },
+    {
+      "id": "sent-history-of-soap-2",
+      "english": "Early soap was made by boiling animal fat with wood ashes.",
+      "japanese": "初期の石けんは、動物の脂を木の灰と一緒に煮て作られていました。",
+      "additionalInfoEn": "Ashes contain an alkali, which reacts with fat to form soap.",
+      "additionalInfoJa": "灰にはアルカリが含まれていて、脂と反応して石けんになります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "boiling",
+          "pos": "動詞",
+          "meaningJa": "煮ること"
+        },
+        {
+          "word": "fat",
+          "pos": "名詞",
+          "meaningJa": "脂肪、脂"
+        },
+        {
+          "word": "ashes",
+          "pos": "名詞",
+          "meaningJa": "灰"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made by boiling",
+        "ja": "煮ることで作られた"
+      },
+      "explanationJa": "「by + 動詞ing」で「〜することによって」。作り方や方法を説明するときに使います。"
+    },
+    {
+      "id": "sent-history-of-soap-3",
+      "english": "At first, people mainly used it to clean wool and cloth.",
+      "japanese": "最初、人々は主に羊毛や布をきれいにするためにそれを使っていました。",
+      "additionalInfoEn": "It was also used as a medicine for skin problems.",
+      "additionalInfoJa": "また、皮膚のトラブルのための薬としても使われました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "mainly",
+          "pos": "副詞",
+          "meaningJa": "主に"
+        },
+        {
+          "word": "wool",
+          "pos": "名詞",
+          "meaningJa": "羊毛"
+        },
+        {
+          "word": "cloth",
+          "pos": "名詞",
+          "meaningJa": "布"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "used it to clean",
+        "ja": "きれいにするために使った"
+      },
+      "explanationJa": "「use A to + 動詞」で「〜するためにAを使う」。道具の目的を表す基本の形です。"
+    },
+    {
+      "id": "sent-history-of-soap-4",
+      "english": "For centuries, soap was expensive, so many people rarely used it.",
+      "japanese": "何世紀もの間、石けんは高価だったので、多くの人はめったに使いませんでした。",
+      "additionalInfoEn": "In Britain, there was even a tax on soap until 1853.",
+      "additionalInfoJa": "イギリスでは、1853年まで石けんに税金までかけられていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "centuries",
+          "pos": "名詞",
+          "meaningJa": "数世紀"
+        },
+        {
+          "word": "expensive",
+          "pos": "形容詞",
+          "meaningJa": "高価な"
+        },
+        {
+          "word": "rarely",
+          "pos": "副詞",
+          "meaningJa": "めったに〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "For centuries",
+        "ja": "何世紀もの間"
+      },
+      "explanationJa": "「rarely」は「めったに〜ない」。notを使わなくても否定の意味になる副詞です。"
+    },
+    {
+      "id": "sent-history-of-soap-5",
+      "english": "In the 1800s, doctors learned that washing hands could save lives.",
+      "japanese": "1800年代、医師たちは手を洗うことで命を救えると知りました。",
+      "additionalInfoEn": "Cheaper factory-made soap then helped people stay healthier.",
+      "additionalInfoJa": "その後、安い工場製の石けんが人々の健康を守るのに役立ちました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "doctors",
+          "pos": "名詞",
+          "meaningJa": "医師"
+        },
+        {
+          "word": "washing",
+          "pos": "動詞",
+          "meaningJa": "洗うこと"
+        },
+        {
+          "word": "lives",
+          "pos": "名詞",
+          "meaningJa": "命（lifeの複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "save lives",
+        "ja": "命を救う"
+      },
+      "explanationJa": "「washing hands」のように、動詞のing形は「〜すること」という意味で使えます。"
+    }
+  ]
+}

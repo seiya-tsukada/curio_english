@@ -1,0 +1,167 @@
+{
+  "id": "topic-shopping-cart-invention",
+  "categoryId": "business-economy",
+  "titleEn": "The Shopping Cart Nobody Wanted",
+  "titleJa": "最初は誰も使わなかったショッピングカート",
+  "subtitleJa": "便利な発明も、広まるまでには工夫が必要だった。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-05",
+  "sentences": [
+    {
+      "id": "sent-shopping-cart-invention-1",
+      "english": "In 1937, a grocery store owner in Oklahoma invented the shopping cart.",
+      "japanese": "1937年、オクラホマ州の食料品店のオーナーがショッピングカートを発明しました。",
+      "additionalInfoEn": "His name was Sylvan Goldman, and a folding chair gave him the idea.",
+      "additionalInfoJa": "彼の名前はシルバン・ゴールドマンで、折りたたみ椅子からヒントを得ました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "grocery",
+          "pos": "名詞",
+          "meaningJa": "食料品"
+        },
+        {
+          "word": "owner",
+          "pos": "名詞",
+          "meaningJa": "オーナー、持ち主"
+        },
+        {
+          "word": "invented",
+          "pos": "動詞",
+          "meaningJa": "発明した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "grocery store",
+        "ja": "食料品店"
+      },
+      "explanationJa": "「invent」は「発明する」という意味です。過去の出来事なので「invented」と過去形になっています。"
+    },
+    {
+      "id": "sent-shopping-cart-invention-2",
+      "english": "He noticed that shoppers stopped buying when their baskets got heavy.",
+      "japanese": "彼は、カゴが重くなると買い物客が買うのをやめてしまうことに気づきました。",
+      "additionalInfoEn": "People could only buy what they were able to carry.",
+      "additionalInfoJa": "人々は、自分で運べる分しか買えなかったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        },
+        {
+          "word": "baskets",
+          "pos": "名詞",
+          "meaningJa": "カゴ"
+        },
+        {
+          "word": "heavy",
+          "pos": "形容詞",
+          "meaningJa": "重い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stopped buying",
+        "ja": "買うのをやめた"
+      },
+      "explanationJa": "「stop + 〜ing」は「〜するのをやめる」です。「stop to 〜」だと「〜するために立ち止まる」になります。"
+    },
+    {
+      "id": "sent-shopping-cart-invention-3",
+      "english": "But at first, almost nobody wanted to push his new carts.",
+      "japanese": "しかし最初は、彼の新しいカートを押したがる人はほとんどいませんでした。",
+      "additionalInfoEn": "Men felt it looked weak, and women said it looked like a baby stroller.",
+      "additionalInfoJa": "男性は弱々しく見えると感じ、女性はベビーカーみたいだと言いました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "nobody",
+          "pos": "代名詞",
+          "meaningJa": "誰も〜ない"
+        },
+        {
+          "word": "push",
+          "pos": "動詞",
+          "meaningJa": "押す"
+        },
+        {
+          "word": "carts",
+          "pos": "名詞",
+          "meaningJa": "カート"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at first",
+        "ja": "最初は"
+      },
+      "explanationJa": "「almost nobody」で「ほとんど誰も〜ない」という意味です。否定の言葉なので not は不要です。"
+    },
+    {
+      "id": "sent-shopping-cart-invention-4",
+      "english": "So he hired people to walk around the store pushing carts.",
+      "japanese": "そこで彼は、カートを押しながら店内を歩き回る人たちを雇いました。",
+      "additionalInfoEn": "When real shoppers saw others using them, they started to try them too.",
+      "additionalInfoJa": "本物の買い物客は、他の人が使っているのを見て、自分も試すようになりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "hired",
+          "pos": "動詞",
+          "meaningJa": "雇った"
+        },
+        {
+          "word": "walk",
+          "pos": "動詞",
+          "meaningJa": "歩く"
+        },
+        {
+          "word": "around",
+          "pos": "前置詞",
+          "meaningJa": "〜のあちこちを"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "walk around",
+        "ja": "歩き回る"
+      },
+      "explanationJa": "「hire + 人 + to 〜」で「〜してもらうために人を雇う」という形です。「pushing」は「押しながら」です。"
+    },
+    {
+      "id": "sent-shopping-cart-invention-5",
+      "english": "Soon the cart became a normal part of shopping around the world.",
+      "japanese": "やがてカートは、世界中で買い物の当たり前の一部になりました。",
+      "additionalInfoEn": "Bigger carts also meant people could buy more in one trip.",
+      "additionalInfoJa": "カートのおかげで、1回の買い物でたくさん買えるようにもなりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Soon",
+          "pos": "副詞",
+          "meaningJa": "やがて、すぐに"
+        },
+        {
+          "word": "became",
+          "pos": "動詞",
+          "meaningJa": "〜になった"
+        },
+        {
+          "word": "normal",
+          "pos": "形容詞",
+          "meaningJa": "普通の、当たり前の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "around the world",
+        "ja": "世界中で"
+      },
+      "explanationJa": "「become」は「〜になる」という意味で、過去形は「became」です。状態の変化を表すときに使います。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-diamond-water-paradox",
+  "categoryId": "business-economy",
+  "titleEn": "Why Diamonds Cost More Than Water",
+  "titleJa": "水よりダイヤモンドのほうが高い理由",
+  "subtitleJa": "経済学者を悩ませた「価値のパラドックス」。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-14",
+  "sentences": [
+    {
+      "id": "sent-diamond-water-paradox-1",
+      "english": "Water keeps us alive, yet it usually costs very little.",
+      "japanese": "水は私たちの命を支えているのに、たいていとても安い値段です。",
+      "additionalInfoEn": "We cannot survive more than a few days without it.",
+      "additionalInfoJa": "水がなければ、私たちは数日しか生きられません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "alive",
+          "pos": "形容詞",
+          "meaningJa": "生きている"
+        },
+        {
+          "word": "yet",
+          "pos": "接続詞",
+          "meaningJa": "けれども"
+        },
+        {
+          "word": "little",
+          "pos": "代名詞",
+          "meaningJa": "わずかな量"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keeps us alive",
+        "ja": "私たちを生かしている"
+      },
+      "explanationJa": "「keep + 人 + 形容詞」で「人を〜の状態に保つ」です。「yet」は but に近い意味です。"
+    },
+    {
+      "id": "sent-diamond-water-paradox-2",
+      "english": "Diamonds are not needed for life, but they are extremely expensive.",
+      "japanese": "ダイヤモンドは生きるのに必要ないのに、とても高価です。",
+      "additionalInfoEn": "People mainly want them because they are beautiful and rare.",
+      "additionalInfoJa": "人々がダイヤモンドを求めるのは、主に美しく珍しいからです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "needed",
+          "pos": "動詞",
+          "meaningJa": "必要とされる"
+        },
+        {
+          "word": "extremely",
+          "pos": "副詞",
+          "meaningJa": "非常に"
+        },
+        {
+          "word": "expensive",
+          "pos": "形容詞",
+          "meaningJa": "高価な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "needed for life",
+        "ja": "生きるのに必要な"
+      },
+      "explanationJa": "「extremely」は「非常に」という意味で、very よりも強い強調を表します。"
+    },
+    {
+      "id": "sent-diamond-water-paradox-3",
+      "english": "In 1776, Adam Smith pointed out this strange puzzle about value.",
+      "japanese": "1776年、アダム・スミスは価値に関するこの不思議な謎を指摘しました。",
+      "additionalInfoEn": "It is known as the diamond-water paradox.",
+      "additionalInfoJa": "これは「ダイヤモンドと水のパラドックス」として知られています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pointed",
+          "pos": "動詞",
+          "meaningJa": "指摘した（point outで）"
+        },
+        {
+          "word": "strange",
+          "pos": "形容詞",
+          "meaningJa": "不思議な"
+        },
+        {
+          "word": "puzzle",
+          "pos": "名詞",
+          "meaningJa": "謎"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pointed out",
+        "ja": "指摘した"
+      },
+      "explanationJa": "「point out」は「指摘する」という意味の句動詞で、会議や議論でもよく使われます。"
+    },
+    {
+      "id": "sent-diamond-water-paradox-4",
+      "english": "Later economists explained that price depends on the value of one more unit.",
+      "japanese": "後の経済学者たちは、値段は「あと1つ」の価値で決まると説明しました。",
+      "additionalInfoEn": "This idea is called marginal utility.",
+      "additionalInfoJa": "この考え方は「限界効用」と呼ばれます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "economists",
+          "pos": "名詞",
+          "meaningJa": "経済学者"
+        },
+        {
+          "word": "depends",
+          "pos": "動詞",
+          "meaningJa": "頼る（depend onで「〜次第である」）"
+        },
+        {
+          "word": "unit",
+          "pos": "名詞",
+          "meaningJa": "単位、1個"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "depends on",
+        "ja": "〜次第である"
+      },
+      "explanationJa": "「depend on 〜」は「〜次第である、〜による」という意味で、日常でも非常によく使います。"
+    },
+    {
+      "id": "sent-diamond-water-paradox-5",
+      "english": "Since water is plentiful, one extra glass is worth almost nothing to us.",
+      "japanese": "水はたくさんあるので、もう1杯の水は私たちにとってほとんど価値がありません。",
+      "additionalInfoEn": "But in a desert, a single glass could be worth more than a diamond.",
+      "additionalInfoJa": "でも砂漠の中なら、1杯の水がダイヤモンドより価値を持つかもしれません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "plentiful",
+          "pos": "形容詞",
+          "meaningJa": "豊富な"
+        },
+        {
+          "word": "extra",
+          "pos": "形容詞",
+          "meaningJa": "追加の"
+        },
+        {
+          "word": "worth",
+          "pos": "形容詞",
+          "meaningJa": "〜の価値がある"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "worth almost nothing",
+        "ja": "ほとんど価値がない"
+      },
+      "explanationJa": "「Since」は「〜なので」と理由を表します。「be worth 〜」で「〜の価値がある」です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-argentina-mate-sharing",
+  "categoryId": "world-culture",
+  "titleEn": "Sharing Mate in Argentina",
+  "titleJa": "アルゼンチンで1つのマテ茶を回し飲みする理由",
+  "subtitleJa": "同じカップを回すことで深まる、南米の友情。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-28",
+  "sentences": [
+    {
+      "id": "sent-argentina-mate-sharing-1",
+      "english": "In Argentina, friends often share a drink called mate from one cup.",
+      "japanese": "アルゼンチンでは、友人同士でマテ茶という飲み物を1つのカップで分け合うことがよくあります。",
+      "additionalInfoEn": "It is also popular in Uruguay, Paraguay, and southern Brazil.",
+      "additionalInfoJa": "ウルグアイやパラグアイ、ブラジル南部でも親しまれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Argentina",
+          "pos": "名詞",
+          "meaningJa": "アルゼンチン"
+        },
+        {
+          "word": "share",
+          "pos": "動詞",
+          "meaningJa": "分け合う"
+        },
+        {
+          "word": "drink",
+          "pos": "名詞",
+          "meaningJa": "飲み物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "share a drink",
+        "ja": "飲み物を分け合う"
+      },
+      "explanationJa": "「share A」で「Aを分け合う、共有する」。食べ物や情報など、いろいろな物に使えます。"
+    },
+    {
+      "id": "sent-argentina-mate-sharing-2",
+      "english": "The cup is filled with dried leaves and hot water.",
+      "japanese": "カップには、乾燥させた葉とお湯が入っています。",
+      "additionalInfoEn": "People drink it through a metal straw called a bombilla.",
+      "additionalInfoJa": "「ボンビージャ」と呼ばれる金属のストローで飲みます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "filled",
+          "pos": "動詞",
+          "meaningJa": "満たされた"
+        },
+        {
+          "word": "dried",
+          "pos": "形容詞",
+          "meaningJa": "乾燥した"
+        },
+        {
+          "word": "leaves",
+          "pos": "名詞",
+          "meaningJa": "葉"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is filled with",
+        "ja": "〜でいっぱいだ"
+      },
+      "explanationJa": "「be filled with 〜」で「〜で満たされている」。容器の中身を説明するときに使います。"
+    },
+    {
+      "id": "sent-argentina-mate-sharing-3",
+      "english": "One person prepares the mate and passes it around the group.",
+      "japanese": "1人がマテ茶を用意して、グループの中で回していきます。",
+      "additionalInfoEn": "This person adds fresh hot water before each new round.",
+      "additionalInfoJa": "その人は、次の人に渡す前に毎回お湯を注ぎ足します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "person",
+          "pos": "名詞",
+          "meaningJa": "人"
+        },
+        {
+          "word": "prepares",
+          "pos": "動詞",
+          "meaningJa": "用意する"
+        },
+        {
+          "word": "passes",
+          "pos": "動詞",
+          "meaningJa": "渡す、回す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pass around",
+        "ja": "回す、順に渡す"
+      },
+      "explanationJa": "「pass A around」で「Aを順番に回す」。お菓子や資料を回すときにも使えます。"
+    },
+    {
+      "id": "sent-argentina-mate-sharing-4",
+      "english": "You drink it all, then give the cup back to the same person.",
+      "japanese": "全部飲み干したら、同じ人にカップを返します。",
+      "additionalInfoEn": "Moving the straw is seen as bad manners.",
+      "additionalInfoJa": "ストローを動かすのは、マナー違反とされています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "drink",
+          "pos": "動詞",
+          "meaningJa": "飲む"
+        },
+        {
+          "word": "all",
+          "pos": "代名詞",
+          "meaningJa": "全部"
+        },
+        {
+          "word": "same",
+          "pos": "形容詞",
+          "meaningJa": "同じ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "give back",
+        "ja": "返す"
+      },
+      "explanationJa": "「give A back to B」で「AをBに返す」。借りた物を返すときの基本表現です。"
+    },
+    {
+      "id": "sent-argentina-mate-sharing-5",
+      "english": "Saying \"thank you\" means you do not want any more mate.",
+      "japanese": "「ありがとう」と言うと、もうマテ茶はいらないという意味になります。",
+      "additionalInfoEn": "So only say it when you are really finished.",
+      "additionalInfoJa": "なので、本当に飲み終えたときだけ言うようにしましょう。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Saying",
+          "pos": "動詞",
+          "meaningJa": "言うこと"
+        },
+        {
+          "word": "want",
+          "pos": "動詞",
+          "meaningJa": "欲しい"
+        },
+        {
+          "word": "more",
+          "pos": "代名詞",
+          "meaningJa": "それ以上"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not any more",
+        "ja": "これ以上〜ない"
+      },
+      "explanationJa": "「not want any more」で「これ以上はいらない」。断るときにも使える便利な形です。"
+    }
+  ]
+}

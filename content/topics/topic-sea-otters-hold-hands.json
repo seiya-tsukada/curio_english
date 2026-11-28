@@ -1,0 +1,167 @@
+{
+  "id": "topic-sea-otters-hold-hands",
+  "categoryId": "space-science",
+  "titleEn": "Sea Otters Hold Hands While Sleeping",
+  "titleJa": "ラッコが手をつないで眠る理由",
+  "subtitleJa": "海の上で眠るラッコたちの、かわいくて賢い工夫。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-30",
+  "sentences": [
+    {
+      "id": "sent-sea-otters-hold-hands-1",
+      "english": "Sea otters often hold hands while they sleep on the water.",
+      "japanese": "ラッコは水の上で眠るとき、よく手をつないでいます。",
+      "additionalInfoEn": "They sleep floating on their backs in the ocean.",
+      "additionalInfoJa": "ラッコは海の上で仰向けに浮かんだまま眠ります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "otters",
+          "pos": "名詞",
+          "meaningJa": "カワウソ類（sea otter でラッコ）"
+        },
+        {
+          "word": "hold",
+          "pos": "動詞",
+          "meaningJa": "握る、つかむ"
+        },
+        {
+          "word": "sleep",
+          "pos": "動詞",
+          "meaningJa": "眠る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hold hands",
+        "ja": "手をつなぐ"
+      },
+      "explanationJa": "「hold hands」で「手をつなぐ」という意味です。「while + 文」は「〜している間に」を表します。"
+    },
+    {
+      "id": "sent-sea-otters-hold-hands-2",
+      "english": "This keeps them from drifting away from each other.",
+      "japanese": "こうすることで、お互いに離ればなれに流されずにすみます。",
+      "additionalInfoEn": "Ocean waves and currents could easily carry a sleeping otter away.",
+      "additionalInfoJa": "海の波や流れは、眠っているラッコを簡単に運び去ってしまいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "keeps",
+          "pos": "動詞",
+          "meaningJa": "（〜するのを）防ぐ"
+        },
+        {
+          "word": "drifting",
+          "pos": "動詞",
+          "meaningJa": "漂流すること"
+        },
+        {
+          "word": "each other",
+          "pos": "代名詞",
+          "meaningJa": "お互い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keeps them from drifting",
+        "ja": "彼らが漂流するのを防ぐ"
+      },
+      "explanationJa": "「keep A from 〜ing」で「Aが〜しないようにする」という意味です。少し長いですが便利な形です。"
+    },
+    {
+      "id": "sent-sea-otters-hold-hands-3",
+      "english": "Sometimes they also wrap themselves in long seaweed called kelp.",
+      "japanese": "ときには、ケルプと呼ばれる長い海藻を体に巻きつけることもあります。",
+      "additionalInfoEn": "Kelp is attached to the sea floor, so it works like an anchor.",
+      "additionalInfoJa": "ケルプは海底に根づいているので、いかりのような役目を果たします。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wrap",
+          "pos": "動詞",
+          "meaningJa": "巻きつける、包む"
+        },
+        {
+          "word": "seaweed",
+          "pos": "名詞",
+          "meaningJa": "海藻"
+        },
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "〜と呼ばれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "wrap themselves in",
+        "ja": "自分の体を〜で包む"
+      },
+      "explanationJa": "「themselves」は「彼ら自身」という意味です。「名詞 + called 〜」で「〜と呼ばれる…」と説明できます。"
+    },
+    {
+      "id": "sent-sea-otters-hold-hands-4",
+      "english": "A group of resting sea otters is called a raft.",
+      "japanese": "休んでいるラッコの群れは「ラフト（いかだ）」と呼ばれます。",
+      "additionalInfoEn": "Some rafts have dozens of otters floating together.",
+      "additionalInfoJa": "数十匹ものラッコが一緒に浮かんでいるラフトもあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "group",
+          "pos": "名詞",
+          "meaningJa": "群れ、グループ"
+        },
+        {
+          "word": "resting",
+          "pos": "形容詞",
+          "meaningJa": "休んでいる"
+        },
+        {
+          "word": "raft",
+          "pos": "名詞",
+          "meaningJa": "いかだ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is called",
+        "ja": "〜と呼ばれる"
+      },
+      "explanationJa": "「A is called B」で「AはBと呼ばれる」という受け身の表現です。名前を紹介するときによく使います。"
+    },
+    {
+      "id": "sent-sea-otters-hold-hands-5",
+      "english": "Their thick fur keeps them warm in the cold sea.",
+      "japanese": "ラッコの密な毛皮が、冷たい海の中でも体を温かく保ってくれます。",
+      "additionalInfoEn": "Sea otters have the thickest fur of any animal in the world.",
+      "additionalInfoJa": "ラッコは世界中の動物の中で、最も毛が密集した毛皮を持っています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "thick",
+          "pos": "形容詞",
+          "meaningJa": "厚い、密な"
+        },
+        {
+          "word": "fur",
+          "pos": "名詞",
+          "meaningJa": "毛皮"
+        },
+        {
+          "word": "warm",
+          "pos": "形容詞",
+          "meaningJa": "暖かい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep them warm",
+        "ja": "彼らを暖かく保つ"
+      },
+      "explanationJa": "「keep A + 形容詞」で「Aを〜の状態に保つ」という意味です。「Keep your room clean.」などにも使えます。"
+    }
+  ]
+}

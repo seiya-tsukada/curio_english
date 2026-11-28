@@ -1,0 +1,167 @@
+{
+  "id": "topic-mere-exposure-effect",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Like Things We See Often",
+  "titleJa": "何度も見るものを好きになってしまう理由",
+  "subtitleJa": "「単純接触効果」が私たちの好みを静かに動かす。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-17",
+  "sentences": [
+    {
+      "id": "sent-mere-exposure-effect-1",
+      "english": "We tend to like things more simply because they feel familiar.",
+      "japanese": "私たちは、なじみがあると感じるだけで、物事をより好きになる傾向があります。",
+      "additionalInfoEn": "Psychologists call this the mere exposure effect.",
+      "additionalInfoJa": "心理学者はこれを「単純接触効果」と呼んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "tend",
+          "pos": "動詞",
+          "meaningJa": "傾向がある"
+        },
+        {
+          "word": "simply",
+          "pos": "副詞",
+          "meaningJa": "単に"
+        },
+        {
+          "word": "familiar",
+          "pos": "形容詞",
+          "meaningJa": "なじみのある"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "tend to",
+        "ja": "〜する傾向がある"
+      },
+      "explanationJa": "「simply because 〜」は「単に〜という理由で」。理由がそれだけであることを強調します。"
+    },
+    {
+      "id": "sent-mere-exposure-effect-2",
+      "english": "In 1968, Robert Zajonc showed people strange words and Chinese characters they didn't know.",
+      "japanese": "1968年、ロバート・ザイアンスは、人々が知らない単語や漢字を見せる実験をしました。",
+      "additionalInfoEn": "Some symbols were shown many times, and others only once or twice.",
+      "additionalInfoJa": "何度も見せた記号もあれば、1、2回しか見せなかった記号もありました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "showed",
+          "pos": "動詞",
+          "meaningJa": "見せた"
+        },
+        {
+          "word": "strange",
+          "pos": "形容詞",
+          "meaningJa": "見慣れない"
+        },
+        {
+          "word": "characters",
+          "pos": "名詞",
+          "meaningJa": "文字"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Chinese characters",
+        "ja": "漢字"
+      },
+      "explanationJa": "「show + 人 + 物」は「人に物を見せる」。目的語を2つ続けられる動詞です。"
+    },
+    {
+      "id": "sent-mere-exposure-effect-3",
+      "english": "People rated the symbols they had seen most often as the most pleasant.",
+      "japanese": "人々は、最も多く見た記号を最も好ましいと評価しました。",
+      "additionalInfoEn": "Later studies found this works even when people don't notice seeing them.",
+      "additionalInfoJa": "その後の研究では、見たことに本人が気づいていなくても効果があるとわかりました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "rated",
+          "pos": "動詞",
+          "meaningJa": "評価した"
+        },
+        {
+          "word": "symbols",
+          "pos": "名詞",
+          "meaningJa": "記号"
+        },
+        {
+          "word": "pleasant",
+          "pos": "形容詞",
+          "meaningJa": "心地よい、好ましい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rate A as B",
+        "ja": "AをBと評価する"
+      },
+      "explanationJa": "「had seen」は過去完了。評価した時点より前に見ていたことを表しています。"
+    },
+    {
+      "id": "sent-mere-exposure-effect-4",
+      "english": "This helps explain why a song you disliked at first can slowly grow on you.",
+      "japanese": "最初は好きではなかった曲が、だんだん好きになっていく理由もこれで説明できます。",
+      "additionalInfoEn": "Advertisers also rely on it by repeating the same logos and jingles.",
+      "additionalInfoJa": "広告主も、同じロゴやジングルを繰り返すことでこの効果を利用しています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "explain",
+          "pos": "動詞",
+          "meaningJa": "説明する"
+        },
+        {
+          "word": "disliked",
+          "pos": "動詞",
+          "meaningJa": "嫌った"
+        },
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "grow on you",
+        "ja": "だんだん好きになる"
+      },
+      "explanationJa": "「grow on + 人」は「（最初はそうでなくても）だんだん好きになる」という口語表現です。"
+    },
+    {
+      "id": "sent-mere-exposure-effect-5",
+      "english": "One 1977 study found people prefer their mirror image to a normal photo.",
+      "japanese": "1977年のある研究では、人は普通の写真より鏡に映った自分の顔を好むことがわかりました。",
+      "additionalInfoEn": "Their friends, however, preferred the normal photo, the face they usually see.",
+      "additionalInfoJa": "一方で友人たちは、いつも見ている顔である普通の写真の方を好みました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "prefer",
+          "pos": "動詞",
+          "meaningJa": "好む"
+        },
+        {
+          "word": "mirror",
+          "pos": "名詞",
+          "meaningJa": "鏡"
+        },
+        {
+          "word": "photo",
+          "pos": "名詞",
+          "meaningJa": "写真"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "prefer A to B",
+        "ja": "BよりAを好む"
+      },
+      "explanationJa": "「prefer A to B」は「BよりAを好む」。thanではなくtoを使う点に注意しましょう。"
+    }
+  ]
+}

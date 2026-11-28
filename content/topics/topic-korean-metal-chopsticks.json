@@ -1,0 +1,167 @@
+{
+  "id": "topic-korean-metal-chopsticks",
+  "categoryId": "world-culture",
+  "titleEn": "Why Korean Chopsticks Are Made of Metal",
+  "titleJa": "韓国の箸が金属でできている理由",
+  "subtitleJa": "平たくて細い、スプーンとセットの食卓の道具。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-20",
+  "sentences": [
+    {
+      "id": "sent-korean-metal-chopsticks-1",
+      "english": "In Korea, most people eat with metal chopsticks.",
+      "japanese": "韓国では、ほとんどの人が金属の箸を使って食事をします。",
+      "additionalInfoEn": "Japan and China mostly use chopsticks made of wood or bamboo.",
+      "additionalInfoJa": "日本や中国では、主に木や竹の箸が使われています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "Korea",
+          "pos": "名詞",
+          "meaningJa": "韓国"
+        },
+        {
+          "word": "metal",
+          "pos": "名詞",
+          "meaningJa": "金属"
+        },
+        {
+          "word": "chopsticks",
+          "pos": "名詞",
+          "meaningJa": "箸"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "eat with chopsticks",
+        "ja": "箸で食べる"
+      },
+      "explanationJa": "「with + 道具」で「〜を使って」。eat with a fork なども同じ形です。"
+    },
+    {
+      "id": "sent-korean-metal-chopsticks-2",
+      "english": "Korean chopsticks are usually thin, flat, and a little heavy.",
+      "japanese": "韓国の箸は、たいてい細くて平たく、少し重さがあります。",
+      "additionalInfoEn": "The flat shape makes it easy to pick up small side dishes.",
+      "additionalInfoJa": "平たい形のおかげで、小さなおかずをつまみやすくなっています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "thin",
+          "pos": "形容詞",
+          "meaningJa": "細い、薄い"
+        },
+        {
+          "word": "flat",
+          "pos": "形容詞",
+          "meaningJa": "平たい"
+        },
+        {
+          "word": "heavy",
+          "pos": "形容詞",
+          "meaningJa": "重い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a little heavy",
+        "ja": "少し重い"
+      },
+      "explanationJa": "「a little + 形容詞」で「少し〜」。程度をやわらかく伝えられます。"
+    },
+    {
+      "id": "sent-korean-metal-chopsticks-3",
+      "english": "They are often sold as a set with a long metal spoon.",
+      "japanese": "箸は、長い金属のスプーンとセットで売られていることがよくあります。",
+      "additionalInfoEn": "This pair is called \"sujeo\" in Korean.",
+      "additionalInfoJa": "このセットは、韓国語で「スジョ」と呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "sold",
+          "pos": "動詞",
+          "meaningJa": "売られる"
+        },
+        {
+          "word": "set",
+          "pos": "名詞",
+          "meaningJa": "セット、一組"
+        },
+        {
+          "word": "spoon",
+          "pos": "名詞",
+          "meaningJa": "スプーン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as a set",
+        "ja": "セットで"
+      },
+      "explanationJa": "「be sold」は「sell（売る）」の受け身で、「売られている」という意味です。"
+    },
+    {
+      "id": "sent-korean-metal-chopsticks-4",
+      "english": "Koreans use the spoon for rice and soup, not the chopsticks.",
+      "japanese": "韓国の人は、ご飯やスープを食べるときには箸ではなくスプーンを使います。",
+      "additionalInfoEn": "Lifting the rice bowl to your mouth is not common in Korea.",
+      "additionalInfoJa": "韓国では、ご飯茶碗を持ち上げて口に運ぶことはあまりしません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Koreans",
+          "pos": "名詞",
+          "meaningJa": "韓国の人々"
+        },
+        {
+          "word": "rice",
+          "pos": "名詞",
+          "meaningJa": "ご飯、米"
+        },
+        {
+          "word": "soup",
+          "pos": "名詞",
+          "meaningJa": "スープ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "A, not B",
+        "ja": "BではなくA"
+      },
+      "explanationJa": "「A, not B」で「BではなくA」。違いをはっきり示したいときに使えます。"
+    },
+    {
+      "id": "sent-korean-metal-chopsticks-5",
+      "english": "One popular story says kings once used silver chopsticks to check for poison.",
+      "japanese": "よく知られた話では、昔の王は毒を見つけるために銀の箸を使っていたそうです。",
+      "additionalInfoEn": "Today, steel chopsticks are loved because they are clean and last long.",
+      "additionalInfoJa": "今では、清潔で長持ちすることから、ステンレスの箸が好まれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "popular",
+          "pos": "形容詞",
+          "meaningJa": "よく知られた、人気の"
+        },
+        {
+          "word": "silver",
+          "pos": "名詞",
+          "meaningJa": "銀"
+        },
+        {
+          "word": "poison",
+          "pos": "名詞",
+          "meaningJa": "毒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "check for",
+        "ja": "〜がないか調べる"
+      },
+      "explanationJa": "「One story says 〜」で「ある話では〜とされている」。言い伝えを紹介するときの表現です。"
+    }
+  ]
+}

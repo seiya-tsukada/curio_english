@@ -1,0 +1,167 @@
+{
+  "id": "topic-coin-ridged-edges",
+  "categoryId": "business-economy",
+  "titleEn": "Why Some Coins Have Ridged Edges",
+  "titleJa": "硬貨のふちにギザギザがある理由",
+  "subtitleJa": "小さな線は、昔のずるい人たちへの対策だった。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-24",
+  "sentences": [
+    {
+      "id": "sent-coin-ridged-edges-1",
+      "english": "Look at the edge of some coins, and you will see tiny lines.",
+      "japanese": "硬貨のふちをよく見ると、細かい線が刻まれているものがあります。",
+      "additionalInfoEn": "In Japan, the 50, 100 and 500 yen coins have these lines.",
+      "additionalInfoJa": "日本では、50円玉、100円玉、500円玉にこの線があります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "edge",
+          "pos": "名詞",
+          "meaningJa": "ふち、端"
+        },
+        {
+          "word": "coins",
+          "pos": "名詞",
+          "meaningJa": "硬貨"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Look at",
+        "ja": "〜を見る"
+      },
+      "explanationJa": "「命令文, and you will 〜」で「〜しなさい、そうすれば…」という意味になります。"
+    },
+    {
+      "id": "sent-coin-ridged-edges-2",
+      "english": "Long ago, coins were made of real gold and silver.",
+      "japanese": "昔、硬貨は本物の金や銀で作られていました。",
+      "additionalInfoEn": "The value of a coin depended on how much metal it had.",
+      "additionalInfoJa": "硬貨の価値は、どれだけの金属を含んでいるかで決まりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "real",
+          "pos": "形容詞",
+          "meaningJa": "本物の"
+        },
+        {
+          "word": "gold",
+          "pos": "名詞",
+          "meaningJa": "金"
+        },
+        {
+          "word": "silver",
+          "pos": "名詞",
+          "meaningJa": "銀"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made of",
+        "ja": "〜でできている"
+      },
+      "explanationJa": "「be made of」は材料を表します。「Long ago」は「ずっと昔」という意味です。"
+    },
+    {
+      "id": "sent-coin-ridged-edges-3",
+      "english": "Some people shaved tiny bits off the edges and kept the metal.",
+      "japanese": "ふちを少しずつ削り取って、その金属を自分のものにする人がいました。",
+      "additionalInfoEn": "This trick was called clipping, and it was a serious crime.",
+      "additionalInfoJa": "この手口は「クリッピング」と呼ばれ、重い犯罪でした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "shaved",
+          "pos": "動詞",
+          "meaningJa": "削った"
+        },
+        {
+          "word": "bits",
+          "pos": "名詞",
+          "meaningJa": "小さなかけら"
+        },
+        {
+          "word": "kept",
+          "pos": "動詞",
+          "meaningJa": "取っておいた（keepの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "tiny bits",
+        "ja": "ほんの少しのかけら"
+      },
+      "explanationJa": "「shave A off B」で「BからAを削り取る」という意味です。「kept」は「keep」の過去形です。"
+    },
+    {
+      "id": "sent-coin-ridged-edges-4",
+      "english": "Lines on the edge made it easy to see if a coin was cut.",
+      "japanese": "ふちに線があれば、硬貨が削られたかどうかがすぐに分かるようになりました。",
+      "additionalInfoEn": "Isaac Newton, who later ran England's mint, also fought coin criminals.",
+      "additionalInfoJa": "イギリスの造幣局を率いたアイザック・ニュートンも、硬貨の犯罪者と戦いました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Lines",
+          "pos": "名詞",
+          "meaningJa": "線"
+        },
+        {
+          "word": "easy",
+          "pos": "形容詞",
+          "meaningJa": "簡単な"
+        },
+        {
+          "word": "cut",
+          "pos": "動詞",
+          "meaningJa": "削られた、切られた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made it easy to",
+        "ja": "〜しやすくした"
+      },
+      "explanationJa": "「make it easy to 〜」で「〜することを簡単にする」です。「if」は「〜かどうか」という意味です。"
+    },
+    {
+      "id": "sent-coin-ridged-edges-5",
+      "english": "Today, the lines also help people tell coins apart by touch.",
+      "japanese": "今日では、その線は手触りで硬貨を見分けるのにも役立っています。",
+      "additionalInfoEn": "This is very useful for people who cannot see well.",
+      "additionalInfoJa": "これは目の不自由な人にとって、とても便利な工夫です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Today",
+          "pos": "副詞",
+          "meaningJa": "今日では"
+        },
+        {
+          "word": "help",
+          "pos": "動詞",
+          "meaningJa": "役立つ、助ける"
+        },
+        {
+          "word": "touch",
+          "pos": "名詞",
+          "meaningJa": "手触り、触ること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "tell coins apart",
+        "ja": "硬貨を見分ける"
+      },
+      "explanationJa": "「tell A apart」で「Aを見分ける」という意味です。「by touch」は「触って」という手段を表します。"
+    }
+  ]
+}

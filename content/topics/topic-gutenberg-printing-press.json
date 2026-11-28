@@ -1,0 +1,167 @@
+{
+  "id": "topic-gutenberg-printing-press",
+  "categoryId": "history",
+  "titleEn": "How the Printing Press Spread Knowledge",
+  "titleJa": "活版印刷が知識の広がり方を変えた",
+  "subtitleJa": "手で書き写していた本が、一気に身近になった転換点。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-14",
+  "sentences": [
+    {
+      "id": "sent-gutenberg-printing-press-1",
+      "english": "Before the mid-1400s, European books were copied entirely by hand.",
+      "japanese": "1400年代半ばまで、ヨーロッパの本はすべて手で書き写されていました。",
+      "additionalInfoEn": "A single book could take a skilled writer months or even years to finish.",
+      "additionalInfoJa": "1冊の本を仕上げるのに、熟練した書き手でも数か月から数年かかることがありました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "copied",
+          "pos": "動詞",
+          "meaningJa": "書き写された"
+        },
+        {
+          "word": "entirely",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        },
+        {
+          "word": "hand",
+          "pos": "名詞",
+          "meaningJa": "手"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by hand",
+        "ja": "手で"
+      },
+      "explanationJa": "「by hand」は「（機械ではなく）手作業で」。「made by hand」で「手作りの」となります。"
+    },
+    {
+      "id": "sent-gutenberg-printing-press-2",
+      "english": "Around 1450, Johannes Gutenberg developed a printing press with movable metal type.",
+      "japanese": "1450年頃、ヨハネス・グーテンベルクは金属活字を使った印刷機を開発しました。",
+      "additionalInfoEn": "Each letter was a separate piece of metal that could be rearranged and reused.",
+      "additionalInfoJa": "1文字ずつが別々の金属の部品で、並べ替えて何度も使うことができました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "developed",
+          "pos": "動詞",
+          "meaningJa": "開発した"
+        },
+        {
+          "word": "movable",
+          "pos": "形容詞",
+          "meaningJa": "動かせる"
+        },
+        {
+          "word": "type",
+          "pos": "名詞",
+          "meaningJa": "活字"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "movable type",
+        "ja": "活字"
+      },
+      "explanationJa": "「type」は「型・種類」の意味が有名ですが、印刷の分野では「活字」を指します。"
+    },
+    {
+      "id": "sent-gutenberg-printing-press-3",
+      "english": "Similar ideas had already appeared earlier in China and Korea.",
+      "japanese": "似たアイデアは、それ以前に中国や朝鮮ですでに生まれていました。",
+      "additionalInfoEn": "Gutenberg's method suited European alphabets, which use only a few dozen letters.",
+      "additionalInfoJa": "グーテンベルクの方式は、数十文字しか使わないヨーロッパのアルファベットに合っていました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Similar",
+          "pos": "形容詞",
+          "meaningJa": "似た"
+        },
+        {
+          "word": "already",
+          "pos": "副詞",
+          "meaningJa": "すでに"
+        },
+        {
+          "word": "appeared",
+          "pos": "動詞",
+          "meaningJa": "現れた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "had already appeared",
+        "ja": "すでに登場していた"
+      },
+      "explanationJa": "「had + 過去分詞」は過去完了形。過去のある時点よりさらに前の出来事を表します。"
+    },
+    {
+      "id": "sent-gutenberg-printing-press-4",
+      "english": "His famous Bible, printed around 1455, showed how fast and accurate printing could be.",
+      "japanese": "1455年頃に印刷された彼の有名な聖書は、印刷がいかに速く正確かを示しました。",
+      "additionalInfoEn": "About 180 copies were made, and fewer than 50 survive today.",
+      "additionalInfoJa": "約180部が作られ、現在残っているのは50部足らずです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Bible",
+          "pos": "名詞",
+          "meaningJa": "聖書"
+        },
+        {
+          "word": "accurate",
+          "pos": "形容詞",
+          "meaningJa": "正確な"
+        },
+        {
+          "word": "printing",
+          "pos": "名詞",
+          "meaningJa": "印刷"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "showed how fast",
+        "ja": "どれほど速いかを示した"
+      },
+      "explanationJa": "「how + 形容詞 + 主語 + 動詞」で「どれほど〜か」。文の中に疑問の形を組み込めます。"
+    },
+    {
+      "id": "sent-gutenberg-printing-press-5",
+      "english": "Within 50 years, printers across Europe had produced millions of books.",
+      "japanese": "50年のうちに、ヨーロッパ中の印刷業者が何百万冊もの本を生み出していました。",
+      "additionalInfoEn": "Cheaper books helped spread new ideas in science, religion, and education.",
+      "additionalInfoJa": "安くなった本は、科学や宗教、教育の新しい考えを広めるのに役立ちました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Within",
+          "pos": "前置詞",
+          "meaningJa": "〜以内に"
+        },
+        {
+          "word": "produced",
+          "pos": "動詞",
+          "meaningJa": "生産した"
+        },
+        {
+          "word": "millions",
+          "pos": "名詞",
+          "meaningJa": "何百万"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "millions of",
+        "ja": "何百万もの"
+      },
+      "explanationJa": "「Within + 期間」は「〜以内に」。「in」よりも「その期間を超えずに」という感じが強くなります。"
+    }
+  ]
+}

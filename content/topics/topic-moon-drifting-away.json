@@ -1,0 +1,167 @@
+{
+  "id": "topic-moon-drifting-away",
+  "categoryId": "space-science",
+  "titleEn": "The Moon Is Slowly Moving Away",
+  "titleJa": "月が少しずつ地球から離れている理由",
+  "subtitleJa": "毎年わずかに遠ざかる月と、地球の1日の不思議な関係。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-04",
+  "sentences": [
+    {
+      "id": "sent-moon-drifting-away-1",
+      "english": "The Moon moves a little farther away from Earth every year.",
+      "japanese": "月は毎年、地球から少しずつ遠ざかっています。",
+      "additionalInfoEn": "It moves away by about 3.8 centimeters each year.",
+      "additionalInfoJa": "その距離は1年でおよそ3.8センチメートルです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Moon",
+          "pos": "名詞",
+          "meaningJa": "月"
+        },
+        {
+          "word": "farther",
+          "pos": "副詞",
+          "meaningJa": "より遠くへ"
+        },
+        {
+          "word": "every",
+          "pos": "形容詞",
+          "meaningJa": "毎〜、すべての"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "every year",
+        "ja": "毎年"
+      },
+      "explanationJa": "「a little + 比較級」で「少しだけ〜」という意味です。「farther」は「far（遠く）」の比較級です。"
+    },
+    {
+      "id": "sent-moon-drifting-away-2",
+      "english": "That is about as fast as your fingernails grow.",
+      "japanese": "これは、あなたの爪が伸びるのとほぼ同じ速さです。",
+      "additionalInfoEn": "It is too slow for us to notice in our lifetime.",
+      "additionalInfoJa": "私たちが一生のうちに気づくには、遅すぎる変化です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "fast",
+          "pos": "副詞",
+          "meaningJa": "速く"
+        },
+        {
+          "word": "fingernails",
+          "pos": "名詞",
+          "meaningJa": "手の爪"
+        },
+        {
+          "word": "grow",
+          "pos": "動詞",
+          "meaningJa": "伸びる、成長する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "about as fast as",
+        "ja": "〜とほぼ同じ速さで"
+      },
+      "explanationJa": "「as + 形容詞・副詞 + as」は「〜と同じくらい」という比較の基本形です。「about」で「ほぼ」とやわらげています。"
+    },
+    {
+      "id": "sent-moon-drifting-away-3",
+      "english": "Scientists measure this by shooting lasers at mirrors on the Moon.",
+      "japanese": "科学者たちは月面の鏡にレーザーを当てて、この距離を測っています。",
+      "additionalInfoEn": "Astronauts left these mirrors on the Moon around 1970.",
+      "additionalInfoJa": "これらの鏡は、1970年ごろに宇宙飛行士が月に置いてきたものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Scientists",
+          "pos": "名詞",
+          "meaningJa": "科学者たち"
+        },
+        {
+          "word": "measure",
+          "pos": "動詞",
+          "meaningJa": "測る"
+        },
+        {
+          "word": "mirrors",
+          "pos": "名詞",
+          "meaningJa": "鏡"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "measure this by",
+        "ja": "これを〜によって測る"
+      },
+      "explanationJa": "「by + 動詞ing」で「〜することによって」と方法を表せます。手段を説明するときに便利な形です。"
+    },
+    {
+      "id": "sent-moon-drifting-away-4",
+      "english": "The pull of ocean tides slowly pushes the Moon away.",
+      "japanese": "海の潮の満ち引きによる力が、月をゆっくりと押しやっています。",
+      "additionalInfoEn": "Tides also slow down Earth's spin a tiny bit.",
+      "additionalInfoJa": "潮の満ち引きは、地球の自転もほんの少しずつ遅くしています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pull",
+          "pos": "名詞",
+          "meaningJa": "引く力"
+        },
+        {
+          "word": "tides",
+          "pos": "名詞",
+          "meaningJa": "潮の満ち引き"
+        },
+        {
+          "word": "pushes",
+          "pos": "動詞",
+          "meaningJa": "押す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pushes the Moon away",
+        "ja": "月を押しやる"
+      },
+      "explanationJa": "「push A away」で「Aを押しのける」という意味です。「away」が「離れて」というイメージを加えます。"
+    },
+    {
+      "id": "sent-moon-drifting-away-5",
+      "english": "Long ago, the Moon looked much bigger in the sky.",
+      "japanese": "ずっと昔、空に浮かぶ月は今よりずっと大きく見えていました。",
+      "additionalInfoEn": "Billions of years ago, the Moon was much closer to Earth.",
+      "additionalInfoJa": "何十億年も前、月は地球にもっとずっと近い場所にありました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Long ago",
+          "pos": "副詞句",
+          "meaningJa": "ずっと昔に"
+        },
+        {
+          "word": "looked",
+          "pos": "動詞",
+          "meaningJa": "〜に見えた"
+        },
+        {
+          "word": "bigger",
+          "pos": "形容詞",
+          "meaningJa": "より大きい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "looked much bigger",
+        "ja": "ずっと大きく見えた"
+      },
+      "explanationJa": "「look + 形容詞」で「〜に見える」という意味です。「much」は比較級を強めて「ずっと」を表します。"
+    }
+  ]
+}

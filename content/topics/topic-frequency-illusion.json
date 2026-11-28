@@ -1,0 +1,167 @@
+{
+  "id": "topic-frequency-illusion",
+  "categoryId": "human-psychology",
+  "titleEn": "Why New Things Suddenly Seem Everywhere",
+  "titleJa": "気になり始めたものが急にあちこちで見える理由",
+  "subtitleJa": "「頻度の錯覚」が生む、ちょっとした思い込み。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-13",
+  "sentences": [
+    {
+      "id": "sent-frequency-illusion-1",
+      "english": "After you learn a new word, you suddenly seem to see it everywhere.",
+      "japanese": "新しい単語を覚えると、急にあちこちでその言葉を見かけるような気がします。",
+      "additionalInfoEn": "The same happens after you buy a new car or a new pair of shoes.",
+      "additionalInfoJa": "新しい車や靴を買ったあとにも、同じことが起こります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "learn",
+          "pos": "動詞",
+          "meaningJa": "学ぶ、覚える"
+        },
+        {
+          "word": "suddenly",
+          "pos": "副詞",
+          "meaningJa": "急に"
+        },
+        {
+          "word": "everywhere",
+          "pos": "副詞",
+          "meaningJa": "どこにでも"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "seem to see",
+        "ja": "見るような気がする"
+      },
+      "explanationJa": "「seem to + 動詞」は「〜するように思える」。自分の感覚を控えめに伝えられます。"
+    },
+    {
+      "id": "sent-frequency-illusion-2",
+      "english": "Of course, the word didn't actually become more common overnight.",
+      "japanese": "もちろん、その言葉が一晩で実際に増えたわけではありません。",
+      "additionalInfoEn": "It was probably around you all along.",
+      "additionalInfoJa": "おそらく、ずっと前からあなたの周りにあったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "actually",
+          "pos": "副詞",
+          "meaningJa": "実際に"
+        },
+        {
+          "word": "common",
+          "pos": "形容詞",
+          "meaningJa": "よくある"
+        },
+        {
+          "word": "overnight",
+          "pos": "副詞",
+          "meaningJa": "一晩で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Of course",
+        "ja": "もちろん"
+      },
+      "explanationJa": "「overnight」は「一晩で」から転じて「急に、あっという間に」という意味でも使われます。"
+    },
+    {
+      "id": "sent-frequency-illusion-3",
+      "english": "In 2005, linguist Arnold Zwicky named this the frequency illusion.",
+      "japanese": "2005年、言語学者のアーノルド・ズウィッキーはこれを「頻度の錯覚」と名付けました。",
+      "additionalInfoEn": "Many people also know it as the Baader-Meinhof phenomenon.",
+      "additionalInfoJa": "「バーダー・マインホフ現象」という名前で知っている人も多くいます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "linguist",
+          "pos": "名詞",
+          "meaningJa": "言語学者"
+        },
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "名付けた"
+        },
+        {
+          "word": "illusion",
+          "pos": "名詞",
+          "meaningJa": "錯覚"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "name A B",
+        "ja": "AをBと名付ける"
+      },
+      "explanationJa": "「name + A + B」で「AをBと名付ける」。call A Bと同じ形の文です。"
+    },
+    {
+      "id": "sent-frequency-illusion-4",
+      "english": "Your brain starts paying extra attention to the thing you just noticed.",
+      "japanese": "脳は、気づいたばかりのものに特別な注意を払い始めるのです。",
+      "additionalInfoEn": "Psychologists call this selective attention.",
+      "additionalInfoJa": "心理学者はこれを「選択的注意」と呼びます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "extra",
+          "pos": "形容詞",
+          "meaningJa": "余分の、特別な"
+        },
+        {
+          "word": "attention",
+          "pos": "名詞",
+          "meaningJa": "注意"
+        },
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pay attention to",
+        "ja": "〜に注意を払う"
+      },
+      "explanationJa": "「pay attention to 〜」は「〜に注意を払う」。payは「払う」で、お金以外にも使えます。"
+    },
+    {
+      "id": "sent-frequency-illusion-5",
+      "english": "Then each new sighting feels like proof that it's really increasing.",
+      "japanese": "そして、見かけるたびに「本当に増えている」という証拠のように感じてしまいます。",
+      "additionalInfoEn": "Our minds love patterns, even ones that aren't really there.",
+      "additionalInfoJa": "私たちの心は、実際には存在しないパターンでさえ好んで見つけ出すのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "sighting",
+          "pos": "名詞",
+          "meaningJa": "目撃、見かけること"
+        },
+        {
+          "word": "proof",
+          "pos": "名詞",
+          "meaningJa": "証拠"
+        },
+        {
+          "word": "increasing",
+          "pos": "動詞",
+          "meaningJa": "増えている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "feel like proof",
+        "ja": "証拠のように感じる"
+      },
+      "explanationJa": "「proof that 〜」は「〜という証拠」。thatの後ろで証拠の中身を説明しています。"
+    }
+  ]
+}

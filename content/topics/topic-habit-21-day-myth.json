@@ -1,0 +1,167 @@
+{
+  "id": "topic-habit-21-day-myth",
+  "categoryId": "human-psychology",
+  "titleEn": "How Long It Really Takes to Form a Habit",
+  "titleJa": "習慣が身につくまでの本当の日数",
+  "subtitleJa": "「21日で習慣になる」は本当なのか。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-05",
+  "sentences": [
+    {
+      "id": "sent-habit-21-day-myth-1",
+      "english": "You may have heard that a new habit takes twenty-one days.",
+      "japanese": "新しい習慣は21日で身につく、と聞いたことがあるかもしれません。",
+      "additionalInfoEn": "This number appears in many self-help books and websites.",
+      "additionalInfoJa": "この数字は、多くの自己啓発本やウェブサイトに登場します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "heard",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "聞いた"
+        },
+        {
+          "word": "habit",
+          "pos": "名詞",
+          "meaningJa": "習慣"
+        },
+        {
+          "word": "takes",
+          "pos": "動詞",
+          "meaningJa": "（時間が）かかる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "may have heard",
+        "ja": "聞いたことがあるかもしれない"
+      },
+      "explanationJa": "「may have + 過去分詞」は「〜したかもしれない」。過去についての推測を表します。"
+    },
+    {
+      "id": "sent-habit-21-day-myth-2",
+      "english": "The idea likely came from a 1960 book by a plastic surgeon.",
+      "japanese": "この考えは、ある形成外科医が1960年に書いた本から来たと言われています。",
+      "additionalInfoEn": "He noticed patients needed at least about three weeks to adjust to changes.",
+      "additionalInfoJa": "彼は、患者が変化に慣れるのに最低でも3週間ほどかかることに気づいたのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "likely",
+          "pos": "副詞",
+          "meaningJa": "おそらく"
+        },
+        {
+          "word": "book",
+          "pos": "名詞",
+          "meaningJa": "本"
+        },
+        {
+          "word": "surgeon",
+          "pos": "名詞",
+          "meaningJa": "外科医"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "came from",
+        "ja": "〜に由来した"
+      },
+      "explanationJa": "「likely」は副詞で「おそらく」。確実ではないけれど可能性が高いことを示します。"
+    },
+    {
+      "id": "sent-habit-21-day-myth-3",
+      "english": "However, one well-known study found it took about sixty-six days on average.",
+      "japanese": "しかし、ある有名な研究では、平均でおよそ66日かかることがわかりました。",
+      "additionalInfoEn": "People tried daily habits like eating fruit or drinking water.",
+      "additionalInfoJa": "参加者は、果物を食べる、水を飲むといった毎日の習慣に挑戦しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "However",
+          "pos": "副詞",
+          "meaningJa": "しかし"
+        },
+        {
+          "word": "study",
+          "pos": "名詞",
+          "meaningJa": "研究"
+        },
+        {
+          "word": "average",
+          "pos": "名詞",
+          "meaningJa": "平均"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on average",
+        "ja": "平均して"
+      },
+      "explanationJa": "「on average」は「平均して」。数字やデータを伝えるときによく使う表現です。"
+    },
+    {
+      "id": "sent-habit-21-day-myth-4",
+      "english": "The time varied hugely, from eighteen days to more than two hundred.",
+      "japanese": "かかる期間は人によって大きく異なり、18日から200日以上までありました。",
+      "additionalInfoEn": "Harder habits, like daily exercise, usually took longer.",
+      "additionalInfoJa": "毎日の運動など、難しい習慣ほど時間がかかる傾向がありました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "varied",
+          "pos": "動詞",
+          "meaningJa": "異なった、ばらついた"
+        },
+        {
+          "word": "hugely",
+          "pos": "副詞",
+          "meaningJa": "大いに"
+        },
+        {
+          "word": "hundred",
+          "pos": "名詞",
+          "meaningJa": "百"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from A to B",
+        "ja": "AからBまで"
+      },
+      "explanationJa": "「from A to B」は「AからBまで」。範囲の広さを伝えるときに便利です。"
+    },
+    {
+      "id": "sent-habit-21-day-myth-5",
+      "english": "The good news is that missing one day didn't ruin the habit.",
+      "japanese": "うれしいことに、1日休んでも習慣づくりが台無しになることはありませんでした。",
+      "additionalInfoEn": "Steady effort mattered more than a perfect record.",
+      "additionalInfoJa": "完璧な記録よりも、こつこつ続けることのほうが大切だったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "news",
+          "pos": "名詞",
+          "meaningJa": "知らせ"
+        },
+        {
+          "word": "missing",
+          "pos": "動詞",
+          "meaningJa": "抜かすこと"
+        },
+        {
+          "word": "ruin",
+          "pos": "動詞",
+          "meaningJa": "台無しにする"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "The good news is that",
+        "ja": "うれしいことに〜"
+      },
+      "explanationJa": "「The good news is that 〜」は「良い知らせは〜」。前向きな話を切り出すときに使えます。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-saturn-could-float",
+  "categoryId": "space-science",
+  "titleEn": "Saturn Could Float in Water",
+  "titleJa": "土星が水に浮かぶと言われる理由",
+  "subtitleJa": "巨大な惑星なのに、実はとても「軽い」土星の秘密。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-24",
+  "sentences": [
+    {
+      "id": "sent-saturn-could-float-1",
+      "english": "Saturn is the second largest planet in our solar system.",
+      "japanese": "土星は、太陽系で2番目に大きな惑星です。",
+      "additionalInfoEn": "About 760 Earths could fit inside Saturn.",
+      "additionalInfoJa": "土星の中には、地球がおよそ760個も入る大きさがあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Saturn",
+          "pos": "名詞",
+          "meaningJa": "土星"
+        },
+        {
+          "word": "planet",
+          "pos": "名詞",
+          "meaningJa": "惑星"
+        },
+        {
+          "word": "solar system",
+          "pos": "名詞句",
+          "meaningJa": "太陽系"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the second largest",
+        "ja": "2番目に大きい"
+      },
+      "explanationJa": "「the + 序数 + 最上級」で「〇番目に〜な」と表せます。「the third tallest」なら「3番目に高い」です。"
+    },
+    {
+      "id": "sent-saturn-could-float-2",
+      "english": "However, it is mostly made of light gases like hydrogen.",
+      "japanese": "しかし、土星はおもに水素のような軽い気体でできています。",
+      "additionalInfoEn": "Saturn has no solid ground that you could stand on.",
+      "additionalInfoJa": "土星には、人が立てるようなかたい地面はありません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "mostly",
+          "pos": "副詞",
+          "meaningJa": "おもに、大部分は"
+        },
+        {
+          "word": "gases",
+          "pos": "名詞",
+          "meaningJa": "気体（gasの複数形）"
+        },
+        {
+          "word": "hydrogen",
+          "pos": "名詞",
+          "meaningJa": "水素"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is mostly made of",
+        "ja": "おもに〜でできている"
+      },
+      "explanationJa": "「be made of 〜」で「〜（材料）でできている」という意味です。「like 〜」は「〜のような」と例を挙げます。"
+    },
+    {
+      "id": "sent-saturn-could-float-3",
+      "english": "On average, Saturn is less dense than water.",
+      "japanese": "平均すると、土星は水よりも密度が低いのです。",
+      "additionalInfoEn": "Density tells us how much matter is packed into a space.",
+      "additionalInfoJa": "密度とは、ある空間にどれだけの物質が詰まっているかを表すものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "average",
+          "pos": "名詞",
+          "meaningJa": "平均"
+        },
+        {
+          "word": "dense",
+          "pos": "形容詞",
+          "meaningJa": "密度が高い"
+        },
+        {
+          "word": "water",
+          "pos": "名詞",
+          "meaningJa": "水"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "on average",
+        "ja": "平均して"
+      },
+      "explanationJa": "「less + 形容詞 + than」で「〜ほど…ではない」という意味です。「more 〜 than」の反対の形です。"
+    },
+    {
+      "id": "sent-saturn-could-float-4",
+      "english": "In theory, it would float in a giant bathtub.",
+      "japanese": "理論上は、巨大なお風呂があれば土星はぷかぷか浮かぶでしょう。",
+      "additionalInfoEn": "Of course, no bathtub in the universe is big enough for that.",
+      "additionalInfoJa": "もちろん、宇宙のどこにもそれほど大きなお風呂はありません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "theory",
+          "pos": "名詞",
+          "meaningJa": "理論"
+        },
+        {
+          "word": "float",
+          "pos": "動詞",
+          "meaningJa": "浮かぶ"
+        },
+        {
+          "word": "giant",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in theory",
+        "ja": "理論上は"
+      },
+      "explanationJa": "「would」は「（もし〜なら）〜するだろう」という仮定の話を表します。現実にはない状況を想像する表現です。"
+    },
+    {
+      "id": "sent-saturn-could-float-5",
+      "english": "Its famous rings are made mostly of ice and rock.",
+      "japanese": "土星の有名な輪は、おもに氷と岩でできています。",
+      "additionalInfoEn": "The pieces range from tiny grains to chunks as big as houses.",
+      "additionalInfoJa": "その破片は、小さな粒から家ほどの大きさのかたまりまでさまざまです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "famous",
+          "pos": "形容詞",
+          "meaningJa": "有名な"
+        },
+        {
+          "word": "rings",
+          "pos": "名詞",
+          "meaningJa": "輪"
+        },
+        {
+          "word": "ice",
+          "pos": "名詞",
+          "meaningJa": "氷"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made mostly of",
+        "ja": "おもに〜でできている"
+      },
+      "explanationJa": "「mostly」を「made」と「of」の間に入れて「おもに」と意味を加えています。語順に注目しましょう。"
+    }
+  ]
+}

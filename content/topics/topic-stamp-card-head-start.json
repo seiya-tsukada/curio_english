@@ -1,0 +1,167 @@
+{
+  "id": "topic-stamp-card-head-start",
+  "categoryId": "business-economy",
+  "titleEn": "The Stamp Card Head Start",
+  "titleJa": "最初から2つ押してあるスタンプカードの秘密",
+  "subtitleJa": "ゴールが近く見えると、人は続けたくなる。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-19",
+  "sentences": [
+    {
+      "id": "sent-stamp-card-head-start-1",
+      "english": "Many shops give you a stamp card with a free gift at the end.",
+      "japanese": "多くのお店が、最後に無料の特典がもらえるスタンプカードをくれます。",
+      "additionalInfoEn": "Each time you buy something, you get one more stamp.",
+      "additionalInfoJa": "何かを買うたびに、スタンプが1つ増えます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "stamp",
+          "pos": "名詞",
+          "meaningJa": "スタンプ"
+        },
+        {
+          "word": "free",
+          "pos": "形容詞",
+          "meaningJa": "無料の"
+        },
+        {
+          "word": "gift",
+          "pos": "名詞",
+          "meaningJa": "プレゼント、特典"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at the end",
+        "ja": "最後に"
+      },
+      "explanationJa": "「give + 人 + 物」で「人に物をあげる」という形です。「with」は「〜付きの」を表します。"
+    },
+    {
+      "id": "sent-stamp-card-head-start-2",
+      "english": "Researchers once tested two kinds of cards at a car wash.",
+      "japanese": "研究者たちはかつて、洗車場で2種類のカードを試しました。",
+      "additionalInfoEn": "The results were published in 2006 in the United States.",
+      "additionalInfoJa": "その結果は、2006年にアメリカで発表されました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Researchers",
+          "pos": "名詞",
+          "meaningJa": "研究者"
+        },
+        {
+          "word": "tested",
+          "pos": "動詞",
+          "meaningJa": "試した"
+        },
+        {
+          "word": "kinds",
+          "pos": "名詞",
+          "meaningJa": "種類"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "car wash",
+        "ja": "洗車場"
+      },
+      "explanationJa": "「two kinds of 〜」で「2種類の〜」です。「once」は「かつて、以前」という意味です。"
+    },
+    {
+      "id": "sent-stamp-card-head-start-3",
+      "english": "One card needed eight stamps, and it started empty.",
+      "japanese": "1つ目のカードはスタンプが8個必要で、最初は空っぽでした。",
+      "additionalInfoEn": "Customers had to collect all eight stamps by themselves.",
+      "additionalInfoJa": "お客さんは、8個すべてのスタンプを自分で集める必要がありました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "needed",
+          "pos": "動詞",
+          "meaningJa": "必要とした"
+        },
+        {
+          "word": "eight",
+          "pos": "数詞",
+          "meaningJa": "8"
+        },
+        {
+          "word": "empty",
+          "pos": "形容詞",
+          "meaningJa": "空の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "started empty",
+        "ja": "最初は空だった"
+      },
+      "explanationJa": "「start + 形容詞」で「〜の状態で始まる」という意味です。「needed」は「need」の過去形です。"
+    },
+    {
+      "id": "sent-stamp-card-head-start-4",
+      "english": "The other needed ten stamps, but two were already stamped.",
+      "japanese": "もう一方は10個必要でしたが、すでに2個押してありました。",
+      "additionalInfoEn": "So both cards really needed eight more stamps.",
+      "additionalInfoJa": "つまり、どちらのカードも実際にはあと8個のスタンプが必要でした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "other",
+          "pos": "代名詞",
+          "meaningJa": "もう一方"
+        },
+        {
+          "word": "already",
+          "pos": "副詞",
+          "meaningJa": "すでに"
+        },
+        {
+          "word": "stamped",
+          "pos": "動詞",
+          "meaningJa": "押された"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "The other",
+        "ja": "（2つのうち）もう一方"
+      },
+      "explanationJa": "2つのものを説明するときは「One 〜, the other …」で「一方は〜、もう一方は…」と言います。"
+    },
+    {
+      "id": "sent-stamp-card-head-start-5",
+      "english": "Far more people finished the card that had a head start.",
+      "japanese": "最初からスタンプが押されていたカードのほうが、完成させた人がずっと多かったのです。",
+      "additionalInfoEn": "Feeling that you have already started makes the goal seem closer.",
+      "additionalInfoJa": "すでに始めていると感じると、ゴールが近くに見えるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Far",
+          "pos": "副詞",
+          "meaningJa": "はるかに"
+        },
+        {
+          "word": "finished",
+          "pos": "動詞",
+          "meaningJa": "終えた、完成させた"
+        },
+        {
+          "word": "start",
+          "pos": "名詞",
+          "meaningJa": "スタート"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a head start",
+        "ja": "有利なスタート、先行"
+      },
+      "explanationJa": "「far more」で「はるかに多くの」と強調します。「head start」は競走で先にリードしていることです。"
+    }
+  ]
+}

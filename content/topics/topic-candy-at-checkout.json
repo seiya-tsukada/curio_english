@@ -1,0 +1,167 @@
+{
+  "id": "topic-candy-at-checkout",
+  "categoryId": "business-economy",
+  "titleEn": "Why Candy Waits by the Register",
+  "titleJa": "レジの横にお菓子が並んでいる理由",
+  "subtitleJa": "待ち時間は、お店にとって大切な売り場。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-19",
+  "sentences": [
+    {
+      "id": "sent-candy-at-checkout-1",
+      "english": "Have you noticed candy and gum right next to the register?",
+      "japanese": "レジのすぐ横にお菓子やガムがあることに気づいたことはありますか？",
+      "additionalInfoEn": "This small area is often called the checkout zone.",
+      "additionalInfoJa": "この小さなエリアは「チェックアウトゾーン」と呼ばれることがあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        },
+        {
+          "word": "candy",
+          "pos": "名詞",
+          "meaningJa": "お菓子、キャンディ"
+        },
+        {
+          "word": "register",
+          "pos": "名詞",
+          "meaningJa": "レジ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "right next to",
+        "ja": "〜のすぐ隣に"
+      },
+      "explanationJa": "「Have you + 過去分詞?」で「〜したことはありますか」と経験をたずねられます。"
+    },
+    {
+      "id": "sent-candy-at-checkout-2",
+      "english": "While people wait in line, they have nothing to do.",
+      "japanese": "列に並んで待っている間、人々にはすることが何もありません。",
+      "additionalInfoEn": "Waiting makes people bored, so their eyes look around.",
+      "additionalInfoJa": "待っていると退屈になるので、つい周りを見回してしまいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "wait",
+          "pos": "動詞",
+          "meaningJa": "待つ"
+        },
+        {
+          "word": "line",
+          "pos": "名詞",
+          "meaningJa": "列"
+        },
+        {
+          "word": "nothing",
+          "pos": "代名詞",
+          "meaningJa": "何も〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "wait in line",
+        "ja": "列に並んで待つ"
+      },
+      "explanationJa": "「While + 主語 + 動詞」で「〜している間」という意味です。「nothing to do」は「することが何もない」です。"
+    },
+    {
+      "id": "sent-candy-at-checkout-3",
+      "english": "Small, cheap snacks are easy to grab without much thinking.",
+      "japanese": "小さくて安いお菓子は、あまり考えずにさっと手に取りやすいものです。",
+      "additionalInfoEn": "Buying something you did not plan to buy is called an impulse buy.",
+      "additionalInfoJa": "買う予定のなかったものを買うことを「衝動買い」と言います。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cheap",
+          "pos": "形容詞",
+          "meaningJa": "安い"
+        },
+        {
+          "word": "grab",
+          "pos": "動詞",
+          "meaningJa": "さっとつかむ"
+        },
+        {
+          "word": "without",
+          "pos": "前置詞",
+          "meaningJa": "〜なしで"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "easy to grab",
+        "ja": "手に取りやすい"
+      },
+      "explanationJa": "「easy to + 動詞」で「〜しやすい」と表せます。「without much thinking」は「あまり考えずに」です。"
+    },
+    {
+      "id": "sent-candy-at-checkout-4",
+      "english": "Many items are placed low, right at a child's eye level.",
+      "japanese": "多くの商品は、ちょうど子どもの目の高さに来るよう低い位置に置かれています。",
+      "additionalInfoEn": "Children see the sweets first and often ask their parents for them.",
+      "additionalInfoJa": "子どもが先にお菓子を見つけて、親にねだることがよくあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "items",
+          "pos": "名詞",
+          "meaningJa": "商品"
+        },
+        {
+          "word": "low",
+          "pos": "副詞",
+          "meaningJa": "低く"
+        },
+        {
+          "word": "level",
+          "pos": "名詞",
+          "meaningJa": "高さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "eye level",
+        "ja": "目の高さ"
+      },
+      "explanationJa": "「child's」の「's」は「〜の」を表します。「eye level」で「目の高さ」という意味です。"
+    },
+    {
+      "id": "sent-candy-at-checkout-5",
+      "english": "Those last few minutes in line bring stores a lot of extra sales.",
+      "japanese": "列での最後の数分間が、お店にたくさんの追加の売り上げをもたらします。",
+      "additionalInfoEn": "Some places now have rules about selling sweets at the checkout.",
+      "additionalInfoJa": "最近では、レジ前でのお菓子の販売にルールを設けている地域もあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "minutes",
+          "pos": "名詞",
+          "meaningJa": "分"
+        },
+        {
+          "word": "extra",
+          "pos": "形容詞",
+          "meaningJa": "追加の、余分の"
+        },
+        {
+          "word": "sales",
+          "pos": "名詞",
+          "meaningJa": "売り上げ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a lot of",
+        "ja": "たくさんの"
+      },
+      "explanationJa": "「bring + 人 + 物」で「人に物をもたらす」という形です。give と同じ語順で使えます。"
+    }
+  ]
+}

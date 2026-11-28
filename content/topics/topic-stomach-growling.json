@@ -1,0 +1,167 @@
+{
+  "id": "topic-stomach-growling",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Your Stomach Growls",
+  "titleJa": "お腹が「グー」と鳴る理由",
+  "subtitleJa": "空腹のときだけ鳴るわけではない、お腹の音の秘密。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-05",
+  "sentences": [
+    {
+      "id": "sent-stomach-growling-1",
+      "english": "Your stomach can make loud noises, especially when you are hungry.",
+      "japanese": "お腹は、特にお腹がすいているときに大きな音を立てることがあります。",
+      "additionalInfoEn": "In English, we say that your stomach is growling.",
+      "additionalInfoJa": "英語では、お腹が「growl（うなる）」と表現します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "stomach",
+          "pos": "名詞",
+          "meaningJa": "お腹、胃"
+        },
+        {
+          "word": "noises",
+          "pos": "名詞",
+          "meaningJa": "音"
+        },
+        {
+          "word": "especially",
+          "pos": "副詞",
+          "meaningJa": "特に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make loud noises",
+        "ja": "大きな音を立てる"
+      },
+      "explanationJa": "「especially when 〜」は「特に〜のときに」。条件を強調したいときに便利です。"
+    },
+    {
+      "id": "sent-stomach-growling-2",
+      "english": "The sound comes from muscles pushing food, liquid, and gas through your gut.",
+      "japanese": "この音は、筋肉が食べ物や液体、ガスを消化管の中で押し進めるときに生まれます。",
+      "additionalInfoEn": "Your stomach and intestines are always moving things forward.",
+      "additionalInfoJa": "胃や腸は、いつも中のものを先へ先へと送っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "muscles",
+          "pos": "名詞",
+          "meaningJa": "筋肉"
+        },
+        {
+          "word": "pushing",
+          "pos": "動詞",
+          "meaningJa": "押すこと"
+        },
+        {
+          "word": "gut",
+          "pos": "名詞",
+          "meaningJa": "腸、消化管"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜から生じる"
+      },
+      "explanationJa": "「come from 〜」は出身だけでなく、「〜から生じる」という原因を表すのにも使えます。"
+    },
+    {
+      "id": "sent-stomach-growling-3",
+      "english": "When your stomach is empty, there is nothing to soften the sound.",
+      "japanese": "お腹が空っぽだと、音をやわらげるものが何もありません。",
+      "additionalInfoEn": "That is why the noise seems louder before meals.",
+      "additionalInfoJa": "だから食事の前は、音がより大きく聞こえるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "empty",
+          "pos": "形容詞",
+          "meaningJa": "空の"
+        },
+        {
+          "word": "nothing",
+          "pos": "代名詞",
+          "meaningJa": "何も〜ない"
+        },
+        {
+          "word": "soften",
+          "pos": "動詞",
+          "meaningJa": "やわらげる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "there is nothing to",
+        "ja": "〜するものが何もない"
+      },
+      "explanationJa": "「nothing to + 動詞」は「〜するものが何もない」。to以下がnothingを説明しています。"
+    },
+    {
+      "id": "sent-stomach-growling-4",
+      "english": "About two hours after eating, your gut starts a cleaning wave.",
+      "japanese": "食後2時間ほどたつと、腸は「お掃除の波」を始めます。",
+      "additionalInfoEn": "This wave sweeps leftover food and gas further down.",
+      "additionalInfoJa": "この波が、残った食べ物やガスをさらに先へと押し流します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "hours",
+          "pos": "名詞",
+          "meaningJa": "時間"
+        },
+        {
+          "word": "eating",
+          "pos": "動詞",
+          "meaningJa": "食べること"
+        },
+        {
+          "word": "wave",
+          "pos": "名詞",
+          "meaningJa": "波"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "after eating",
+        "ja": "食べたあとに"
+      },
+      "explanationJa": "前置詞afterのあとに動詞が来るときは、eatingのようにing形にします。"
+    },
+    {
+      "id": "sent-stomach-growling-5",
+      "english": "So a growling stomach is normal, not just a sign of hunger.",
+      "japanese": "つまり、お腹が鳴るのは自然なことで、空腹のサインだけではないのです。",
+      "additionalInfoEn": "Doctors even have a long name for it: borborygmi.",
+      "additionalInfoJa": "医学の世界では「borborygmi（腹鳴）」という長い名前まであります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "normal",
+          "pos": "形容詞",
+          "meaningJa": "普通の、正常な"
+        },
+        {
+          "word": "sign",
+          "pos": "名詞",
+          "meaningJa": "しるし、サイン"
+        },
+        {
+          "word": "hunger",
+          "pos": "名詞",
+          "meaningJa": "空腹"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not just",
+        "ja": "〜だけではない"
+      },
+      "explanationJa": "「not just A」は「Aだけではない」。ほかにも理由や意味があることを伝えられます。"
+    }
+  ]
+}

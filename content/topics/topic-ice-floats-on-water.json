@@ -1,0 +1,167 @@
+{
+  "id": "topic-ice-floats-on-water",
+  "categoryId": "space-science",
+  "titleEn": "Why Ice Floats on Water",
+  "titleJa": "氷が水に浮かぶ不思議な理由",
+  "subtitleJa": "当たり前に見えて実は珍しい、水だけの特別な性質。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-07",
+  "sentences": [
+    {
+      "id": "sent-ice-floats-on-water-1",
+      "english": "Most things become heavier for their size when they freeze.",
+      "japanese": "ほとんどの物質は、凍ると同じ大きさでもより重くなります。",
+      "additionalInfoEn": "Solid metal or wax usually sinks in its own liquid.",
+      "additionalInfoJa": "固体の金属やろうは、ふつう自分の液体の中に沈みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "heavier",
+          "pos": "形容詞",
+          "meaningJa": "より重い"
+        },
+        {
+          "word": "freeze",
+          "pos": "動詞",
+          "meaningJa": "凍る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for their size",
+        "ja": "大きさの割に"
+      },
+      "explanationJa": "「for + 名詞」で「〜の割には」という意味になります。「She is tall for her age.」のように使えます。"
+    },
+    {
+      "id": "sent-ice-floats-on-water-2",
+      "english": "Water is unusual because it expands as it turns into ice.",
+      "japanese": "水は珍しい物質で、氷になるときに体積が増えます。",
+      "additionalInfoEn": "Water grows by about nine percent when it freezes.",
+      "additionalInfoJa": "水は凍るとき、体積がおよそ9パーセント大きくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "unusual",
+          "pos": "形容詞",
+          "meaningJa": "珍しい、普通でない"
+        },
+        {
+          "word": "expands",
+          "pos": "動詞",
+          "meaningJa": "膨張する、広がる"
+        },
+        {
+          "word": "turns into",
+          "pos": "動詞句",
+          "meaningJa": "〜に変わる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turn into",
+        "ja": "〜に変わる"
+      },
+      "explanationJa": "「turn into 〜」で「〜に変化する」という意味です。「as + 文」はここでは「〜するときに」を表します。"
+    },
+    {
+      "id": "sent-ice-floats-on-water-3",
+      "english": "This makes ice lighter than the same amount of liquid water.",
+      "japanese": "そのため氷は、同じ量の液体の水よりも軽くなります。",
+      "additionalInfoEn": "That is why ice cubes float at the top of your drink.",
+      "additionalInfoJa": "飲み物の中で氷が上に浮いているのは、そのためです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "lighter",
+          "pos": "形容詞",
+          "meaningJa": "より軽い"
+        },
+        {
+          "word": "amount",
+          "pos": "名詞",
+          "meaningJa": "量"
+        },
+        {
+          "word": "liquid",
+          "pos": "形容詞",
+          "meaningJa": "液体の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same amount of",
+        "ja": "同じ量の"
+      },
+      "explanationJa": "「make A + 形容詞」で「Aを〜にする」です。「the same amount of 〜」は「同じ量の〜」です。"
+    },
+    {
+      "id": "sent-ice-floats-on-water-4",
+      "english": "In winter, lakes freeze from the top down, not the bottom up.",
+      "japanese": "冬になると、湖は底からではなく、水面から下へと凍っていきます。",
+      "additionalInfoEn": "The layer of ice acts like a blanket over the water below.",
+      "additionalInfoJa": "氷の層は、下の水を覆う毛布のような働きをします。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "winter",
+          "pos": "名詞",
+          "meaningJa": "冬"
+        },
+        {
+          "word": "lakes",
+          "pos": "名詞",
+          "meaningJa": "湖（複数形）"
+        },
+        {
+          "word": "bottom",
+          "pos": "名詞",
+          "meaningJa": "底"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from the top down",
+        "ja": "上から下へ"
+      },
+      "explanationJa": "「A, not B」で「BではなくA」と対比を表せます。「from 〜 down / up」で方向を示します。"
+    },
+    {
+      "id": "sent-ice-floats-on-water-5",
+      "english": "Thanks to this, fish can survive the cold winter under the ice.",
+      "japanese": "このおかげで、魚は氷の下で寒い冬を生きのびることができます。",
+      "additionalInfoEn": "The water at the bottom of a frozen lake often stays around 4°C.",
+      "additionalInfoJa": "凍った湖の底の水は、多くの場合およそ4度に保たれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Thanks to",
+          "pos": "前置詞句",
+          "meaningJa": "〜のおかげで"
+        },
+        {
+          "word": "survive",
+          "pos": "動詞",
+          "meaningJa": "生き残る"
+        },
+        {
+          "word": "under",
+          "pos": "前置詞",
+          "meaningJa": "〜の下で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "thanks to this",
+        "ja": "このおかげで"
+      },
+      "explanationJa": "「Thanks to 〜」は「〜のおかげで」と良い結果の原因を表します。感謝の「Thanks」と同じ語です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-bananas-are-berries",
+  "categoryId": "space-science",
+  "titleEn": "Bananas Are Berries, Strawberries Are Not",
+  "titleJa": "バナナはベリーでイチゴはベリーではない理由",
+  "subtitleJa": "植物学の目で見ると、果物の分類は意外なことだらけ。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-04",
+  "sentences": [
+    {
+      "id": "sent-bananas-are-berries-1",
+      "english": "In science, a banana is actually a kind of berry.",
+      "japanese": "科学の世界では、バナナは実はベリーの一種です。",
+      "additionalInfoEn": "Botanists sort fruits by how they grow from a flower.",
+      "additionalInfoJa": "植物学者は、花からどのように育つかで果物を分類します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "science",
+          "pos": "名詞",
+          "meaningJa": "科学"
+        },
+        {
+          "word": "actually",
+          "pos": "副詞",
+          "meaningJa": "実は"
+        },
+        {
+          "word": "berry",
+          "pos": "名詞",
+          "meaningJa": "ベリー、液果"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a kind of",
+        "ja": "〜の一種"
+      },
+      "explanationJa": "「a kind of + 名詞」で「〜の一種」という意味です。「actually」は意外な事実を言うときによく使います。"
+    },
+    {
+      "id": "sent-bananas-are-berries-2",
+      "english": "A true berry grows from one flower and has seeds inside.",
+      "japanese": "本物のベリーは1つの花から育ち、中に種があります。",
+      "additionalInfoEn": "The whole fruit also comes from one part of that flower.",
+      "additionalInfoJa": "さらに、果実全体がその花の1つの部分からできています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "true",
+          "pos": "形容詞",
+          "meaningJa": "本物の"
+        },
+        {
+          "word": "flower",
+          "pos": "名詞",
+          "meaningJa": "花"
+        },
+        {
+          "word": "seeds",
+          "pos": "名詞",
+          "meaningJa": "種"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "has seeds inside",
+        "ja": "中に種がある"
+      },
+      "explanationJa": "「grow from 〜」で「〜から育つ」という意味です。「inside」はここでは「中に」という副詞です。"
+    },
+    {
+      "id": "sent-bananas-are-berries-3",
+      "english": "The tiny black dots in a banana are its seeds.",
+      "japanese": "バナナの中にある小さな黒い点は、その種です。",
+      "additionalInfoEn": "Wild bananas have large, hard seeds that are difficult to eat.",
+      "additionalInfoJa": "野生のバナナには、食べにくい大きくて硬い種があります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さい"
+        },
+        {
+          "word": "black",
+          "pos": "形容詞",
+          "meaningJa": "黒い"
+        },
+        {
+          "word": "dots",
+          "pos": "名詞",
+          "meaningJa": "点"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "tiny black dots",
+        "ja": "小さな黒い点"
+      },
+      "explanationJa": "形容詞を2つ並べるときは「大きさ → 色」の順が自然です。「tiny black dots」もその順番です。"
+    },
+    {
+      "id": "sent-bananas-are-berries-4",
+      "english": "Strawberries are not true berries because their seeds are outside.",
+      "japanese": "イチゴは種が外側にあるので、本物のベリーではありません。",
+      "additionalInfoEn": "Each little seed on a strawberry is actually a separate fruit.",
+      "additionalInfoJa": "イチゴの表面の小さな粒の1つ1つが、実はそれぞれ果実なのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Strawberries",
+          "pos": "名詞",
+          "meaningJa": "イチゴ（複数形）"
+        },
+        {
+          "word": "because",
+          "pos": "接続詞",
+          "meaningJa": "なぜなら"
+        },
+        {
+          "word": "outside",
+          "pos": "副詞",
+          "meaningJa": "外側に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not true berries",
+        "ja": "本物のベリーではない"
+      },
+      "explanationJa": "「because + 文」で理由を表します。「inside（内側）」と「outside（外側）」はセットで覚えましょう。"
+    },
+    {
+      "id": "sent-bananas-are-berries-5",
+      "english": "By the same rule, tomatoes and grapes are berries too.",
+      "japanese": "同じルールで考えると、トマトやブドウもベリーです。",
+      "additionalInfoEn": "Even eggplants and kiwis are berries in the world of science.",
+      "additionalInfoJa": "ナスやキウイでさえ、科学の世界ではベリーの仲間です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "rule",
+          "pos": "名詞",
+          "meaningJa": "ルール、規則"
+        },
+        {
+          "word": "tomatoes",
+          "pos": "名詞",
+          "meaningJa": "トマト（複数形）"
+        },
+        {
+          "word": "grapes",
+          "pos": "名詞",
+          "meaningJa": "ブドウ（複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "by the same rule",
+        "ja": "同じルールで"
+      },
+      "explanationJa": "文末の「too」は「〜もまた」という意味です。肯定文で使い、否定文では「either」を使います。"
+    }
+  ]
+}

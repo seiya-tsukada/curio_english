@@ -1,0 +1,167 @@
+{
+  "id": "topic-pencils-without-lead",
+  "categoryId": "history",
+  "titleEn": "Why Pencil Lead Has No Lead",
+  "titleJa": "鉛筆の芯に「鉛」は入っていない",
+  "subtitleJa": "イギリスの谷で見つかった黒い石から始まった物語。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-23",
+  "sentences": [
+    {
+      "id": "sent-pencils-without-lead-1",
+      "english": "In the 1500s, people in England found a strange black rock.",
+      "japanese": "1500年代、イギリスの人々は不思議な黒い石を見つけました。",
+      "additionalInfoEn": "It was found in Borrowdale, a valley in the north of England.",
+      "additionalInfoJa": "それはイングランド北部にあるボロウデールという谷で見つかりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "strange",
+          "pos": "形容詞",
+          "meaningJa": "不思議な、奇妙な"
+        },
+        {
+          "word": "black",
+          "pos": "形容詞",
+          "meaningJa": "黒い"
+        },
+        {
+          "word": "rock",
+          "pos": "名詞",
+          "meaningJa": "岩、石"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "In the 1500s",
+        "ja": "1500年代に"
+      },
+      "explanationJa": "「the 1500s」は「1500年代」。年代は「the + 数字 + s」の形で表します。"
+    },
+    {
+      "id": "sent-pencils-without-lead-2",
+      "english": "It left dark marks and was perfect for drawing lines.",
+      "japanese": "それは濃い跡を残し、線を引くのにぴったりでした。",
+      "additionalInfoEn": "Local shepherds are said to have used it to mark their sheep.",
+      "additionalInfoJa": "地元の羊飼いたちは、羊に印をつけるのに使ったと言われています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "marks",
+          "pos": "名詞",
+          "meaningJa": "跡、印"
+        },
+        {
+          "word": "perfect",
+          "pos": "形容詞",
+          "meaningJa": "完璧な、ぴったりの"
+        },
+        {
+          "word": "lines",
+          "pos": "名詞",
+          "meaningJa": "線"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "perfect for",
+        "ja": "〜にぴったりの"
+      },
+      "explanationJa": "「perfect for + 名詞/動詞ing」で「〜に最適だ」と言えます。日常でもよく使います。"
+    },
+    {
+      "id": "sent-pencils-without-lead-3",
+      "english": "People thought it was a kind of lead, a gray metal.",
+      "japanese": "人々はそれを、灰色の金属である鉛の一種だと思いました。",
+      "additionalInfoEn": "That is why we still say \"pencil lead\" in English today.",
+      "additionalInfoJa": "そのため、英語では今でも鉛筆の芯を「pencil lead（鉛）」と呼びます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "thought",
+          "pos": "動詞",
+          "meaningJa": "思った（thinkの過去形）"
+        },
+        {
+          "word": "kind",
+          "pos": "名詞",
+          "meaningJa": "種類"
+        },
+        {
+          "word": "metal",
+          "pos": "名詞",
+          "meaningJa": "金属"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a kind of",
+        "ja": "〜の一種"
+      },
+      "explanationJa": "「a kind of 〜」は「〜の一種」。「kind」には「親切な」以外の意味もあります。"
+    },
+    {
+      "id": "sent-pencils-without-lead-4",
+      "english": "In fact, it was graphite, a soft form of carbon.",
+      "japanese": "実はそれは、炭素の柔らかい形である黒鉛でした。",
+      "additionalInfoEn": "Graphite is made of the same element as diamonds, but it is very soft.",
+      "additionalInfoJa": "黒鉛はダイヤモンドと同じ元素からできていますが、とても柔らかいのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "graphite",
+          "pos": "名詞",
+          "meaningJa": "黒鉛、グラファイト"
+        },
+        {
+          "word": "soft",
+          "pos": "形容詞",
+          "meaningJa": "柔らかい"
+        },
+        {
+          "word": "carbon",
+          "pos": "名詞",
+          "meaningJa": "炭素"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "In fact",
+        "ja": "実は"
+      },
+      "explanationJa": "「In fact」は「実は・実際には」。前の内容を訂正したり、強調したりするときに使います。"
+    },
+    {
+      "id": "sent-pencils-without-lead-5",
+      "english": "So pencils have never had any lead inside them.",
+      "japanese": "つまり、鉛筆の中に鉛が入っていたことは一度もないのです。",
+      "additionalInfoEn": "Today, pencil cores are made by mixing graphite powder with clay.",
+      "additionalInfoJa": "現在の鉛筆の芯は、黒鉛の粉と粘土を混ぜて作られています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pencils",
+          "pos": "名詞",
+          "meaningJa": "鉛筆"
+        },
+        {
+          "word": "never",
+          "pos": "副詞",
+          "meaningJa": "一度も〜ない"
+        },
+        {
+          "word": "inside",
+          "pos": "前置詞",
+          "meaningJa": "〜の中に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "have never had",
+        "ja": "一度も持ったことがない"
+      },
+      "explanationJa": "「have never + 過去分詞」で「これまで一度も〜したことがない」という意味になります。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-maori-hongi-greeting",
+  "categoryId": "world-culture",
+  "titleEn": "The Hongi: A Greeting with Noses",
+  "titleJa": "鼻と鼻を合わせるマオリのあいさつ「ホンギ」",
+  "subtitleJa": "ニュージーランドで大切にされる、息を分かち合う歓迎。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-22",
+  "sentences": [
+    {
+      "id": "sent-maori-hongi-greeting-1",
+      "english": "In New Zealand, the Māori people have a special greeting called the hongi.",
+      "japanese": "ニュージーランドのマオリの人々には、「ホンギ」という特別なあいさつがあります。",
+      "additionalInfoEn": "The Māori are the Indigenous people of New Zealand.",
+      "additionalInfoJa": "マオリは、ニュージーランドの先住民族です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "greeting",
+          "pos": "名詞",
+          "meaningJa": "あいさつ"
+        },
+        {
+          "word": "special",
+          "pos": "形容詞",
+          "meaningJa": "特別な"
+        },
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "〜と呼ばれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a special greeting",
+        "ja": "特別なあいさつ"
+      },
+      "explanationJa": "「called 〜」を名詞の後ろに置くと「〜と呼ばれる（名詞）」と説明を加えられます。"
+    },
+    {
+      "id": "sent-maori-hongi-greeting-2",
+      "english": "Two people gently press their noses and foreheads together.",
+      "japanese": "2人がやさしく鼻とおでこをくっつけ合います。",
+      "additionalInfoEn": "They usually shake hands at the same time.",
+      "additionalInfoJa": "多くの場合、同時に握手もします。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "gently",
+          "pos": "副詞",
+          "meaningJa": "やさしく、そっと"
+        },
+        {
+          "word": "press",
+          "pos": "動詞",
+          "meaningJa": "押し当てる"
+        },
+        {
+          "word": "foreheads",
+          "pos": "名詞",
+          "meaningJa": "おでこ、額"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "press together",
+        "ja": "くっつけ合う"
+      },
+      "explanationJa": "「together」は「一緒に」のほか、「くっつけて、合わせて」という意味でも使えます。"
+    },
+    {
+      "id": "sent-maori-hongi-greeting-3",
+      "english": "The hongi means sharing the breath of life.",
+      "japanese": "ホンギには、「命の息を分かち合う」という意味があります。",
+      "additionalInfoEn": "In Māori tradition, breath is a powerful sign of being alive.",
+      "additionalInfoJa": "マオリの伝統では、息は生きていることを表す大切なしるしです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "means",
+          "pos": "動詞",
+          "meaningJa": "意味する"
+        },
+        {
+          "word": "sharing",
+          "pos": "動詞",
+          "meaningJa": "分かち合うこと"
+        },
+        {
+          "word": "breath",
+          "pos": "名詞",
+          "meaningJa": "息、呼吸"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the breath of life",
+        "ja": "命の息"
+      },
+      "explanationJa": "「mean + 動詞のing」で「〜することを意味する」。動名詞は「〜すること」を表します。"
+    },
+    {
+      "id": "sent-maori-hongi-greeting-4",
+      "english": "After a hongi, a visitor is no longer seen as a stranger.",
+      "japanese": "ホンギのあとでは、訪問者はもうよそ者とは見なされません。",
+      "additionalInfoEn": "The guest is welcomed as part of the local community.",
+      "additionalInfoJa": "お客さんは、その土地の仲間の一員として迎えられるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "visitor",
+          "pos": "名詞",
+          "meaningJa": "訪問者"
+        },
+        {
+          "word": "seen",
+          "pos": "動詞",
+          "meaningJa": "見なされる"
+        },
+        {
+          "word": "stranger",
+          "pos": "名詞",
+          "meaningJa": "見知らぬ人、よそ者"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "no longer",
+        "ja": "もはや〜ない"
+      },
+      "explanationJa": "「no longer」で「もう〜ではない」。以前とは状態が変わったことを伝えます。"
+    },
+    {
+      "id": "sent-maori-hongi-greeting-5",
+      "english": "Today, the hongi is used at important events across New Zealand.",
+      "japanese": "今日では、ホンギはニュージーランド各地の大切な行事で行われています。",
+      "additionalInfoEn": "Visiting leaders from other countries are often welcomed this way.",
+      "additionalInfoJa": "海外から訪れる要人も、よくこの方法で迎えられます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Today",
+          "pos": "副詞",
+          "meaningJa": "今日では"
+        },
+        {
+          "word": "important",
+          "pos": "形容詞",
+          "meaningJa": "大切な、重要な"
+        },
+        {
+          "word": "events",
+          "pos": "名詞",
+          "meaningJa": "行事、イベント"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "across New Zealand",
+        "ja": "ニュージーランド中で"
+      },
+      "explanationJa": "「is used」は「be動詞 + 過去分詞」の受け身で、「使われている」という意味です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-slow-music-shopping",
+  "categoryId": "business-economy",
+  "titleEn": "Why Stores Play Slow Music",
+  "titleJa": "お店でゆっくりした音楽が流れる理由",
+  "subtitleJa": "BGMのテンポが、歩く速さと買う量を変える。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-19",
+  "sentences": [
+    {
+      "id": "sent-slow-music-shopping-1",
+      "english": "Most shops play background music while you walk around.",
+      "japanese": "ほとんどのお店では、あなたが店内を歩いている間にBGMが流れています。",
+      "additionalInfoEn": "The music is not chosen just because it sounds nice.",
+      "additionalInfoJa": "その音楽は、単に心地よいという理由だけで選ばれているわけではありません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "play",
+          "pos": "動詞",
+          "meaningJa": "流す、再生する"
+        },
+        {
+          "word": "background",
+          "pos": "名詞",
+          "meaningJa": "背景"
+        },
+        {
+          "word": "music",
+          "pos": "名詞",
+          "meaningJa": "音楽"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "background music",
+        "ja": "BGM、背景音楽"
+      },
+      "explanationJa": "「background music」は日本語の「BGM」のことです。英語では略さずにこう言うのが普通です。"
+    },
+    {
+      "id": "sent-slow-music-shopping-2",
+      "english": "In 1982, a researcher tested fast and slow music in a supermarket.",
+      "japanese": "1982年、ある研究者がスーパーで速い音楽とゆっくりした音楽を試しました。",
+      "additionalInfoEn": "He changed the music on different days and watched the shoppers.",
+      "additionalInfoJa": "彼は日によって音楽を変え、買い物客の様子を観察しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "researcher",
+          "pos": "名詞",
+          "meaningJa": "研究者"
+        },
+        {
+          "word": "tested",
+          "pos": "動詞",
+          "meaningJa": "試した"
+        },
+        {
+          "word": "fast",
+          "pos": "形容詞",
+          "meaningJa": "速い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "fast and slow music",
+        "ja": "速い音楽とゆっくりした音楽"
+      },
+      "explanationJa": "「In + 年」で「〜年に」を表します。年や月には「in」、日付や曜日には「on」を使います。"
+    },
+    {
+      "id": "sent-slow-music-shopping-3",
+      "english": "With slow music, people walked more slowly through the store.",
+      "japanese": "ゆっくりした音楽のときは、人々は店内をよりゆっくり歩きました。",
+      "additionalInfoEn": "Their steps seemed to follow the beat of the songs.",
+      "additionalInfoJa": "彼らの足取りは、曲のリズムに合わせているようでした。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "walked",
+          "pos": "動詞",
+          "meaningJa": "歩いた"
+        },
+        {
+          "word": "slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと"
+        },
+        {
+          "word": "through",
+          "pos": "前置詞",
+          "meaningJa": "〜を通って"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more slowly",
+        "ja": "よりゆっくりと"
+      },
+      "explanationJa": "「slow」は形容詞、「slowly」は副詞です。動詞「walked」を説明するので副詞の slowly を使います。"
+    },
+    {
+      "id": "sent-slow-music-shopping-4",
+      "english": "Because they stayed longer, they also bought more things.",
+      "japanese": "店に長くいた分、買う量も多くなりました。",
+      "additionalInfoEn": "Sales were clearly higher on the slow music days.",
+      "additionalInfoJa": "ゆっくりした音楽の日は、売り上げがはっきりと高くなりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "stayed",
+          "pos": "動詞",
+          "meaningJa": "とどまった、いた"
+        },
+        {
+          "word": "longer",
+          "pos": "副詞",
+          "meaningJa": "より長く"
+        },
+        {
+          "word": "bought",
+          "pos": "動詞",
+          "meaningJa": "買った（buyの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stayed longer",
+        "ja": "より長くいた"
+      },
+      "explanationJa": "「Because 〜」で理由を表します。「bought」は「buy（買う）」の不規則な過去形です。"
+    },
+    {
+      "id": "sent-slow-music-shopping-5",
+      "english": "When you shop next, notice the music and your walking speed.",
+      "japanese": "次に買い物をするときは、音楽と自分の歩く速さに注目してみましょう。",
+      "additionalInfoEn": "In a restaurant study, slow music made diners stay longer too.",
+      "additionalInfoJa": "レストランでの研究でも、ゆっくりした音楽でお客さんの滞在が長くなりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "notice",
+          "pos": "動詞",
+          "meaningJa": "気づく、注意を向ける"
+        },
+        {
+          "word": "walking",
+          "pos": "名詞",
+          "meaningJa": "歩くこと"
+        },
+        {
+          "word": "speed",
+          "pos": "名詞",
+          "meaningJa": "速さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "walking speed",
+        "ja": "歩く速さ"
+      },
+      "explanationJa": "「notice」は「気づく、注意して見る」という意味です。命令文で「〜してみて」と軽く勧めています。"
+    }
+  ]
+}

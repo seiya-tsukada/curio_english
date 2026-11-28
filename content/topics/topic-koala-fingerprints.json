@@ -1,0 +1,167 @@
+{
+  "id": "topic-koala-fingerprints",
+  "categoryId": "space-science",
+  "titleEn": "Koalas Have Fingerprints Like Ours",
+  "titleJa": "コアラに人間そっくりの指紋がある理由",
+  "subtitleJa": "見分けがつかないほど似ている、コアラの指先の秘密。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-18",
+  "sentences": [
+    {
+      "id": "sent-koala-fingerprints-1",
+      "english": "Koalas have fingerprints that look just like human fingerprints.",
+      "japanese": "コアラには、人間の指紋とそっくりな指紋があります。",
+      "additionalInfoEn": "Very few animals besides humans and other primates have fingerprints.",
+      "additionalInfoJa": "人間やほかの霊長類以外で指紋を持つ動物は、ほとんどいません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Koalas",
+          "pos": "名詞",
+          "meaningJa": "コアラ（複数形）"
+        },
+        {
+          "word": "fingerprints",
+          "pos": "名詞",
+          "meaningJa": "指紋"
+        },
+        {
+          "word": "human",
+          "pos": "形容詞",
+          "meaningJa": "人間の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "look just like",
+        "ja": "〜にそっくりだ"
+      },
+      "explanationJa": "「look like + 名詞」で「〜のように見える」という意味です。「just」を入れると「まさに」と強調できます。"
+    },
+    {
+      "id": "sent-koala-fingerprints-2",
+      "english": "They are so similar that experts can have trouble telling them apart.",
+      "japanese": "とても似ているので、専門家でも見分けるのに苦労することがあります。",
+      "additionalInfoEn": "Even under a microscope, the patterns look almost the same.",
+      "additionalInfoJa": "顕微鏡で見ても、その模様はほとんど同じに見えます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "similar",
+          "pos": "形容詞",
+          "meaningJa": "似ている"
+        },
+        {
+          "word": "experts",
+          "pos": "名詞",
+          "meaningJa": "専門家"
+        },
+        {
+          "word": "trouble",
+          "pos": "名詞",
+          "meaningJa": "苦労、困難"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "telling them apart",
+        "ja": "それらを見分けること"
+      },
+      "explanationJa": "「so + 形容詞 + that 〜」で「とても…なので〜」という意味です。「tell A apart」は「Aを見分ける」です。"
+    },
+    {
+      "id": "sent-koala-fingerprints-3",
+      "english": "But koalas are not close relatives of humans at all.",
+      "japanese": "でも、コアラは人間の近い親戚というわけではまったくありません。",
+      "additionalInfoEn": "Koalas are marsupials, animals that carry their babies in a pouch.",
+      "additionalInfoJa": "コアラは、おなかの袋で子どもを育てる「有袋類」の仲間です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "close",
+          "pos": "形容詞",
+          "meaningJa": "近い"
+        },
+        {
+          "word": "relatives",
+          "pos": "名詞",
+          "meaningJa": "親戚、近縁種"
+        },
+        {
+          "word": "at all",
+          "pos": "副詞句",
+          "meaningJa": "まったく（〜ない）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not close relatives at all",
+        "ja": "まったく近い親戚ではない"
+      },
+      "explanationJa": "「not 〜 at all」は「まったく〜ない」と否定を強める表現です。日常会話でもとてもよく使います。"
+    },
+    {
+      "id": "sent-koala-fingerprints-4",
+      "english": "Their fingerprints developed separately, in a completely different way.",
+      "japanese": "コアラの指紋は、まったく別の道筋で、独自に発達したものです。",
+      "additionalInfoEn": "Scientists call this kind of change convergent evolution.",
+      "additionalInfoJa": "科学者はこのような変化を「収れん進化」と呼んでいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "developed",
+          "pos": "動詞",
+          "meaningJa": "発達した"
+        },
+        {
+          "word": "separately",
+          "pos": "副詞",
+          "meaningJa": "別々に"
+        },
+        {
+          "word": "completely",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in a different way",
+        "ja": "違う方法で"
+      },
+      "explanationJa": "「in a 〜 way」で「〜なやり方で」という意味です。「completely」は形容詞を強める副詞です。"
+    },
+    {
+      "id": "sent-koala-fingerprints-5",
+      "english": "Fingerprints help koalas hold branches and pick the best leaves.",
+      "japanese": "指紋は、コアラが枝をつかんだり、一番いい葉を選んだりするのに役立ちます。",
+      "additionalInfoEn": "Koalas eat eucalyptus leaves and are very picky about them.",
+      "additionalInfoJa": "コアラはユーカリの葉を食べ、葉の選び方にとてもこだわります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "hold",
+          "pos": "動詞",
+          "meaningJa": "つかむ、持つ"
+        },
+        {
+          "word": "branches",
+          "pos": "名詞",
+          "meaningJa": "枝"
+        },
+        {
+          "word": "leaves",
+          "pos": "名詞",
+          "meaningJa": "葉（leafの複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "help koalas hold",
+        "ja": "コアラがつかむのを助ける"
+      },
+      "explanationJa": "「help + 人・動物 + 動詞の原形」で「〜が…するのを助ける」という意味です。toを入れない形が一般的です。"
+    }
+  ]
+}
