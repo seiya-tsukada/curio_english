@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { TOPIC_MAP } from './data';
+import { SENTENCE_MAP, TOPIC_MAP } from './data';
+import { sentencePath, tabPath, topicPath, useRouter } from './router';
 import type {
   LearningState,
   MainTab,
@@ -24,32 +25,55 @@ import { LearningDashboard } from './components/LearningDashboard';
 import { ProfileView } from './components/ProfileView';
 import { SentenceReader } from './components/SentenceReader';
 import { TopicDetail } from './components/TopicDetail';
+import { NotFoundPage } from './components/ErrorPages';
+
+const SITE_TITLE = 'Curio — Read a little. Learn a lot.';
 
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-type ActiveDetail =
-  | { type: 'none' }
-  | { type: 'sentence'; sentence: SentenceItem }
-  | { type: 'topic'; topicId: string; startOrder: number };
-
 export default function App() {
   const [state, setState] = useState<LearningState>(loadLearningState);
-  const [activeTab, setActiveTab] = useState<MainTab>('discover');
-  const [detail, setDetail] = useState<ActiveDetail>({ type: 'none' });
+  const { route, navigate, goBack } = useRouter();
+  // Detail pages keep the tab the user came from highlighted in the navigation.
+  const [lastTab, setLastTab] = useState<MainTab>('discover');
+  const activeTab = route.name === 'tab' ? route.tab : lastTab;
+
+  const topic = route.name === 'topic' ? TOPIC_MAP[route.topicId] : undefined;
+  const sentence =
+    route.name === 'sentence' ? SENTENCE_MAP[route.sentenceId] : undefined;
 
   useEffect(() => {
     saveLearningState(state);
   }, [state]);
+
+  useEffect(() => {
+    if (route.name === 'tab') setLastTab(route.tab);
+  }, [route]);
+
+  const isNotFound = route.name !== 'tab' && !topic && !sentence;
+
+  useEffect(() => {
+    const pageTitle =
+      topic?.titleJa ??
+      (sentence ? TOPIC_MAP[sentence.topicId]?.titleJa : undefined) ??
+      (isNotFound ? 'ページが見つかりません' : undefined);
+    document.title = pageTitle ? `${pageTitle} | Curio` : SITE_TITLE;
+  }, [topic, sentence, isNotFound]);
+
+  // After onboarding, a deep link (e.g. a shared topic URL) stays where it is;
+  // tab pages, including the profile page it may be reopened from, go to Discover.
+  const leaveOnboarding = () => {
+    if (route.name === 'tab') navigate(tabPath('discover'), { replace: true });
+  };
 
   const handleCompleteOnboarding = (prefs: UserPreferences) => {
     setState((prev) => ({
       ...prev,
       preferences: { ...prefs, onboardingCompleted: true },
     }));
-    setActiveTab('discover');
-    setDetail({ type: 'none' });
+    leaveOnboarding();
   };
 
   const handleSkipOnboarding = () => {
@@ -57,12 +81,11 @@ export default function App() {
       ...prev,
       preferences: { ...prev.preferences, onboardingCompleted: true },
     }));
-    setActiveTab('discover');
+    leaveOnboarding();
   };
 
   const handleSelectTab = (tab: MainTab) => {
-    setActiveTab(tab);
-    setDetail({ type: 'none' });
+    navigate(tabPath(tab));
     scrollToTop();
   };
 
@@ -79,12 +102,12 @@ export default function App() {
   };
 
   const handleOpenSentence = (sentence: SentenceItem) => {
-    setDetail({ type: 'sentence', sentence });
+    navigate(sentencePath(sentence.id));
     scrollToTop();
   };
 
   const handleOpenTopic = (topicId: string, startOrder = 1) => {
-    setDetail({ type: 'topic', topicId, startOrder });
+    navigate(topicPath(topicId, startOrder));
     scrollToTop();
   };
 
@@ -100,6 +123,7 @@ export default function App() {
 
   const todayCount = getTodayReadCount(state);
   const savedWords = state.savedVocab.map((v) => v.word);
+  const handleBack = () => goBack(tabPath(lastTab));
 
   return (
     <AppLayout
@@ -108,31 +132,33 @@ export default function App() {
       todayCount={todayCount}
       dailyGoal={state.preferences.dailyGoal}
     >
-      {detail.type === 'sentence' ? (
+      {sentence ? (
         <SentenceReader
-          sentence={detail.sentence}
-          isSaved={state.savedSentenceIds.includes(detail.sentence.id)}
+          sentence={sentence}
+          isSaved={state.savedSentenceIds.includes(sentence.id)}
           savedWords={savedWords}
-          onBack={() => setDetail({ type: 'none' })}
+          onBack={handleBack}
           onSelectSentence={handleOpenSentence}
           onOpenTopic={handleOpenTopic}
           onToggleSaveSentence={handleToggleSaveSentence}
           onToggleSaveWord={handleToggleSaveWord}
           onMarkRead={handleMarkRead}
         />
-      ) : detail.type === 'topic' && TOPIC_MAP[detail.topicId] ? (
+      ) : topic && route.name === 'topic' ? (
         <TopicDetail
-          topic={TOPIC_MAP[detail.topicId]}
-          initialOrder={detail.startOrder}
+          topic={topic}
+          initialOrder={route.startOrder}
           savedSentenceIds={state.savedSentenceIds}
           savedWords={savedWords}
-          onBack={() => setDetail({ type: 'none' })}
+          onBack={handleBack}
           onToggleSaveSentence={handleToggleSaveSentence}
           onToggleSaveWord={handleToggleSaveWord}
           onOpenSentence={handleOpenSentence}
           onMarkRead={handleMarkRead}
         />
-      ) : activeTab === 'discover' ? (
+      ) : route.name !== 'tab' ? (
+        <NotFoundPage onGoHome={() => handleSelectTab('discover')} />
+      ) : route.tab === 'discover' ? (
         <DiscoveryFeed
           state={state}
           onDismissBanner={() =>
@@ -145,12 +171,12 @@ export default function App() {
           onMarkRead={handleMarkRead}
           onGoToTopics={() => handleSelectTab('topics')}
         />
-      ) : activeTab === 'topics' ? (
+      ) : route.tab === 'topics' ? (
         <CategoryGrid
           readSentenceIds={state.readSentenceIds}
           onOpenTopic={handleOpenTopic}
         />
-      ) : activeTab === 'learning' ? (
+      ) : route.tab === 'learning' ? (
         <LearningDashboard
           state={state}
           onOpenSentence={handleOpenSentence}

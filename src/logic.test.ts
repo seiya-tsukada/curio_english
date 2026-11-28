@@ -58,7 +58,9 @@ test('recommendation prioritizes selected interest categories and unread sentenc
 test('category filter narrows recommended feed and related sentences exclude current', () => {
   const state = createInitialLearningState();
   const techFeed = getRecommendedFeed(ALL_SENTENCES, state, 'technology');
-  assert.equal(techFeed.length, 25);
+  // Count from the data so adding topics doesn't break the test.
+  const techCount = ALL_SENTENCES.filter((s) => s.categoryId === 'technology').length;
+  assert.equal(techFeed.length, techCount);
   assert.ok(techFeed.every((s) => s.categoryId === 'technology'));
 
   const related = getRelatedSentences(techFeed[0], ALL_SENTENCES, 3);
