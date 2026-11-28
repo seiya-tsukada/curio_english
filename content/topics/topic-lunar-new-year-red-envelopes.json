@@ -1,0 +1,167 @@
+{
+  "id": "topic-lunar-new-year-red-envelopes",
+  "categoryId": "world-culture",
+  "titleEn": "The Lucky Red Envelopes of Lunar New Year",
+  "titleJa": "旧正月に配られる赤い封筒の秘密",
+  "subtitleJa": "お年玉に込められた、色と数字の縁起かつぎ。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-01",
+  "sentences": [
+    {
+      "id": "sent-lunar-new-year-red-envelopes-1",
+      "english": "At Lunar New Year, children in China receive money in red envelopes.",
+      "japanese": "旧正月になると、中国の子どもたちは赤い封筒に入ったお金をもらいます。",
+      "additionalInfoEn": "The envelopes are called \"hongbao\" in Mandarin Chinese.",
+      "additionalInfoJa": "この封筒は、中国語（標準語）で「ホンバオ」と呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "children",
+          "pos": "名詞",
+          "meaningJa": "子どもたち"
+        },
+        {
+          "word": "receive",
+          "pos": "動詞",
+          "meaningJa": "受け取る"
+        },
+        {
+          "word": "envelopes",
+          "pos": "名詞",
+          "meaningJa": "封筒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "receive money",
+        "ja": "お金を受け取る"
+      },
+      "explanationJa": "「receive」は「get」より少し丁寧な「受け取る」です。贈り物やメールにも使えます。"
+    },
+    {
+      "id": "sent-lunar-new-year-red-envelopes-2",
+      "english": "The color red stands for good luck and happiness.",
+      "japanese": "赤い色は、幸運と幸せを表しています。",
+      "additionalInfoEn": "Red decorations also fill streets and homes during the holiday.",
+      "additionalInfoJa": "この時期は、通りや家も赤い飾りでいっぱいになります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "color",
+          "pos": "名詞",
+          "meaningJa": "色"
+        },
+        {
+          "word": "luck",
+          "pos": "名詞",
+          "meaningJa": "運"
+        },
+        {
+          "word": "happiness",
+          "pos": "名詞",
+          "meaningJa": "幸せ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stands for",
+        "ja": "〜を表す"
+      },
+      "explanationJa": "「stand for 〜」で「〜を表す、〜の略である」。記号や色の意味を説明するときに便利です。"
+    },
+    {
+      "id": "sent-lunar-new-year-red-envelopes-3",
+      "english": "Parents and grandparents usually give them to younger family members.",
+      "japanese": "たいてい、両親や祖父母が年下の家族に封筒を渡します。",
+      "additionalInfoEn": "Bosses sometimes give them to their workers, too.",
+      "additionalInfoJa": "上司が部下に渡すこともあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Parents",
+          "pos": "名詞",
+          "meaningJa": "両親"
+        },
+        {
+          "word": "grandparents",
+          "pos": "名詞",
+          "meaningJa": "祖父母"
+        },
+        {
+          "word": "younger",
+          "pos": "形容詞",
+          "meaningJa": "年下の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "give A to B",
+        "ja": "AをBにあげる"
+      },
+      "explanationJa": "「give A to B」で「AをBにあげる」。「give B A」の語順でも同じ意味になります。"
+    },
+    {
+      "id": "sent-lunar-new-year-red-envelopes-4",
+      "english": "People avoid the number four because it sounds like the word for death.",
+      "japanese": "「4」は「死」という言葉と発音が似ているので、避けられます。",
+      "additionalInfoEn": "Amounts with the lucky number eight are much more popular.",
+      "additionalInfoJa": "縁起のいい数字「8」を含む金額のほうが、ずっと好まれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "avoid",
+          "pos": "動詞",
+          "meaningJa": "避ける"
+        },
+        {
+          "word": "number",
+          "pos": "名詞",
+          "meaningJa": "数字"
+        },
+        {
+          "word": "sounds",
+          "pos": "動詞",
+          "meaningJa": "〜のように聞こえる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "sounds like",
+        "ja": "〜のように聞こえる"
+      },
+      "explanationJa": "「sound like + 名詞」で「〜のように聞こえる」。発音が似ているときにも使えます。"
+    },
+    {
+      "id": "sent-lunar-new-year-red-envelopes-5",
+      "english": "Today, many people send digital red envelopes through apps on their phones.",
+      "japanese": "今では、スマートフォンのアプリでデジタルの赤い封筒を送る人も多くいます。",
+      "additionalInfoEn": "Friends even play games to catch the money in group chats.",
+      "additionalInfoJa": "友だち同士のグループチャットで、お金を取り合うゲームをすることもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "digital",
+          "pos": "形容詞",
+          "meaningJa": "デジタルの"
+        },
+        {
+          "word": "apps",
+          "pos": "名詞",
+          "meaningJa": "アプリ"
+        },
+        {
+          "word": "phones",
+          "pos": "名詞",
+          "meaningJa": "電話、スマートフォン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "send through apps",
+        "ja": "アプリで送る"
+      },
+      "explanationJa": "「through + 手段」で「〜を通して、〜で」。送る方法や経路を表します。"
+    }
+  ]
+}

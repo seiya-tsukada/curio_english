@@ -1,0 +1,167 @@
+{
+  "id": "topic-cocktail-party-effect",
+  "categoryId": "human-psychology",
+  "titleEn": "Why You Hear Your Name in a Noisy Room",
+  "titleJa": "騒がしい場所でも自分の名前が聞こえる理由",
+  "subtitleJa": "脳は聞いていない音も、こっそりチェックしている。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-26",
+  "sentences": [
+    {
+      "id": "sent-cocktail-party-effect-1",
+      "english": "Imagine you are talking with a friend at a noisy party.",
+      "japanese": "にぎやかなパーティーで、友達と話しているところを想像してください。",
+      "additionalInfoEn": "Dozens of voices and music fill the room.",
+      "additionalInfoJa": "何十人もの声と音楽が部屋中に響いています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Imagine",
+          "pos": "動詞",
+          "meaningJa": "想像する"
+        },
+        {
+          "word": "talking",
+          "pos": "動詞",
+          "meaningJa": "話している"
+        },
+        {
+          "word": "noisy",
+          "pos": "形容詞",
+          "meaningJa": "騒がしい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "talk with a friend",
+        "ja": "友達と話す"
+      },
+      "explanationJa": "「Imagine 〜」は「〜を想像してみて」。話を始めるときに相手を引き込む言い方です。"
+    },
+    {
+      "id": "sent-cocktail-party-effect-2",
+      "english": "Your brain can focus on one voice and ignore the rest.",
+      "japanese": "脳は一つの声に集中し、ほかの声を無視することができます。",
+      "additionalInfoEn": "In 1953, scientist Colin Cherry named this the cocktail party effect.",
+      "additionalInfoJa": "1953年、科学者のコリン・チェリーはこれを「カクテルパーティー効果」と名付けました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "focus",
+          "pos": "動詞",
+          "meaningJa": "集中する"
+        },
+        {
+          "word": "ignore",
+          "pos": "動詞",
+          "meaningJa": "無視する"
+        },
+        {
+          "word": "rest",
+          "pos": "名詞",
+          "meaningJa": "残り"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "focus on",
+        "ja": "〜に集中する"
+      },
+      "explanationJa": "「the rest」は「残りのもの、その他」。the rest of the dayのようにも使えます。"
+    },
+    {
+      "id": "sent-cocktail-party-effect-3",
+      "english": "Yet if someone across the room says your name, you often notice it.",
+      "japanese": "それなのに、部屋の向こうで誰かがあなたの名前を言うと、よく気づくのです。",
+      "additionalInfoEn": "You may suddenly turn your head without thinking.",
+      "additionalInfoJa": "考える間もなく、ぱっと振り向いてしまうかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "across",
+          "pos": "前置詞",
+          "meaningJa": "〜の向こう側で"
+        },
+        {
+          "word": "name",
+          "pos": "名詞",
+          "meaningJa": "名前"
+        },
+        {
+          "word": "notice",
+          "pos": "動詞",
+          "meaningJa": "気づく"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "across the room",
+        "ja": "部屋の向こうで"
+      },
+      "explanationJa": "「Yet」は文頭で「それなのに、しかし」。butより少し意外さを強める響きがあります。"
+    },
+    {
+      "id": "sent-cocktail-party-effect-4",
+      "english": "This shows the brain is still quietly checking sounds you're not listening to.",
+      "japanese": "これは、聞いていない音も脳がこっそりチェックし続けている証拠です。",
+      "additionalInfoEn": "Important words, like your name, can break through the filter.",
+      "additionalInfoJa": "自分の名前のような大切な言葉は、そのフィルターを通り抜けられるのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "shows",
+          "pos": "動詞",
+          "meaningJa": "示す"
+        },
+        {
+          "word": "quietly",
+          "pos": "副詞",
+          "meaningJa": "静かに、こっそり"
+        },
+        {
+          "word": "checking",
+          "pos": "動詞",
+          "meaningJa": "確認している"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "listen to",
+        "ja": "〜を聞く"
+      },
+      "explanationJa": "「sounds (that) you're not listening to」は関係代名詞が省略され、文末にtoが残る形です。"
+    },
+    {
+      "id": "sent-cocktail-party-effect-5",
+      "english": "In one classic study, about a third of people noticed their name.",
+      "japanese": "ある有名な研究では、約3分の1の人が自分の名前に気づきました。",
+      "additionalInfoEn": "They heard it in the ear they were told to ignore.",
+      "additionalInfoJa": "それは、無視するように言われていた方の耳から聞こえたものでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "classic",
+          "pos": "形容詞",
+          "meaningJa": "古典的な、有名な"
+        },
+        {
+          "word": "third",
+          "pos": "名詞",
+          "meaningJa": "3分の1"
+        },
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a third of",
+        "ja": "〜の3分の1"
+      },
+      "explanationJa": "「a third」は「3分の1」。two thirdsなら「3分の2」と、分子が2以上でsがつきます。"
+    }
+  ]
+}

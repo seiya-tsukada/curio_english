@@ -1,0 +1,167 @@
+{
+  "id": "topic-contagious-yawning",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Yawns Are Contagious",
+  "titleJa": "あくびがうつってしまう理由",
+  "subtitleJa": "見るだけ、読むだけでも起きる不思議な現象。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-02",
+  "sentences": [
+    {
+      "id": "sent-contagious-yawning-1",
+      "english": "When you see someone yawn, you often start to yawn too.",
+      "japanese": "誰かがあくびをするのを見ると、つい自分もあくびをしてしまうことがよくあります。",
+      "additionalInfoEn": "Scientists call this a contagious yawn, and it happens to most adults.",
+      "additionalInfoJa": "科学者はこれを「あくびの伝染」と呼び、多くの大人に起こります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "see",
+          "pos": "動詞",
+          "meaningJa": "見る"
+        },
+        {
+          "word": "yawn",
+          "pos": "動詞",
+          "meaningJa": "あくびをする"
+        },
+        {
+          "word": "often",
+          "pos": "副詞",
+          "meaningJa": "よく、しばしば"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "start to yawn",
+        "ja": "あくびをし始める"
+      },
+      "explanationJa": "「see + 人 + 動詞の原形」で「人が〜するのを見る」。yawnにsがつかない点に注目です。"
+    },
+    {
+      "id": "sent-contagious-yawning-2",
+      "english": "Even hearing or reading about yawning can make you yawn.",
+      "japanese": "あくびの音を聞いたり、あくびについて読んだりするだけでも、あくびが出ることがあります。",
+      "additionalInfoEn": "Some people are yawning right now just because of this sentence!",
+      "additionalInfoJa": "この文を読んだだけで、今あくびをしている人もいるかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "hearing",
+          "pos": "動詞",
+          "meaningJa": "聞くこと"
+        },
+        {
+          "word": "reading",
+          "pos": "動詞",
+          "meaningJa": "読むこと"
+        },
+        {
+          "word": "yawning",
+          "pos": "名詞",
+          "meaningJa": "あくび（をすること）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make you yawn",
+        "ja": "あなたにあくびをさせる"
+      },
+      "explanationJa": "「make + 人 + 動詞の原形」で「人に〜させる」。原因が主語になる英語らしい形です。"
+    },
+    {
+      "id": "sent-contagious-yawning-3",
+      "english": "Small children under about four rarely catch yawns from others.",
+      "japanese": "4歳くらいまでの小さな子どもは、他人のあくびがうつることはめったにありません。",
+      "additionalInfoEn": "This reaction seems to grow as children learn to understand other people.",
+      "additionalInfoJa": "この反応は、子どもが他人の気持ちを理解できるようになるにつれて育つようです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "children",
+          "pos": "名詞",
+          "meaningJa": "子どもたち"
+        },
+        {
+          "word": "rarely",
+          "pos": "副詞",
+          "meaningJa": "めったに〜ない"
+        },
+        {
+          "word": "catch",
+          "pos": "動詞",
+          "meaningJa": "（病気などが）うつる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "catch yawns from others",
+        "ja": "他人からあくびがうつる"
+      },
+      "explanationJa": "「rarely」は「めったに〜ない」という否定の意味を持つ副詞。notなしで否定を表せます。"
+    },
+    {
+      "id": "sent-contagious-yawning-4",
+      "english": "Some studies suggest that yawns spread more easily between friends and family.",
+      "japanese": "あくびは友人や家族の間でよりうつりやすい、という研究もあります。",
+      "additionalInfoEn": "Yawns from strangers seem to be caught a little less often.",
+      "additionalInfoJa": "知らない人のあくびは、少しうつりにくいようです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "studies",
+          "pos": "名詞",
+          "meaningJa": "研究"
+        },
+        {
+          "word": "spread",
+          "pos": "動詞",
+          "meaningJa": "広がる"
+        },
+        {
+          "word": "easily",
+          "pos": "副詞",
+          "meaningJa": "簡単に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "between friends and family",
+        "ja": "友人や家族の間で"
+      },
+      "explanationJa": "「Some studies suggest that 〜」は「〜という研究もある」と控えめに伝える便利な言い方です。"
+    },
+    {
+      "id": "sent-contagious-yawning-5",
+      "english": "Scientists still don't know exactly why we yawn at all.",
+      "japanese": "そもそも人がなぜあくびをするのか、科学者にもまだはっきりわかっていません。",
+      "additionalInfoEn": "One idea is that yawning helps cool down the brain.",
+      "additionalInfoJa": "あくびが脳を冷やすのに役立っている、という説もあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "まだ"
+        },
+        {
+          "word": "know",
+          "pos": "動詞",
+          "meaningJa": "知っている"
+        },
+        {
+          "word": "exactly",
+          "pos": "副詞",
+          "meaningJa": "正確に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at all",
+        "ja": "そもそも、まったく"
+      },
+      "explanationJa": "「why we yawn」は文の中に入った疑問文で、語順が「主語＋動詞」になる点に注意しましょう。"
+    }
+  ]
+}

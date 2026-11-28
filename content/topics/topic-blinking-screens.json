@@ -1,0 +1,167 @@
+{
+  "id": "topic-blinking-screens",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Blink Less at Screens",
+  "titleJa": "画面を見るとまばたきが減る理由",
+  "subtitleJa": "集中するほど、目は乾きやすくなる。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-17",
+  "sentences": [
+    {
+      "id": "sent-blinking-screens-1",
+      "english": "Most people blink about fifteen to twenty times every minute.",
+      "japanese": "ほとんどの人は、1分間におよそ15回から20回まばたきをしています。",
+      "additionalInfoEn": "That adds up to thousands of blinks every day.",
+      "additionalInfoJa": "合計すると、1日に何千回にもなります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "blink",
+          "pos": "動詞",
+          "meaningJa": "まばたきする"
+        },
+        {
+          "word": "times",
+          "pos": "名詞",
+          "meaningJa": "回"
+        },
+        {
+          "word": "minute",
+          "pos": "名詞",
+          "meaningJa": "分"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "every minute",
+        "ja": "1分ごとに"
+      },
+      "explanationJa": "「〜 times」は「〜回」。回数を表すときは数字のあとにtimesをつけます。"
+    },
+    {
+      "id": "sent-blinking-screens-2",
+      "english": "Each blink spreads a thin layer of tears across your eyes.",
+      "japanese": "まばたきをするたびに、涙の薄い膜が目の表面に広がります。",
+      "additionalInfoEn": "This keeps your eyes wet, clean, and comfortable.",
+      "additionalInfoJa": "これによって目がうるおい、清潔で快適に保たれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "spreads",
+          "pos": "動詞",
+          "meaningJa": "広げる"
+        },
+        {
+          "word": "thin",
+          "pos": "形容詞",
+          "meaningJa": "薄い"
+        },
+        {
+          "word": "tears",
+          "pos": "名詞",
+          "meaningJa": "涙"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a thin layer of",
+        "ja": "薄い層の〜"
+      },
+      "explanationJa": "「Each + 単数名詞」は「それぞれの〜」。動詞もspreadsと単数の形になります。"
+    },
+    {
+      "id": "sent-blinking-screens-3",
+      "english": "But when we look at screens, we blink much less often.",
+      "japanese": "でも画面を見ているときは、まばたきの回数がずっと少なくなります。",
+      "additionalInfoEn": "Some studies found the blink rate drops by about half.",
+      "additionalInfoJa": "まばたきの回数がおよそ半分に減る、という研究結果もあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "screens",
+          "pos": "名詞",
+          "meaningJa": "画面"
+        },
+        {
+          "word": "less",
+          "pos": "副詞",
+          "meaningJa": "より少なく"
+        },
+        {
+          "word": "often",
+          "pos": "副詞",
+          "meaningJa": "しばしば"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "much less often",
+        "ja": "ずっと少ない頻度で"
+      },
+      "explanationJa": "「much」は比較級を強めて「ずっと」。much less oftenで「ずっと回数が少なく」です。"
+    },
+    {
+      "id": "sent-blinking-screens-4",
+      "english": "Our brain focuses hard and forgets to blink as usual.",
+      "japanese": "脳が強く集中して、いつものようにまばたきするのを忘れてしまうのです。",
+      "additionalInfoEn": "The same thing happens when we read a book or drive.",
+      "additionalInfoJa": "本を読んだり運転したりするときにも、同じことが起こります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "focuses",
+          "pos": "動詞",
+          "meaningJa": "集中する"
+        },
+        {
+          "word": "hard",
+          "pos": "副詞",
+          "meaningJa": "熱心に、強く"
+        },
+        {
+          "word": "usual",
+          "pos": "形容詞",
+          "meaningJa": "いつもの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as usual",
+        "ja": "いつものように"
+      },
+      "explanationJa": "「forget to 〜」は「〜するのを忘れる」。これからすべきことを忘れる場合に使います。"
+    },
+    {
+      "id": "sent-blinking-screens-5",
+      "english": "This is one reason eyes can feel dry after long screen time.",
+      "japanese": "これが、長時間画面を見たあとに目が乾いて感じる理由の一つです。",
+      "additionalInfoEn": "Looking away from the screen now and then gives your eyes a break.",
+      "additionalInfoJa": "ときどき画面から目をそらすと、目がひと休みできます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "reason",
+          "pos": "名詞",
+          "meaningJa": "理由"
+        },
+        {
+          "word": "dry",
+          "pos": "形容詞",
+          "meaningJa": "乾いた"
+        },
+        {
+          "word": "screen",
+          "pos": "名詞",
+          "meaningJa": "画面"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "screen time",
+        "ja": "画面を見る時間"
+      },
+      "explanationJa": "「one reason (that) 〜」は「〜の理由の一つ」。thatは省略されることが多いです。"
+    }
+  ]
+}

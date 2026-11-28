@@ -1,0 +1,167 @@
+{
+  "id": "topic-first-paper-money",
+  "categoryId": "business-economy",
+  "titleEn": "Why China Invented Paper Money",
+  "titleJa": "世界初の紙幣が中国で生まれた理由",
+  "subtitleJa": "重すぎる鉄のお金が、新しいアイデアを生んだ。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-30",
+  "sentences": [
+    {
+      "id": "sent-first-paper-money-1",
+      "english": "About a thousand years ago, people in China began using paper money.",
+      "japanese": "約1000年前、中国の人々は紙のお金を使い始めました。",
+      "additionalInfoEn": "This happened during the Song dynasty, in the 11th century.",
+      "additionalInfoJa": "これは11世紀、宋の時代の出来事です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "thousand",
+          "pos": "名詞",
+          "meaningJa": "1000"
+        },
+        {
+          "word": "began",
+          "pos": "動詞",
+          "meaningJa": "始めた"
+        },
+        {
+          "word": "paper",
+          "pos": "名詞",
+          "meaningJa": "紙"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began using",
+        "ja": "使い始めた"
+      },
+      "explanationJa": "「begin + 〜ing」で「〜し始める」です。「began」は「begin」の不規則な過去形です。"
+    },
+    {
+      "id": "sent-first-paper-money-2",
+      "english": "In the Sichuan region, coins were made of heavy iron.",
+      "japanese": "四川地方では、硬貨が重い鉄で作られていました。",
+      "additionalInfoEn": "Buying a roll of silk could need many kilograms of coins.",
+      "additionalInfoJa": "絹をひと巻き買うのに、何キロもの硬貨が必要になることもありました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "region",
+          "pos": "名詞",
+          "meaningJa": "地方、地域"
+        },
+        {
+          "word": "heavy",
+          "pos": "形容詞",
+          "meaningJa": "重い"
+        },
+        {
+          "word": "iron",
+          "pos": "名詞",
+          "meaningJa": "鉄"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made of",
+        "ja": "〜でできている"
+      },
+      "explanationJa": "「be made of + 材料」で「〜でできている」と素材を説明できます。"
+    },
+    {
+      "id": "sent-first-paper-money-3",
+      "english": "Merchants started leaving their coins with shops and taking paper receipts instead.",
+      "japanese": "商人たちは硬貨を店に預け、代わりに紙の預かり証を受け取るようになりました。",
+      "additionalInfoEn": "These receipts could be traded like the coins themselves.",
+      "additionalInfoJa": "この預かり証は、硬貨そのもののように取引に使うことができました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Merchants",
+          "pos": "名詞",
+          "meaningJa": "商人"
+        },
+        {
+          "word": "receipts",
+          "pos": "名詞",
+          "meaningJa": "受領書、預かり証"
+        },
+        {
+          "word": "instead",
+          "pos": "副詞",
+          "meaningJa": "その代わりに"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "leaving their coins with",
+        "ja": "〜に硬貨を預ける"
+      },
+      "explanationJa": "「leave A with B」で「AをBに預ける」という意味です。「instead」は「その代わりに」です。"
+    },
+    {
+      "id": "sent-first-paper-money-4",
+      "english": "Later, the government took control and printed official paper money.",
+      "japanese": "その後、政府が管理を引き継ぎ、公式の紙幣を印刷しました。",
+      "additionalInfoEn": "These early notes were called jiaozi.",
+      "additionalInfoJa": "こうした初期の紙幣は「交子（こうし）」と呼ばれました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "government",
+          "pos": "名詞",
+          "meaningJa": "政府"
+        },
+        {
+          "word": "control",
+          "pos": "名詞",
+          "meaningJa": "管理"
+        },
+        {
+          "word": "official",
+          "pos": "形容詞",
+          "meaningJa": "公式の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "took control",
+        "ja": "管理を引き継いだ"
+      },
+      "explanationJa": "「take control」は「管理する、支配権を握る」という意味です。「took」は「take」の過去形です。"
+    },
+    {
+      "id": "sent-first-paper-money-5",
+      "english": "Centuries later, Marco Polo was amazed to see paper used as money.",
+      "japanese": "数世紀後、マルコ・ポーロは紙がお金として使われているのを見て驚きました。",
+      "additionalInfoEn": "In Europe at that time, people still paid with metal coins.",
+      "additionalInfoJa": "当時のヨーロッパでは、人々はまだ金属の硬貨で支払っていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Centuries",
+          "pos": "名詞",
+          "meaningJa": "世紀"
+        },
+        {
+          "word": "amazed",
+          "pos": "形容詞",
+          "meaningJa": "驚いた"
+        },
+        {
+          "word": "used",
+          "pos": "動詞",
+          "meaningJa": "使われる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "was amazed to see",
+        "ja": "〜を見て驚いた"
+      },
+      "explanationJa": "「be amazed to 〜」で「〜して驚く」と感情の原因を表せます。「see A used」は「Aが使われるのを見る」です。"
+    }
+  ]
+}

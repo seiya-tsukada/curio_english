@@ -1,0 +1,167 @@
+{
+  "id": "topic-seeing-faces-everywhere",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We See Faces in Everyday Objects",
+  "titleJa": "身の回りの物が顔に見えてしまう理由",
+  "subtitleJa": "コンセントや雲に顔が見えるのは、脳の優秀さの証。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-28",
+  "sentences": [
+    {
+      "id": "sent-seeing-faces-everywhere-1",
+      "english": "Have you ever seen a face in a cloud or a power outlet?",
+      "japanese": "雲やコンセントに、顔が見えたことはありませんか？",
+      "additionalInfoEn": "Many people also see faces in the front of cars.",
+      "additionalInfoJa": "車の正面が顔に見えるという人もたくさんいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "face",
+          "pos": "名詞",
+          "meaningJa": "顔"
+        },
+        {
+          "word": "cloud",
+          "pos": "名詞",
+          "meaningJa": "雲"
+        },
+        {
+          "word": "outlet",
+          "pos": "名詞",
+          "meaningJa": "コンセント"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Have you ever seen",
+        "ja": "〜を見たことがありますか"
+      },
+      "explanationJa": "「Have you ever + 過去分詞?」は経験をたずねる形。seenはseeの過去分詞です。"
+    },
+    {
+      "id": "sent-seeing-faces-everywhere-2",
+      "english": "This very common experience has a special name: pareidolia.",
+      "japanese": "このよくある体験には「パレイドリア」という特別な名前があります。",
+      "additionalInfoEn": "It comes from Greek words meaning \"beside\" and \"image.\"",
+      "additionalInfoJa": "ギリシャ語の「そばに」と「像」という言葉に由来します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "common",
+          "pos": "形容詞",
+          "meaningJa": "よくある"
+        },
+        {
+          "word": "experience",
+          "pos": "名詞",
+          "meaningJa": "体験"
+        },
+        {
+          "word": "special",
+          "pos": "形容詞",
+          "meaningJa": "特別な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "has a special name",
+        "ja": "特別な名前がある"
+      },
+      "explanationJa": "コロン（:）は「つまり」の合図。前の内容を後ろで具体的に説明しています。"
+    },
+    {
+      "id": "sent-seeing-faces-everywhere-3",
+      "english": "Our brains are built to spot faces very quickly.",
+      "japanese": "人間の脳は、顔をとても素早く見つけるようにできています。",
+      "additionalInfoEn": "Even two dots and a line can look like a face to us.",
+      "additionalInfoJa": "点が2つと線が1本あるだけでも、私たちには顔に見えることがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "built",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "作られている"
+        },
+        {
+          "word": "spot",
+          "pos": "動詞",
+          "meaningJa": "見つける"
+        },
+        {
+          "word": "quickly",
+          "pos": "副詞",
+          "meaningJa": "素早く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be built to",
+        "ja": "〜するようにできている"
+      },
+      "explanationJa": "「be built to 〜」は「〜するように作られている」。生まれつきの性質を表すのに使えます。"
+    },
+    {
+      "id": "sent-seeing-faces-everywhere-4",
+      "english": "Many scientists think it is safer to see too many faces than too few.",
+      "japanese": "顔を見落とすより、多く見すぎるほうが安全だと多くの科学者は考えています。",
+      "additionalInfoEn": "Missing a real face, like a hidden enemy, could be dangerous.",
+      "additionalInfoJa": "隠れた敵のように、本物の顔を見逃すことは危険になりえたからです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "safer",
+          "pos": "形容詞",
+          "meaningJa": "より安全な"
+        },
+        {
+          "word": "many",
+          "pos": "形容詞",
+          "meaningJa": "多くの"
+        },
+        {
+          "word": "few",
+          "pos": "形容詞",
+          "meaningJa": "少ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "it is safer to",
+        "ja": "〜するほうが安全だ"
+      },
+      "explanationJa": "「It is 〜 to …」は「…することは〜だ」。itは後ろのto以下を指しています。"
+    },
+    {
+      "id": "sent-seeing-faces-everywhere-5",
+      "english": "Interestingly, monkeys also seem to see faces in objects.",
+      "japanese": "興味深いことに、サルも物の中に顔を見ているようです。",
+      "additionalInfoEn": "This suggests the habit is very old in our evolution.",
+      "additionalInfoJa": "このことから、この性質は進化の中でとても古いものだと考えられます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Interestingly",
+          "pos": "副詞",
+          "meaningJa": "興味深いことに"
+        },
+        {
+          "word": "monkeys",
+          "pos": "名詞",
+          "meaningJa": "サル"
+        },
+        {
+          "word": "objects",
+          "pos": "名詞",
+          "meaningJa": "物体"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "seem to",
+        "ja": "〜のようだ"
+      },
+      "explanationJa": "「seem to + 動詞」は「〜するようだ」。はっきり言い切らずに伝えたいときに便利です。"
+    }
+  ]
+}

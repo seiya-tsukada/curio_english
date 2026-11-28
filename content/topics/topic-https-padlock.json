@@ -1,0 +1,167 @@
+{
+  "id": "topic-https-padlock",
+  "categoryId": "technology",
+  "titleEn": "What the Padlock in Your Browser Means",
+  "titleJa": "ブラウザの鍵マークが本当に意味すること",
+  "subtitleJa": "鍵マークが守るのは「通信」であって、サイトの中身ではない。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-16",
+  "sentences": [
+    {
+      "id": "sent-https-padlock-1",
+      "english": "The small padlock next to a web address means your connection is encrypted.",
+      "japanese": "ウェブアドレスの横の小さな鍵マークは、通信が暗号化されていることを意味します。",
+      "additionalInfoEn": "Such addresses usually begin with https, where the s stands for secure.",
+      "additionalInfoJa": "こうしたアドレスはたいていhttpsで始まり、sは「安全な」を意味します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "padlock",
+          "pos": "名詞",
+          "meaningJa": "南京錠、鍵マーク"
+        },
+        {
+          "word": "connection",
+          "pos": "名詞",
+          "meaningJa": "接続、通信"
+        },
+        {
+          "word": "encrypted",
+          "pos": "形容詞",
+          "meaningJa": "暗号化された"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "next to",
+        "ja": "〜の隣に"
+      },
+      "explanationJa": "「means (that) 〜」の形で、that が省略されています。後ろに文がそのまま続きます。"
+    },
+    {
+      "id": "sent-https-padlock-2",
+      "english": "Encryption scrambles your data so that outsiders see only meaningless characters.",
+      "japanese": "暗号化はデータをかき混ぜ、外部の人には意味のない文字しか見えないようにします。",
+      "additionalInfoEn": "This protects passwords and card numbers as they travel across networks.",
+      "additionalInfoJa": "これにより、パスワードやカード番号がネット上を移動する間も守られます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "scrambles",
+          "pos": "動詞",
+          "meaningJa": "かき混ぜる"
+        },
+        {
+          "word": "outsiders",
+          "pos": "名詞",
+          "meaningJa": "部外者"
+        },
+        {
+          "word": "meaningless",
+          "pos": "形容詞",
+          "meaningJa": "意味のない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "so that",
+        "ja": "〜するように"
+      },
+      "explanationJa": "「so that + 主語 + 動詞」で「〜するように」と、目的や結果を表します。"
+    },
+    {
+      "id": "sent-https-padlock-3",
+      "english": "The website hands out a public key that anyone can use to lock messages.",
+      "japanese": "ウェブサイトは、誰でもメッセージに鍵をかけられる「公開鍵」を配ります。",
+      "additionalInfoEn": "It works like an open padlock that anyone can snap shut.",
+      "additionalInfoJa": "それは、誰でもカチッと閉められる開いた南京錠のようなものです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "hands",
+          "pos": "動詞",
+          "meaningJa": "渡す（hand out）"
+        },
+        {
+          "word": "public",
+          "pos": "形容詞",
+          "meaningJa": "公開の"
+        },
+        {
+          "word": "lock",
+          "pos": "動詞",
+          "meaningJa": "鍵をかける"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hand out",
+        "ja": "配る"
+      },
+      "explanationJa": "「that anyone can use to lock 〜」は、どんな鍵なのかを後ろから詳しく説明しています。"
+    },
+    {
+      "id": "sent-https-padlock-4",
+      "english": "However, only the site's private key, which it keeps secret, can unlock them.",
+      "japanese": "しかし、それを開けられるのは、サイトが秘密にしている「秘密鍵」だけです。",
+      "additionalInfoEn": "In practice, this trick is used to agree on a shared key quickly.",
+      "additionalInfoJa": "実際には、この仕組みを使って共通の鍵を素早く取り決めます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "However",
+          "pos": "副詞",
+          "meaningJa": "しかし"
+        },
+        {
+          "word": "private",
+          "pos": "形容詞",
+          "meaningJa": "非公開の、個人の"
+        },
+        {
+          "word": "unlock",
+          "pos": "動詞",
+          "meaningJa": "鍵を開ける"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep ~ secret",
+        "ja": "〜を秘密にしておく"
+      },
+      "explanationJa": "「However,」は文頭で「しかしながら」と、前の内容と対照的なことを述べるときに使います。"
+    },
+    {
+      "id": "sent-https-padlock-5",
+      "english": "Still, a padlock does not prove a site is honest, only that the line is private.",
+      "japanese": "それでも鍵マークは、サイトが誠実な証拠ではなく、通信が守られている印にすぎません。",
+      "additionalInfoEn": "Fake shopping sites can show a padlock too, so stay careful.",
+      "additionalInfoJa": "偽の通販サイトでも鍵マークは表示されるので、油断しないようにしましょう。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "Still",
+          "pos": "副詞",
+          "meaningJa": "それでも"
+        },
+        {
+          "word": "prove",
+          "pos": "動詞",
+          "meaningJa": "証明する"
+        },
+        {
+          "word": "honest",
+          "pos": "形容詞",
+          "meaningJa": "誠実な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "does not prove",
+        "ja": "〜を証明するものではない"
+      },
+      "explanationJa": "「not A, only B」の形で、「Aではなく、Bだけだ」とよくある誤解を正しています。"
+    }
+  ]
+}

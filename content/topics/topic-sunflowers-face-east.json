@@ -1,0 +1,167 @@
+{
+  "id": "topic-sunflowers-face-east",
+  "categoryId": "space-science",
+  "titleEn": "Why Sunflowers Face East",
+  "titleJa": "ヒマワリが東を向いて咲く理由",
+  "subtitleJa": "太陽を追いかける若いヒマワリと、大人のヒマワリの違い。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-06",
+  "sentences": [
+    {
+      "id": "sent-sunflowers-face-east-1",
+      "english": "Young sunflowers follow the Sun across the sky every day.",
+      "japanese": "若いヒマワリは、毎日空を移動する太陽を追いかけます。",
+      "additionalInfoEn": "Their heads turn slowly from east to west during the day.",
+      "additionalInfoJa": "昼の間に、つぼみはゆっくりと東から西へ向きを変えます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Young",
+          "pos": "形容詞",
+          "meaningJa": "若い"
+        },
+        {
+          "word": "sunflowers",
+          "pos": "名詞",
+          "meaningJa": "ヒマワリ（複数形）"
+        },
+        {
+          "word": "follow",
+          "pos": "動詞",
+          "meaningJa": "〜について行く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "across the sky",
+        "ja": "空を横切って"
+      },
+      "explanationJa": "「across」は「〜を横切って」という前置詞です。空を端から端まで動く様子がよく伝わります。"
+    },
+    {
+      "id": "sent-sunflowers-face-east-2",
+      "english": "At night, they turn back to face the east again.",
+      "japanese": "夜になると、再び東の方へと向き直ります。",
+      "additionalInfoEn": "This way, they are ready to meet the Sun when it rises.",
+      "additionalInfoJa": "こうすることで、朝日が昇るときに太陽を迎える準備ができます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "night",
+          "pos": "名詞",
+          "meaningJa": "夜"
+        },
+        {
+          "word": "turn back",
+          "pos": "動詞句",
+          "meaningJa": "向きを戻す"
+        },
+        {
+          "word": "again",
+          "pos": "副詞",
+          "meaningJa": "再び"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turn back",
+        "ja": "元に戻る、向き直る"
+      },
+      "explanationJa": "「turn back」は「引き返す、元の方向に戻る」という意味の句動詞です。"
+    },
+    {
+      "id": "sent-sunflowers-face-east-3",
+      "english": "An inner clock helps them know when to move.",
+      "japanese": "体内時計が、いつ動けばよいかをヒマワリに知らせています。",
+      "additionalInfoEn": "Humans and many other living things also have inner clocks.",
+      "additionalInfoJa": "人間や多くのほかの生き物も、体内時計を持っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "inner",
+          "pos": "形容詞",
+          "meaningJa": "内部の"
+        },
+        {
+          "word": "clock",
+          "pos": "名詞",
+          "meaningJa": "時計"
+        },
+        {
+          "word": "move",
+          "pos": "動詞",
+          "meaningJa": "動く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "when to move",
+        "ja": "いつ動くべきか"
+      },
+      "explanationJa": "「疑問詞 + to 動詞」で「〜すべきか」という意味になります。「what to do（何をすべきか）」も同じ形です。"
+    },
+    {
+      "id": "sent-sunflowers-face-east-4",
+      "english": "When they fully bloom, most sunflowers stop moving and face east.",
+      "japanese": "満開になると、ほとんどのヒマワリは動くのをやめて東を向きます。",
+      "additionalInfoEn": "Their stems become stiff as the plants get older.",
+      "additionalInfoJa": "成長するにつれて、ヒマワリの茎はかたくなっていきます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "fully",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        },
+        {
+          "word": "bloom",
+          "pos": "動詞",
+          "meaningJa": "花が咲く"
+        },
+        {
+          "word": "face",
+          "pos": "動詞",
+          "meaningJa": "〜の方を向く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stop moving",
+        "ja": "動くのをやめる"
+      },
+      "explanationJa": "「stop + 動詞ing」は「〜するのをやめる」です。「stop to 動詞」だと「〜するために立ち止まる」になります。"
+    },
+    {
+      "id": "sent-sunflowers-face-east-5",
+      "english": "East-facing flowers warm up faster in the morning and attract more bees.",
+      "japanese": "東向きの花は朝早く温まり、より多くのハチを引き寄せます。",
+      "additionalInfoEn": "Bees prefer warm flowers, which helps the plants make more seeds.",
+      "additionalInfoJa": "ハチは温かい花を好むため、ヒマワリがより多くの種を作る助けになります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "warm up",
+          "pos": "動詞句",
+          "meaningJa": "温まる"
+        },
+        {
+          "word": "attract",
+          "pos": "動詞",
+          "meaningJa": "引きつける"
+        },
+        {
+          "word": "bees",
+          "pos": "名詞",
+          "meaningJa": "ハチ（複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "warm up",
+        "ja": "温まる"
+      },
+      "explanationJa": "「East-facing」は「東を向いている」という意味で、名詞の前に置く形容詞として使われています。"
+    }
+  ]
+}

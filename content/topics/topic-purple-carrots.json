@@ -1,0 +1,167 @@
+{
+  "id": "topic-purple-carrots",
+  "categoryId": "history",
+  "titleEn": "Carrots Used to Be Purple",
+  "titleJa": "ニンジンはもともと紫色だった",
+  "subtitleJa": "おなじみのオレンジ色は、あとから生まれた色でした。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-03",
+  "sentences": [
+    {
+      "id": "sent-purple-carrots-1",
+      "english": "Today, most carrots in shops are bright orange.",
+      "japanese": "今日、お店に並ぶニンジンのほとんどは鮮やかなオレンジ色です。",
+      "additionalInfoEn": "Their color comes from beta-carotene, which our bodies turn into vitamin A.",
+      "additionalInfoJa": "その色はβカロテンによるもので、体内でビタミンAに変わります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "carrots",
+          "pos": "名詞",
+          "meaningJa": "ニンジン"
+        },
+        {
+          "word": "shops",
+          "pos": "名詞",
+          "meaningJa": "店"
+        },
+        {
+          "word": "bright",
+          "pos": "形容詞",
+          "meaningJa": "鮮やかな、明るい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "most carrots",
+        "ja": "ほとんどのニンジン"
+      },
+      "explanationJa": "「most + 複数名詞」で「ほとんどの〜」。「most of the 〜」の形もよく使います。"
+    },
+    {
+      "id": "sent-purple-carrots-2",
+      "english": "But long ago, carrots were usually purple or yellow.",
+      "japanese": "しかし昔は、ニンジンはたいてい紫色か黄色でした。",
+      "additionalInfoEn": "Early farmers grew them in the area around today's Afghanistan.",
+      "additionalInfoJa": "初期の農家は、現在のアフガニスタン周辺でニンジンを育てていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "long ago",
+          "pos": "副詞",
+          "meaningJa": "ずっと昔に"
+        },
+        {
+          "word": "usually",
+          "pos": "副詞",
+          "meaningJa": "たいてい"
+        },
+        {
+          "word": "purple",
+          "pos": "形容詞",
+          "meaningJa": "紫色の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "long ago",
+        "ja": "ずっと昔に"
+      },
+      "explanationJa": "「A or B」で「AかB」。色や選択肢を並べるときに使えるシンプルな形です。"
+    },
+    {
+      "id": "sent-purple-carrots-3",
+      "english": "Orange carrots became popular in the Netherlands in the 1600s.",
+      "japanese": "オレンジ色のニンジンは、1600年代にオランダで広まりました。",
+      "additionalInfoEn": "Dutch farmers developed sweet orange types that grew well.",
+      "additionalInfoJa": "オランダの農家が、甘くてよく育つオレンジ色の品種を作り出しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "became",
+          "pos": "動詞",
+          "meaningJa": "〜になった"
+        },
+        {
+          "word": "popular",
+          "pos": "形容詞",
+          "meaningJa": "人気のある"
+        },
+        {
+          "word": "Netherlands",
+          "pos": "名詞",
+          "meaningJa": "オランダ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "became popular",
+        "ja": "人気になった"
+      },
+      "explanationJa": "「become + 形容詞」で「〜になる」。becomeの過去形はbecameです。"
+    },
+    {
+      "id": "sent-purple-carrots-4",
+      "english": "Some say it honored the Dutch leaders, the House of Orange.",
+      "japanese": "それはオランダの指導者一族「オラニエ家」をたたえるためだと言う人もいます。",
+      "additionalInfoEn": "However, historians have found no clear proof of this popular story.",
+      "additionalInfoJa": "しかし、歴史家たちはこの有名な話のはっきりした証拠を見つけていません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "honored",
+          "pos": "動詞",
+          "meaningJa": "たたえた"
+        },
+        {
+          "word": "leaders",
+          "pos": "名詞",
+          "meaningJa": "指導者たち"
+        },
+        {
+          "word": "House",
+          "pos": "名詞",
+          "meaningJa": "家系、一族"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Some say",
+        "ja": "〜と言う人もいる"
+      },
+      "explanationJa": "「Some say 〜」は「〜と言う人もいる」。確かではない話を紹介するときに便利です。"
+    },
+    {
+      "id": "sent-purple-carrots-5",
+      "english": "Today, you can still find purple carrots at some markets.",
+      "japanese": "今でも、一部の市場では紫色のニンジンを見つけることができます。",
+      "additionalInfoEn": "Many purple carrots are orange or yellow on the inside.",
+      "additionalInfoJa": "紫色のニンジンは、中がオレンジや黄色のことがよくあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "find",
+          "pos": "動詞",
+          "meaningJa": "見つける"
+        },
+        {
+          "word": "purple",
+          "pos": "形容詞",
+          "meaningJa": "紫色の"
+        },
+        {
+          "word": "markets",
+          "pos": "名詞",
+          "meaningJa": "市場"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "you can still find",
+        "ja": "今でも見つけられる"
+      },
+      "explanationJa": "「you」は特定の相手ではなく「人は誰でも」という一般的な意味で使われています。"
+    }
+  ]
+}

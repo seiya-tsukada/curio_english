@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-chocolate",
+  "categoryId": "history",
+  "titleEn": "Chocolate Was First a Bitter Drink",
+  "titleJa": "チョコレートはもともと苦い飲み物だった",
+  "subtitleJa": "お金としても使われたカカオ豆の、甘くない始まり。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-06",
+  "sentences": [
+    {
+      "id": "sent-history-of-chocolate-1",
+      "english": "For centuries, people in Central America drank chocolate instead of eating it.",
+      "japanese": "何世紀もの間、中央アメリカの人々はチョコレートを食べずに飲んでいました。",
+      "additionalInfoEn": "The Maya and Aztecs made the drink from roasted, ground cacao beans.",
+      "additionalInfoJa": "マヤやアステカの人々は、炒ってすりつぶしたカカオ豆から飲み物を作りました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "centuries",
+          "pos": "名詞",
+          "meaningJa": "数世紀"
+        },
+        {
+          "word": "drank",
+          "pos": "動詞",
+          "meaningJa": "飲んだ（drinkの過去形）"
+        },
+        {
+          "word": "instead",
+          "pos": "副詞",
+          "meaningJa": "その代わりに"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "instead of eating",
+        "ja": "食べる代わりに"
+      },
+      "explanationJa": "「instead of + 動詞ing」で「〜する代わりに」。ofの後ろは動詞のing形になります。"
+    },
+    {
+      "id": "sent-history-of-chocolate-2",
+      "english": "Their chocolate was bitter and sometimes mixed with chili peppers.",
+      "japanese": "彼らのチョコレートは苦く、ときには唐辛子が混ぜられていました。",
+      "additionalInfoEn": "It had no sugar, and it was often served cold and foamy.",
+      "additionalInfoJa": "砂糖は入っておらず、冷たく泡立てて出されることが多かったのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "bitter",
+          "pos": "形容詞",
+          "meaningJa": "苦い"
+        },
+        {
+          "word": "mixed",
+          "pos": "動詞",
+          "meaningJa": "混ぜられた"
+        },
+        {
+          "word": "peppers",
+          "pos": "名詞",
+          "meaningJa": "唐辛子、ペッパー"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "mixed with",
+        "ja": "〜と混ぜられた"
+      },
+      "explanationJa": "「mixed with 〜」は「〜が混ぜられた」。過去分詞が形容詞のように働いています。"
+    },
+    {
+      "id": "sent-history-of-chocolate-3",
+      "english": "The Aztecs valued cacao beans so much that they used them as money.",
+      "japanese": "アステカの人々はカカオ豆をとても大切にし、お金として使っていました。",
+      "additionalInfoEn": "One record says a turkey cost about 100 cacao beans.",
+      "additionalInfoJa": "ある記録によると、七面鳥1羽はカカオ豆約100粒でした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "valued",
+          "pos": "動詞",
+          "meaningJa": "大切にした"
+        },
+        {
+          "word": "beans",
+          "pos": "名詞",
+          "meaningJa": "豆"
+        },
+        {
+          "word": "money",
+          "pos": "名詞",
+          "meaningJa": "お金"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "so much that",
+        "ja": "とても〜なので"
+      },
+      "explanationJa": "「so 〜 that …」で「とても〜なので…」。原因と結果をひとつの文で表せます。"
+    },
+    {
+      "id": "sent-history-of-chocolate-4",
+      "english": "In the 1500s, the Spanish brought cacao to Europe and added sugar.",
+      "japanese": "1500年代、スペイン人がカカオをヨーロッパに持ち込み、砂糖を加えました。",
+      "additionalInfoEn": "Sweet hot chocolate soon became a fashionable drink among rich Europeans.",
+      "additionalInfoJa": "甘いホットチョコレートは、やがて裕福なヨーロッパ人の流行の飲み物になりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Spanish",
+          "pos": "名詞",
+          "meaningJa": "スペイン人"
+        },
+        {
+          "word": "brought",
+          "pos": "動詞",
+          "meaningJa": "持ってきた（bringの過去形）"
+        },
+        {
+          "word": "added",
+          "pos": "動詞",
+          "meaningJa": "加えた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "brought A to B",
+        "ja": "AをBに持ってきた"
+      },
+      "explanationJa": "「brought」は「bring」の過去形。「bring A to B」で「AをBに持っていく」となります。"
+    },
+    {
+      "id": "sent-history-of-chocolate-5",
+      "english": "The first chocolate bar for eating was made in England in 1847.",
+      "japanese": "食べるための最初の板チョコは、1847年にイギリスで作られました。",
+      "additionalInfoEn": "Milk chocolate came later, created in Switzerland in the 1870s.",
+      "additionalInfoJa": "ミルクチョコレートはその後、1870年代にスイスで生まれました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "bar",
+          "pos": "名詞",
+          "meaningJa": "棒状・板状のもの"
+        },
+        {
+          "word": "eating",
+          "pos": "動詞",
+          "meaningJa": "食べること"
+        },
+        {
+          "word": "made",
+          "pos": "動詞",
+          "meaningJa": "作られた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for eating",
+        "ja": "食べるための"
+      },
+      "explanationJa": "「for + 動詞ing」で「〜するための」と用途を表せます。「a cup for drinking」も同じ形です。"
+    }
+  ]
+}

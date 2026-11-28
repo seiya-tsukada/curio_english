@@ -1,0 +1,167 @@
+{
+  "id": "topic-japanese-omiyage",
+  "categoryId": "world-culture",
+  "titleEn": "Why Japanese Travelers Bring Back Omiyage",
+  "titleJa": "日本人が旅行先で「お土産」を買う理由",
+  "subtitleJa": "職場に配るお菓子に込められた、ちょっとした気づかい。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-08",
+  "sentences": [
+    {
+      "id": "sent-japanese-omiyage-1",
+      "english": "After a trip, Japanese people often bring back gifts called omiyage.",
+      "japanese": "旅行のあと、日本人はよく「お土産」と呼ばれる贈り物を持ち帰ります。",
+      "additionalInfoEn": "They are usually small snacks for friends, family, or coworkers.",
+      "additionalInfoJa": "たいていは、友人や家族、職場の人に向けたちょっとしたお菓子です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "trip",
+          "pos": "名詞",
+          "meaningJa": "旅行"
+        },
+        {
+          "word": "bring",
+          "pos": "動詞",
+          "meaningJa": "持ってくる"
+        },
+        {
+          "word": "gifts",
+          "pos": "名詞",
+          "meaningJa": "贈り物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "bring back",
+        "ja": "持ち帰る"
+      },
+      "explanationJa": "「bring back」で「持ち帰る」。旅行や出張の話でとてもよく使う句動詞です。"
+    },
+    {
+      "id": "sent-japanese-omiyage-2",
+      "english": "Many people buy a box of sweets to share with their whole office.",
+      "japanese": "職場のみんなで分けられるように、お菓子を箱で買う人も多くいます。",
+      "additionalInfoEn": "It is a way to say thanks for covering work while they were away.",
+      "additionalInfoJa": "留守中に仕事をカバーしてくれたことへの、お礼の気持ちでもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "box",
+          "pos": "名詞",
+          "meaningJa": "箱"
+        },
+        {
+          "word": "sweets",
+          "pos": "名詞",
+          "meaningJa": "甘いお菓子"
+        },
+        {
+          "word": "office",
+          "pos": "名詞",
+          "meaningJa": "職場、オフィス"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a box of",
+        "ja": "1箱の"
+      },
+      "explanationJa": "「to share with 〜」は「〜と分け合うために」。目的を表す不定詞です。"
+    },
+    {
+      "id": "sent-japanese-omiyage-3",
+      "english": "The sweets inside are usually wrapped one by one.",
+      "japanese": "中のお菓子は、たいてい1つずつ個包装されています。",
+      "additionalInfoEn": "This makes them easy to hand out and clean to eat.",
+      "additionalInfoJa": "そのおかげで配りやすく、手を汚さずに食べられます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "inside",
+          "pos": "副詞",
+          "meaningJa": "中に"
+        },
+        {
+          "word": "usually",
+          "pos": "副詞",
+          "meaningJa": "たいてい"
+        },
+        {
+          "word": "wrapped",
+          "pos": "動詞",
+          "meaningJa": "包まれた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one by one",
+        "ja": "1つずつ"
+      },
+      "explanationJa": "「one by one」で「1つずつ、1人ずつ」。順番に何かをする場面でも使えます。"
+    },
+    {
+      "id": "sent-japanese-omiyage-4",
+      "english": "Good omiyage are often local foods you can only buy in that area.",
+      "japanese": "よいお土産とは、その土地でしか買えない名物であることが多いです。",
+      "additionalInfoEn": "Train stations and airports have many shops for these regional treats.",
+      "additionalInfoJa": "駅や空港には、こうした地域の名物を売るお店がたくさんあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "local",
+          "pos": "形容詞",
+          "meaningJa": "地元の"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "〜だけ"
+        },
+        {
+          "word": "area",
+          "pos": "名詞",
+          "meaningJa": "地域"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "you can only buy",
+        "ja": "〜でしか買えない"
+      },
+      "explanationJa": "「foods (that) you can only buy」のように、関係代名詞 that は省略されることがよくあります。"
+    },
+    {
+      "id": "sent-japanese-omiyage-5",
+      "english": "The gift is small, but it shows you thought of others during your trip.",
+      "japanese": "贈り物は小さくても、旅行中に周りの人のことを思っていたという気持ちが伝わります。",
+      "additionalInfoEn": "Even a simple box of cookies can make a workplace feel warmer.",
+      "additionalInfoJa": "シンプルなクッキーの箱ひとつでも、職場の雰囲気が温かくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "small",
+          "pos": "形容詞",
+          "meaningJa": "小さい"
+        },
+        {
+          "word": "shows",
+          "pos": "動詞",
+          "meaningJa": "示す"
+        },
+        {
+          "word": "others",
+          "pos": "代名詞",
+          "meaningJa": "ほかの人たち"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "thought of others",
+        "ja": "ほかの人のことを考えた"
+      },
+      "explanationJa": "「think of 〜」で「〜のことを思う」。thought は think の過去形です。"
+    }
+  ]
+}

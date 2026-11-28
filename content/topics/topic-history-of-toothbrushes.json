@@ -1,0 +1,167 @@
+{
+  "id": "topic-history-of-toothbrushes",
+  "categoryId": "history",
+  "titleEn": "The Long Story of the Toothbrush",
+  "titleJa": "歯ブラシが生まれるまでの長い歴史",
+  "subtitleJa": "木の枝からナイロンまで、毎日の道具の意外な歩み。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-02",
+  "sentences": [
+    {
+      "id": "sent-history-of-toothbrushes-1",
+      "english": "Thousands of years ago, people cleaned their teeth with small sticks.",
+      "japanese": "何千年も前、人々は小さな木の枝で歯をきれいにしていました。",
+      "additionalInfoEn": "They chewed one end of the stick until it became soft like a brush.",
+      "additionalInfoJa": "枝の先をかんで、ブラシのように柔らかくしてから使いました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "cleaned",
+          "pos": "動詞",
+          "meaningJa": "きれいにした"
+        },
+        {
+          "word": "teeth",
+          "pos": "名詞",
+          "meaningJa": "歯（toothの複数形）"
+        },
+        {
+          "word": "sticks",
+          "pos": "名詞",
+          "meaningJa": "小枝、棒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cleaned their teeth",
+        "ja": "歯をきれいにした"
+      },
+      "explanationJa": "「teeth」は「tooth（歯）」の複数形です。不規則に変化するので覚えておきましょう。"
+    },
+    {
+      "id": "sent-history-of-toothbrushes-2",
+      "english": "Some people still use these chewing sticks in parts of the world.",
+      "japanese": "世界の一部の地域では、今でもこうしたかむ枝を使う人がいます。",
+      "additionalInfoEn": "In Arabic-speaking countries, a popular chewing stick is called a \"miswak.\"",
+      "additionalInfoJa": "アラビア語圏では、人気のあるかむ枝は「ミスワク」と呼ばれています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "今でも"
+        },
+        {
+          "word": "chewing",
+          "pos": "形容詞",
+          "meaningJa": "かむための"
+        },
+        {
+          "word": "parts",
+          "pos": "名詞",
+          "meaningJa": "地域、部分"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in parts of the world",
+        "ja": "世界の一部の地域で"
+      },
+      "explanationJa": "「still」は「今でも・まだ」。動詞の前に置いて、昔のことが続いていると伝えます。"
+    },
+    {
+      "id": "sent-history-of-toothbrushes-3",
+      "english": "Later, people in China made brushes with hair from pigs.",
+      "japanese": "その後、中国の人々は豚の毛を使ってブラシを作りました。",
+      "additionalInfoEn": "The stiff hairs were attached to handles made of bone or bamboo.",
+      "additionalInfoJa": "硬い毛は、骨や竹でできた持ち手に取り付けられていました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Later",
+          "pos": "副詞",
+          "meaningJa": "その後"
+        },
+        {
+          "word": "brushes",
+          "pos": "名詞",
+          "meaningJa": "ブラシ"
+        },
+        {
+          "word": "pigs",
+          "pos": "名詞",
+          "meaningJa": "豚"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made brushes with",
+        "ja": "〜でブラシを作った"
+      },
+      "explanationJa": "「make A with B」で「BでAを作る」。材料や道具を表すときに「with」が使えます。"
+    },
+    {
+      "id": "sent-history-of-toothbrushes-4",
+      "english": "Around 1780, William Addis began selling toothbrushes in England.",
+      "japanese": "1780年頃、ウィリアム・アディスがイギリスで歯ブラシを売り始めました。",
+      "additionalInfoEn": "He is often called the father of the mass-produced toothbrush.",
+      "additionalInfoJa": "彼はよく「大量生産された歯ブラシの父」と呼ばれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Around",
+          "pos": "前置詞",
+          "meaningJa": "〜頃"
+        },
+        {
+          "word": "began",
+          "pos": "動詞",
+          "meaningJa": "始めた"
+        },
+        {
+          "word": "selling",
+          "pos": "動詞",
+          "meaningJa": "売ること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began selling",
+        "ja": "売り始めた"
+      },
+      "explanationJa": "「begin + 動詞ing」で「〜し始める」。「began」は「begin」の過去形です。"
+    },
+    {
+      "id": "sent-history-of-toothbrushes-5",
+      "english": "In 1938, brushes with nylon bristles began to replace animal hair.",
+      "japanese": "1938年、ナイロンの毛を使ったブラシが動物の毛に取って代わり始めました。",
+      "additionalInfoEn": "Nylon dried faster than animal hair, so the brushes stayed cleaner.",
+      "additionalInfoJa": "ナイロンは動物の毛より早く乾くので、ブラシを清潔に保てました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "nylon",
+          "pos": "名詞",
+          "meaningJa": "ナイロン"
+        },
+        {
+          "word": "bristles",
+          "pos": "名詞",
+          "meaningJa": "ブラシの毛"
+        },
+        {
+          "word": "replace",
+          "pos": "動詞",
+          "meaningJa": "取って代わる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "began to replace",
+        "ja": "取って代わり始めた"
+      },
+      "explanationJa": "「A replace B」で「AがBに取って代わる」。新しいものが古いものに代わるときに使います。"
+    }
+  ]
+}

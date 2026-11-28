@@ -1,0 +1,167 @@
+{
+  "id": "topic-peru-potato-varieties",
+  "categoryId": "world-culture",
+  "titleEn": "Peru's Thousands of Potatoes",
+  "titleJa": "ペルーにジャガイモが3,000種類以上ある理由",
+  "subtitleJa": "アンデスの山々が育てた、色とりどりのイモの世界。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-11",
+  "sentences": [
+    {
+      "id": "sent-peru-potato-varieties-1",
+      "english": "Potatoes were first grown in the Andes Mountains of South America.",
+      "japanese": "ジャガイモは、南アメリカのアンデス山脈で最初に栽培されました。",
+      "additionalInfoEn": "People there started growing them thousands of years ago.",
+      "additionalInfoJa": "その地域の人々は、何千年も前からジャガイモを育て始めました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Potatoes",
+          "pos": "名詞",
+          "meaningJa": "ジャガイモ"
+        },
+        {
+          "word": "grown",
+          "pos": "動詞",
+          "meaningJa": "栽培された"
+        },
+        {
+          "word": "Mountains",
+          "pos": "名詞",
+          "meaningJa": "山脈、山々"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "were first grown",
+        "ja": "最初に栽培された"
+      },
+      "explanationJa": "「were + 過去分詞」は過去の受け身。「first」を入れると「最初に〜された」になります。"
+    },
+    {
+      "id": "sent-peru-potato-varieties-2",
+      "english": "Today, Peru has more than three thousand kinds of potatoes.",
+      "japanese": "現在、ペルーには3,000種類以上のジャガイモがあります。",
+      "additionalInfoEn": "They come in many colors, like purple, red, yellow, and even blue.",
+      "additionalInfoJa": "紫や赤、黄色、さらには青色など、さまざまな色があります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Peru",
+          "pos": "名詞",
+          "meaningJa": "ペルー"
+        },
+        {
+          "word": "thousand",
+          "pos": "名詞",
+          "meaningJa": "1,000"
+        },
+        {
+          "word": "kinds",
+          "pos": "名詞",
+          "meaningJa": "種類"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more than",
+        "ja": "〜より多い"
+      },
+      "explanationJa": "「more than + 数」は「〜より多い」。厳密にはその数を含まない点に注意しましょう。"
+    },
+    {
+      "id": "sent-peru-potato-varieties-3",
+      "english": "Farmers grow different types at different heights on the mountains.",
+      "japanese": "農家の人々は、山の高さに合わせて違う品種を育てています。",
+      "additionalInfoEn": "Each type is suited to the weather at its own height.",
+      "additionalInfoJa": "それぞれの品種は、その高さの気候に合っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Farmers",
+          "pos": "名詞",
+          "meaningJa": "農家の人々"
+        },
+        {
+          "word": "types",
+          "pos": "名詞",
+          "meaningJa": "種類、品種"
+        },
+        {
+          "word": "heights",
+          "pos": "名詞",
+          "meaningJa": "高さ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at different heights",
+        "ja": "異なる高さで"
+      },
+      "explanationJa": "「different + 複数名詞」をくり返すと、「それぞれ違う〜で違う…を」という対応が表せます。"
+    },
+    {
+      "id": "sent-peru-potato-varieties-4",
+      "english": "Long ago, people learned to freeze-dry potatoes using cold mountain nights.",
+      "japanese": "昔の人々は、山の冷たい夜を利用してジャガイモをフリーズドライにする方法を身につけました。",
+      "additionalInfoEn": "These dried potatoes, called chuño, can be stored for years.",
+      "additionalInfoJa": "「チューニョ」と呼ばれるこの乾燥イモは、何年も保存できます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "learned",
+          "pos": "動詞",
+          "meaningJa": "学んだ、身につけた"
+        },
+        {
+          "word": "freeze-dry",
+          "pos": "動詞",
+          "meaningJa": "フリーズドライにする"
+        },
+        {
+          "word": "using",
+          "pos": "動詞",
+          "meaningJa": "〜を使って"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "learn to",
+        "ja": "〜できるようになる"
+      },
+      "explanationJa": "「learn to + 動詞」で「〜するのを覚える」。using 〜は「〜を使って」と手段を表します。"
+    },
+    {
+      "id": "sent-peru-potato-varieties-5",
+      "english": "Peru even celebrates a National Potato Day every year on May 30.",
+      "japanese": "ペルーでは、毎年5月30日に「ジャガイモの日」を祝うほどです。",
+      "additionalInfoEn": "Markets and restaurants share potato dishes from all over the country.",
+      "additionalInfoJa": "市場やレストランでは、国中のジャガイモ料理がふるまわれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "celebrates",
+          "pos": "動詞",
+          "meaningJa": "祝う"
+        },
+        {
+          "word": "National",
+          "pos": "形容詞",
+          "meaningJa": "国の、全国的な"
+        },
+        {
+          "word": "every",
+          "pos": "形容詞",
+          "meaningJa": "毎〜"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "every year",
+        "ja": "毎年"
+      },
+      "explanationJa": "「even」は「〜さえ、〜するほど」。ジャガイモへの愛の強さを強調しています。"
+    }
+  ]
+}

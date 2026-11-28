@@ -1,0 +1,167 @@
+{
+  "id": "topic-tardigrades-survive-space",
+  "categoryId": "space-science",
+  "titleEn": "Tiny Tardigrades Can Survive in Space",
+  "titleJa": "クマムシが宇宙でも生きられる理由",
+  "subtitleJa": "体長1ミリ以下の「最強生物」が持つ、驚きの生き残り術。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-26",
+  "sentences": [
+    {
+      "id": "sent-tardigrades-survive-space-1",
+      "english": "Tardigrades are tiny animals that are usually smaller than one millimeter.",
+      "japanese": "クマムシは、体長がふつう1ミリメートルにも満たない小さな動物です。",
+      "additionalInfoEn": "They are also called water bears because of the way they walk.",
+      "additionalInfoJa": "その歩き方から、「水のクマ」とも呼ばれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Tardigrades",
+          "pos": "名詞",
+          "meaningJa": "クマムシ（複数形）"
+        },
+        {
+          "word": "tiny",
+          "pos": "形容詞",
+          "meaningJa": "とても小さい"
+        },
+        {
+          "word": "millimeter",
+          "pos": "名詞",
+          "meaningJa": "ミリメートル"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "smaller than",
+        "ja": "〜より小さい"
+      },
+      "explanationJa": "「animals that 〜」の「that」は関係代名詞で、どんな動物なのかを後ろから説明しています。"
+    },
+    {
+      "id": "sent-tardigrades-survive-space-2",
+      "english": "They have eight short legs and live almost everywhere on Earth.",
+      "japanese": "8本の短い脚を持ち、地球上のほぼあらゆる場所にすんでいます。",
+      "additionalInfoEn": "You can often find them in wet moss in parks and gardens.",
+      "additionalInfoJa": "公園や庭のしめったコケの中で、よく見つけることができます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "eight",
+          "pos": "形容詞",
+          "meaningJa": "8つの"
+        },
+        {
+          "word": "legs",
+          "pos": "名詞",
+          "meaningJa": "脚"
+        },
+        {
+          "word": "everywhere",
+          "pos": "副詞",
+          "meaningJa": "どこにでも"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "almost everywhere",
+        "ja": "ほぼどこにでも"
+      },
+      "explanationJa": "「almost」は「ほとんど」という意味で、「everywhere」や「all」などの前に置いてよく使います。"
+    },
+    {
+      "id": "sent-tardigrades-survive-space-3",
+      "english": "When their home dries up, they curl into a small dry ball.",
+      "japanese": "すみかが乾くと、クマムシは体を丸めて小さな乾いた玉になります。",
+      "additionalInfoEn": "In this state, they can survive for years without any water.",
+      "additionalInfoJa": "この状態なら、水がまったくなくても何年も生きのびることができます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "dries up",
+          "pos": "動詞句",
+          "meaningJa": "干上がる"
+        },
+        {
+          "word": "curl",
+          "pos": "動詞",
+          "meaningJa": "丸くなる"
+        },
+        {
+          "word": "ball",
+          "pos": "名詞",
+          "meaningJa": "玉、ボール"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "curl into a small dry ball",
+        "ja": "丸まって小さな乾いた玉になる"
+      },
+      "explanationJa": "「dry up」は「すっかり乾く」という意味の句動詞です。「up」が「完全に」というニュアンスを加えます。"
+    },
+    {
+      "id": "sent-tardigrades-survive-space-4",
+      "english": "Dried out like this, they can handle extreme heat and cold.",
+      "japanese": "このように乾いた状態なら、とても厳しい暑さや寒さにも耐えられます。",
+      "additionalInfoEn": "Some have survived temperatures close to absolute zero in labs.",
+      "additionalInfoJa": "実験室では、絶対零度に近い温度に耐えたクマムシもいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "handle",
+          "pos": "動詞",
+          "meaningJa": "耐える、対処する"
+        },
+        {
+          "word": "extreme",
+          "pos": "形容詞",
+          "meaningJa": "極端な、厳しい"
+        },
+        {
+          "word": "heat",
+          "pos": "名詞",
+          "meaningJa": "暑さ、熱"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "handle extreme heat",
+        "ja": "極端な暑さに耐える"
+      },
+      "explanationJa": "「handle」は「扱う」のほかに「（困難に）うまく対処する」という意味でもよく使われます。"
+    },
+    {
+      "id": "sent-tardigrades-survive-space-5",
+      "english": "Scientists once sent them into space, and some came back alive.",
+      "japanese": "科学者がかつてクマムシを宇宙に送ったところ、一部は生きて戻ってきました。",
+      "additionalInfoEn": "They survived about ten days outside a spacecraft in 2007.",
+      "additionalInfoJa": "2007年、クマムシは宇宙船の外で約10日間を生きのびました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "once",
+          "pos": "副詞",
+          "meaningJa": "かつて、以前"
+        },
+        {
+          "word": "sent",
+          "pos": "動詞",
+          "meaningJa": "送った（sendの過去形）"
+        },
+        {
+          "word": "alive",
+          "pos": "形容詞",
+          "meaningJa": "生きて"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "came back alive",
+        "ja": "生きて戻った"
+      },
+      "explanationJa": "「come back + 形容詞」で「〜の状態で戻る」という意味です。「alive」は名詞の前では使わない形容詞です。"
+    }
+  ]
+}

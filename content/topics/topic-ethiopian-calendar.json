@@ -1,0 +1,167 @@
+{
+  "id": "topic-ethiopian-calendar",
+  "categoryId": "world-culture",
+  "titleEn": "Ethiopia's Calendar with Thirteen Months",
+  "titleJa": "エチオピアの1年が13か月ある理由",
+  "subtitleJa": "世界とは少しずれた、独自の暦で暮らす国。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-08",
+  "sentences": [
+    {
+      "id": "sent-ethiopian-calendar-1",
+      "english": "Ethiopia uses its own calendar, and a year has thirteen months.",
+      "japanese": "エチオピアは独自の暦を使っていて、1年が13か月あります。",
+      "additionalInfoEn": "Most other countries use the Gregorian calendar with twelve months.",
+      "additionalInfoJa": "ほかのほとんどの国は、12か月のグレゴリオ暦を使っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "calendar",
+          "pos": "名詞",
+          "meaningJa": "暦、カレンダー"
+        },
+        {
+          "word": "year",
+          "pos": "名詞",
+          "meaningJa": "年"
+        },
+        {
+          "word": "thirteen",
+          "pos": "数詞",
+          "meaningJa": "13"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "its own calendar",
+        "ja": "独自の暦"
+      },
+      "explanationJa": "「its own 〜」で「それ自身の〜、独自の〜」。国や会社など人以外にも使えます。"
+    },
+    {
+      "id": "sent-ethiopian-calendar-2",
+      "english": "Twelve months have exactly thirty days each.",
+      "japanese": "12の月は、それぞれぴったり30日ずつあります。",
+      "additionalInfoEn": "This makes it very easy to count the days in a month.",
+      "additionalInfoJa": "そのため、ひと月の日数をとても数えやすくなっています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "Twelve",
+          "pos": "数詞",
+          "meaningJa": "12"
+        },
+        {
+          "word": "exactly",
+          "pos": "副詞",
+          "meaningJa": "ちょうど、ぴったり"
+        },
+        {
+          "word": "each",
+          "pos": "副詞",
+          "meaningJa": "それぞれ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "thirty days each",
+        "ja": "それぞれ30日"
+      },
+      "explanationJa": "文末の「each」は「それぞれ」という意味で、数を一つずつに割り当てるときに使います。"
+    },
+    {
+      "id": "sent-ethiopian-calendar-3",
+      "english": "The last short month has only five or six days.",
+      "japanese": "最後の短い月は、たった5日か6日しかありません。",
+      "additionalInfoEn": "It has six days once every four years, like a leap year.",
+      "additionalInfoJa": "うるう年のように、4年に1度は6日になります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "last",
+          "pos": "形容詞",
+          "meaningJa": "最後の"
+        },
+        {
+          "word": "short",
+          "pos": "形容詞",
+          "meaningJa": "短い"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "たった〜だけ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "only five or six days",
+        "ja": "たった5、6日"
+      },
+      "explanationJa": "「only + 数」で「たった〜だけ」と、数の少なさを強調できます。"
+    },
+    {
+      "id": "sent-ethiopian-calendar-4",
+      "english": "The Ethiopian calendar is about seven or eight years behind the Western one.",
+      "japanese": "エチオピアの暦は、西洋の暦より約7〜8年遅れています。",
+      "additionalInfoEn": "This comes from a different way of counting years in history.",
+      "additionalInfoJa": "これは、歴史の中で年の数え方が異なっていたことによるものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Ethiopian",
+          "pos": "形容詞",
+          "meaningJa": "エチオピアの"
+        },
+        {
+          "word": "behind",
+          "pos": "前置詞",
+          "meaningJa": "〜より遅れて"
+        },
+        {
+          "word": "Western",
+          "pos": "形容詞",
+          "meaningJa": "西洋の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "years behind",
+        "ja": "〜年遅れて"
+      },
+      "explanationJa": "「数 + years behind 〜」で「〜より…年遅れて」。one は calendar のくり返しを避ける語です。"
+    },
+    {
+      "id": "sent-ethiopian-calendar-5",
+      "english": "New Year's Day in Ethiopia falls in September, at the end of the rainy season.",
+      "japanese": "エチオピアの元日は9月で、ちょうど雨季が終わるころにあたります。",
+      "additionalInfoEn": "It is usually on September 11, and people celebrate with yellow flowers.",
+      "additionalInfoJa": "ふつうは9月11日で、人々は黄色い花で新年を祝います。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "falls",
+          "pos": "動詞",
+          "meaningJa": "（日付が）当たる"
+        },
+        {
+          "word": "September",
+          "pos": "名詞",
+          "meaningJa": "9月"
+        },
+        {
+          "word": "season",
+          "pos": "名詞",
+          "meaningJa": "季節"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "falls in September",
+        "ja": "9月にあたる"
+      },
+      "explanationJa": "「fall in/on + 時」で「（行事や日付が）〜にあたる」。カレンダーの話でよく使います。"
+    }
+  ]
+}

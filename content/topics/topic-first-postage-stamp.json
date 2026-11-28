@@ -1,0 +1,167 @@
+{
+  "id": "topic-first-postage-stamp",
+  "categoryId": "history",
+  "titleEn": "The World's First Postage Stamp",
+  "titleJa": "世界初の切手「ペニー・ブラック」",
+  "subtitleJa": "手紙を受け取る人が料金を払っていた時代の話。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-19",
+  "sentences": [
+    {
+      "id": "sent-first-postage-stamp-1",
+      "english": "Before 1840, people often paid to receive letters, not to send them.",
+      "japanese": "1840年より前は、手紙を受け取る人が料金を払うことがよくありました。",
+      "additionalInfoEn": "The price depended on how far the letter traveled.",
+      "additionalInfoJa": "料金は、手紙が運ばれる距離によって変わりました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "paid",
+          "pos": "動詞",
+          "meaningJa": "払った（payの過去形）"
+        },
+        {
+          "word": "receive",
+          "pos": "動詞",
+          "meaningJa": "受け取る"
+        },
+        {
+          "word": "letters",
+          "pos": "名詞",
+          "meaningJa": "手紙"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "paid to receive",
+        "ja": "受け取るためにお金を払った"
+      },
+      "explanationJa": "「pay to + 動詞」で「〜するためにお金を払う」。目的を「to + 動詞」で表しています。"
+    },
+    {
+      "id": "sent-first-postage-stamp-2",
+      "english": "Some people refused to pay, so the letters went back.",
+      "japanese": "支払いを断る人もいたので、手紙は送り返されてしまいました。",
+      "additionalInfoEn": "Some people reportedly hid secret signs on the envelope to share news for free.",
+      "additionalInfoJa": "封筒に秘密の印を書いて、無料で内容を伝える人もいたそうです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "refused",
+          "pos": "動詞",
+          "meaningJa": "断った"
+        },
+        {
+          "word": "pay",
+          "pos": "動詞",
+          "meaningJa": "払う"
+        },
+        {
+          "word": "back",
+          "pos": "副詞",
+          "meaningJa": "戻って"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "refused to pay",
+        "ja": "支払いを拒んだ"
+      },
+      "explanationJa": "「refuse to + 動詞」で「〜することを断る・拒む」という意味になります。"
+    },
+    {
+      "id": "sent-first-postage-stamp-3",
+      "english": "In Britain, Rowland Hill had a simple idea to fix this.",
+      "japanese": "イギリスでは、ローランド・ヒルがこれを解決する簡単なアイデアを思いつきました。",
+      "additionalInfoEn": "He suggested that the sender should pay one low price in advance.",
+      "additionalInfoJa": "彼は、送る人が前もって安い料金を一律で払うべきだと提案しました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "simple",
+          "pos": "形容詞",
+          "meaningJa": "簡単な、シンプルな"
+        },
+        {
+          "word": "idea",
+          "pos": "名詞",
+          "meaningJa": "考え、アイデア"
+        },
+        {
+          "word": "fix",
+          "pos": "動詞",
+          "meaningJa": "解決する、直す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a simple idea",
+        "ja": "シンプルなアイデア"
+      },
+      "explanationJa": "「an idea to + 動詞」で「〜するためのアイデア」。to以下がideaを説明しています。"
+    },
+    {
+      "id": "sent-first-postage-stamp-4",
+      "english": "In May 1840, the first stamp, the Penny Black, appeared.",
+      "japanese": "1840年5月、最初の切手「ペニー・ブラック」が登場しました。",
+      "additionalInfoEn": "It cost one penny and showed the face of young Queen Victoria.",
+      "additionalInfoJa": "値段は1ペニーで、若き日のヴィクトリア女王の顔が描かれていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "first",
+          "pos": "形容詞",
+          "meaningJa": "最初の"
+        },
+        {
+          "word": "stamp",
+          "pos": "名詞",
+          "meaningJa": "切手"
+        },
+        {
+          "word": "appeared",
+          "pos": "動詞",
+          "meaningJa": "現れた、登場した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "In May 1840",
+        "ja": "1840年5月に"
+      },
+      "explanationJa": "月や年には「in」を使います。「In May 1840」で「1840年5月に」となります。"
+    },
+    {
+      "id": "sent-first-postage-stamp-5",
+      "english": "Even today, British stamps do not show the country's name.",
+      "japanese": "今でもイギリスの切手には、国の名前が書かれていません。",
+      "additionalInfoEn": "As the first country to use stamps, Britain only shows its monarch's head.",
+      "additionalInfoJa": "切手を最初に使った国として、イギリスは君主の横顔だけを載せています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Even",
+          "pos": "副詞",
+          "meaningJa": "〜でさえ"
+        },
+        {
+          "word": "British",
+          "pos": "形容詞",
+          "meaningJa": "イギリスの"
+        },
+        {
+          "word": "country",
+          "pos": "名詞",
+          "meaningJa": "国"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Even today",
+        "ja": "今でも"
+      },
+      "explanationJa": "「Even today」は「今日でさえ」。昔のことが今も続いていて驚きだという気持ちを表します。"
+    }
+  ]
+}

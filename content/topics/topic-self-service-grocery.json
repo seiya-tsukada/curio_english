@@ -1,0 +1,167 @@
+{
+  "id": "topic-self-service-grocery",
+  "categoryId": "business-economy",
+  "titleEn": "The First Self-Service Grocery Store",
+  "titleJa": "お客が自分で商品を取る店はここから始まった",
+  "subtitleJa": "今では当たり前のスーパーも、昔は大発明だった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-28",
+  "sentences": [
+    {
+      "id": "sent-self-service-grocery-1",
+      "english": "Before 1916, most shoppers could not pick items from the shelves themselves.",
+      "japanese": "1916年以前、ほとんどの買い物客は棚から自分で商品を取れませんでした。",
+      "additionalInfoEn": "Products were kept behind a long counter.",
+      "additionalInfoJa": "商品は長いカウンターの奥に置かれていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pick",
+          "pos": "動詞",
+          "meaningJa": "選び取る"
+        },
+        {
+          "word": "shelves",
+          "pos": "名詞",
+          "meaningJa": "棚"
+        },
+        {
+          "word": "themselves",
+          "pos": "代名詞",
+          "meaningJa": "自分自身で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pick items from",
+        "ja": "〜から商品を取る"
+      },
+      "explanationJa": "「themselves」は「自分たち自身で」と、他の人ではなく本人がすることを強調しています。"
+    },
+    {
+      "id": "sent-self-service-grocery-2",
+      "english": "They handed a list to a clerk, who collected everything for them.",
+      "japanese": "彼らは店員にリストを渡し、店員が代わりにすべての商品を集めていました。",
+      "additionalInfoEn": "This took a long time, especially when the store was busy.",
+      "additionalInfoJa": "特にお店が混んでいるときは、とても時間がかかりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "handed",
+          "pos": "動詞",
+          "meaningJa": "手渡した"
+        },
+        {
+          "word": "clerk",
+          "pos": "名詞",
+          "meaningJa": "店員"
+        },
+        {
+          "word": "collected",
+          "pos": "動詞",
+          "meaningJa": "集めた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "handed a list to",
+        "ja": "〜にリストを渡した"
+      },
+      "explanationJa": "「, who 〜」は前の名詞「a clerk」に情報を付け加える関係代名詞の使い方です。"
+    },
+    {
+      "id": "sent-self-service-grocery-3",
+      "english": "Then a man in Memphis opened a store where customers served themselves.",
+      "japanese": "そんな中、メンフィスのある男性が、お客さんが自分で商品を取る店を開きました。",
+      "additionalInfoEn": "His name was Clarence Saunders, and his store was called Piggly Wiggly.",
+      "additionalInfoJa": "彼の名前はクラレンス・サンダースで、店の名前は「ピグリー・ウィグリー」でした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "opened",
+          "pos": "動詞",
+          "meaningJa": "開いた"
+        },
+        {
+          "word": "customers",
+          "pos": "名詞",
+          "meaningJa": "お客さん"
+        },
+        {
+          "word": "served",
+          "pos": "動詞",
+          "meaningJa": "給仕した（serve oneselfで「自分で取る」）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "served themselves",
+        "ja": "自分で取った"
+      },
+      "explanationJa": "「serve oneself」は「自分で取る、セルフサービスにする」という意味です。「where」は場所を説明します。"
+    },
+    {
+      "id": "sent-self-service-grocery-4",
+      "english": "Shoppers walked through the aisles with baskets and paid at the exit.",
+      "japanese": "買い物客はカゴを持って通路を歩き、出口でお金を払いました。",
+      "additionalInfoEn": "Every item had a clear price tag, which was also new at the time.",
+      "additionalInfoJa": "どの商品にも分かりやすい値札が付いていて、それも当時は新しいことでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "aisles",
+          "pos": "名詞",
+          "meaningJa": "通路"
+        },
+        {
+          "word": "baskets",
+          "pos": "名詞",
+          "meaningJa": "カゴ"
+        },
+        {
+          "word": "exit",
+          "pos": "名詞",
+          "meaningJa": "出口"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "paid at the exit",
+        "ja": "出口で支払った"
+      },
+      "explanationJa": "「walk through 〜」は「〜を通り抜けて歩く」です。「paid」は「pay（払う）」の過去形です。"
+    },
+    {
+      "id": "sent-self-service-grocery-5",
+      "english": "The idea saved time and money, and supermarkets everywhere copied it.",
+      "japanese": "このアイデアは時間とお金を節約し、各地のスーパーがそれをまねしました。",
+      "additionalInfoEn": "Fewer clerks were needed, so prices could become lower.",
+      "additionalInfoJa": "店員が少なくて済むので、値段を安くすることもできました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "saved",
+          "pos": "動詞",
+          "meaningJa": "節約した"
+        },
+        {
+          "word": "everywhere",
+          "pos": "副詞",
+          "meaningJa": "あらゆる所で"
+        },
+        {
+          "word": "copied",
+          "pos": "動詞",
+          "meaningJa": "まねした"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "saved time and money",
+        "ja": "時間とお金を節約した"
+      },
+      "explanationJa": "「save」は「救う」以外に「（時間やお金を）節約する」という意味でもよく使われます。"
+    }
+  ]
+}

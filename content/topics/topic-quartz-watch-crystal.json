@@ -1,0 +1,167 @@
+{
+  "id": "topic-quartz-watch-crystal",
+  "categoryId": "technology",
+  "titleEn": "The Tiny Crystal Inside Your Watch",
+  "titleJa": "クオーツ時計が正確に時を刻む仕組み",
+  "subtitleJa": "1秒に32,768回震える小さな水晶が、時間を数えている。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-15",
+  "sentences": [
+    {
+      "id": "sent-quartz-watch-crystal-1",
+      "english": "Most battery-powered watches keep accurate time thanks to a tiny piece of quartz.",
+      "japanese": "電池で動く腕時計の多くは、小さな水晶のおかげで正確に時を刻みます。",
+      "additionalInfoEn": "Quartz is a common mineral found in ordinary sand.",
+      "additionalInfoJa": "水晶（クオーツ）は、普通の砂にも含まれるありふれた鉱物です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "accurate",
+          "pos": "形容詞",
+          "meaningJa": "正確な"
+        },
+        {
+          "word": "thanks",
+          "pos": "名詞",
+          "meaningJa": "おかげ（thanks to）"
+        },
+        {
+          "word": "quartz",
+          "pos": "名詞",
+          "meaningJa": "水晶"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "thanks to",
+        "ja": "〜のおかげで"
+      },
+      "explanationJa": "「thanks to 〜」は「〜のおかげで」と、よい結果の原因を表す表現です。"
+    },
+    {
+      "id": "sent-quartz-watch-crystal-2",
+      "english": "Quartz has an unusual property: it bends slightly when electricity is applied to it.",
+      "japanese": "水晶には珍しい性質があり、電気をかけるとわずかに曲がります。",
+      "additionalInfoEn": "It also works the other way, making electricity when it is squeezed.",
+      "additionalInfoJa": "逆も起こり、押しつぶされると電気を生み出します。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "unusual",
+          "pos": "形容詞",
+          "meaningJa": "珍しい"
+        },
+        {
+          "word": "property",
+          "pos": "名詞",
+          "meaningJa": "性質"
+        },
+        {
+          "word": "slightly",
+          "pos": "副詞",
+          "meaningJa": "わずかに"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is applied to",
+        "ja": "〜に加えられる"
+      },
+      "explanationJa": "コロン（:）の後ろでは、前の「unusual property」の中身を具体的に説明しています。"
+    },
+    {
+      "id": "sent-quartz-watch-crystal-3",
+      "english": "Cut into a tiny tuning fork, the crystal vibrates 32,768 times every second.",
+      "japanese": "小さな音叉の形に切られた水晶は、1秒間に32,768回振動します。",
+      "additionalInfoEn": "This steady rhythm barely changes from day to day.",
+      "additionalInfoJa": "このリズムは日によってほとんど変わりません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "fork",
+          "pos": "名詞",
+          "meaningJa": "フォーク型のもの（tuning fork＝音叉）"
+        },
+        {
+          "word": "crystal",
+          "pos": "名詞",
+          "meaningJa": "結晶、水晶"
+        },
+        {
+          "word": "vibrates",
+          "pos": "動詞",
+          "meaningJa": "振動する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "every second",
+        "ja": "1秒ごとに"
+      },
+      "explanationJa": "文頭の「Cut into 〜」は過去分詞の分詞構文で、「〜の形に切られて」という意味です。"
+    },
+    {
+      "id": "sent-quartz-watch-crystal-4",
+      "english": "Engineers chose that number because it is exactly 2 to the power of 15.",
+      "japanese": "その数が選ばれたのは、ちょうど2の15乗だからです。",
+      "additionalInfoEn": "Fifteen twos multiplied together give 32,768.",
+      "additionalInfoJa": "2を15個掛け合わせると、32,768になります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "chose",
+          "pos": "動詞",
+          "meaningJa": "選んだ"
+        },
+        {
+          "word": "exactly",
+          "pos": "副詞",
+          "meaningJa": "ちょうど"
+        },
+        {
+          "word": "power",
+          "pos": "名詞",
+          "meaningJa": "累乗"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "to the power of",
+        "ja": "〜乗"
+      },
+      "explanationJa": "「A to the power of B」で「AのB乗」。数学でよく使う表現です。"
+    },
+    {
+      "id": "sent-quartz-watch-crystal-5",
+      "english": "A chip halves the signal fifteen times, leaving one steady tick each second.",
+      "japanese": "チップが信号を15回半分にすることで、1秒に1回の正確な刻みが残ります。",
+      "additionalInfoEn": "Many quartz watches gain or lose only about 15 seconds a month.",
+      "additionalInfoJa": "多くのクオーツ時計は、1か月で15秒ほどしかずれません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "chip",
+          "pos": "名詞",
+          "meaningJa": "チップ"
+        },
+        {
+          "word": "halves",
+          "pos": "動詞",
+          "meaningJa": "半分にする"
+        },
+        {
+          "word": "tick",
+          "pos": "名詞",
+          "meaningJa": "（時計の）1回の刻み"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "each second",
+        "ja": "1秒ごとに"
+      },
+      "explanationJa": "「leaving 〜」は分詞構文で、「その結果〜を残す」と前の動作の結果を表しています。"
+    }
+  ]
+}

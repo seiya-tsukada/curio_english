@@ -1,0 +1,167 @@
+{
+  "id": "topic-phone-vibration-motor",
+  "categoryId": "technology",
+  "titleEn": "How Your Phone Vibrates",
+  "titleJa": "スマホがブルブル震える仕組み",
+  "subtitleJa": "中にあるのは、わざとバランスを崩した小さなモーター。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-22",
+  "sentences": [
+    {
+      "id": "sent-phone-vibration-motor-1",
+      "english": "Have you ever wondered how your phone shakes in silent mode?",
+      "japanese": "マナーモードのスマホがどうやって震えるのか、不思議に思ったことはありますか。",
+      "additionalInfoEn": "No speaker is used, yet you can feel it buzz.",
+      "additionalInfoJa": "スピーカーは使われていないのに、ブルブルと震えを感じます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wondered",
+          "pos": "動詞",
+          "meaningJa": "不思議に思った"
+        },
+        {
+          "word": "shakes",
+          "pos": "動詞",
+          "meaningJa": "揺れる、震える"
+        },
+        {
+          "word": "silent",
+          "pos": "形容詞",
+          "meaningJa": "音のしない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Have you ever wondered",
+        "ja": "〜と不思議に思ったことはありますか"
+      },
+      "explanationJa": "「Have you ever + 過去分詞?」は「今までに〜したことがありますか」と経験を尋ねる形です。"
+    },
+    {
+      "id": "sent-phone-vibration-motor-2",
+      "english": "Inside many phones, there is a very small electric motor.",
+      "japanese": "多くのスマホの中には、とても小さな電気モーターが入っています。",
+      "additionalInfoEn": "Some of these motors are about as small as a shirt button.",
+      "additionalInfoJa": "その中には、シャツのボタンくらいの小さなモーターもあります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Inside",
+          "pos": "前置詞",
+          "meaningJa": "〜の中に"
+        },
+        {
+          "word": "electric",
+          "pos": "形容詞",
+          "meaningJa": "電気の"
+        },
+        {
+          "word": "motor",
+          "pos": "名詞",
+          "meaningJa": "モーター"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "there is",
+        "ja": "〜がある"
+      },
+      "explanationJa": "「There is + 単数名詞」で「〜がある」。場所を表す語句を文頭に置くこともできます。"
+    },
+    {
+      "id": "sent-phone-vibration-motor-3",
+      "english": "The motor spins a tiny weight that is not in the center.",
+      "japanese": "そのモーターは、中心からずれた位置にある小さなおもりを回します。",
+      "additionalInfoEn": "Engineers make the weight uneven on purpose.",
+      "additionalInfoJa": "技術者は、わざとおもりを片寄らせているのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "spins",
+          "pos": "動詞",
+          "meaningJa": "回す"
+        },
+        {
+          "word": "weight",
+          "pos": "名詞",
+          "meaningJa": "おもり"
+        },
+        {
+          "word": "center",
+          "pos": "名詞",
+          "meaningJa": "中心"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the center",
+        "ja": "中心に"
+      },
+      "explanationJa": "「that is not 〜」は関係代名詞で、前の「a tiny weight」を詳しく説明しています。"
+    },
+    {
+      "id": "sent-phone-vibration-motor-4",
+      "english": "Because the weight is off balance, the whole phone wobbles as it spins.",
+      "japanese": "おもりのバランスが崩れているので、回るたびにスマホ全体が揺れます。",
+      "additionalInfoEn": "A washing machine shakes for the same reason when clothes bunch up.",
+      "additionalInfoJa": "洗濯物が片寄ると洗濯機が揺れるのも、同じ理由です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "balance",
+          "pos": "名詞",
+          "meaningJa": "バランス"
+        },
+        {
+          "word": "whole",
+          "pos": "形容詞",
+          "meaningJa": "全体の"
+        },
+        {
+          "word": "wobbles",
+          "pos": "動詞",
+          "meaningJa": "ぐらぐら揺れる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "off balance",
+        "ja": "バランスを崩して"
+      },
+      "explanationJa": "「as it spins」の「as」は「〜しながら、〜するにつれて」という同時進行を表します。"
+    },
+    {
+      "id": "sent-phone-vibration-motor-5",
+      "english": "Some newer phones use a part that moves back and forth instead.",
+      "japanese": "新しいスマホの中には、代わりに前後に動く部品を使うものもあります。",
+      "additionalInfoEn": "This part can make sharp taps that feel like real button clicks.",
+      "additionalInfoJa": "この部品は、本物のボタンを押したようなキレのある振動を生み出せます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "newer",
+          "pos": "形容詞",
+          "meaningJa": "より新しい"
+        },
+        {
+          "word": "part",
+          "pos": "名詞",
+          "meaningJa": "部品"
+        },
+        {
+          "word": "instead",
+          "pos": "副詞",
+          "meaningJa": "代わりに"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "back and forth",
+        "ja": "行ったり来たり、前後に"
+      },
+      "explanationJa": "「back and forth」は「行ったり来たり」という意味で、往復する動きを表す決まった表現です。"
+    }
+  ]
+}

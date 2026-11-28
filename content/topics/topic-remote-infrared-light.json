@@ -1,0 +1,167 @@
+{
+  "id": "topic-remote-infrared-light",
+  "categoryId": "technology",
+  "titleEn": "The Secret Light of TV Remotes",
+  "titleJa": "テレビのリモコンが出す「見えない光」",
+  "subtitleJa": "スマホのカメラを使えば、その光が見えるかもしれない。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-21",
+  "sentences": [
+    {
+      "id": "sent-remote-infrared-light-1",
+      "english": "A TV remote talks to your TV using light.",
+      "japanese": "テレビのリモコンは、光を使ってテレビと会話しています。",
+      "additionalInfoEn": "There is a small bulb-like part at the front of the remote.",
+      "additionalInfoJa": "リモコンの先端には、小さな電球のような部品がついています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "remote",
+          "pos": "名詞",
+          "meaningJa": "リモコン"
+        },
+        {
+          "word": "talks",
+          "pos": "動詞",
+          "meaningJa": "話す、通信する"
+        },
+        {
+          "word": "light",
+          "pos": "名詞",
+          "meaningJa": "光"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "talk to",
+        "ja": "〜と話す"
+      },
+      "explanationJa": "「talk to 〜」は「〜に話しかける」。ここでは機械同士の通信を人のように表しています。"
+    },
+    {
+      "id": "sent-remote-infrared-light-2",
+      "english": "But this light is infrared, so human eyes cannot see it.",
+      "japanese": "でもこの光は赤外線なので、人間の目には見えません。",
+      "additionalInfoEn": "Infrared light sits just beyond red light in the rainbow.",
+      "additionalInfoJa": "赤外線は、虹の赤い光のすぐ外側にある光です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "infrared",
+          "pos": "形容詞",
+          "meaningJa": "赤外線の"
+        },
+        {
+          "word": "human",
+          "pos": "形容詞",
+          "meaningJa": "人間の"
+        },
+        {
+          "word": "eyes",
+          "pos": "名詞",
+          "meaningJa": "目"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "cannot see it",
+        "ja": "それが見えない"
+      },
+      "explanationJa": "「infra-」は「下の」という意味で、赤よりも外側にある見えない光を指します。"
+    },
+    {
+      "id": "sent-remote-infrared-light-3",
+      "english": "When you press a button, the light blinks very quickly in a pattern.",
+      "japanese": "ボタンを押すと、光が決まったパターンでとても速く点滅します。",
+      "additionalInfoEn": "Each button has its own pattern, like a secret code.",
+      "additionalInfoJa": "ボタンごとに、暗号のような独自のパターンがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "blinks",
+          "pos": "動詞",
+          "meaningJa": "点滅する"
+        },
+        {
+          "word": "quickly",
+          "pos": "副詞",
+          "meaningJa": "速く"
+        },
+        {
+          "word": "pattern",
+          "pos": "名詞",
+          "meaningJa": "パターン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in a pattern",
+        "ja": "決まったパターンで"
+      },
+      "explanationJa": "「very quickly」のように、副詞は動詞の後ろに置いて動作の様子を説明します。"
+    },
+    {
+      "id": "sent-remote-infrared-light-4",
+      "english": "The TV reads the pattern and changes the channel or volume.",
+      "japanese": "テレビはそのパターンを読み取って、チャンネルや音量を変えます。",
+      "additionalInfoEn": "This is why the remote must point toward the TV.",
+      "additionalInfoJa": "だからリモコンはテレビの方へ向ける必要があるのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "reads",
+          "pos": "動詞",
+          "meaningJa": "読み取る"
+        },
+        {
+          "word": "channel",
+          "pos": "名詞",
+          "meaningJa": "チャンネル"
+        },
+        {
+          "word": "volume",
+          "pos": "名詞",
+          "meaningJa": "音量"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "change the channel",
+        "ja": "チャンネルを変える"
+      },
+      "explanationJa": "「A or B」で「AまたはB」。ここでは変える対象を二つ並べています。"
+    },
+    {
+      "id": "sent-remote-infrared-light-5",
+      "english": "Many phone cameras can see this light as a purple glow.",
+      "japanese": "多くのスマホのカメラでは、この光が紫っぽく光って見えます。",
+      "additionalInfoEn": "Point a remote at your camera and press a button to try it.",
+      "additionalInfoJa": "リモコンをカメラに向けてボタンを押し、試してみましょう。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "cameras",
+          "pos": "名詞",
+          "meaningJa": "カメラ"
+        },
+        {
+          "word": "purple",
+          "pos": "形容詞",
+          "meaningJa": "紫色の"
+        },
+        {
+          "word": "glow",
+          "pos": "名詞",
+          "meaningJa": "光、輝き"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "see A as B",
+        "ja": "AをBとして見る"
+      },
+      "explanationJa": "「see A as B」で「AをBとして見る」。ここでは「紫の光として映る」という意味です。"
+    }
+  ]
+}

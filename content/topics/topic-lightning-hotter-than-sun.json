@@ -1,0 +1,167 @@
+{
+  "id": "topic-lightning-hotter-than-sun",
+  "categoryId": "space-science",
+  "titleEn": "Lightning Is Hotter Than the Sun's Surface",
+  "titleJa": "雷が太陽の表面より熱い理由",
+  "subtitleJa": "一瞬の稲妻が生み出す、すさまじい熱と雷鳴の正体。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-15",
+  "sentences": [
+    {
+      "id": "sent-lightning-hotter-than-sun-1",
+      "english": "A bolt of lightning can be about five times hotter than the Sun's surface.",
+      "japanese": "雷の稲妻は、太陽の表面のおよそ5倍の熱さになることがあります。",
+      "additionalInfoEn": "Lightning can reach around 30,000 degrees Celsius for a moment.",
+      "additionalInfoJa": "雷は一瞬、摂氏およそ3万度に達することがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "bolt",
+          "pos": "名詞",
+          "meaningJa": "稲妻の一撃"
+        },
+        {
+          "word": "lightning",
+          "pos": "名詞",
+          "meaningJa": "雷、稲妻"
+        },
+        {
+          "word": "surface",
+          "pos": "名詞",
+          "meaningJa": "表面"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "five times hotter than",
+        "ja": "〜の5倍熱い"
+      },
+      "explanationJa": "「数字 + times + 比較級 + than」で「〜の…倍〜だ」という倍数表現になります。"
+    },
+    {
+      "id": "sent-lightning-hotter-than-sun-2",
+      "english": "It is a massive electric spark that jumps between clouds and the ground.",
+      "japanese": "雷とは、雲と地面の間を飛ぶ巨大な電気の火花です。",
+      "additionalInfoEn": "Electric charges build up inside storm clouds before a strike.",
+      "additionalInfoJa": "落雷の前には、雷雲の中に電気がたまっていきます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "massive",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        },
+        {
+          "word": "electric",
+          "pos": "形容詞",
+          "meaningJa": "電気の"
+        },
+        {
+          "word": "spark",
+          "pos": "名詞",
+          "meaningJa": "火花"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "jumps between clouds and the ground",
+        "ja": "雲と地面の間を飛ぶ"
+      },
+      "explanationJa": "「between A and B」で「AとBの間に」という意味です。「that」以下が「spark」を詳しく説明しています。"
+    },
+    {
+      "id": "sent-lightning-hotter-than-sun-3",
+      "english": "This intense heat makes the surrounding air expand almost explosively.",
+      "japanese": "この強烈な熱によって、周りの空気がほとんど爆発するように膨張します。",
+      "additionalInfoEn": "The air expands so quickly that it creates a powerful shock wave.",
+      "additionalInfoJa": "空気があまりに急に膨らむため、強力な衝撃波が生まれます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "intense",
+          "pos": "形容詞",
+          "meaningJa": "強烈な"
+        },
+        {
+          "word": "surrounding",
+          "pos": "形容詞",
+          "meaningJa": "周囲の"
+        },
+        {
+          "word": "explosively",
+          "pos": "副詞",
+          "meaningJa": "爆発的に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "makes the surrounding air expand",
+        "ja": "周りの空気を膨張させる"
+      },
+      "explanationJa": "「make + 名詞 + 動詞の原形」は「〜に…させる」という使役の形です。物が主語でもよく使われます。"
+    },
+    {
+      "id": "sent-lightning-hotter-than-sun-4",
+      "english": "That sudden expansion is what we hear as the sound of thunder.",
+      "japanese": "その急な膨張こそが、私たちが雷鳴として耳にしている音です。",
+      "additionalInfoEn": "Thunder can usually be heard up to about 15 kilometers away.",
+      "additionalInfoJa": "雷鳴はふつう、およそ15キロメートル先まで聞こえます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sudden",
+          "pos": "形容詞",
+          "meaningJa": "突然の"
+        },
+        {
+          "word": "expansion",
+          "pos": "名詞",
+          "meaningJa": "膨張"
+        },
+        {
+          "word": "thunder",
+          "pos": "名詞",
+          "meaningJa": "雷鳴"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "what we hear as",
+        "ja": "私たちが〜として聞くもの"
+      },
+      "explanationJa": "「what + 主語 + 動詞」は「〜するもの」という名詞のまとまりです。「hear A as B」は「AをBとして聞く」です。"
+    },
+    {
+      "id": "sent-lightning-hotter-than-sun-5",
+      "english": "Because light travels faster than sound, we see the flash first.",
+      "japanese": "光は音より速く進むので、私たちはまず稲光を目にします。",
+      "additionalInfoEn": "Count the seconds until the thunder and divide by three to estimate kilometers.",
+      "additionalInfoJa": "雷鳴までの秒数を数えて3で割ると、だいたいの距離（キロ）がわかります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "travels",
+          "pos": "動詞",
+          "meaningJa": "進む、移動する"
+        },
+        {
+          "word": "faster",
+          "pos": "副詞",
+          "meaningJa": "より速く"
+        },
+        {
+          "word": "flash",
+          "pos": "名詞",
+          "meaningJa": "閃光"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "see the flash first",
+        "ja": "まず閃光を見る"
+      },
+      "explanationJa": "「Because + 文,」を文頭に置くと理由を先に示せます。「first」は「最初に」という副詞です。"
+    }
+  ]
+}

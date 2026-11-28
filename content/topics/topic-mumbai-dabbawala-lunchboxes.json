@@ -1,0 +1,167 @@
+{
+  "id": "topic-mumbai-dabbawala-lunchboxes",
+  "categoryId": "world-culture",
+  "titleEn": "Mumbai's Amazing Lunchbox Delivery",
+  "titleJa": "ムンバイの弁当配達人「ダッバーワーラー」の驚きの仕組み",
+  "subtitleJa": "コンピューターなしで、毎日20万個の弁当を届ける。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-16",
+  "sentences": [
+    {
+      "id": "sent-mumbai-dabbawala-lunchboxes-1",
+      "english": "In Mumbai, India, thousands of workers deliver home-cooked lunches to offices every day.",
+      "japanese": "インドのムンバイでは、何千人もの配達人が毎日、家庭で作られた昼食をオフィスに届けています。",
+      "additionalInfoEn": "These delivery workers are known as dabbawalas.",
+      "additionalInfoJa": "この配達人たちは「ダッバーワーラー」と呼ばれています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "deliver",
+          "pos": "動詞",
+          "meaningJa": "配達する"
+        },
+        {
+          "word": "home-cooked",
+          "pos": "形容詞",
+          "meaningJa": "家庭で作った"
+        },
+        {
+          "word": "lunches",
+          "pos": "名詞",
+          "meaningJa": "昼食"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "deliver A to B",
+        "ja": "AをBに届ける"
+      },
+      "explanationJa": "「home-cooked」のようにハイフンでつなぐと、名詞を修飾する1語の形容詞として使えます。"
+    },
+    {
+      "id": "sent-mumbai-dabbawala-lunchboxes-2",
+      "english": "They pick up lunchboxes from homes in the morning and carry them across the city.",
+      "japanese": "朝に家々から弁当箱を集め、街の反対側まで運んでいきます。",
+      "additionalInfoEn": "Families can send fresh, warm food to workers far away.",
+      "additionalInfoJa": "家族は、遠くで働く人に作りたての温かい食事を届けられます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "pick",
+          "pos": "動詞",
+          "meaningJa": "拾う、集める"
+        },
+        {
+          "word": "lunchboxes",
+          "pos": "名詞",
+          "meaningJa": "弁当箱"
+        },
+        {
+          "word": "carry",
+          "pos": "動詞",
+          "meaningJa": "運ぶ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "pick up",
+        "ja": "受け取りに行く、集める"
+      },
+      "explanationJa": "「pick up」は「拾う」のほか、「（人や物を）迎えに行く・受け取る」という意味でもよく使います。"
+    },
+    {
+      "id": "sent-mumbai-dabbawala-lunchboxes-3",
+      "english": "They use bicycles, carts, and crowded commuter trains to move the boxes quickly.",
+      "japanese": "弁当箱を素早く運ぶために、自転車や手押し車、混み合う通勤電車を使います。",
+      "additionalInfoEn": "In total, they handle about 200,000 lunchboxes a day.",
+      "additionalInfoJa": "合計すると、1日におよそ20万個もの弁当箱を扱っています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "carts",
+          "pos": "名詞",
+          "meaningJa": "手押し車、荷車"
+        },
+        {
+          "word": "crowded",
+          "pos": "形容詞",
+          "meaningJa": "混雑した"
+        },
+        {
+          "word": "commuter",
+          "pos": "名詞",
+          "meaningJa": "通勤者"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "commuter trains",
+        "ja": "通勤電車"
+      },
+      "explanationJa": "「commuter train」のように、名詞を2つ並べて「〜用の…」という意味を作れます。"
+    },
+    {
+      "id": "sent-mumbai-dabbawala-lunchboxes-4",
+      "english": "Instead of computers, they rely on simple codes painted on each lid.",
+      "japanese": "コンピューターの代わりに、それぞれのふたに描かれたシンプルな記号に頼っています。",
+      "additionalInfoEn": "Colors and symbols show the area, the station, and the building.",
+      "additionalInfoJa": "色や記号で、地域や駅、建物がわかるようになっています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "rely",
+          "pos": "動詞",
+          "meaningJa": "頼る"
+        },
+        {
+          "word": "codes",
+          "pos": "名詞",
+          "meaningJa": "記号、暗号"
+        },
+        {
+          "word": "lid",
+          "pos": "名詞",
+          "meaningJa": "ふた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rely on",
+        "ja": "〜に頼る"
+      },
+      "explanationJa": "「painted on each lid」は過去分詞が後ろから名詞を説明する形で、「ふたに描かれた」の意味です。"
+    },
+    {
+      "id": "sent-mumbai-dabbawala-lunchboxes-5",
+      "english": "The system has run for more than a century and rarely makes mistakes.",
+      "japanese": "このしくみは100年以上続いていて、ミスはほとんどありません。",
+      "additionalInfoEn": "Business schools have studied it as a model of teamwork.",
+      "additionalInfoJa": "ビジネススクールでも、チームワークのお手本として研究されてきました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "system",
+          "pos": "名詞",
+          "meaningJa": "しくみ、システム"
+        },
+        {
+          "word": "century",
+          "pos": "名詞",
+          "meaningJa": "世紀、100年"
+        },
+        {
+          "word": "rarely",
+          "pos": "副詞",
+          "meaningJa": "めったに〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rarely makes mistakes",
+        "ja": "めったにミスをしない"
+      },
+      "explanationJa": "「rarely」は「めったに〜しない」。not を使わなくても否定に近い意味になる副詞です。"
+    }
+  ]
+}

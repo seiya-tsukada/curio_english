@@ -1,0 +1,167 @@
+{
+  "id": "topic-black-friday-name",
+  "categoryId": "business-economy",
+  "titleEn": "Where the Name Black Friday Came From",
+  "titleJa": "「ブラックフライデー」という名前の本当の由来",
+  "subtitleJa": "最初は、お店ではなく警察が使った言葉だった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-12",
+  "sentences": [
+    {
+      "id": "sent-black-friday-name-1",
+      "english": "Black Friday is the busy shopping day after Thanksgiving in America.",
+      "japanese": "ブラックフライデーは、アメリカの感謝祭の翌日にある大混雑の買い物日です。",
+      "additionalInfoEn": "Thanksgiving falls on the fourth Thursday of November.",
+      "additionalInfoJa": "感謝祭は11月の第4木曜日にあたります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "busy",
+          "pos": "形容詞",
+          "meaningJa": "にぎやかな、混雑した"
+        },
+        {
+          "word": "shopping",
+          "pos": "名詞",
+          "meaningJa": "買い物"
+        },
+        {
+          "word": "Thanksgiving",
+          "pos": "名詞",
+          "meaningJa": "感謝祭"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "day after Thanksgiving",
+        "ja": "感謝祭の翌日"
+      },
+      "explanationJa": "「after」は時間の「〜の後に」を表します。「the day after 〜」で「〜の翌日」です。"
+    },
+    {
+      "id": "sent-black-friday-name-2",
+      "english": "Many people believe the name comes from store accounts going into the black.",
+      "japanese": "多くの人は、この名前はお店の帳簿が黒字になることに由来すると信じています。",
+      "additionalInfoEn": "In accounting, red ink shows a loss and black ink shows a profit.",
+      "additionalInfoJa": "会計では、赤字は損失を、黒字は利益を表します。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "believe",
+          "pos": "動詞",
+          "meaningJa": "信じる"
+        },
+        {
+          "word": "accounts",
+          "pos": "名詞",
+          "meaningJa": "帳簿、会計"
+        },
+        {
+          "word": "black",
+          "pos": "名詞",
+          "meaningJa": "黒字"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜に由来する"
+      },
+      "explanationJa": "「come from 〜」は「〜出身」だけでなく「〜に由来する」という意味でも使えます。"
+    },
+    {
+      "id": "sent-black-friday-name-3",
+      "english": "But the name was actually first used by police in Philadelphia.",
+      "japanese": "しかし、この名前は実はフィラデルフィアの警察が最初に使ったものでした。",
+      "additionalInfoEn": "This happened in the 1950s and 1960s.",
+      "additionalInfoJa": "これは1950年代から1960年代にかけてのことです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "actually",
+          "pos": "副詞",
+          "meaningJa": "実は"
+        },
+        {
+          "word": "first",
+          "pos": "副詞",
+          "meaningJa": "最初に"
+        },
+        {
+          "word": "police",
+          "pos": "名詞",
+          "meaningJa": "警察"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "was first used by",
+        "ja": "〜によって最初に使われた"
+      },
+      "explanationJa": "「be + 過去分詞 + by 〜」は受け身で、「〜によって…される」という意味です。"
+    },
+    {
+      "id": "sent-black-friday-name-4",
+      "english": "Huge crowds and traffic jams made that day a nightmare for officers.",
+      "japanese": "大勢の人混みと交通渋滞で、その日は警官たちにとって悪夢のような一日でした。",
+      "additionalInfoEn": "Shoppers and fans of a big football game filled the city.",
+      "additionalInfoJa": "買い物客と、大きなアメフトの試合を見に来たファンで街があふれたのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "crowds",
+          "pos": "名詞",
+          "meaningJa": "人混み、群衆"
+        },
+        {
+          "word": "traffic",
+          "pos": "名詞",
+          "meaningJa": "交通"
+        },
+        {
+          "word": "nightmare",
+          "pos": "名詞",
+          "meaningJa": "悪夢"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "traffic jams",
+        "ja": "交通渋滞"
+      },
+      "explanationJa": "「make + A + B」で「AをBにする」という形です。ここでは「その日を悪夢にした」という意味です。"
+    },
+    {
+      "id": "sent-black-friday-name-5",
+      "english": "Stores later gave the dark name a happier story about profits.",
+      "japanese": "その後、お店はこの暗い名前に、利益にまつわる明るい物語を与えました。",
+      "additionalInfoEn": "The 'in the black' explanation became popular in the 1980s.",
+      "additionalInfoJa": "「黒字になる」という説明が広まったのは1980年代のことです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "later",
+          "pos": "副詞",
+          "meaningJa": "後に"
+        },
+        {
+          "word": "dark",
+          "pos": "形容詞",
+          "meaningJa": "暗い"
+        },
+        {
+          "word": "profits",
+          "pos": "名詞",
+          "meaningJa": "利益"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a happier story",
+        "ja": "もっと明るい話"
+      },
+      "explanationJa": "「give + 物 + 物」で「〜に…を与える」です。「happier」は「happy」の比較級です。"
+    }
+  ]
+}

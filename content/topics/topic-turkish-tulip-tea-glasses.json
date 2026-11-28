@@ -1,0 +1,167 @@
+{
+  "id": "topic-turkish-tulip-tea-glasses",
+  "categoryId": "world-culture",
+  "titleEn": "Turkey's Tulip-Shaped Tea Glasses",
+  "titleJa": "トルコの紅茶がチューリップ形のグラスで出される理由",
+  "subtitleJa": "二段重ねのポットと小さなグラスが生む、くつろぎの時間。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-25",
+  "sentences": [
+    {
+      "id": "sent-turkish-tulip-tea-glasses-1",
+      "english": "In Turkey, tea is served in small glasses shaped like tulips.",
+      "japanese": "トルコでは、紅茶はチューリップのような形をした小さなグラスで出されます。",
+      "additionalInfoEn": "The tulip is also a famous symbol in Turkish art.",
+      "additionalInfoJa": "チューリップは、トルコの美術でもよく知られたモチーフです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Turkey",
+          "pos": "名詞",
+          "meaningJa": "トルコ"
+        },
+        {
+          "word": "served",
+          "pos": "動詞",
+          "meaningJa": "出される"
+        },
+        {
+          "word": "shaped",
+          "pos": "形容詞",
+          "meaningJa": "〜の形をした"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "shaped like",
+        "ja": "〜のような形をした"
+      },
+      "explanationJa": "「shaped like + 名詞」で「〜のような形の」。物の見た目を説明するときに便利です。"
+    },
+    {
+      "id": "sent-turkish-tulip-tea-glasses-2",
+      "english": "The thin glass lets you see the beautiful red color of the tea.",
+      "japanese": "薄いグラスなので、紅茶の美しい赤い色を眺めることができます。",
+      "additionalInfoEn": "People hold the glass by its edge so they don't burn their fingers.",
+      "additionalInfoJa": "指をやけどしないように、グラスのふちを持って飲みます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "thin",
+          "pos": "形容詞",
+          "meaningJa": "薄い"
+        },
+        {
+          "word": "lets",
+          "pos": "動詞",
+          "meaningJa": "〜させる"
+        },
+        {
+          "word": "beautiful",
+          "pos": "形容詞",
+          "meaningJa": "美しい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "lets you see",
+        "ja": "見せてくれる"
+      },
+      "explanationJa": "「let + 人 + 動詞の原形」で「人に〜させてあげる」。許可や可能にすることを表します。"
+    },
+    {
+      "id": "sent-turkish-tulip-tea-glasses-3",
+      "english": "The tea is made in a special pot with two levels.",
+      "japanese": "紅茶は、二段になった特別なポットでいれます。",
+      "additionalInfoEn": "Water boils in the bottom pot while strong tea brews on top.",
+      "additionalInfoJa": "下のポットでお湯を沸かし、その上で濃い紅茶を煮出します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "special",
+          "pos": "形容詞",
+          "meaningJa": "特別な"
+        },
+        {
+          "word": "pot",
+          "pos": "名詞",
+          "meaningJa": "ポット"
+        },
+        {
+          "word": "levels",
+          "pos": "名詞",
+          "meaningJa": "段、層"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "with two levels",
+        "ja": "二段の"
+      },
+      "explanationJa": "「with + 名詞」は「〜のついた、〜を持つ」という意味で、名詞の特徴を後ろから説明します。"
+    },
+    {
+      "id": "sent-turkish-tulip-tea-glasses-4",
+      "english": "Each person can choose to drink the tea strong or light.",
+      "japanese": "一人ひとりが、紅茶を濃いめで飲むか薄めで飲むかを選べます。",
+      "additionalInfoEn": "Hot water from the bottom pot is added to make it lighter.",
+      "additionalInfoJa": "薄くしたいときは、下のポットのお湯を足します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Each",
+          "pos": "形容詞",
+          "meaningJa": "それぞれの"
+        },
+        {
+          "word": "choose",
+          "pos": "動詞",
+          "meaningJa": "選ぶ"
+        },
+        {
+          "word": "strong",
+          "pos": "形容詞",
+          "meaningJa": "濃い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "choose to",
+        "ja": "〜することを選ぶ"
+      },
+      "explanationJa": "「strong」は飲み物について使うと「濃い」、反対の「薄い」は light や weak で表します。"
+    },
+    {
+      "id": "sent-turkish-tulip-tea-glasses-5",
+      "english": "Shop owners often offer tea to customers while they look around.",
+      "japanese": "お店の人は、お客さんが店内を見ている間にお茶をすすめることがよくあります。",
+      "additionalInfoEn": "A small glass of tea is a friendly way to start a chat.",
+      "additionalInfoJa": "小さなグラス1杯の紅茶は、おしゃべりを始める気さくなきっかけです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "owners",
+          "pos": "名詞",
+          "meaningJa": "持ち主、店主"
+        },
+        {
+          "word": "offer",
+          "pos": "動詞",
+          "meaningJa": "すすめる、差し出す"
+        },
+        {
+          "word": "customers",
+          "pos": "名詞",
+          "meaningJa": "お客さん"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "look around",
+        "ja": "見て回る"
+      },
+      "explanationJa": "「offer A to B」で「AをBにすすめる」。「while 〜」は「〜している間に」です。"
+    }
+  ]
+}

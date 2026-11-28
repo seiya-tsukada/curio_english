@@ -1,0 +1,167 @@
+{
+  "id": "topic-pink-flamingos",
+  "categoryId": "space-science",
+  "titleEn": "Why Flamingos Are Pink",
+  "titleJa": "フラミンゴがピンク色になる理由",
+  "subtitleJa": "あの鮮やかなピンクは、生まれつきの色ではなかった。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-20",
+  "sentences": [
+    {
+      "id": "sent-pink-flamingos-1",
+      "english": "Flamingos are not born with their famous pink feathers.",
+      "japanese": "フラミンゴは、あの有名なピンク色の羽を持って生まれるわけではありません。",
+      "additionalInfoEn": "Baby flamingos have soft gray or white feathers.",
+      "additionalInfoJa": "フラミンゴのひなは、やわらかい灰色や白い羽をしています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "Flamingos",
+          "pos": "名詞",
+          "meaningJa": "フラミンゴ（複数形）"
+        },
+        {
+          "word": "born",
+          "pos": "動詞",
+          "meaningJa": "生まれた（bear の過去分詞）"
+        },
+        {
+          "word": "feathers",
+          "pos": "名詞",
+          "meaningJa": "羽"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "are not born with",
+        "ja": "〜を持って生まれるわけではない"
+      },
+      "explanationJa": "「be born」で「生まれる」という意味です。「be born with 〜」なら「〜を持って生まれる」となります。"
+    },
+    {
+      "id": "sent-pink-flamingos-2",
+      "english": "Their color comes from the food they eat.",
+      "japanese": "その色は、彼らが食べる食べ物から来ています。",
+      "additionalInfoEn": "They eat tiny shrimp and algae that live in salty lakes.",
+      "additionalInfoJa": "彼らは塩分の多い湖にすむ小さなエビや藻を食べています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "color",
+          "pos": "名詞",
+          "meaningJa": "色"
+        },
+        {
+          "word": "comes",
+          "pos": "動詞",
+          "meaningJa": "来る"
+        },
+        {
+          "word": "food",
+          "pos": "名詞",
+          "meaningJa": "食べ物"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜から来ている"
+      },
+      "explanationJa": "「come from 〜」は「〜に由来する」という意味でも使えます。出身を言う「I come from 〜」と同じ形です。"
+    },
+    {
+      "id": "sent-pink-flamingos-3",
+      "english": "This food contains natural colors similar to those in carrots.",
+      "japanese": "この食べ物には、ニンジンに含まれるのと似た天然の色素が入っています。",
+      "additionalInfoEn": "These orange and red colors are called carotenoids.",
+      "additionalInfoJa": "このオレンジや赤の色素は「カロテノイド」と呼ばれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "contains",
+          "pos": "動詞",
+          "meaningJa": "含む"
+        },
+        {
+          "word": "natural",
+          "pos": "形容詞",
+          "meaningJa": "天然の、自然の"
+        },
+        {
+          "word": "carrots",
+          "pos": "名詞",
+          "meaningJa": "ニンジン（複数形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "similar to",
+        "ja": "〜に似ている"
+      },
+      "explanationJa": "「similar to 〜」で「〜に似た」という意味です。「those」は前に出た「colors」の代わりに使われています。"
+    },
+    {
+      "id": "sent-pink-flamingos-4",
+      "english": "Slowly, these colors build up in their feathers.",
+      "japanese": "少しずつ、これらの色素が羽にたまっていきます。",
+      "additionalInfoEn": "It usually takes a few years for a flamingo to turn fully pink.",
+      "additionalInfoJa": "フラミンゴが完全にピンク色になるには、ふつう数年かかります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Slowly",
+          "pos": "副詞",
+          "meaningJa": "ゆっくりと、少しずつ"
+        },
+        {
+          "word": "build up",
+          "pos": "動詞句",
+          "meaningJa": "たまる、蓄積する"
+        },
+        {
+          "word": "feathers",
+          "pos": "名詞",
+          "meaningJa": "羽"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "build up",
+        "ja": "だんだんたまる"
+      },
+      "explanationJa": "「build up」は「少しずつ積み重なる」という意味の句動詞です。疲れやストレスがたまるときにも使えます。"
+    },
+    {
+      "id": "sent-pink-flamingos-5",
+      "english": "Without this special food, flamingos slowly turn pale.",
+      "japanese": "この特別な食べ物がないと、フラミンゴはだんだん色が薄くなります。",
+      "additionalInfoEn": "That is why zoos give their flamingos food with added colors.",
+      "additionalInfoJa": "そのため動物園では、色素を加えたえさをフラミンゴに与えています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Without",
+          "pos": "前置詞",
+          "meaningJa": "〜なしで"
+        },
+        {
+          "word": "special",
+          "pos": "形容詞",
+          "meaningJa": "特別な"
+        },
+        {
+          "word": "pale",
+          "pos": "形容詞",
+          "meaningJa": "（色が）薄い、青白い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turn pale",
+        "ja": "色が薄くなる"
+      },
+      "explanationJa": "「turn + 形容詞」で「〜の状態に変わる」という意味です。「turn red（赤くなる）」なども同じ形です。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-dolphins-half-asleep",
+  "categoryId": "space-science",
+  "titleEn": "Dolphins Sleep With Half Their Brain",
+  "titleJa": "イルカが脳の半分ずつ眠る理由",
+  "subtitleJa": "海で暮らすイルカが身につけた、驚くべき眠り方。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-15",
+  "sentences": [
+    {
+      "id": "sent-dolphins-half-asleep-1",
+      "english": "Dolphins have a remarkable way of sleeping without fully losing consciousness.",
+      "japanese": "イルカは、完全には意識を失わずに眠るという驚くべき方法を持っています。",
+      "additionalInfoEn": "Unlike humans, they cannot simply fall into a deep sleep anywhere.",
+      "additionalInfoJa": "人間とは違い、イルカはどこでも気軽に深く眠るわけにはいきません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "remarkable",
+          "pos": "形容詞",
+          "meaningJa": "注目すべき、驚くべき"
+        },
+        {
+          "word": "fully",
+          "pos": "副詞",
+          "meaningJa": "完全に"
+        },
+        {
+          "word": "consciousness",
+          "pos": "名詞",
+          "meaningJa": "意識"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a remarkable way of sleeping",
+        "ja": "驚くべき眠り方"
+      },
+      "explanationJa": "「a way of + 動詞ing」で「〜する方法」という意味です。「without + 動詞ing」は「〜せずに」です。"
+    },
+    {
+      "id": "sent-dolphins-half-asleep-2",
+      "english": "Only one half of the brain rests at a time.",
+      "japanese": "一度に休むのは、脳の半分だけです。",
+      "additionalInfoEn": "The other half stays awake and keeps watch.",
+      "additionalInfoJa": "もう半分は目を覚ましたまま、周りを見張っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "half",
+          "pos": "名詞",
+          "meaningJa": "半分"
+        },
+        {
+          "word": "brain",
+          "pos": "名詞",
+          "meaningJa": "脳"
+        },
+        {
+          "word": "rests",
+          "pos": "動詞",
+          "meaningJa": "休む"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at a time",
+        "ja": "一度に"
+      },
+      "explanationJa": "「at a time」は「一度に、同時に」という意味の決まった表現です。「one at a time（一つずつ）」も便利です。"
+    },
+    {
+      "id": "sent-dolphins-half-asleep-3",
+      "english": "Meanwhile, the eye on the opposite side usually stays open.",
+      "japanese": "その間、眠っている側と反対の目はたいてい開いたままです。",
+      "additionalInfoEn": "The left half of the brain controls the right eye, and vice versa.",
+      "additionalInfoJa": "脳の左半分が右目を、右半分が左目をコントロールしています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Meanwhile",
+          "pos": "副詞",
+          "meaningJa": "その間に"
+        },
+        {
+          "word": "opposite",
+          "pos": "形容詞",
+          "meaningJa": "反対の"
+        },
+        {
+          "word": "usually",
+          "pos": "副詞",
+          "meaningJa": "たいてい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stays open",
+        "ja": "開いたままである"
+      },
+      "explanationJa": "「stay + 形容詞」で「〜のままでいる」という意味です。「stay calm（落ち着いたままでいる）」なども同じです。"
+    },
+    {
+      "id": "sent-dolphins-half-asleep-4",
+      "english": "This is essential because dolphins must consciously swim up to breathe air.",
+      "japanese": "イルカは意識して水面まで泳ぎ、空気を吸わなければならないため、これは欠かせません。",
+      "additionalInfoEn": "Unlike fish, dolphins are mammals and have lungs instead of gills.",
+      "additionalInfoJa": "魚とは違い、イルカは哺乳類で、エラではなく肺を持っています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "essential",
+          "pos": "形容詞",
+          "meaningJa": "不可欠な"
+        },
+        {
+          "word": "consciously",
+          "pos": "副詞",
+          "meaningJa": "意識的に"
+        },
+        {
+          "word": "breathe",
+          "pos": "動詞",
+          "meaningJa": "呼吸する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "swim up to breathe",
+        "ja": "呼吸するために浮上する"
+      },
+      "explanationJa": "「to + 動詞の原形」は「〜するために」と目的を表します。「must」は強い必要性を示す助動詞です。"
+    },
+    {
+      "id": "sent-dolphins-half-asleep-5",
+      "english": "After a while, the two halves switch roles so both can recover.",
+      "japanese": "しばらくすると両方が回復できるよう、左右の脳が役割を交代します。",
+      "additionalInfoEn": "Some birds sleep this way too, even while flying long distances.",
+      "additionalInfoJa": "鳥の中にも、長い距離を飛びながらこの方法で眠るものがいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "while",
+          "pos": "名詞",
+          "meaningJa": "しばらくの間"
+        },
+        {
+          "word": "switch",
+          "pos": "動詞",
+          "meaningJa": "交代する、切り替える"
+        },
+        {
+          "word": "recover",
+          "pos": "動詞",
+          "meaningJa": "回復する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "switch roles",
+        "ja": "役割を交代する"
+      },
+      "explanationJa": "「so (that) + 文」で「〜できるように」と目的を表します。「after a while」は「しばらくして」です。"
+    }
+  ]
+}

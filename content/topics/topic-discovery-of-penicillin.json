@@ -1,0 +1,167 @@
+{
+  "id": "topic-discovery-of-penicillin",
+  "categoryId": "history",
+  "titleEn": "The Messy Lab That Gave Us Penicillin",
+  "titleJa": "散らかった研究室から生まれたペニシリン",
+  "subtitleJa": "休暇明けに見つけたカビが、医学の歴史を変えました。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-16",
+  "sentences": [
+    {
+      "id": "sent-discovery-of-penicillin-1",
+      "english": "In 1928, Scottish scientist Alexander Fleming returned from a summer vacation.",
+      "japanese": "1928年、スコットランド出身の科学者アレクサンダー・フレミングが夏休みから戻りました。",
+      "additionalInfoEn": "Before leaving, he had left dishes of bacteria on his lab bench.",
+      "additionalInfoJa": "出かける前、彼は細菌を育てた皿を実験台の上に置いたままにしていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Scottish",
+          "pos": "形容詞",
+          "meaningJa": "スコットランドの"
+        },
+        {
+          "word": "scientist",
+          "pos": "名詞",
+          "meaningJa": "科学者"
+        },
+        {
+          "word": "returned",
+          "pos": "動詞",
+          "meaningJa": "戻った"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "returned from",
+        "ja": "〜から戻った"
+      },
+      "explanationJa": "「return from 〜」で「〜から戻る」。旅行や出張から帰ったときによく使います。"
+    },
+    {
+      "id": "sent-discovery-of-penicillin-2",
+      "english": "He noticed that mold had grown on one of the dishes.",
+      "japanese": "彼は、皿のひとつにカビが生えていることに気づきました。",
+      "additionalInfoEn": "The mold had probably floated in from another lab in the building.",
+      "additionalInfoJa": "そのカビはおそらく、建物内の別の研究室から飛んできたものでした。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "noticed",
+          "pos": "動詞",
+          "meaningJa": "気づいた"
+        },
+        {
+          "word": "mold",
+          "pos": "名詞",
+          "meaningJa": "カビ"
+        },
+        {
+          "word": "grown",
+          "pos": "動詞",
+          "meaningJa": "生えた（growの過去分詞）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "noticed that",
+        "ja": "〜ということに気づいた"
+      },
+      "explanationJa": "「notice that 〜」で「〜ということに気づく」。目や耳で何かに気づくときに使います。"
+    },
+    {
+      "id": "sent-discovery-of-penicillin-3",
+      "english": "Strangely, the bacteria around the mold had been killed.",
+      "japanese": "不思議なことに、カビの周りの細菌は死んでいました。",
+      "additionalInfoEn": "The mold was releasing a substance that stopped bacteria from growing.",
+      "additionalInfoJa": "そのカビは、細菌が増えるのを防ぐ物質を出していたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Strangely",
+          "pos": "副詞",
+          "meaningJa": "不思議なことに"
+        },
+        {
+          "word": "bacteria",
+          "pos": "名詞",
+          "meaningJa": "細菌"
+        },
+        {
+          "word": "around",
+          "pos": "前置詞",
+          "meaningJa": "〜の周りの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "had been killed",
+        "ja": "殺されていた"
+      },
+      "explanationJa": "「Strangely」のように文頭に副詞を置くと、話し手の驚きや感想を先に伝えられます。"
+    },
+    {
+      "id": "sent-discovery-of-penicillin-4",
+      "english": "He named the substance penicillin, but producing it in large amounts proved difficult.",
+      "japanese": "彼はその物質をペニシリンと名付けましたが、大量に作るのは難しいと分かりました。",
+      "additionalInfoEn": "For about ten years, few people paid attention to his discovery.",
+      "additionalInfoJa": "約10年間、彼の発見に注目する人はほとんどいませんでした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "名付けた"
+        },
+        {
+          "word": "amounts",
+          "pos": "名詞",
+          "meaningJa": "量"
+        },
+        {
+          "word": "proved",
+          "pos": "動詞",
+          "meaningJa": "〜だと分かった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in large amounts",
+        "ja": "大量に"
+      },
+      "explanationJa": "「prove + 形容詞」で「〜だと分かる・判明する」。やってみた結果を伝えるときに使います。"
+    },
+    {
+      "id": "sent-discovery-of-penicillin-5",
+      "english": "In the 1940s, a team at Oxford turned it into a life-saving medicine.",
+      "japanese": "1940年代、オックスフォードの研究チームがそれを命を救う薬に変えました。",
+      "additionalInfoEn": "In 1945, Fleming shared the Nobel Prize with Howard Florey and Ernst Chain.",
+      "additionalInfoJa": "1945年、フレミングはハワード・フローリー、エルンスト・チェーンとともにノーベル賞を受賞しました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "team",
+          "pos": "名詞",
+          "meaningJa": "チーム"
+        },
+        {
+          "word": "turned",
+          "pos": "動詞",
+          "meaningJa": "変えた"
+        },
+        {
+          "word": "life-saving",
+          "pos": "形容詞",
+          "meaningJa": "命を救う"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turned A into B",
+        "ja": "AをBに変えた"
+      },
+      "explanationJa": "「turn A into B」で「AをBに変える」。形や性質がすっかり変わるときに使います。"
+    }
+  ]
+}

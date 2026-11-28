@@ -1,0 +1,167 @@
+{
+  "id": "topic-forgetting-dreams",
+  "categoryId": "human-psychology",
+  "titleEn": "Why We Forget Our Dreams So Fast",
+  "titleJa": "夢をすぐに忘れてしまう理由",
+  "subtitleJa": "目覚めた瞬間に消えていく夢の行方。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-23",
+  "sentences": [
+    {
+      "id": "sent-forgetting-dreams-1",
+      "english": "Most people dream several times every night, even if they don't remember.",
+      "japanese": "ほとんどの人は、覚えていなくても毎晩何回か夢を見ています。",
+      "additionalInfoEn": "Many of our most vivid dreams happen during REM sleep.",
+      "additionalInfoJa": "特に鮮やかな夢の多くは、レム睡眠中に見られます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "dream",
+          "pos": "動詞",
+          "meaningJa": "夢を見る"
+        },
+        {
+          "word": "several",
+          "pos": "形容詞",
+          "meaningJa": "いくつかの"
+        },
+        {
+          "word": "remember",
+          "pos": "動詞",
+          "meaningJa": "覚えている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "even if",
+        "ja": "たとえ〜でも"
+      },
+      "explanationJa": "「dream」は名詞「夢」だけでなく、動詞として「夢を見る」の意味でも使えます。"
+    },
+    {
+      "id": "sent-forgetting-dreams-2",
+      "english": "Yet most dreams disappear from memory within minutes of waking up.",
+      "japanese": "それなのに、ほとんどの夢は目が覚めて数分以内に記憶から消えてしまいます。",
+      "additionalInfoEn": "You may wake up with a clear story that vanishes by breakfast.",
+      "additionalInfoJa": "はっきりした夢を覚えて目覚めても、朝食までに消えていることがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Yet",
+          "pos": "副詞",
+          "meaningJa": "それなのに"
+        },
+        {
+          "word": "disappear",
+          "pos": "動詞",
+          "meaningJa": "消える"
+        },
+        {
+          "word": "within",
+          "pos": "前置詞",
+          "meaningJa": "〜以内に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "waking up",
+        "ja": "目を覚ますこと"
+      },
+      "explanationJa": "「within minutes of 〜」は「〜から数分以内に」。時間の短さを強調する表現です。"
+    },
+    {
+      "id": "sent-forgetting-dreams-3",
+      "english": "During dreaming sleep, some chemicals that help store memories stay very low.",
+      "japanese": "夢を見ている睡眠中は、記憶の保存を助ける一部の化学物質がとても少なくなります。",
+      "additionalInfoEn": "Many scientists think this makes dreams hard for the brain to save.",
+      "additionalInfoJa": "そのため脳が夢を保存しにくいのだと、多くの科学者は考えています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "chemicals",
+          "pos": "名詞",
+          "meaningJa": "化学物質"
+        },
+        {
+          "word": "store",
+          "pos": "動詞",
+          "meaningJa": "保存する"
+        },
+        {
+          "word": "low",
+          "pos": "形容詞",
+          "meaningJa": "低い、少ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "help store memories",
+        "ja": "記憶を保存するのを助ける"
+      },
+      "explanationJa": "「chemicals that help 〜」のthatは関係代名詞。後ろからchemicalsを説明しています。"
+    },
+    {
+      "id": "sent-forgetting-dreams-4",
+      "english": "You tend to remember more if you wake right in the middle of a dream.",
+      "japanese": "夢の真っ最中に目が覚めると、より多くを覚えている傾向があります。",
+      "additionalInfoEn": "That is why alarm clocks sometimes leave us with strange stories.",
+      "additionalInfoJa": "目覚まし時計で起きたときに、変な夢を覚えていることがあるのはそのためです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "wake",
+          "pos": "動詞",
+          "meaningJa": "目を覚ます"
+        },
+        {
+          "word": "right",
+          "pos": "副詞",
+          "meaningJa": "ちょうど、まさに"
+        },
+        {
+          "word": "middle",
+          "pos": "名詞",
+          "meaningJa": "真ん中"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the middle of",
+        "ja": "〜の最中に"
+      },
+      "explanationJa": "「right」は「ちょうど、まさに」と位置や時間を強調する副詞としても使われます。"
+    },
+    {
+      "id": "sent-forgetting-dreams-5",
+      "english": "Writing a dream down right away helps it stay in memory.",
+      "japanese": "夢をすぐに書き留めておくと、記憶に残りやすくなります。",
+      "additionalInfoEn": "Some people keep a dream diary next to their bed for this reason.",
+      "additionalInfoJa": "そのために、枕元に夢日記を置いている人もいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Writing",
+          "pos": "動詞",
+          "meaningJa": "書くこと"
+        },
+        {
+          "word": "stay",
+          "pos": "動詞",
+          "meaningJa": "とどまる"
+        },
+        {
+          "word": "memory",
+          "pos": "名詞",
+          "meaningJa": "記憶"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "right away",
+        "ja": "すぐに"
+      },
+      "explanationJa": "「write 〜 down」は「〜を書き留める」。代名詞や短い語はwriteとdownの間に入れます。"
+    }
+  ]
+}

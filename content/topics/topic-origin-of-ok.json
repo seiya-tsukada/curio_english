@@ -1,0 +1,167 @@
+{
+  "id": "topic-origin-of-ok",
+  "categoryId": "history",
+  "titleEn": "How \"OK\" Began as a Joke",
+  "titleJa": "「OK」はジョークから生まれた",
+  "subtitleJa": "世界中で使われる2文字の、ちょっと意外なルーツ。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-29",
+  "sentences": [
+    {
+      "id": "sent-origin-of-ok-1",
+      "english": "\"OK\" may be one of the most used words in the world.",
+      "japanese": "「OK」は、世界で最もよく使われる言葉のひとつかもしれません。",
+      "additionalInfoEn": "People in many countries say it, even if they do not speak English.",
+      "additionalInfoJa": "英語を話さない国の人々でも、この言葉はよく使われています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "may",
+          "pos": "助動詞",
+          "meaningJa": "〜かもしれない"
+        },
+        {
+          "word": "used",
+          "pos": "形容詞",
+          "meaningJa": "使われる"
+        },
+        {
+          "word": "world",
+          "pos": "名詞",
+          "meaningJa": "世界"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the world",
+        "ja": "世界で"
+      },
+      "explanationJa": "「may」は「〜かもしれない」。断定を避けて、やわらかく推測するときに使います。"
+    },
+    {
+      "id": "sent-origin-of-ok-2",
+      "english": "It started in Boston in the 1830s, when newspapers loved silly abbreviations.",
+      "japanese": "それは1830年代のボストンで、新聞がふざけた略語を好んでいた頃に始まりました。",
+      "additionalInfoEn": "For example, they wrote \"K.Y.\" for \"know yuse,\" a joke spelling of \"no use.\"",
+      "additionalInfoJa": "例えば「no use（無駄）」をわざと誤って綴った「know yuse」を「K.Y.」と書きました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "started",
+          "pos": "動詞",
+          "meaningJa": "始まった"
+        },
+        {
+          "word": "silly",
+          "pos": "形容詞",
+          "meaningJa": "ばかげた、ふざけた"
+        },
+        {
+          "word": "abbreviations",
+          "pos": "名詞",
+          "meaningJa": "略語"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "It started in",
+        "ja": "〜で始まった"
+      },
+      "explanationJa": "「abbreviation」は「略語」。「TV」や「ASAP」など、英語には略語がたくさんあります。"
+    },
+    {
+      "id": "sent-origin-of-ok-3",
+      "english": "In 1839, a newspaper used \"O.K.\" for \"oll korrect,\" a joke spelling of \"all correct.\"",
+      "japanese": "1839年、ある新聞が「all correct」のふざけた綴り「oll korrect」を「O.K.」と略しました。",
+      "additionalInfoEn": "It appeared in the Boston Morning Post on March 23, 1839.",
+      "additionalInfoJa": "それは1839年3月23日の『ボストン・モーニング・ポスト』紙に載りました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "newspaper",
+          "pos": "名詞",
+          "meaningJa": "新聞"
+        },
+        {
+          "word": "joke",
+          "pos": "名詞",
+          "meaningJa": "冗談"
+        },
+        {
+          "word": "spelling",
+          "pos": "名詞",
+          "meaningJa": "つづり"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a joke spelling",
+        "ja": "ふざけた綴り"
+      },
+      "explanationJa": "「A for B」で「Bを表すA」。略語の意味を説明するときによく使う形です。"
+    },
+    {
+      "id": "sent-origin-of-ok-4",
+      "english": "A year later, a presidential campaign made the word famous.",
+      "japanese": "その1年後、大統領選挙の運動によってこの言葉は有名になりました。",
+      "additionalInfoEn": "Supporters of Martin Van Buren used \"OK\" for his nickname, \"Old Kinderhook.\"",
+      "additionalInfoJa": "マーティン・ヴァン・ビューレンの支持者が、彼のあだ名「オールド・キンダーフック」の略にOKを使いました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "presidential",
+          "pos": "形容詞",
+          "meaningJa": "大統領の"
+        },
+        {
+          "word": "campaign",
+          "pos": "名詞",
+          "meaningJa": "選挙運動"
+        },
+        {
+          "word": "famous",
+          "pos": "形容詞",
+          "meaningJa": "有名な"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "made the word famous",
+        "ja": "その言葉を有名にした"
+      },
+      "explanationJa": "「make A + 形容詞」で「Aを〜にする」。「make me happy」と同じ形です。"
+    },
+    {
+      "id": "sent-origin-of-ok-5",
+      "english": "Most other joke abbreviations died out, but \"OK\" is still here.",
+      "japanese": "ほかのふざけた略語のほとんどは消えましたが、「OK」は今も残っています。",
+      "additionalInfoEn": "Today, it even appears on buttons on computers and phones around the world.",
+      "additionalInfoJa": "今では、世界中のパソコンやスマホのボタンにも使われています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "died",
+          "pos": "動詞",
+          "meaningJa": "死んだ（die outで「すたれた」）"
+        },
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "今でも"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "died out",
+        "ja": "すたれた、消えた"
+      },
+      "explanationJa": "「die out」は「（習慣や言葉が）すたれる・絶滅する」。生き物以外にも使えます。"
+    }
+  ]
+}

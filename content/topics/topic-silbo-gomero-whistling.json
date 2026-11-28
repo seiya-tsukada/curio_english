@@ -1,0 +1,167 @@
+{
+  "id": "topic-silbo-gomero-whistling",
+  "categoryId": "world-culture",
+  "titleEn": "The Whistled Language of La Gomera",
+  "titleJa": "口笛で会話するカナリア諸島の言語",
+  "subtitleJa": "谷を越えて届く、スペイン語の口笛バージョン。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-12",
+  "sentences": [
+    {
+      "id": "sent-silbo-gomero-whistling-1",
+      "english": "On La Gomera, one of Spain's Canary Islands, people can talk by whistling.",
+      "japanese": "スペインのカナリア諸島のひとつ、ラ・ゴメラ島では、人々は口笛で会話ができます。",
+      "additionalInfoEn": "This whistled language is called Silbo Gomero.",
+      "additionalInfoJa": "この口笛の言語は「シルボ・ゴメロ」と呼ばれています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Islands",
+          "pos": "名詞",
+          "meaningJa": "諸島"
+        },
+        {
+          "word": "talk",
+          "pos": "動詞",
+          "meaningJa": "話す"
+        },
+        {
+          "word": "whistling",
+          "pos": "名詞",
+          "meaningJa": "口笛を吹くこと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one of",
+        "ja": "〜のうちのひとつ"
+      },
+      "explanationJa": "「one of + 複数名詞」で「〜のうちのひとつ」。後ろの名詞は必ず複数形になります。"
+    },
+    {
+      "id": "sent-silbo-gomero-whistling-2",
+      "english": "It is not a separate language but a whistled version of Spanish.",
+      "japanese": "それは別の言語ではなく、スペイン語を口笛で表したものです。",
+      "additionalInfoEn": "Changes in pitch and rhythm stand in for vowels and consonants.",
+      "additionalInfoJa": "音の高さやリズムの変化が、母音や子音の代わりをしています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "separate",
+          "pos": "形容詞",
+          "meaningJa": "別の"
+        },
+        {
+          "word": "whistled",
+          "pos": "形容詞",
+          "meaningJa": "口笛で表された"
+        },
+        {
+          "word": "version",
+          "pos": "名詞",
+          "meaningJa": "版、形"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "not A but B",
+        "ja": "AではなくB"
+      },
+      "explanationJa": "「not A but B」で「AではなくB」。誤解を正しながら説明したいときに役立つ構文です。"
+    },
+    {
+      "id": "sent-silbo-gomero-whistling-3",
+      "english": "The island's deep valleys made shouting across them slow and exhausting.",
+      "japanese": "島には深い谷があり、谷越しに叫んで話すのは時間がかかり、とても疲れました。",
+      "additionalInfoEn": "A strong whistle can travel several kilometers through the mountains.",
+      "additionalInfoJa": "力強い口笛は、山の中を数キロメートル先まで届くことがあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "valleys",
+          "pos": "名詞",
+          "meaningJa": "谷"
+        },
+        {
+          "word": "shouting",
+          "pos": "名詞",
+          "meaningJa": "叫ぶこと"
+        },
+        {
+          "word": "exhausting",
+          "pos": "形容詞",
+          "meaningJa": "ひどく疲れる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make A B",
+        "ja": "AをBにする"
+      },
+      "explanationJa": "「make + 目的語 + 形容詞」で「〜を…な状態にする」。ここでは shouting が目的語です。"
+    },
+    {
+      "id": "sent-silbo-gomero-whistling-4",
+      "english": "By the late twentieth century, fewer young people were learning it.",
+      "japanese": "20世紀の終わりごろには、それを習う若者は減っていました。",
+      "additionalInfoEn": "Roads and telephones had made whistling less necessary.",
+      "additionalInfoJa": "道路や電話の普及によって、口笛の必要性が薄れていたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "century",
+          "pos": "名詞",
+          "meaningJa": "世紀"
+        },
+        {
+          "word": "fewer",
+          "pos": "形容詞",
+          "meaningJa": "より少ない"
+        },
+        {
+          "word": "learning",
+          "pos": "動詞",
+          "meaningJa": "学んでいる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "By the late twentieth century",
+        "ja": "20世紀の終わりまでに"
+      },
+      "explanationJa": "「fewer」は数えられる名詞に使う「より少ない」。数えられない名詞には less を使います。"
+    },
+    {
+      "id": "sent-silbo-gomero-whistling-5",
+      "english": "Since 1999, it has been taught in local schools to keep it alive.",
+      "japanese": "1999年からは、この言語を守るために地元の学校で教えられています。",
+      "additionalInfoEn": "In 2009, UNESCO recognized it as part of the world's cultural heritage.",
+      "additionalInfoJa": "2009年には、ユネスコの無形文化遺産にも登録されました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "taught",
+          "pos": "動詞",
+          "meaningJa": "教えられる"
+        },
+        {
+          "word": "local",
+          "pos": "形容詞",
+          "meaningJa": "地元の"
+        },
+        {
+          "word": "alive",
+          "pos": "形容詞",
+          "meaningJa": "生きている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep it alive",
+        "ja": "それを絶やさずに守る"
+      },
+      "explanationJa": "「has been + 過去分詞」は現在完了の受け身で、「（ずっと）〜され続けている」を表します。"
+    }
+  ]
+}

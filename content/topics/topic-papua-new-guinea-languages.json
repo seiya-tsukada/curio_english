@@ -1,0 +1,167 @@
+{
+  "id": "topic-papua-new-guinea-languages",
+  "categoryId": "world-culture",
+  "titleEn": "The Country with Over 800 Languages",
+  "titleJa": "パプアニューギニアに800以上の言語がある理由",
+  "subtitleJa": "山と谷が生んだ、世界一ことばの多い国。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-17",
+  "sentences": [
+    {
+      "id": "sent-papua-new-guinea-languages-1",
+      "english": "Papua New Guinea has more than 800 languages, more than any other country.",
+      "japanese": "パプアニューギニアには800以上の言語があり、これは世界のどの国よりも多い数です。",
+      "additionalInfoEn": "That is over ten percent of all the languages on Earth.",
+      "additionalInfoJa": "これは、地球上のすべての言語の1割以上にあたります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Papua",
+          "pos": "名詞",
+          "meaningJa": "パプア"
+        },
+        {
+          "word": "languages",
+          "pos": "名詞",
+          "meaningJa": "言語"
+        },
+        {
+          "word": "any",
+          "pos": "形容詞",
+          "meaningJa": "どの〜でも"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "more than any other",
+        "ja": "ほかのどの〜よりも多い"
+      },
+      "explanationJa": "「比較級 + than any other + 単数名詞」で「ほかのどの〜よりも」と最上級の意味を表せます。"
+    },
+    {
+      "id": "sent-papua-new-guinea-languages-2",
+      "english": "Steep mountains and thick forests kept many villages separated for centuries.",
+      "japanese": "険しい山々と深い森によって、多くの村は何世紀もの間、互いに隔てられてきました。",
+      "additionalInfoEn": "Travel between valleys was difficult, so each group developed its own way of speaking.",
+      "additionalInfoJa": "谷から谷への移動は難しかったため、それぞれの集団が独自の話し方を育てました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Steep",
+          "pos": "形容詞",
+          "meaningJa": "険しい"
+        },
+        {
+          "word": "thick",
+          "pos": "形容詞",
+          "meaningJa": "茂った、厚い"
+        },
+        {
+          "word": "separated",
+          "pos": "形容詞",
+          "meaningJa": "隔てられた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for centuries",
+        "ja": "何世紀もの間"
+      },
+      "explanationJa": "「keep + 目的語 + 状態」で「〜を…のままにしておく」。ここでは村が離れたままの状態です。"
+    },
+    {
+      "id": "sent-papua-new-guinea-languages-3",
+      "english": "Some languages are spoken by only a few hundred people.",
+      "japanese": "中には、ほんの数百人しか話していない言語もあります。",
+      "additionalInfoEn": "Neighbors living just a short walk away may not understand each other.",
+      "additionalInfoJa": "歩いてすぐの距離に住む隣人同士でも、言葉が通じないことがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "spoken",
+          "pos": "動詞",
+          "meaningJa": "話される"
+        },
+        {
+          "word": "only",
+          "pos": "副詞",
+          "meaningJa": "〜だけ"
+        },
+        {
+          "word": "hundred",
+          "pos": "名詞",
+          "meaningJa": "100"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a few hundred",
+        "ja": "数百の"
+      },
+      "explanationJa": "「be spoken by 〜」で「〜によって話される」。言語を主語にするときによく使う受け身です。"
+    },
+    {
+      "id": "sent-papua-new-guinea-languages-4",
+      "english": "To communicate, many people use Tok Pisin, a language based on English.",
+      "japanese": "意思疎通のために、多くの人は英語をもとにした言語「トク・ピシン」を使います。",
+      "additionalInfoEn": "For example, \"tenkyu\" means \"thank you\" in Tok Pisin.",
+      "additionalInfoJa": "たとえば、トク・ピシンで「テンキュー」は「ありがとう」という意味です。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "communicate",
+          "pos": "動詞",
+          "meaningJa": "意思疎通する"
+        },
+        {
+          "word": "based",
+          "pos": "動詞",
+          "meaningJa": "基づいた"
+        },
+        {
+          "word": "English",
+          "pos": "名詞",
+          "meaningJa": "英語"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "based on",
+        "ja": "〜に基づいた"
+      },
+      "explanationJa": "「名詞, a 〜」のようにカンマで言い換えると、直前の名詞に説明を加える「同格」になります。"
+    },
+    {
+      "id": "sent-papua-new-guinea-languages-5",
+      "english": "Many people there grow up speaking three or four languages fluently.",
+      "japanese": "そこでは多くの人が、3〜4つの言語を流暢に話しながら育ちます。",
+      "additionalInfoEn": "Being multilingual is simply a normal part of daily life.",
+      "additionalInfoJa": "複数の言語を話せることは、ごく当たり前の日常の一部なのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "grow",
+          "pos": "動詞",
+          "meaningJa": "育つ"
+        },
+        {
+          "word": "speaking",
+          "pos": "動詞",
+          "meaningJa": "話しながら"
+        },
+        {
+          "word": "fluently",
+          "pos": "副詞",
+          "meaningJa": "流暢に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "grow up speaking",
+        "ja": "〜を話しながら育つ"
+      },
+      "explanationJa": "「grow up + 動詞のing」で「〜しながら育つ」。子どものころからの習慣を表せます。"
+    }
+  ]
+}

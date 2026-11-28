@@ -1,0 +1,167 @@
+{
+  "id": "topic-razor-blade-model",
+  "categoryId": "business-economy",
+  "titleEn": "Cheap Printers, Expensive Ink",
+  "titleJa": "プリンターは安いのにインクが高い理由",
+  "subtitleJa": "本体ではなく、消耗品でもうけるビジネスの仕組み。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-29",
+  "sentences": [
+    {
+      "id": "sent-razor-blade-model-1",
+      "english": "Home printers are often cheap, but their ink can be surprisingly expensive.",
+      "japanese": "家庭用プリンターは安いことが多いのに、インクは驚くほど高いことがあります。",
+      "additionalInfoEn": "Some people find that a set of ink costs almost as much as the printer.",
+      "additionalInfoJa": "インク一式がプリンター本体とほぼ同じ値段だと気づく人もいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "printers",
+          "pos": "名詞",
+          "meaningJa": "プリンター"
+        },
+        {
+          "word": "ink",
+          "pos": "名詞",
+          "meaningJa": "インク"
+        },
+        {
+          "word": "surprisingly",
+          "pos": "副詞",
+          "meaningJa": "驚くほど"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "can be",
+        "ja": "〜なこともある"
+      },
+      "explanationJa": "「can be + 形容詞」で「〜なこともある」と可能性を表します。「surprisingly」は「驚くほど」です。"
+    },
+    {
+      "id": "sent-razor-blade-model-2",
+      "english": "This is a business plan known as the razor and blades model.",
+      "japanese": "これは「カミソリと替え刃モデル」として知られるビジネスの方法です。",
+      "additionalInfoEn": "The name comes from cheap razors that need new blades again and again.",
+      "additionalInfoJa": "この名前は、何度も替え刃が必要になる安いカミソリに由来します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "business",
+          "pos": "名詞",
+          "meaningJa": "ビジネス"
+        },
+        {
+          "word": "known",
+          "pos": "形容詞",
+          "meaningJa": "知られている"
+        },
+        {
+          "word": "blades",
+          "pos": "名詞",
+          "meaningJa": "刃"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "known as",
+        "ja": "〜として知られる"
+      },
+      "explanationJa": "「known as 〜」は「〜として知られている」で、名前や呼び方を紹介するときに使います。"
+    },
+    {
+      "id": "sent-razor-blade-model-3",
+      "english": "The company sells the main product at a low price, sometimes at a loss.",
+      "japanese": "会社は本体を安い値段で売り、時には赤字で売ることもあります。",
+      "additionalInfoEn": "A low price makes it easy for many people to start using it.",
+      "additionalInfoJa": "安い値段だと、多くの人が使い始めやすくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "company",
+          "pos": "名詞",
+          "meaningJa": "会社"
+        },
+        {
+          "word": "main",
+          "pos": "形容詞",
+          "meaningJa": "主な"
+        },
+        {
+          "word": "price",
+          "pos": "名詞",
+          "meaningJa": "値段"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at a loss",
+        "ja": "赤字で、損をして"
+      },
+      "explanationJa": "「at a low price」は「安い値段で」です。価格を表すときは前置詞「at」を使います。"
+    },
+    {
+      "id": "sent-razor-blade-model-4",
+      "english": "Then it earns money from the parts that customers must buy repeatedly.",
+      "japanese": "そして、お客さんが繰り返し買わなければならない部品でお金をもうけます。",
+      "additionalInfoEn": "Ink, blades and coffee capsules all follow this pattern.",
+      "additionalInfoJa": "インク、カミソリの刃、コーヒーカプセルはすべてこの型に当てはまります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "earns",
+          "pos": "動詞",
+          "meaningJa": "稼ぐ"
+        },
+        {
+          "word": "parts",
+          "pos": "名詞",
+          "meaningJa": "部品"
+        },
+        {
+          "word": "repeatedly",
+          "pos": "副詞",
+          "meaningJa": "繰り返し"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "earns money from",
+        "ja": "〜でお金を稼ぐ"
+      },
+      "explanationJa": "「the parts that 〜」の「that」は関係代名詞で、どんな部品かを後ろから説明しています。"
+    },
+    {
+      "id": "sent-razor-blade-model-5",
+      "english": "Before buying a cheap machine, check how much its refills cost.",
+      "japanese": "安い機械を買う前に、その詰め替え品がいくらするか確かめましょう。",
+      "additionalInfoEn": "The real price is what you pay over many years.",
+      "additionalInfoJa": "本当の値段は、何年もかけて支払う合計金額なのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "machine",
+          "pos": "名詞",
+          "meaningJa": "機械"
+        },
+        {
+          "word": "check",
+          "pos": "動詞",
+          "meaningJa": "確かめる"
+        },
+        {
+          "word": "refills",
+          "pos": "名詞",
+          "meaningJa": "詰め替え品"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "how much",
+        "ja": "いくら"
+      },
+      "explanationJa": "「how much + 主語 + 動詞」で「いくら〜か」という名詞のかたまりになります。疑問文の語順にはなりません。"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "topic-moon-footprints-last",
+  "categoryId": "space-science",
+  "titleEn": "Footprints on the Moon Can Last for Ages",
+  "titleJa": "月の足あとが何百万年も消えない理由",
+  "subtitleJa": "風も雨もない月の上で、足あとはどうなるのか。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-06",
+  "sentences": [
+    {
+      "id": "sent-moon-footprints-last-1",
+      "english": "Astronauts left many footprints when they walked on the Moon.",
+      "japanese": "宇宙飛行士たちは月の上を歩いたとき、たくさんの足あとを残しました。",
+      "additionalInfoEn": "Twelve people walked on the Moon between 1969 and 1972.",
+      "additionalInfoJa": "1969年から1972年の間に、12人が月面を歩きました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Astronauts",
+          "pos": "名詞",
+          "meaningJa": "宇宙飛行士たち"
+        },
+        {
+          "word": "left",
+          "pos": "動詞",
+          "meaningJa": "残した（leaveの過去形）"
+        },
+        {
+          "word": "footprints",
+          "pos": "名詞",
+          "meaningJa": "足あと"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "walked on the Moon",
+        "ja": "月の上を歩いた"
+      },
+      "explanationJa": "「left」は「leave（残す、去る）」の過去形です。「when + 文」で「〜したとき」と時を表します。"
+    },
+    {
+      "id": "sent-moon-footprints-last-2",
+      "english": "Those footprints are probably still there today.",
+      "japanese": "それらの足あとは、おそらく今もそのまま残っています。",
+      "additionalInfoEn": "Photos taken from space have shown the astronauts' paths.",
+      "additionalInfoJa": "宇宙から撮った写真にも、宇宙飛行士が歩いた跡が写っています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "おそらく"
+        },
+        {
+          "word": "still",
+          "pos": "副詞",
+          "meaningJa": "今でも、まだ"
+        },
+        {
+          "word": "today",
+          "pos": "副詞",
+          "meaningJa": "今日、現在"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "still there",
+        "ja": "まだそこにある"
+      },
+      "explanationJa": "「still」は「今でもまだ」と状態が続いていることを表します。be動詞の後ろに置くのが基本です。"
+    },
+    {
+      "id": "sent-moon-footprints-last-3",
+      "english": "This is because the Moon has no wind or rain.",
+      "japanese": "これは、月には風も雨もないからです。",
+      "additionalInfoEn": "On Earth, wind and rain would erase footprints very quickly.",
+      "additionalInfoJa": "地球なら、風や雨によって足あとはすぐに消えてしまいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "because",
+          "pos": "接続詞",
+          "meaningJa": "なぜなら"
+        },
+        {
+          "word": "wind",
+          "pos": "名詞",
+          "meaningJa": "風"
+        },
+        {
+          "word": "rain",
+          "pos": "名詞",
+          "meaningJa": "雨"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This is because",
+        "ja": "これは〜だからです"
+      },
+      "explanationJa": "「This is because 〜」は前の文の理由を説明するときの定番表現です。会話でも文章でもよく使います。"
+    },
+    {
+      "id": "sent-moon-footprints-last-4",
+      "english": "Moon dust is sharp and sticky, so footprints keep their shape.",
+      "japanese": "月の砂はとがっていてくっつきやすいため、足あとの形が崩れません。",
+      "additionalInfoEn": "The dust grains are rough because they are never smoothed by water.",
+      "additionalInfoJa": "月の砂の粒は水で削られることがないので、ざらざらしています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "dust",
+          "pos": "名詞",
+          "meaningJa": "ちり、砂ぼこり"
+        },
+        {
+          "word": "sharp",
+          "pos": "形容詞",
+          "meaningJa": "とがった、鋭い"
+        },
+        {
+          "word": "shape",
+          "pos": "名詞",
+          "meaningJa": "形"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep their shape",
+        "ja": "形を保つ"
+      },
+      "explanationJa": "「keep + 名詞」で「〜を保つ」という意味です。「so」は「だから」と結果をつなぐ接続詞です。"
+    },
+    {
+      "id": "sent-moon-footprints-last-5",
+      "english": "They could stay there for millions of years.",
+      "japanese": "それらの足あとは、何百万年もそこに残るかもしれません。",
+      "additionalInfoEn": "Only tiny space rocks hitting the surface will slowly wear them away.",
+      "additionalInfoJa": "表面にぶつかる小さな隕石だけが、ゆっくりと足あとを消していきます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "could",
+          "pos": "助動詞",
+          "meaningJa": "〜かもしれない"
+        },
+        {
+          "word": "stay",
+          "pos": "動詞",
+          "meaningJa": "とどまる、残る"
+        },
+        {
+          "word": "millions",
+          "pos": "名詞",
+          "meaningJa": "何百万"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "millions of years",
+        "ja": "何百万年"
+      },
+      "explanationJa": "「could」は「can」の過去形ですが、ここでは「〜する可能性がある」という推量を表しています。"
+    }
+  ]
+}

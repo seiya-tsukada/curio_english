@@ -1,0 +1,167 @@
+{
+  "id": "topic-phone-battery-aging",
+  "categoryId": "technology",
+  "titleEn": "Why Phone Batteries Get Weaker",
+  "titleJa": "スマホの電池がだんだん弱くなる理由",
+  "subtitleJa": "充電のたびに、電池の中では小さな変化が積み重なっている。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-27",
+  "sentences": [
+    {
+      "id": "sent-phone-battery-aging-1",
+      "english": "A new phone often lasts all day, but after a few years it dies sooner.",
+      "japanese": "新しいスマホは丸一日もつことが多いですが、数年たつと早く電池が切れます。",
+      "additionalInfoEn": "This happens to almost every phone, no matter how carefully you use it.",
+      "additionalInfoJa": "どんなに大切に使っても、ほとんどすべてのスマホで起こります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "lasts",
+          "pos": "動詞",
+          "meaningJa": "もつ、持続する"
+        },
+        {
+          "word": "dies",
+          "pos": "動詞",
+          "meaningJa": "（電池が）切れる"
+        },
+        {
+          "word": "sooner",
+          "pos": "副詞",
+          "meaningJa": "より早く"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "all day",
+        "ja": "一日中"
+      },
+      "explanationJa": "「die」は「死ぬ」ですが、電池や機械が「切れる、止まる」という意味でも日常的に使います。"
+    },
+    {
+      "id": "sent-phone-battery-aging-2",
+      "english": "Most phones use lithium-ion batteries, which store energy by moving tiny particles.",
+      "japanese": "多くのスマホのリチウムイオン電池は、小さな粒子を動かしてエネルギーをためます。",
+      "additionalInfoEn": "When you charge, the particles move one way; when you use the phone, they move back.",
+      "additionalInfoJa": "充電すると粒子は一方へ動き、スマホを使うと元に戻ります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "store",
+          "pos": "動詞",
+          "meaningJa": "ためる"
+        },
+        {
+          "word": "energy",
+          "pos": "名詞",
+          "meaningJa": "エネルギー"
+        },
+        {
+          "word": "particles",
+          "pos": "名詞",
+          "meaningJa": "粒子"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "store energy",
+        "ja": "エネルギーをためる"
+      },
+      "explanationJa": "「by + -ing」で「〜することによって」と、エネルギーをためる方法を表しています。"
+    },
+    {
+      "id": "sent-phone-battery-aging-3",
+      "english": "Each time they travel back and forth, a little damage builds up inside.",
+      "japanese": "粒子が行き来するたびに、内部に少しずつ傷みがたまっていきます。",
+      "additionalInfoEn": "Some particles get stuck and can no longer carry energy.",
+      "additionalInfoJa": "一部の粒子は動けなくなり、もうエネルギーを運べなくなります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "damage",
+          "pos": "名詞",
+          "meaningJa": "損傷、傷み"
+        },
+        {
+          "word": "builds",
+          "pos": "動詞",
+          "meaningJa": "たまる（build up）"
+        },
+        {
+          "word": "inside",
+          "pos": "副詞",
+          "meaningJa": "内部に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "build up",
+        "ja": "少しずつたまる"
+      },
+      "explanationJa": "「Each time 〜」は「〜するたびに」という意味で、接続詞のように使えます。"
+    },
+    {
+      "id": "sent-phone-battery-aging-4",
+      "english": "Heat makes this damage happen faster, so hot cars are bad for phones.",
+      "japanese": "熱はこの傷みを早めるので、暑い車内はスマホにとってよくありません。",
+      "additionalInfoEn": "Playing heavy games while charging can also warm the battery.",
+      "additionalInfoJa": "充電しながら重いゲームをすると、電池が熱くなることもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Heat",
+          "pos": "名詞",
+          "meaningJa": "熱"
+        },
+        {
+          "word": "faster",
+          "pos": "副詞",
+          "meaningJa": "より速く"
+        },
+        {
+          "word": "bad",
+          "pos": "形容詞",
+          "meaningJa": "悪い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be bad for",
+        "ja": "〜に悪い"
+      },
+      "explanationJa": "「be bad for 〜」は「〜にとって悪い」。反対は「be good for 〜」です。"
+    },
+    {
+      "id": "sent-phone-battery-aging-5",
+      "english": "After hundreds of charges, a battery may hold about 80 percent of its original power.",
+      "japanese": "数百回充電すると、電池は元の約80%しか電気をためられないことがあります。",
+      "additionalInfoEn": "Two half charges count as roughly one full charge cycle.",
+      "additionalInfoJa": "半分の充電2回で、だいたいフル充電1回分と数えられます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "hundreds",
+          "pos": "名詞",
+          "meaningJa": "何百"
+        },
+        {
+          "word": "hold",
+          "pos": "動詞",
+          "meaningJa": "保つ、ためる"
+        },
+        {
+          "word": "original",
+          "pos": "形容詞",
+          "meaningJa": "元の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hundreds of",
+        "ja": "何百もの"
+      },
+      "explanationJa": "「may」は「〜かもしれない」と、確実ではない可能性を表す助動詞です。"
+    }
+  ]
+}

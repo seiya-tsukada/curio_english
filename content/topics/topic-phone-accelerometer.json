@@ -1,0 +1,167 @@
+{
+  "id": "topic-phone-accelerometer",
+  "categoryId": "technology",
+  "titleEn": "How Your Phone Knows Which Way Is Up",
+  "titleJa": "スマホが画面の向きを知る仕組み",
+  "subtitleJa": "小さなチップの中で、ばねにつながったおもりが揺れている。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-15",
+  "sentences": [
+    {
+      "id": "sent-phone-accelerometer-1",
+      "english": "Turn your phone sideways, and the screen rotates to match.",
+      "japanese": "スマホを横向きにすると、画面もそれに合わせて回転します。",
+      "additionalInfoEn": "The phone also knows when you are walking and counts your steps.",
+      "additionalInfoJa": "歩いていることも分かり、歩数まで数えてくれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "sideways",
+          "pos": "副詞",
+          "meaningJa": "横向きに"
+        },
+        {
+          "word": "rotates",
+          "pos": "動詞",
+          "meaningJa": "回転する"
+        },
+        {
+          "word": "match",
+          "pos": "動詞",
+          "meaningJa": "合わせる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "to match",
+        "ja": "それに合わせて"
+      },
+      "explanationJa": "「命令文, and 〜」で「…すると〜」。動作と結果を自然につなげる形です。"
+    },
+    {
+      "id": "sent-phone-accelerometer-2",
+      "english": "Inside is a tiny sensor called an accelerometer, smaller than a grain of rice.",
+      "japanese": "中には「加速度センサー」と呼ばれる、米粒より小さなセンサーが入っています。",
+      "additionalInfoEn": "Some of its moving parts are thinner than a human hair.",
+      "additionalInfoJa": "その可動部分には、人間の髪の毛よりも細いものがあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "sensor",
+          "pos": "名詞",
+          "meaningJa": "センサー"
+        },
+        {
+          "word": "accelerometer",
+          "pos": "名詞",
+          "meaningJa": "加速度センサー"
+        },
+        {
+          "word": "grain",
+          "pos": "名詞",
+          "meaningJa": "粒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a grain of rice",
+        "ja": "米粒"
+      },
+      "explanationJa": "「Inside is 〜」は倒置で、場所を表す語を前に出して「中には〜がある」と強調しています。"
+    },
+    {
+      "id": "sent-phone-accelerometer-3",
+      "english": "It holds a microscopic weight hanging on springs carved from silicon.",
+      "japanese": "その中には、シリコンを削って作ったばねにぶら下がる、ごく小さなおもりがあります。",
+      "additionalInfoEn": "The whole structure is made with the same methods used for computer chips.",
+      "additionalInfoJa": "この構造全体は、コンピューターのチップと同じ方法で作られています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "microscopic",
+          "pos": "形容詞",
+          "meaningJa": "顕微鏡でしか見えないほど小さい"
+        },
+        {
+          "word": "springs",
+          "pos": "名詞",
+          "meaningJa": "ばね"
+        },
+        {
+          "word": "carved",
+          "pos": "動詞",
+          "meaningJa": "削られた、彫られた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hanging on",
+        "ja": "〜にぶら下がっている"
+      },
+      "explanationJa": "「hanging on 〜」と「carved from 〜」は、どちらも前の名詞を後ろから説明しています。"
+    },
+    {
+      "id": "sent-phone-accelerometer-4",
+      "english": "When you tilt the phone, gravity pulls the weight and it shifts slightly.",
+      "japanese": "スマホを傾けると、重力がおもりを引っぱり、おもりがわずかにずれます。",
+      "additionalInfoEn": "The shift can be smaller than a thousandth of a millimeter.",
+      "additionalInfoJa": "そのずれは、1000分の1ミリよりも小さいことがあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "tilt",
+          "pos": "動詞",
+          "meaningJa": "傾ける"
+        },
+        {
+          "word": "gravity",
+          "pos": "名詞",
+          "meaningJa": "重力"
+        },
+        {
+          "word": "shifts",
+          "pos": "動詞",
+          "meaningJa": "ずれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "When you tilt",
+        "ja": "〜を傾けると"
+      },
+      "explanationJa": "「it」は直前の「the weight」を指しています。代名詞が何を指すかを意識すると読みやすくなります。"
+    },
+    {
+      "id": "sent-phone-accelerometer-5",
+      "english": "The chip measures this tiny movement electrically and tells the phone which way is down.",
+      "japanese": "チップはこの小さな動きを電気的に測り、どちらが下かをスマホに伝えます。",
+      "additionalInfoEn": "Then the software turns the picture so that it stays upright.",
+      "additionalInfoJa": "その後、ソフトウェアが画像を回転させて、まっすぐな向きに保ちます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "measures",
+          "pos": "動詞",
+          "meaningJa": "測る"
+        },
+        {
+          "word": "electrically",
+          "pos": "副詞",
+          "meaningJa": "電気的に"
+        },
+        {
+          "word": "down",
+          "pos": "副詞",
+          "meaningJa": "下へ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "which way is down",
+        "ja": "どちらが下か"
+      },
+      "explanationJa": "「tell + 相手 + which 〜」で「相手にどちらが〜かを伝える」という形になります。"
+    }
+  ]
+}

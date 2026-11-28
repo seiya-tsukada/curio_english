@@ -1,0 +1,167 @@
+{
+  "id": "topic-microwave-oven",
+  "categoryId": "technology",
+  "titleEn": "How a Microwave Heats Your Food",
+  "titleJa": "電子レンジが食べ物を温める仕組み",
+  "subtitleJa": "目に見えない波が、食べ物の中の水を揺らしている。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-23",
+  "sentences": [
+    {
+      "id": "sent-microwave-oven-1",
+      "english": "A microwave oven heats food with invisible waves called microwaves.",
+      "japanese": "電子レンジは「マイクロ波」と呼ばれる目に見えない波で食べ物を温めます。",
+      "additionalInfoEn": "These waves are a kind of radio wave, like Wi-Fi signals.",
+      "additionalInfoJa": "この波は、Wi-Fiの信号と同じ電波の一種です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "heats",
+          "pos": "動詞",
+          "meaningJa": "温める"
+        },
+        {
+          "word": "invisible",
+          "pos": "形容詞",
+          "meaningJa": "目に見えない"
+        },
+        {
+          "word": "waves",
+          "pos": "名詞",
+          "meaningJa": "波"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "called microwaves",
+        "ja": "「マイクロ波」と呼ばれる"
+      },
+      "explanationJa": "「名詞 + called 〜」で「〜と呼ばれる…」と、名前を後ろから説明できます。"
+    },
+    {
+      "id": "sent-microwave-oven-2",
+      "english": "The waves make tiny water molecules inside the food spin very fast.",
+      "japanese": "その波は、食べ物の中にある小さな水の分子をとても速く回転させます。",
+      "additionalInfoEn": "They flip direction billions of times every second.",
+      "additionalInfoJa": "分子の向きは1秒間に何十億回も入れ替わります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "molecules",
+          "pos": "名詞",
+          "meaningJa": "分子"
+        },
+        {
+          "word": "inside",
+          "pos": "前置詞",
+          "meaningJa": "〜の中の"
+        },
+        {
+          "word": "spin",
+          "pos": "動詞",
+          "meaningJa": "回転する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make ~ spin",
+        "ja": "〜を回転させる"
+      },
+      "explanationJa": "「make + 物 + 動詞の原形」で「物に〜させる」という意味になります。とてもよく使う形です。"
+    },
+    {
+      "id": "sent-microwave-oven-3",
+      "english": "When the molecules move and bump into each other, they make heat.",
+      "japanese": "分子が動いてお互いにぶつかり合うと、熱が生まれます。",
+      "additionalInfoEn": "That is why foods with more water warm up faster.",
+      "additionalInfoJa": "だから水分の多い食べ物ほど早く温まるのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "bump",
+          "pos": "動詞",
+          "meaningJa": "ぶつかる"
+        },
+        {
+          "word": "move",
+          "pos": "動詞",
+          "meaningJa": "動く"
+        },
+        {
+          "word": "heat",
+          "pos": "名詞",
+          "meaningJa": "熱"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "bump into each other",
+        "ja": "お互いにぶつかる"
+      },
+      "explanationJa": "「each other」は「お互い」という意味で、「into each other」で「お互いに」となります。"
+    },
+    {
+      "id": "sent-microwave-oven-4",
+      "english": "The waves do not spread evenly, so some spots get hotter than others.",
+      "japanese": "波は均一には広がらないので、ほかより熱くなる場所ができます。",
+      "additionalInfoEn": "Because of this, the middle of your food can stay cold.",
+      "additionalInfoJa": "このため、食べ物の真ん中が冷たいままになることがあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "spread",
+          "pos": "動詞",
+          "meaningJa": "広がる"
+        },
+        {
+          "word": "evenly",
+          "pos": "副詞",
+          "meaningJa": "均一に"
+        },
+        {
+          "word": "spots",
+          "pos": "名詞",
+          "meaningJa": "場所、地点"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hotter than others",
+        "ja": "ほかよりも熱い"
+      },
+      "explanationJa": "「比較級 + than others」で「ほかのものより〜」と比べる表現になります。"
+    },
+    {
+      "id": "sent-microwave-oven-5",
+      "english": "That is why many microwaves have a turning plate inside.",
+      "japanese": "そのため、多くの電子レンジの中には回転する皿がついています。",
+      "additionalInfoEn": "As the plate turns, every part of the food passes through the hot spots.",
+      "additionalInfoJa": "皿が回ることで、食べ物のどの部分も熱い場所を通過します。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "many",
+          "pos": "形容詞",
+          "meaningJa": "多くの"
+        },
+        {
+          "word": "turning",
+          "pos": "形容詞",
+          "meaningJa": "回転する"
+        },
+        {
+          "word": "plate",
+          "pos": "名詞",
+          "meaningJa": "皿"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "That is why",
+        "ja": "だから〜なのです"
+      },
+      "explanationJa": "「That is why 〜」は「そういうわけで〜」と、前の内容の結果を伝える便利な表現です。"
+    }
+  ]
+}

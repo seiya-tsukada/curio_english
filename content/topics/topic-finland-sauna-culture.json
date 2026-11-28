@@ -1,0 +1,167 @@
+{
+  "id": "topic-finland-sauna-culture",
+  "categoryId": "world-culture",
+  "titleEn": "Why Finland Loves Saunas",
+  "titleJa": "フィンランドにサウナが300万もある理由",
+  "subtitleJa": "家にも会社にもある、フィンランドの心のふるさと。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-23",
+  "sentences": [
+    {
+      "id": "sent-finland-sauna-culture-1",
+      "english": "Finland has about three million saunas for five and a half million people.",
+      "japanese": "フィンランドには、約550万人の人口に対して約300万ものサウナがあります。",
+      "additionalInfoEn": "That is roughly one sauna for every two people.",
+      "additionalInfoJa": "これは、だいたい2人に1つのサウナがある計算です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Finland",
+          "pos": "名詞",
+          "meaningJa": "フィンランド"
+        },
+        {
+          "word": "million",
+          "pos": "名詞",
+          "meaningJa": "100万"
+        },
+        {
+          "word": "saunas",
+          "pos": "名詞",
+          "meaningJa": "サウナ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "about three million",
+        "ja": "約300万"
+      },
+      "explanationJa": "「three million」のように、million の前に数字がくるときは million に s をつけません。"
+    },
+    {
+      "id": "sent-finland-sauna-culture-2",
+      "english": "The word \"sauna\" itself comes from the Finnish language.",
+      "japanese": "「サウナ」という言葉そのものが、フィンランド語から来ています。",
+      "additionalInfoEn": "It is one of the few Finnish words used around the world.",
+      "additionalInfoJa": "世界中で使われている、数少ないフィンランド語のひとつです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "word",
+          "pos": "名詞",
+          "meaningJa": "言葉、単語"
+        },
+        {
+          "word": "itself",
+          "pos": "代名詞",
+          "meaningJa": "それ自体"
+        },
+        {
+          "word": "language",
+          "pos": "名詞",
+          "meaningJa": "言語"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜から来ている"
+      },
+      "explanationJa": "「come from 〜」は出身だけでなく、言葉や物の「由来」を言うときにも使えます。"
+    },
+    {
+      "id": "sent-finland-sauna-culture-3",
+      "english": "Many homes and apartment buildings have their own sauna.",
+      "japanese": "多くの家やマンションには、専用のサウナがあります。",
+      "additionalInfoEn": "Even the Finnish parliament building has a sauna for its members.",
+      "additionalInfoJa": "フィンランドの国会議事堂にも、議員のためのサウナがあるほどです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "homes",
+          "pos": "名詞",
+          "meaningJa": "家、住宅"
+        },
+        {
+          "word": "apartment",
+          "pos": "名詞",
+          "meaningJa": "アパート、マンション"
+        },
+        {
+          "word": "own",
+          "pos": "形容詞",
+          "meaningJa": "自分自身の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "their own sauna",
+        "ja": "自分たち専用のサウナ"
+      },
+      "explanationJa": "「one's own + 名詞」で「自分自身の〜」。所有を強調したいときに便利です。"
+    },
+    {
+      "id": "sent-finland-sauna-culture-4",
+      "english": "After a hot sauna, some people jump into a cold lake.",
+      "japanese": "熱いサウナのあと、冷たい湖に飛び込む人もいます。",
+      "additionalInfoEn": "In winter, people even cut a hole in the ice to swim.",
+      "additionalInfoJa": "冬には、氷に穴を開けて泳ぐ人までいます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "hot",
+          "pos": "形容詞",
+          "meaningJa": "熱い"
+        },
+        {
+          "word": "jump",
+          "pos": "動詞",
+          "meaningJa": "飛び込む、跳ぶ"
+        },
+        {
+          "word": "lake",
+          "pos": "名詞",
+          "meaningJa": "湖"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "jump into",
+        "ja": "〜に飛び込む"
+      },
+      "explanationJa": "「some people + 動詞」で「〜する人もいる」と、一部の人の行動を紹介できます。"
+    },
+    {
+      "id": "sent-finland-sauna-culture-5",
+      "english": "For Finns, the sauna is a quiet place to relax and clear the mind.",
+      "japanese": "フィンランドの人にとって、サウナは心を落ち着けて頭をすっきりさせる静かな場所です。",
+      "additionalInfoEn": "In 2020, Finnish sauna culture was added to a UNESCO heritage list.",
+      "additionalInfoJa": "2020年、フィンランドのサウナ文化はユネスコの無形文化遺産に登録されました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "quiet",
+          "pos": "形容詞",
+          "meaningJa": "静かな"
+        },
+        {
+          "word": "relax",
+          "pos": "動詞",
+          "meaningJa": "くつろぐ"
+        },
+        {
+          "word": "mind",
+          "pos": "名詞",
+          "meaningJa": "心、頭"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "clear the mind",
+        "ja": "頭をすっきりさせる"
+      },
+      "explanationJa": "「a place to + 動詞」で「〜するための場所」。不定詞が名詞を後ろから説明しています。"
+    }
+  ]
+}

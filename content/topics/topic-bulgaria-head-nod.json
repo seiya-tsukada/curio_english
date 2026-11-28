@@ -1,0 +1,167 @@
+{
+  "id": "topic-bulgaria-head-nod",
+  "categoryId": "world-culture",
+  "titleEn": "Why a Nod Means No in Bulgaria",
+  "titleJa": "ブルガリアではうなずくと「いいえ」になる理由",
+  "subtitleJa": "首の振り方ひとつで、意味が逆になる国。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-11",
+  "sentences": [
+    {
+      "id": "sent-bulgaria-head-nod-1",
+      "english": "In Bulgaria, nodding your head up and down usually means no.",
+      "japanese": "ブルガリアでは、首を縦に振るとふつうは「いいえ」という意味になります。",
+      "additionalInfoEn": "In most countries, the same movement means yes.",
+      "additionalInfoJa": "ほとんどの国では、同じ動きは「はい」を意味します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Bulgaria",
+          "pos": "名詞",
+          "meaningJa": "ブルガリア"
+        },
+        {
+          "word": "nodding",
+          "pos": "動詞",
+          "meaningJa": "うなずくこと"
+        },
+        {
+          "word": "head",
+          "pos": "名詞",
+          "meaningJa": "頭、首"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "up and down",
+        "ja": "上下に"
+      },
+      "explanationJa": "「nodding your head」は動名詞のかたまりで、文の主語として「首を縦に振ること」を表します。"
+    },
+    {
+      "id": "sent-bulgaria-head-nod-2",
+      "english": "Shaking your head from side to side means yes.",
+      "japanese": "首を横に振ると「はい」という意味になります。",
+      "additionalInfoEn": "The movement is often a soft, swinging motion.",
+      "additionalInfoJa": "その動きは、やわらかく揺らすようなことが多いです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "Shaking",
+          "pos": "動詞",
+          "meaningJa": "振ること"
+        },
+        {
+          "word": "side",
+          "pos": "名詞",
+          "meaningJa": "横、側"
+        },
+        {
+          "word": "yes",
+          "pos": "副詞",
+          "meaningJa": "はい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from side to side",
+        "ja": "左右に"
+      },
+      "explanationJa": "「from side to side」で「左右に」。「up and down（上下に）」とセットで覚えましょう。"
+    },
+    {
+      "id": "sent-bulgaria-head-nod-3",
+      "english": "This can be very confusing for visitors from other countries.",
+      "japanese": "これは、ほかの国から来た旅行者にとってはとてもややこしいことです。",
+      "additionalInfoEn": "A simple question at a shop can quickly turn into a funny moment.",
+      "additionalInfoJa": "お店での簡単な質問が、すぐに笑える場面になることもあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "confusing",
+          "pos": "形容詞",
+          "meaningJa": "ややこしい、混乱させる"
+        },
+        {
+          "word": "visitors",
+          "pos": "名詞",
+          "meaningJa": "訪問者"
+        },
+        {
+          "word": "other",
+          "pos": "形容詞",
+          "meaningJa": "ほかの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "confusing for",
+        "ja": "〜にとってややこしい"
+      },
+      "explanationJa": "「confusing」は「混乱させるような」。人が「混乱している」ときは confused を使います。"
+    },
+    {
+      "id": "sent-bulgaria-head-nod-4",
+      "english": "Many Bulgarians know about this and switch gestures when talking with tourists.",
+      "japanese": "多くのブルガリア人はこのことを知っていて、観光客と話すときは身ぶりを切り替えます。",
+      "additionalInfoEn": "That can make things even more confusing for travelers.",
+      "additionalInfoJa": "それがかえって、旅行者をさらに混乱させることもあります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Bulgarians",
+          "pos": "名詞",
+          "meaningJa": "ブルガリア人"
+        },
+        {
+          "word": "switch",
+          "pos": "動詞",
+          "meaningJa": "切り替える"
+        },
+        {
+          "word": "gestures",
+          "pos": "名詞",
+          "meaningJa": "身ぶり、ジェスチャー"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "when talking with",
+        "ja": "〜と話すときに"
+      },
+      "explanationJa": "「when + 動詞のing」は「when they are talking」の省略形で、「〜するときに」を表します。"
+    },
+    {
+      "id": "sent-bulgaria-head-nod-5",
+      "english": "When in doubt, it is safest to say \"da\" or \"ne\" out loud.",
+      "japanese": "迷ったときは、「ダ（はい）」か「ネ（いいえ）」と声に出すのが一番安全です。",
+      "additionalInfoEn": "In Bulgarian, \"da\" means yes and \"ne\" means no.",
+      "additionalInfoJa": "ブルガリア語で「ダ」は「はい」、「ネ」は「いいえ」です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "doubt",
+          "pos": "名詞",
+          "meaningJa": "疑い、迷い"
+        },
+        {
+          "word": "safest",
+          "pos": "形容詞",
+          "meaningJa": "最も安全な"
+        },
+        {
+          "word": "loud",
+          "pos": "副詞",
+          "meaningJa": "大きな声で"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "When in doubt",
+        "ja": "迷ったときは"
+      },
+      "explanationJa": "「When in doubt」は「迷ったら」という決まり文句。「out loud」は「声に出して」です。"
+    }
+  ]
+}

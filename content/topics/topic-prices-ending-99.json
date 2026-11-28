@@ -1,0 +1,167 @@
+{
+  "id": "topic-prices-ending-99",
+  "categoryId": "business-economy",
+  "titleEn": "Why Prices End in 99",
+  "titleJa": "値段の最後が「99」になっている理由",
+  "subtitleJa": "たった1の差が、心の中では大きな差になる。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-05",
+  "sentences": [
+    {
+      "id": "sent-prices-ending-99-1",
+      "english": "Many prices in shops end in 99, like 4.99 or 199.",
+      "japanese": "お店の値段の多くは、4.99や199のように99で終わっています。",
+      "additionalInfoEn": "In Japan, you often see prices like 980 or 1,980 yen too.",
+      "additionalInfoJa": "日本でも、980円や1,980円といった値段をよく見かけますね。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "prices",
+          "pos": "名詞",
+          "meaningJa": "値段、価格"
+        },
+        {
+          "word": "shops",
+          "pos": "名詞",
+          "meaningJa": "お店"
+        },
+        {
+          "word": "end",
+          "pos": "動詞",
+          "meaningJa": "終わる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "end in",
+        "ja": "〜で終わる"
+      },
+      "explanationJa": "「end in + 数字・文字」で「〜で終わる」という意味です。値段や単語の終わりを説明するときに便利です。"
+    },
+    {
+      "id": "sent-prices-ending-99-2",
+      "english": "Our eyes read prices from left to right, starting with the first number.",
+      "japanese": "私たちの目は、最初の数字から順に、値段を左から右へ読みます。",
+      "additionalInfoEn": "The first digit makes the strongest impression on our brain.",
+      "additionalInfoJa": "最初の数字が、脳に最も強い印象を与えるのです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "eyes",
+          "pos": "名詞",
+          "meaningJa": "目"
+        },
+        {
+          "word": "read",
+          "pos": "動詞",
+          "meaningJa": "読む"
+        },
+        {
+          "word": "first",
+          "pos": "形容詞",
+          "meaningJa": "最初の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "from left to right",
+        "ja": "左から右へ"
+      },
+      "explanationJa": "「from A to B」で「AからBへ」と方向を表せます。「starting with」は「〜から始めて」という意味です。"
+    },
+    {
+      "id": "sent-prices-ending-99-3",
+      "english": "So 4.99 feels much closer to 4 than to 5.",
+      "japanese": "そのため、4.99は5よりも4にずっと近いように感じられます。",
+      "additionalInfoEn": "This trick is called the left-digit effect.",
+      "additionalInfoJa": "この仕掛けは「左端の数字効果」と呼ばれています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "feels",
+          "pos": "動詞",
+          "meaningJa": "感じられる"
+        },
+        {
+          "word": "much",
+          "pos": "副詞",
+          "meaningJa": "ずっと"
+        },
+        {
+          "word": "closer",
+          "pos": "形容詞",
+          "meaningJa": "より近い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "closer to A than to B",
+        "ja": "BよりAに近い"
+      },
+      "explanationJa": "「much + 比較級」で「ずっと〜」と差を強調できます。very は比較級には使えないので注意しましょう。"
+    },
+    {
+      "id": "sent-prices-ending-99-4",
+      "english": "In one test, a dress sold better at 39 dollars than at 34.",
+      "japanese": "ある実験では、ワンピースが34ドルより39ドルのときのほうがよく売れました。",
+      "additionalInfoEn": "Prices ending in 9 seem to tell shoppers that the item is a good deal.",
+      "additionalInfoJa": "9で終わる値段は「お得な商品だ」というメッセージを伝えるようです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "test",
+          "pos": "名詞",
+          "meaningJa": "実験、テスト"
+        },
+        {
+          "word": "dress",
+          "pos": "名詞",
+          "meaningJa": "ワンピース、ドレス"
+        },
+        {
+          "word": "sold",
+          "pos": "動詞",
+          "meaningJa": "売れた（sellの過去形）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "sold better",
+        "ja": "よりよく売れた"
+      },
+      "explanationJa": "「sell」は「売る」だけでなく「（商品が）売れる」という意味でも使えます。sold は過去形です。"
+    },
+    {
+      "id": "sent-prices-ending-99-5",
+      "english": "Next time you see 99, remember the price is really almost 100.",
+      "japanese": "次に99を見かけたら、その値段は実はほぼ100だと思い出してください。",
+      "additionalInfoEn": "Rounding up in your head helps you shop more wisely.",
+      "additionalInfoJa": "頭の中で切り上げて考えると、より賢く買い物ができます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "remember",
+          "pos": "動詞",
+          "meaningJa": "思い出す、覚えておく"
+        },
+        {
+          "word": "really",
+          "pos": "副詞",
+          "meaningJa": "実は、本当は"
+        },
+        {
+          "word": "almost",
+          "pos": "副詞",
+          "meaningJa": "ほとんど"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Next time you",
+        "ja": "次に〜するときは"
+      },
+      "explanationJa": "「Next time + 主語 + 動詞」で「次に〜するときは」という意味になり、アドバイスによく使います。"
+    }
+  ]
+}

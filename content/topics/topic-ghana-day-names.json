@@ -1,0 +1,167 @@
+{
+  "id": "topic-ghana-day-names",
+  "categoryId": "world-culture",
+  "titleEn": "Names Based on the Day You Were Born",
+  "titleJa": "生まれた曜日で名前が決まるガーナの習慣",
+  "subtitleJa": "名前を聞けば、何曜日生まれかがわかる。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-20",
+  "sentences": [
+    {
+      "id": "sent-ghana-day-names-1",
+      "english": "In Ghana, many names show the day of the week a person was born.",
+      "japanese": "ガーナでは、多くの名前がその人の生まれた曜日を表しています。",
+      "additionalInfoEn": "This custom comes from the Akan people of Ghana.",
+      "additionalInfoJa": "この習慣は、ガーナのアカン族に由来します。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Ghana",
+          "pos": "名詞",
+          "meaningJa": "ガーナ"
+        },
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "示す"
+        },
+        {
+          "word": "week",
+          "pos": "名詞",
+          "meaningJa": "週"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "day of the week",
+        "ja": "曜日"
+      },
+      "explanationJa": "「day of the week」で「曜日」。What day of the week is it? で「今日は何曜日？」です。"
+    },
+    {
+      "id": "sent-ghana-day-names-2",
+      "english": "Every day has one name for boys and one for girls.",
+      "japanese": "それぞれの曜日に、男の子用と女の子用の名前が1つずつあります。",
+      "additionalInfoEn": "So there are fourteen basic day names in total.",
+      "additionalInfoJa": "つまり、基本となる曜日の名前は全部で14個あります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "Every",
+          "pos": "形容詞",
+          "meaningJa": "どの〜も、毎〜"
+        },
+        {
+          "word": "boys",
+          "pos": "名詞",
+          "meaningJa": "男の子たち"
+        },
+        {
+          "word": "girls",
+          "pos": "名詞",
+          "meaningJa": "女の子たち"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one for girls",
+        "ja": "女の子用のもの"
+      },
+      "explanationJa": "「one」は同じ種類の名詞のくり返しを避けるために使えます。ここでは name の代わりです。"
+    },
+    {
+      "id": "sent-ghana-day-names-3",
+      "english": "For example, a boy born on a Friday may be called Kofi.",
+      "japanese": "たとえば、金曜日に生まれた男の子は「コフィ」と呼ばれることがあります。",
+      "additionalInfoEn": "A girl born on a Saturday is often named Ama.",
+      "additionalInfoJa": "土曜日に生まれた女の子は、よく「アマ」と名づけられます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "example",
+          "pos": "名詞",
+          "meaningJa": "例"
+        },
+        {
+          "word": "born",
+          "pos": "動詞",
+          "meaningJa": "生まれた"
+        },
+        {
+          "word": "Friday",
+          "pos": "名詞",
+          "meaningJa": "金曜日"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "For example",
+        "ja": "たとえば"
+      },
+      "explanationJa": "「born on + 曜日」で「〜曜日に生まれた」。曜日や日付の前には on を使います。"
+    },
+    {
+      "id": "sent-ghana-day-names-4",
+      "english": "People believe the day of birth can say something about your character.",
+      "japanese": "人々は、生まれた曜日がその人の性格について何かを語ると考えています。",
+      "additionalInfoEn": "Many people also have an English or other given name.",
+      "additionalInfoJa": "英語名など、ほかの名前もあわせて持っている人が多くいます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "believe",
+          "pos": "動詞",
+          "meaningJa": "信じる、考える"
+        },
+        {
+          "word": "birth",
+          "pos": "名詞",
+          "meaningJa": "誕生"
+        },
+        {
+          "word": "character",
+          "pos": "名詞",
+          "meaningJa": "性格"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "say something about",
+        "ja": "〜について何かを物語る"
+      },
+      "explanationJa": "「say something about 〜」で「〜について何かを示す」。人以外の主語にも使えます。"
+    },
+    {
+      "id": "sent-ghana-day-names-5",
+      "english": "So when you meet a Kofi, you already know one fact about him.",
+      "japanese": "だからコフィという人に会ったら、彼についてひとつのことがすでにわかるのです。",
+      "additionalInfoEn": "It is a fun way to start a friendly conversation.",
+      "additionalInfoJa": "会話を楽しく始めるきっかけにもなります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "meet",
+          "pos": "動詞",
+          "meaningJa": "会う"
+        },
+        {
+          "word": "already",
+          "pos": "副詞",
+          "meaningJa": "すでに"
+        },
+        {
+          "word": "fact",
+          "pos": "名詞",
+          "meaningJa": "事実"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one fact about",
+        "ja": "〜についてのひとつの事実"
+      },
+      "explanationJa": "「already」は「すでに、もう」。肯定文で「もう〜している」と伝えるときに使います。"
+    }
+  ]
+}

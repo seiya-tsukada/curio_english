@@ -1,0 +1,167 @@
+{
+  "id": "topic-power-button-symbol",
+  "categoryId": "technology",
+  "titleEn": "The Hidden Numbers in the Power Button",
+  "titleJa": "電源ボタンのマークに隠された数字",
+  "subtitleJa": "おなじみのマークは「1」と「0」でできている。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-31",
+  "sentences": [
+    {
+      "id": "sent-power-button-symbol-1",
+      "english": "Almost every device has the same power button symbol.",
+      "japanese": "ほとんどすべての機器に、同じ電源ボタンのマークがついています。",
+      "additionalInfoEn": "You can find it on computers, TVs, and even game controllers.",
+      "additionalInfoJa": "パソコンやテレビ、ゲームのコントローラーにまでついています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "device",
+          "pos": "名詞",
+          "meaningJa": "機器、装置"
+        },
+        {
+          "word": "power",
+          "pos": "名詞",
+          "meaningJa": "電源"
+        },
+        {
+          "word": "symbol",
+          "pos": "名詞",
+          "meaningJa": "記号、マーク"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "Almost every",
+        "ja": "ほとんどすべての"
+      },
+      "explanationJa": "「every」の後ろには単数形の名詞が来ます。「almost」をつけると「ほとんどすべての」です。"
+    },
+    {
+      "id": "sent-power-button-symbol-2",
+      "english": "The symbol is made of a short line and a broken circle.",
+      "japanese": "そのマークは、短い線と、一部が切れた円でできています。",
+      "additionalInfoEn": "The line sits at the top, inside the gap of the circle.",
+      "additionalInfoJa": "線は円の切れ目の部分、つまり上側に置かれています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "line",
+          "pos": "名詞",
+          "meaningJa": "線"
+        },
+        {
+          "word": "broken",
+          "pos": "形容詞",
+          "meaningJa": "途切れた"
+        },
+        {
+          "word": "circle",
+          "pos": "名詞",
+          "meaningJa": "円"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "is made of",
+        "ja": "〜でできている"
+      },
+      "explanationJa": "「be made of 〜」は「〜でできている」と、材料や部品を説明する表現です。"
+    },
+    {
+      "id": "sent-power-button-symbol-3",
+      "english": "The line stands for the number one, and the circle stands for zero.",
+      "japanese": "線は数字の1を、円は数字の0を表しています。",
+      "additionalInfoEn": "These two numbers are the basic language of all computers.",
+      "additionalInfoJa": "この2つの数字は、すべてのコンピューターの基本となる言葉です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "stands",
+          "pos": "動詞",
+          "meaningJa": "表す（stand for）"
+        },
+        {
+          "word": "number",
+          "pos": "名詞",
+          "meaningJa": "数字"
+        },
+        {
+          "word": "zero",
+          "pos": "名詞",
+          "meaningJa": "ゼロ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stand for",
+        "ja": "〜を表す"
+      },
+      "explanationJa": "「stand for 〜」は「〜を表す、〜の略である」という意味で、記号の説明によく使います。"
+    },
+    {
+      "id": "sent-power-button-symbol-4",
+      "english": "Engineers have long used one to mean on and zero to mean off.",
+      "japanese": "技術者たちは昔から、1を「オン」、0を「オフ」の意味で使ってきました。",
+      "additionalInfoEn": "Old switches often showed a 1 and a 0 instead of words.",
+      "additionalInfoJa": "昔のスイッチには、文字の代わりに1と0がよく書かれていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Engineers",
+          "pos": "名詞",
+          "meaningJa": "技術者"
+        },
+        {
+          "word": "long",
+          "pos": "副詞",
+          "meaningJa": "長い間"
+        },
+        {
+          "word": "mean",
+          "pos": "動詞",
+          "meaningJa": "意味する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "use A to mean B",
+        "ja": "AをBの意味で使う"
+      },
+      "explanationJa": "「have long used」は現在完了で、「昔からずっと使ってきた」という継続を表します。"
+    },
+    {
+      "id": "sent-power-button-symbol-5",
+      "english": "So the power symbol quietly says on and off at the same time.",
+      "japanese": "つまり電源マークは、「オン」と「オフ」を同時にそっと表しているのです。",
+      "additionalInfoEn": "An international standards group made this symbol official.",
+      "additionalInfoJa": "国際的な規格団体が、このマークを正式なものとして定めました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "quietly",
+          "pos": "副詞",
+          "meaningJa": "静かに、そっと"
+        },
+        {
+          "word": "same",
+          "pos": "形容詞",
+          "meaningJa": "同じ"
+        },
+        {
+          "word": "time",
+          "pos": "名詞",
+          "meaningJa": "時"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at the same time",
+        "ja": "同時に"
+      },
+      "explanationJa": "「at the same time」は「同時に」という意味で、二つのことが一緒に起きるときに使います。"
+    }
+  ]
+}

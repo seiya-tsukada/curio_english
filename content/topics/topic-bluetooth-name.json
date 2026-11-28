@@ -1,0 +1,167 @@
+{
+  "id": "topic-bluetooth-name",
+  "categoryId": "technology",
+  "titleEn": "Why Bluetooth Is Named After a King",
+  "titleJa": "「ブルートゥース」の名前が王様に由来する理由",
+  "subtitleJa": "無線技術の名前とマークは、千年前のバイキングの王から。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-27",
+  "sentences": [
+    {
+      "id": "sent-bluetooth-name-1",
+      "english": "Bluetooth is named after a Viking king who lived over 1,000 years ago.",
+      "japanese": "ブルートゥースは、1000年以上前に生きたバイキングの王にちなんで名づけられました。",
+      "additionalInfoEn": "His name was Harald, and he ruled Denmark.",
+      "additionalInfoJa": "彼の名はハーラルといい、デンマークを治めていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "名づけられた"
+        },
+        {
+          "word": "king",
+          "pos": "名詞",
+          "meaningJa": "王"
+        },
+        {
+          "word": "lived",
+          "pos": "動詞",
+          "meaningJa": "生きた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be named after",
+        "ja": "〜にちなんで名づけられる"
+      },
+      "explanationJa": "「be named after 〜」は「〜にちなんで名づけられる」という、名前の由来を表す表現です。"
+    },
+    {
+      "id": "sent-bluetooth-name-2",
+      "english": "People called him Bluetooth, possibly because he had a bad, dark tooth.",
+      "japanese": "人々は彼をブルートゥースと呼びました。黒ずんだ歯があったからかもしれません。",
+      "additionalInfoEn": "No one knows the real reason for sure.",
+      "additionalInfoJa": "本当の理由は誰にもはっきりわかっていません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "called",
+          "pos": "動詞",
+          "meaningJa": "呼んだ"
+        },
+        {
+          "word": "possibly",
+          "pos": "副詞",
+          "meaningJa": "もしかすると"
+        },
+        {
+          "word": "tooth",
+          "pos": "名詞",
+          "meaningJa": "歯"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "call A B",
+        "ja": "AをBと呼ぶ"
+      },
+      "explanationJa": "「call + 人 + 名前」で「人を〜と呼ぶ」。「possibly」で確実ではないことを示しています。"
+    },
+    {
+      "id": "sent-bluetooth-name-3",
+      "english": "He was famous for uniting Denmark and Norway under his rule.",
+      "japanese": "彼は、デンマークとノルウェーを一つにまとめて治めたことで有名でした。",
+      "additionalInfoEn": "In the 1990s, engineers used his story as a project nickname.",
+      "additionalInfoJa": "1990年代、技術者たちは彼の物語を開発の愛称に使いました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "famous",
+          "pos": "形容詞",
+          "meaningJa": "有名な"
+        },
+        {
+          "word": "uniting",
+          "pos": "動詞",
+          "meaningJa": "統一すること"
+        },
+        {
+          "word": "rule",
+          "pos": "名詞",
+          "meaningJa": "支配、統治"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "be famous for",
+        "ja": "〜で有名である"
+      },
+      "explanationJa": "「for」の後ろに動詞を置くときは、「uniting」のように -ing 形にします。"
+    },
+    {
+      "id": "sent-bluetooth-name-4",
+      "english": "The new technology also aimed to unite phones, computers, and other devices.",
+      "japanese": "この新しい技術もまた、電話やコンピューターなどの機器をつなぐことを目指しました。",
+      "additionalInfoEn": "The nickname was meant to be temporary, but it stuck.",
+      "additionalInfoJa": "その愛称は仮のはずでしたが、そのまま定着しました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "aimed",
+          "pos": "動詞",
+          "meaningJa": "目指した"
+        },
+        {
+          "word": "unite",
+          "pos": "動詞",
+          "meaningJa": "一つにする"
+        },
+        {
+          "word": "devices",
+          "pos": "名詞",
+          "meaningJa": "機器"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "aim to",
+        "ja": "〜することを目指す"
+      },
+      "explanationJa": "「aim to + 動詞の原形」で「〜することを目指す」という目標を表します。"
+    },
+    {
+      "id": "sent-bluetooth-name-5",
+      "english": "Even the Bluetooth logo combines the king's initials written in ancient runes.",
+      "japanese": "ロゴでさえ、古代のルーン文字で書いた王のイニシャルを組み合わせたものです。",
+      "additionalInfoEn": "The runes for H and B are joined together into one shape.",
+      "additionalInfoJa": "HとBにあたるルーン文字が、一つの形に組み合わされています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "combines",
+          "pos": "動詞",
+          "meaningJa": "組み合わせる"
+        },
+        {
+          "word": "initials",
+          "pos": "名詞",
+          "meaningJa": "頭文字"
+        },
+        {
+          "word": "ancient",
+          "pos": "形容詞",
+          "meaningJa": "古代の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "written in",
+        "ja": "〜で書かれた"
+      },
+      "explanationJa": "「written in 〜」は過去分詞で、「〜で書かれた」と前の名詞を説明しています。"
+    }
+  ]
+}

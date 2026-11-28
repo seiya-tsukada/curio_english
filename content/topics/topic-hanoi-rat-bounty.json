@@ -1,0 +1,167 @@
+{
+  "id": "topic-hanoi-rat-bounty",
+  "categoryId": "business-economy",
+  "titleEn": "The Rat Tail Reward in Hanoi",
+  "titleJa": "ハノイのネズミ退治が裏目に出た理由",
+  "subtitleJa": "ご褒美の決め方次第で、人の行動は思わぬ方向へ進む。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-10-13",
+  "sentences": [
+    {
+      "id": "sent-hanoi-rat-bounty-1",
+      "english": "In 1902, Hanoi had a serious rat problem in its new sewers.",
+      "japanese": "1902年、ハノイでは新しい下水道でネズミが増える深刻な問題が起きていました。",
+      "additionalInfoEn": "At the time, the city was ruled by France.",
+      "additionalInfoJa": "当時、この街はフランスに統治されていました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "serious",
+          "pos": "形容詞",
+          "meaningJa": "深刻な"
+        },
+        {
+          "word": "rat",
+          "pos": "名詞",
+          "meaningJa": "ネズミ"
+        },
+        {
+          "word": "sewers",
+          "pos": "名詞",
+          "meaningJa": "下水道"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rat problem",
+        "ja": "ネズミ問題"
+      },
+      "explanationJa": "「have a problem」で「問題を抱えている」と表せます。「its」はハノイを指しています。"
+    },
+    {
+      "id": "sent-hanoi-rat-bounty-2",
+      "english": "Officials offered a small reward for every rat tail people brought in.",
+      "japanese": "当局は、人々が持ち込んだネズミのしっぽ1本ごとに少額の報酬を出しました。",
+      "additionalInfoEn": "Asking for only the tail made counting easy for the city.",
+      "additionalInfoJa": "しっぽだけを求めたのは、市が数えやすくするためでした。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Officials",
+          "pos": "名詞",
+          "meaningJa": "当局者、役人"
+        },
+        {
+          "word": "offered",
+          "pos": "動詞",
+          "meaningJa": "提供した"
+        },
+        {
+          "word": "reward",
+          "pos": "名詞",
+          "meaningJa": "報酬、ご褒美"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "brought in",
+        "ja": "持ち込んだ"
+      },
+      "explanationJa": "「every rat tail (that) people brought in」のように、関係代名詞 that が省略されています。"
+    },
+    {
+      "id": "sent-hanoi-rat-bounty-3",
+      "english": "Soon, rats without tails were seen running around the city.",
+      "japanese": "やがて、しっぽのないネズミが街中を走り回っているのが目撃されるようになりました。",
+      "additionalInfoEn": "People had cut off the tails and let the rats go free.",
+      "additionalInfoJa": "人々はしっぽだけを切り取って、ネズミを逃がしていたのです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "without",
+          "pos": "前置詞",
+          "meaningJa": "〜のない"
+        },
+        {
+          "word": "seen",
+          "pos": "動詞",
+          "meaningJa": "見られる"
+        },
+        {
+          "word": "running",
+          "pos": "動詞",
+          "meaningJa": "走っている"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "running around",
+        "ja": "走り回っている"
+      },
+      "explanationJa": "「be seen + 〜ing」で「〜しているのを見られる」という受け身の形になっています。"
+    },
+    {
+      "id": "sent-hanoi-rat-bounty-4",
+      "english": "Living rats could breed more rats, which meant more tails and more money.",
+      "japanese": "生きたネズミはさらにネズミを産むので、しっぽもお金も増えることになりました。",
+      "additionalInfoEn": "Some people were even found raising rats on purpose.",
+      "additionalInfoJa": "わざとネズミを育てている人まで見つかりました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Living",
+          "pos": "形容詞",
+          "meaningJa": "生きている"
+        },
+        {
+          "word": "breed",
+          "pos": "動詞",
+          "meaningJa": "繁殖する、産む"
+        },
+        {
+          "word": "meant",
+          "pos": "動詞",
+          "meaningJa": "意味した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "which meant",
+        "ja": "それは〜を意味した"
+      },
+      "explanationJa": "「, which」は前の内容全体を受けて「そしてそれは〜」と説明を付け加える用法です。"
+    },
+    {
+      "id": "sent-hanoi-rat-bounty-5",
+      "english": "Economists use this story to show how rewards can backfire.",
+      "japanese": "経済学者は、報酬が裏目に出ることがあると示すためにこの話を使います。",
+      "additionalInfoEn": "This kind of result is often called the cobra effect.",
+      "additionalInfoJa": "このような結果は、よく「コブラ効果」と呼ばれます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Economists",
+          "pos": "名詞",
+          "meaningJa": "経済学者"
+        },
+        {
+          "word": "rewards",
+          "pos": "名詞",
+          "meaningJa": "報酬"
+        },
+        {
+          "word": "backfire",
+          "pos": "動詞",
+          "meaningJa": "裏目に出る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "use this story to",
+        "ja": "この話を使って〜する"
+      },
+      "explanationJa": "「backfire」は「逆効果になる、裏目に出る」という意味で、計画が失敗したときによく使います。"
+    }
+  ]
+}

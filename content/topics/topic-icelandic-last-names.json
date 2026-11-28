@@ -1,0 +1,167 @@
+{
+  "id": "topic-icelandic-last-names",
+  "categoryId": "world-culture",
+  "titleEn": "How Icelandic Last Names Work",
+  "titleJa": "アイスランドの名字が親の名前でできている理由",
+  "subtitleJa": "家族で名字がバラバラでも、それが当たり前。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-24",
+  "sentences": [
+    {
+      "id": "sent-icelandic-last-names-1",
+      "english": "Most people in Iceland do not have a family name.",
+      "japanese": "アイスランドのほとんどの人は、代々受け継ぐ名字を持っていません。",
+      "additionalInfoEn": "Instead, their last name comes from a parent's first name.",
+      "additionalInfoJa": "その代わり、名字は親のファーストネームから作られます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 15,
+      "vocabulary": [
+        {
+          "word": "Most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "Iceland",
+          "pos": "名詞",
+          "meaningJa": "アイスランド"
+        },
+        {
+          "word": "family",
+          "pos": "名詞",
+          "meaningJa": "家族"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "family name",
+        "ja": "名字、姓"
+      },
+      "explanationJa": "「Most + 名詞」で「ほとんどの〜」。「most of the + 名詞」とも言えます。"
+    },
+    {
+      "id": "sent-icelandic-last-names-2",
+      "english": "If your father is Jón, your last name may be Jónsson or Jónsdóttir.",
+      "japanese": "父親がヨーンなら、名字はヨーンソンやヨーンスドッティルになります。",
+      "additionalInfoEn": "\"Son\" means a son, and \"dóttir\" means a daughter.",
+      "additionalInfoJa": "「ソン」は息子、「ドッティル」は娘という意味です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "father",
+          "pos": "名詞",
+          "meaningJa": "父親"
+        },
+        {
+          "word": "last",
+          "pos": "形容詞",
+          "meaningJa": "最後の"
+        },
+        {
+          "word": "may",
+          "pos": "助動詞",
+          "meaningJa": "〜かもしれない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "last name",
+        "ja": "名字"
+      },
+      "explanationJa": "「If + 現在形, 〜 may …」で「もし…なら、〜かもしれない」と条件と結果を表せます。"
+    },
+    {
+      "id": "sent-icelandic-last-names-3",
+      "english": "This means a brother and sister often have different last names.",
+      "japanese": "そのため、兄弟と姉妹で名字が違うことがよくあります。",
+      "additionalInfoEn": "Parents and children usually have different last names, too.",
+      "additionalInfoJa": "親と子どもも、ふつうは名字が違います。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "means",
+          "pos": "動詞",
+          "meaningJa": "意味する"
+        },
+        {
+          "word": "brother",
+          "pos": "名詞",
+          "meaningJa": "兄弟"
+        },
+        {
+          "word": "different",
+          "pos": "形容詞",
+          "meaningJa": "異なる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This means",
+        "ja": "つまり〜ということだ"
+      },
+      "explanationJa": "「This means (that) 〜」で「つまり〜ということになる」。結果を説明するときに便利です。"
+    },
+    {
+      "id": "sent-icelandic-last-names-4",
+      "english": "Some people use their mother's name instead of their father's.",
+      "japanese": "父親ではなく、母親の名前を使う人もいます。",
+      "additionalInfoEn": "Both choices are accepted and fairly common today.",
+      "additionalInfoJa": "どちらの選び方も認められていて、今ではわりとよく見られます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "mother's",
+          "pos": "名詞",
+          "meaningJa": "母親の"
+        },
+        {
+          "word": "instead",
+          "pos": "副詞",
+          "meaningJa": "代わりに"
+        },
+        {
+          "word": "father's",
+          "pos": "名詞",
+          "meaningJa": "父親のもの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "instead of",
+        "ja": "〜の代わりに"
+      },
+      "explanationJa": "「instead of + 名詞」で「〜の代わりに」。father's の後ろには name が省略されています。"
+    },
+    {
+      "id": "sent-icelandic-last-names-5",
+      "english": "Icelanders usually call each other by first names, even their teachers.",
+      "japanese": "アイスランドの人は、先生でさえもファーストネームで呼び合うのがふつうです。",
+      "additionalInfoEn": "The national phone book is even listed by first name.",
+      "additionalInfoJa": "国の電話帳までも、ファーストネーム順に並んでいます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Icelanders",
+          "pos": "名詞",
+          "meaningJa": "アイスランドの人々"
+        },
+        {
+          "word": "call",
+          "pos": "動詞",
+          "meaningJa": "呼ぶ"
+        },
+        {
+          "word": "teachers",
+          "pos": "名詞",
+          "meaningJa": "先生たち"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "each other",
+        "ja": "お互い"
+      },
+      "explanationJa": "「call A by B」で「AをBで呼ぶ」。by first names は「ファーストネームで」です。"
+    }
+  ]
+}

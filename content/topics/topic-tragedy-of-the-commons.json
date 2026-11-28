@@ -1,0 +1,167 @@
+{
+  "id": "topic-tragedy-of-the-commons",
+  "categoryId": "business-economy",
+  "titleEn": "The Tragedy of the Commons",
+  "titleJa": "みんなの牧草地が消える「共有地の悲劇」",
+  "subtitleJa": "一人ひとりの合理的な選択が、全員を困らせることがある。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-11-14",
+  "sentences": [
+    {
+      "id": "sent-tragedy-of-the-commons-1",
+      "english": "Imagine a village field where every farmer can feed their cows for free.",
+      "japanese": "どの農家も無料で牛に草を食べさせられる、村の牧草地を想像してください。",
+      "additionalInfoEn": "Land shared by a whole community was called a commons.",
+      "additionalInfoJa": "地域全体で共有される土地は「コモンズ（共有地）」と呼ばれました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Imagine",
+          "pos": "動詞",
+          "meaningJa": "想像する"
+        },
+        {
+          "word": "village",
+          "pos": "名詞",
+          "meaningJa": "村"
+        },
+        {
+          "word": "feed",
+          "pos": "動詞",
+          "meaningJa": "えさを与える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for free",
+        "ja": "無料で"
+      },
+      "explanationJa": "「Imagine 〜」は「〜を想像してみて」と話を始めるときによく使われる表現です。"
+    },
+    {
+      "id": "sent-tragedy-of-the-commons-2",
+      "english": "Each farmer gains by adding one more cow to the shared grass.",
+      "japanese": "どの農家も、共有の草地に牛をもう1頭増やせば得をします。",
+      "additionalInfoEn": "The extra milk is theirs, but the damage is shared by everyone.",
+      "additionalInfoJa": "増えた牛乳は自分のものですが、被害はみんなで分け合うことになります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "gains",
+          "pos": "動詞",
+          "meaningJa": "得をする"
+        },
+        {
+          "word": "adding",
+          "pos": "動詞",
+          "meaningJa": "加えること"
+        },
+        {
+          "word": "shared",
+          "pos": "形容詞",
+          "meaningJa": "共有の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one more",
+        "ja": "もう1つの"
+      },
+      "explanationJa": "「by + 〜ing」で「〜することによって」と手段を表します。前置詞の後なので動詞は〜ing形です。"
+    },
+    {
+      "id": "sent-tragedy-of-the-commons-3",
+      "english": "But if everyone thinks this way, the field is soon eaten bare.",
+      "japanese": "しかし全員がこう考えると、牧草地はすぐに食べ尽くされて丸裸になります。",
+      "additionalInfoEn": "Then no one can feed their cows at all.",
+      "additionalInfoJa": "そうなると、誰も牛にえさを与えられなくなってしまいます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "everyone",
+          "pos": "代名詞",
+          "meaningJa": "みんな"
+        },
+        {
+          "word": "soon",
+          "pos": "副詞",
+          "meaningJa": "すぐに"
+        },
+        {
+          "word": "bare",
+          "pos": "形容詞",
+          "meaningJa": "むき出しの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "this way",
+        "ja": "このように"
+      },
+      "explanationJa": "「eaten bare」は「食べられてむき出しになる」という意味で、結果の状態を形容詞で表しています。"
+    },
+    {
+      "id": "sent-tragedy-of-the-commons-4",
+      "english": "An English economist described this problem in 1833, and an ecologist named it in 1968.",
+      "japanese": "1833年にイギリスの経済学者がこの問題を説明し、1968年に生態学者が名前を付けました。",
+      "additionalInfoEn": "The ecologist Garrett Hardin called it the tragedy of the commons.",
+      "additionalInfoJa": "生態学者ギャレット・ハーディンが、これを「共有地の悲劇」と名付けました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "economist",
+          "pos": "名詞",
+          "meaningJa": "経済学者"
+        },
+        {
+          "word": "described",
+          "pos": "動詞",
+          "meaningJa": "説明した"
+        },
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "名付けた"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "named it",
+        "ja": "それに名前を付けた"
+      },
+      "explanationJa": "「name」は名詞の「名前」だけでなく、動詞で「名付ける」という意味もあります。"
+    },
+    {
+      "id": "sent-tragedy-of-the-commons-5",
+      "english": "Overfishing shows the same pattern, but communities can solve it with fair rules.",
+      "japanese": "魚の取りすぎも同じパターンですが、地域社会は公平なルールで解決することができます。",
+      "additionalInfoEn": "Economist Elinor Ostrom won a Nobel Prize for showing how.",
+      "additionalInfoJa": "経済学者エリノア・オストロムは、その方法を示してノーベル賞を受賞しました。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "Overfishing",
+          "pos": "名詞",
+          "meaningJa": "魚の取りすぎ、乱獲"
+        },
+        {
+          "word": "communities",
+          "pos": "名詞",
+          "meaningJa": "地域社会"
+        },
+        {
+          "word": "solve",
+          "pos": "動詞",
+          "meaningJa": "解決する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same pattern",
+        "ja": "同じパターン"
+      },
+      "explanationJa": "「Overfishing」は「over（〜しすぎ）」と「fishing（漁）」が合わさってできた単語です。"
+    }
+  ]
+}

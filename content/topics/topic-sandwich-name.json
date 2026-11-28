@@ -1,0 +1,167 @@
+{
+  "id": "topic-sandwich-name",
+  "categoryId": "history",
+  "titleEn": "How the Sandwich Got Its Name",
+  "titleJa": "サンドイッチの名前はある伯爵から",
+  "subtitleJa": "パンに具をはさむ食べ物と、イギリス貴族の意外な関係。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-22",
+  "sentences": [
+    {
+      "id": "sent-sandwich-name-1",
+      "english": "People have eaten bread with food inside for a very long time.",
+      "japanese": "人々はとても昔から、パンに食べ物をはさんで食べてきました。",
+      "additionalInfoEn": "Cooks in many countries put meat or cheese between pieces of bread.",
+      "additionalInfoJa": "多くの国の料理人が、パンの間に肉やチーズをはさんでいました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "bread",
+          "pos": "名詞",
+          "meaningJa": "パン"
+        },
+        {
+          "word": "inside",
+          "pos": "副詞",
+          "meaningJa": "中に"
+        },
+        {
+          "word": "long",
+          "pos": "形容詞",
+          "meaningJa": "長い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "for a very long time",
+        "ja": "とても長い間"
+      },
+      "explanationJa": "「have + 過去分詞」の現在完了で、昔から今まで続いていることを表せます。"
+    },
+    {
+      "id": "sent-sandwich-name-2",
+      "english": "But the name \"sandwich\" comes from an English nobleman.",
+      "japanese": "しかし「サンドイッチ」という名前は、あるイギリス貴族に由来します。",
+      "additionalInfoEn": "He was John Montagu, the fourth Earl of Sandwich, who lived in the 1700s.",
+      "additionalInfoJa": "その人物は1700年代に生きた、第4代サンドイッチ伯爵ジョン・モンタギューです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "name",
+          "pos": "名詞",
+          "meaningJa": "名前"
+        },
+        {
+          "word": "English",
+          "pos": "形容詞",
+          "meaningJa": "イギリスの"
+        },
+        {
+          "word": "nobleman",
+          "pos": "名詞",
+          "meaningJa": "貴族"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "comes from",
+        "ja": "〜に由来する"
+      },
+      "explanationJa": "「come from 〜」は出身だけでなく、言葉や名前の由来を説明するときにも使えます。"
+    },
+    {
+      "id": "sent-sandwich-name-3",
+      "english": "He often asked for meat between two slices of bread.",
+      "japanese": "彼はよく、2枚のパンの間に肉をはさんだものを頼んでいました。",
+      "additionalInfoEn": "This way, he could eat with one hand and keep his fingers clean.",
+      "additionalInfoJa": "こうすれば片手で食べられ、指も汚れずにすみました。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "asked",
+          "pos": "動詞",
+          "meaningJa": "頼んだ"
+        },
+        {
+          "word": "between",
+          "pos": "前置詞",
+          "meaningJa": "〜の間に"
+        },
+        {
+          "word": "slices",
+          "pos": "名詞",
+          "meaningJa": "薄切り（の1枚）"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "two slices of bread",
+        "ja": "パン2枚"
+      },
+      "explanationJa": "「a slice of 〜」で薄く切ったものを数えます。2枚以上なら「slices」になります。"
+    },
+    {
+      "id": "sent-sandwich-name-4",
+      "english": "One story says he did not want to stop playing cards.",
+      "japanese": "ある話によると、彼はトランプ遊びをやめたくなかったそうです。",
+      "additionalInfoEn": "Another story says he was simply too busy working at his desk.",
+      "additionalInfoJa": "別の話では、彼は単に机での仕事が忙しすぎたのだとも言われています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "story",
+          "pos": "名詞",
+          "meaningJa": "話、物語"
+        },
+        {
+          "word": "stop",
+          "pos": "動詞",
+          "meaningJa": "やめる"
+        },
+        {
+          "word": "cards",
+          "pos": "名詞",
+          "meaningJa": "トランプ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "One story says",
+        "ja": "ある話によると"
+      },
+      "explanationJa": "「stop + 動詞ing」は「〜するのをやめる」。「stop to + 動詞」とは意味が違うので注意。"
+    },
+    {
+      "id": "sent-sandwich-name-5",
+      "english": "Soon, other people began asking for \"the same as Sandwich.\"",
+      "japanese": "やがてほかの人々も「サンドイッチと同じものを」と頼むようになりました。",
+      "additionalInfoEn": "Over time, the short name \"sandwich\" spread around the world.",
+      "additionalInfoJa": "やがて「サンドイッチ」という短い呼び名が世界中に広まりました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "Soon",
+          "pos": "副詞",
+          "meaningJa": "まもなく、やがて"
+        },
+        {
+          "word": "began",
+          "pos": "動詞",
+          "meaningJa": "始めた（beginの過去形）"
+        },
+        {
+          "word": "same",
+          "pos": "形容詞",
+          "meaningJa": "同じ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the same as",
+        "ja": "〜と同じもの"
+      },
+      "explanationJa": "「the same as A」で「Aと同じもの」。注文のときに「The same, please.」とも言えます。"
+    }
+  ]
+}

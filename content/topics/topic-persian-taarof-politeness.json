@@ -1,0 +1,167 @@
+{
+  "id": "topic-persian-taarof-politeness",
+  "categoryId": "world-culture",
+  "titleEn": "Taarof: The Persian Art of Politeness",
+  "titleJa": "イランの礼儀作法「タアーロフ」の奥深さ",
+  "subtitleJa": "何度も断り、何度もすすめる、思いやりのやりとり。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-08-18",
+  "sentences": [
+    {
+      "id": "sent-persian-taarof-politeness-1",
+      "english": "In Iran, a polite custom called taarof shapes many everyday conversations.",
+      "japanese": "イランでは、「タアーロフ」という礼儀の習慣が日々の多くの会話を形づくっています。",
+      "additionalInfoEn": "It is a way of showing respect by putting others first.",
+      "additionalInfoJa": "これは、相手を優先することで敬意を示す方法です。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "polite",
+          "pos": "形容詞",
+          "meaningJa": "礼儀正しい"
+        },
+        {
+          "word": "custom",
+          "pos": "名詞",
+          "meaningJa": "習慣"
+        },
+        {
+          "word": "shapes",
+          "pos": "動詞",
+          "meaningJa": "形づくる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "everyday conversations",
+        "ja": "日常の会話"
+      },
+      "explanationJa": "「shape」は名詞で「形」ですが、動詞では「〜を形づくる、〜に影響を与える」という意味です。"
+    },
+    {
+      "id": "sent-persian-taarof-politeness-2",
+      "english": "When a host offers food, a guest usually refuses politely at first.",
+      "japanese": "もてなす人が料理をすすめると、客はたいてい最初は丁寧に断ります。",
+      "additionalInfoEn": "The host then insists, and the offer is repeated several times.",
+      "additionalInfoJa": "すると主人は重ねてすすめ、このやりとりが何度かくり返されます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "offers",
+          "pos": "動詞",
+          "meaningJa": "すすめる"
+        },
+        {
+          "word": "refuses",
+          "pos": "動詞",
+          "meaningJa": "断る"
+        },
+        {
+          "word": "politely",
+          "pos": "副詞",
+          "meaningJa": "丁寧に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at first",
+        "ja": "最初は"
+      },
+      "explanationJa": "「at first」は「最初は（でも後で変わる）」というニュアンス。first だけの「まず」とは少し違います。"
+    },
+    {
+      "id": "sent-persian-taarof-politeness-3",
+      "english": "A taxi driver might even say you don't need to pay.",
+      "japanese": "タクシーの運転手が「お代はいりませんよ」と言うことさえあります。",
+      "additionalInfoEn": "This is usually a kind gesture rather than a real offer.",
+      "additionalInfoJa": "これはたいてい本当の申し出ではなく、親切心を示す言葉です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "driver",
+          "pos": "名詞",
+          "meaningJa": "運転手"
+        },
+        {
+          "word": "might",
+          "pos": "助動詞",
+          "meaningJa": "〜するかもしれない"
+        },
+        {
+          "word": "pay",
+          "pos": "動詞",
+          "meaningJa": "支払う"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "don't need to",
+        "ja": "〜する必要はない"
+      },
+      "explanationJa": "「might」は may よりさらに控えめな「〜するかもしれない」。可能性が低めのときに使います。"
+    },
+    {
+      "id": "sent-persian-taarof-politeness-4",
+      "english": "The polite response is to insist on paying, often more than once.",
+      "japanese": "礼儀正しい対応は、ときには何度も、支払うと言い張ることです。",
+      "additionalInfoEn": "After two or three rounds, the driver will happily accept the money.",
+      "additionalInfoJa": "2、3回やりとりをすると、運転手は喜んでお金を受け取ります。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "response",
+          "pos": "名詞",
+          "meaningJa": "対応、返事"
+        },
+        {
+          "word": "insist",
+          "pos": "動詞",
+          "meaningJa": "言い張る"
+        },
+        {
+          "word": "once",
+          "pos": "副詞",
+          "meaningJa": "1回"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "insist on",
+        "ja": "〜すると言い張る"
+      },
+      "explanationJa": "「insist on + 動詞のing」で「〜すると強く主張する」。on の後ろは動名詞になります。"
+    },
+    {
+      "id": "sent-persian-taarof-politeness-5",
+      "english": "For outsiders, taarof can be puzzling, but it reflects deep care for others.",
+      "japanese": "外から来た人にはタアーロフは不思議に思えますが、相手への深い思いやりの表れです。",
+      "additionalInfoEn": "Many Iranians enjoy it as a warm game of kindness.",
+      "additionalInfoJa": "多くのイランの人々は、それを温かい思いやりのゲームとして楽しんでいます。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "outsiders",
+          "pos": "名詞",
+          "meaningJa": "外部の人"
+        },
+        {
+          "word": "puzzling",
+          "pos": "形容詞",
+          "meaningJa": "不可解な、戸惑わせる"
+        },
+        {
+          "word": "reflects",
+          "pos": "動詞",
+          "meaningJa": "反映する、表す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "deep care for others",
+        "ja": "他人への深い思いやり"
+      },
+      "explanationJa": "「reflect」は「映す」のほか、「（考えや気持ちを）表している」という意味でよく使われます。"
+    }
+  ]
+}

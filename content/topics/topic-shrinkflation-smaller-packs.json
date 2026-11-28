@@ -1,0 +1,167 @@
+{
+  "id": "topic-shrinkflation-smaller-packs",
+  "categoryId": "business-economy",
+  "titleEn": "Same Price, Smaller Package",
+  "titleJa": "値段はそのまま、中身だけ減る「シュリンクフレーション」",
+  "subtitleJa": "パッケージは同じでも、量がこっそり減っている。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-06",
+  "sentences": [
+    {
+      "id": "sent-shrinkflation-smaller-packs-1",
+      "english": "Have you ever felt a bag of chips was emptier than before?",
+      "japanese": "ポテトチップスの袋が、以前より中身が少ないと感じたことはありますか？",
+      "additionalInfoEn": "You may not be imagining it.",
+      "additionalInfoJa": "それは気のせいではないかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "felt",
+          "pos": "動詞",
+          "meaningJa": "感じた"
+        },
+        {
+          "word": "chips",
+          "pos": "名詞",
+          "meaningJa": "ポテトチップス"
+        },
+        {
+          "word": "emptier",
+          "pos": "形容詞",
+          "meaningJa": "より空の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "than before",
+        "ja": "以前より"
+      },
+      "explanationJa": "「Have you ever + 過去分詞?」で「今までに〜したことはありますか」と経験をたずねます。"
+    },
+    {
+      "id": "sent-shrinkflation-smaller-packs-2",
+      "english": "Sometimes companies make a product smaller but keep the same price.",
+      "japanese": "企業は時々、商品を小さくしながら同じ値段のままにすることがあります。",
+      "additionalInfoEn": "This is called shrinkflation, from 'shrink' and 'inflation.'",
+      "additionalInfoJa": "これは「縮む」と「インフレ」を合わせて「シュリンクフレーション」と呼ばれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "companies",
+          "pos": "名詞",
+          "meaningJa": "企業"
+        },
+        {
+          "word": "smaller",
+          "pos": "形容詞",
+          "meaningJa": "より小さい"
+        },
+        {
+          "word": "same",
+          "pos": "形容詞",
+          "meaningJa": "同じ"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep the same price",
+        "ja": "同じ値段を保つ"
+      },
+      "explanationJa": "「make + 物 + 形容詞」で「物を〜にする」です。「keep」は「〜のままにする」という意味です。"
+    },
+    {
+      "id": "sent-shrinkflation-smaller-packs-3",
+      "english": "When costs rise, this is a quiet way to protect profits.",
+      "japanese": "コストが上がったとき、これは利益を守るためのひそかな方法です。",
+      "additionalInfoEn": "Raising the price would be noticed much more quickly.",
+      "additionalInfoJa": "値上げをすると、ずっと早く気づかれてしまうでしょう。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "costs",
+          "pos": "名詞",
+          "meaningJa": "費用、コスト"
+        },
+        {
+          "word": "rise",
+          "pos": "動詞",
+          "meaningJa": "上がる"
+        },
+        {
+          "word": "protect",
+          "pos": "動詞",
+          "meaningJa": "守る"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a quiet way to",
+        "ja": "〜するひそかな方法"
+      },
+      "explanationJa": "「a way to 〜」で「〜する方法」です。「quiet」は「静かな」から「目立たない」という意味になります。"
+    },
+    {
+      "id": "sent-shrinkflation-smaller-packs-4",
+      "english": "Shoppers usually notice price changes but rarely check the weight on labels.",
+      "japanese": "買い物客は値段の変化にはたいてい気づきますが、ラベルの重さはめったに確認しません。",
+      "additionalInfoEn": "A few grams less is very hard to see by eye.",
+      "additionalInfoJa": "数グラムの違いは、目で見てもほとんど分かりません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "notice",
+          "pos": "動詞",
+          "meaningJa": "気づく"
+        },
+        {
+          "word": "rarely",
+          "pos": "副詞",
+          "meaningJa": "めったに〜ない"
+        },
+        {
+          "word": "labels",
+          "pos": "名詞",
+          "meaningJa": "ラベル"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "price changes",
+        "ja": "値段の変化"
+      },
+      "explanationJa": "「rarely」は「めったに〜ない」と否定の意味を持つので、not と一緒に使いません。"
+    },
+    {
+      "id": "sent-shrinkflation-smaller-packs-5",
+      "english": "Comparing the price per gram helps you see the real deal.",
+      "japanese": "1グラムあたりの値段を比べると、本当にお得かどうかが分かります。",
+      "additionalInfoEn": "Many stores show this unit price on the shelf tag.",
+      "additionalInfoJa": "多くのお店では、この単位あたりの価格を棚の値札に表示しています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Comparing",
+          "pos": "動詞",
+          "meaningJa": "比べること"
+        },
+        {
+          "word": "per",
+          "pos": "前置詞",
+          "meaningJa": "〜につき"
+        },
+        {
+          "word": "real",
+          "pos": "形容詞",
+          "meaningJa": "本当の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "price per gram",
+        "ja": "1グラムあたりの値段"
+      },
+      "explanationJa": "「per」は「〜につき、〜あたり」という意味です。「Comparing」は動名詞で、文の主語になっています。"
+    }
+  ]
+}

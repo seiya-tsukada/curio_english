@@ -1,0 +1,167 @@
+{
+  "id": "topic-neutron-star-teaspoon",
+  "categoryId": "space-science",
+  "titleEn": "A Teaspoon of Neutron Star",
+  "titleJa": "ティースプーン1杯で10億トンになる星",
+  "subtitleJa": "宇宙で最も密度の高い星「中性子星」の驚くべき重さ。",
+  "difficulty": "intermediate",
+  "estimatedMinutes": 3,
+  "publishedAt": "2026-09-12",
+  "sentences": [
+    {
+      "id": "sent-neutron-star-teaspoon-1",
+      "english": "When a giant star runs out of fuel, it can collapse suddenly.",
+      "japanese": "巨大な星が燃料を使い果たすと、急激につぶれることがあります。",
+      "additionalInfoEn": "This collapse often triggers a huge explosion called a supernova.",
+      "additionalInfoJa": "このつぶれる現象は、しばしば超新星と呼ばれる大爆発を引き起こします。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "giant",
+          "pos": "形容詞",
+          "meaningJa": "巨大な"
+        },
+        {
+          "word": "fuel",
+          "pos": "名詞",
+          "meaningJa": "燃料"
+        },
+        {
+          "word": "collapse",
+          "pos": "動詞",
+          "meaningJa": "崩壊する、つぶれる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "run out of",
+        "ja": "〜を使い果たす"
+      },
+      "explanationJa": "「run out of 〜」は「〜を切らす、使い果たす」という意味で、日常会話でも頻出の句動詞です。"
+    },
+    {
+      "id": "sent-neutron-star-teaspoon-2",
+      "english": "What remains may be a neutron star, an incredibly dense object.",
+      "japanese": "残ったものが、信じられないほど密度の高い「中性子星」になることがあります。",
+      "additionalInfoEn": "It is made almost entirely of particles called neutrons.",
+      "additionalInfoJa": "中性子星は、ほぼすべてが中性子と呼ばれる粒子でできています。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "remains",
+          "pos": "動詞",
+          "meaningJa": "残る"
+        },
+        {
+          "word": "incredibly",
+          "pos": "副詞",
+          "meaningJa": "信じられないほど"
+        },
+        {
+          "word": "dense",
+          "pos": "形容詞",
+          "meaningJa": "密度の高い"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "What remains",
+        "ja": "残ったもの"
+      },
+      "explanationJa": "「What + 動詞」は「〜するもの」という名詞のかたまりになり、ここでは文の主語になっています。"
+    },
+    {
+      "id": "sent-neutron-star-teaspoon-3",
+      "english": "It squeezes more mass than our Sun into a ball about 20 kilometers wide.",
+      "japanese": "太陽よりも大きな質量を、直径約20キロメートルの球に押し込めています。",
+      "additionalInfoEn": "That is roughly the size of a large city.",
+      "additionalInfoJa": "これは、だいたい大きな都市ひとつ分の大きさです。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "squeezes",
+          "pos": "動詞",
+          "meaningJa": "押し込む、絞る"
+        },
+        {
+          "word": "mass",
+          "pos": "名詞",
+          "meaningJa": "質量"
+        },
+        {
+          "word": "wide",
+          "pos": "形容詞",
+          "meaningJa": "幅が〜の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "into a ball about 20 kilometers wide",
+        "ja": "直径約20キロの球に"
+      },
+      "explanationJa": "「数字 + 単位 + wide」で「幅〜の」と大きさを表せます。「tall」「long」なども同じように使えます。"
+    },
+    {
+      "id": "sent-neutron-star-teaspoon-4",
+      "english": "A single teaspoon of its material would weigh about a billion tons on Earth.",
+      "japanese": "その物質をティースプーン1杯すくうと、地球上ではおよそ10億トンにもなります。",
+      "additionalInfoEn": "That is more than the weight of every person on Earth combined.",
+      "additionalInfoJa": "これは、地球上の全人類の体重を合わせたよりも重い計算です。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 25,
+      "vocabulary": [
+        {
+          "word": "teaspoon",
+          "pos": "名詞",
+          "meaningJa": "ティースプーン、小さじ"
+        },
+        {
+          "word": "material",
+          "pos": "名詞",
+          "meaningJa": "物質"
+        },
+        {
+          "word": "weigh",
+          "pos": "動詞",
+          "meaningJa": "重さが〜ある"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "would weigh about",
+        "ja": "約〜の重さになるだろう"
+      },
+      "explanationJa": "「would」は実際にはできない仮定の話を表します。「weigh」は動詞、名詞形は「weight（重さ）」です。"
+    },
+    {
+      "id": "sent-neutron-star-teaspoon-5",
+      "english": "Some neutron stars also spin hundreds of times every second.",
+      "japanese": "中には、1秒間に何百回も回転する中性子星もあります。",
+      "additionalInfoEn": "These fast-spinning stars send out regular beams of radio waves.",
+      "additionalInfoJa": "高速で回転するこうした星は、規則正しい電波のビームを放っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "spin",
+          "pos": "動詞",
+          "meaningJa": "回転する"
+        },
+        {
+          "word": "hundreds",
+          "pos": "名詞",
+          "meaningJa": "何百"
+        },
+        {
+          "word": "second",
+          "pos": "名詞",
+          "meaningJa": "秒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "hundreds of times",
+        "ja": "何百回も"
+      },
+      "explanationJa": "「hundreds of 〜」で「何百もの〜」という意味です。「thousands of（何千もの）」も同じ形です。"
+    }
+  ]
+}

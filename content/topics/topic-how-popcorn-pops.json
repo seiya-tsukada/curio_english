@@ -1,0 +1,167 @@
+{
+  "id": "topic-how-popcorn-pops",
+  "categoryId": "space-science",
+  "titleEn": "How Popcorn Pops",
+  "titleJa": "ポップコーンがはじける仕組み",
+  "subtitleJa": "小さな粒の中で起きている、蒸気の大爆発。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-10",
+  "sentences": [
+    {
+      "id": "sent-how-popcorn-pops-1",
+      "english": "Every popcorn kernel holds a tiny drop of water inside.",
+      "japanese": "ポップコーンの粒の1つ1つには、中に小さな水分が含まれています。",
+      "additionalInfoEn": "This water is stored in the soft starch at the center.",
+      "additionalInfoJa": "この水分は、粒の中心にあるやわらかいでんぷんの中にあります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "kernel",
+          "pos": "名詞",
+          "meaningJa": "（穀物の）粒"
+        },
+        {
+          "word": "holds",
+          "pos": "動詞",
+          "meaningJa": "保つ、含む"
+        },
+        {
+          "word": "drop",
+          "pos": "名詞",
+          "meaningJa": "しずく、滴"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a tiny drop of water",
+        "ja": "小さな水滴"
+      },
+      "explanationJa": "「Every」の後ろは単数形の名詞が来て、動詞も単数扱いの「holds」になります。"
+    },
+    {
+      "id": "sent-how-popcorn-pops-2",
+      "english": "The kernel is covered by a hard shell that keeps water in.",
+      "japanese": "粒は、水分を閉じ込めるかたい殻で覆われています。",
+      "additionalInfoEn": "Not every kind of corn can pop, because most have weaker shells.",
+      "additionalInfoJa": "ほとんどのトウモロコシは殻が弱いため、どの種類でもはじけるわけではありません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "covered",
+          "pos": "動詞",
+          "meaningJa": "覆われた"
+        },
+        {
+          "word": "hard",
+          "pos": "形容詞",
+          "meaningJa": "かたい"
+        },
+        {
+          "word": "shell",
+          "pos": "名詞",
+          "meaningJa": "殻"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "keep water in",
+        "ja": "水を閉じ込める"
+      },
+      "explanationJa": "「be covered by / with 〜」で「〜で覆われている」という受け身の表現です。"
+    },
+    {
+      "id": "sent-how-popcorn-pops-3",
+      "english": "When you heat it, the water turns into steam.",
+      "japanese": "粒を加熱すると、中の水分が蒸気に変わります。",
+      "additionalInfoEn": "Steam takes up much more space than liquid water.",
+      "additionalInfoJa": "蒸気は液体の水よりもずっと多くの場所をとります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "heat",
+          "pos": "動詞",
+          "meaningJa": "加熱する"
+        },
+        {
+          "word": "water",
+          "pos": "名詞",
+          "meaningJa": "水"
+        },
+        {
+          "word": "steam",
+          "pos": "名詞",
+          "meaningJa": "蒸気"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turns into steam",
+        "ja": "蒸気に変わる"
+      },
+      "explanationJa": "「heat」は名詞の「熱」としても、動詞の「温める」としても使える単語です。"
+    },
+    {
+      "id": "sent-how-popcorn-pops-4",
+      "english": "Pressure builds up until the shell suddenly bursts open.",
+      "japanese": "圧力がどんどん高まり、ついに殻が突然はじけて開きます。",
+      "additionalInfoEn": "This usually happens at around 180 degrees Celsius.",
+      "additionalInfoJa": "これはふつう、摂氏180度くらいで起こります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Pressure",
+          "pos": "名詞",
+          "meaningJa": "圧力"
+        },
+        {
+          "word": "suddenly",
+          "pos": "副詞",
+          "meaningJa": "突然"
+        },
+        {
+          "word": "bursts",
+          "pos": "動詞",
+          "meaningJa": "破裂する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "bursts open",
+        "ja": "はじけて開く"
+      },
+      "explanationJa": "「until + 文」で「〜するまで」という意味です。「build up」は「だんだん高まる」を表します。"
+    },
+    {
+      "id": "sent-how-popcorn-pops-5",
+      "english": "The soft inside puffs up into the white foam we love to eat.",
+      "japanese": "やわらかい中身がふくらんで、私たちの大好きな白いふわふわになります。",
+      "additionalInfoEn": "Kernels that do not pop usually had too little water inside.",
+      "additionalInfoJa": "はじけない粒は、たいてい中の水分が少なすぎたものです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "inside",
+          "pos": "名詞",
+          "meaningJa": "内側、中身"
+        },
+        {
+          "word": "puffs up",
+          "pos": "動詞句",
+          "meaningJa": "ふくらむ"
+        },
+        {
+          "word": "foam",
+          "pos": "名詞",
+          "meaningJa": "泡、ふわふわしたもの"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "love to eat",
+        "ja": "食べるのが大好き"
+      },
+      "explanationJa": "「the white foam we love to eat」は「foam」を後ろの「we love to eat」が説明する形です。"
+    }
+  ]
+}

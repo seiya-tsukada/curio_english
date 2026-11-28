@@ -1,0 +1,167 @@
+{
+  "id": "topic-email-at-sign",
+  "categoryId": "technology",
+  "titleEn": "Why Email Addresses Use the @ Sign",
+  "titleJa": "メールアドレスに「@」が使われる理由",
+  "subtitleJa": "1971年、ある技術者がキーボードから選んだ一つの記号。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-10",
+  "sentences": [
+    {
+      "id": "sent-email-at-sign-1",
+      "english": "Every email address has the same little symbol in the middle: @.",
+      "japanese": "どのメールアドレスにも、真ん中に同じ小さな記号「@」があります。",
+      "additionalInfoEn": "In Japan, people often call it the atto-mark.",
+      "additionalInfoJa": "日本では、この記号は「アットマーク」と呼ばれることが多いです。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "address",
+          "pos": "名詞",
+          "meaningJa": "アドレス、住所"
+        },
+        {
+          "word": "little",
+          "pos": "形容詞",
+          "meaningJa": "小さな"
+        },
+        {
+          "word": "middle",
+          "pos": "名詞",
+          "meaningJa": "真ん中"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the middle",
+        "ja": "真ん中に"
+      },
+      "explanationJa": "「Every」は「どの〜も」という意味で、後ろの名詞と動詞は単数形になります。"
+    },
+    {
+      "id": "sent-email-at-sign-2",
+      "english": "In 1971, an engineer named Ray Tomlinson sent the first email between computers.",
+      "japanese": "1971年、レイ・トムリンソンという技術者が、コンピューター間で初のメールを送りました。",
+      "additionalInfoEn": "The two computers were sitting right next to each other.",
+      "additionalInfoJa": "その2台のコンピューターは、すぐ隣同士に置かれていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "engineer",
+          "pos": "名詞",
+          "meaningJa": "技術者"
+        },
+        {
+          "word": "named",
+          "pos": "動詞",
+          "meaningJa": "〜という名前の"
+        },
+        {
+          "word": "sent",
+          "pos": "動詞",
+          "meaningJa": "送った"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "named ~",
+        "ja": "〜という名前の"
+      },
+      "explanationJa": "「名詞 + named 〜」で「〜という名前の…」と、人の名前を紹介できます。"
+    },
+    {
+      "id": "sent-email-at-sign-3",
+      "english": "He needed a symbol to separate the person's name from the computer's name.",
+      "japanese": "彼は、人の名前とコンピューターの名前を分ける記号を必要としていました。",
+      "additionalInfoEn": "The address had to show who the message was for and where they were.",
+      "additionalInfoJa": "アドレスには、誰宛てでどこにいるかを示す必要がありました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "needed",
+          "pos": "動詞",
+          "meaningJa": "必要とした"
+        },
+        {
+          "word": "symbol",
+          "pos": "名詞",
+          "meaningJa": "記号"
+        },
+        {
+          "word": "separate",
+          "pos": "動詞",
+          "meaningJa": "分ける"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "separate A from B",
+        "ja": "AとBを分ける"
+      },
+      "explanationJa": "「separate A from B」で「AをBから分ける」。区別するときにも使える表現です。"
+    },
+    {
+      "id": "sent-email-at-sign-4",
+      "english": "He chose @ because it was rarely used and nobody had it in their name.",
+      "japanese": "彼が@を選んだのは、めったに使われず、名前に含む人もいなかったからです。",
+      "additionalInfoEn": "It was already on the keyboard, used mostly for prices in shops.",
+      "additionalInfoJa": "この記号はすでにキーボードにあり、主にお店の値段表示に使われていました。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "chose",
+          "pos": "動詞",
+          "meaningJa": "選んだ"
+        },
+        {
+          "word": "used",
+          "pos": "動詞",
+          "meaningJa": "使われた"
+        },
+        {
+          "word": "nobody",
+          "pos": "代名詞",
+          "meaningJa": "誰も〜ない"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "rarely used",
+        "ja": "めったに使われない"
+      },
+      "explanationJa": "「nobody」は「誰も〜ない」という意味で、それ自体に否定の意味が含まれています。"
+    },
+    {
+      "id": "sent-email-at-sign-5",
+      "english": "It also fit perfectly, since @ means at, as in a user at a computer.",
+      "japanese": "しかも@は「at」を意味するので、「コンピューターにいる利用者」にぴったりでした。",
+      "additionalInfoEn": "So an address reads like a name at a place.",
+      "additionalInfoJa": "だからアドレスは「どこそこにいる誰それ」のように読めるのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "fit",
+          "pos": "動詞",
+          "meaningJa": "合う、ぴったりはまる"
+        },
+        {
+          "word": "perfectly",
+          "pos": "副詞",
+          "meaningJa": "完璧に"
+        },
+        {
+          "word": "means",
+          "pos": "動詞",
+          "meaningJa": "意味する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "as in",
+        "ja": "〜の場合のように"
+      },
+      "explanationJa": "「since」はここでは「〜なので」という理由を表す接続詞として使われています。"
+    }
+  ]
+}

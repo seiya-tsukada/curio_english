@@ -1,0 +1,167 @@
+{
+  "id": "topic-induction-cooktop",
+  "categoryId": "technology",
+  "titleEn": "How an Induction Cooktop Heats a Pan",
+  "titleJa": "IHコンロが炎なしで鍋を温める仕組み",
+  "subtitleJa": "熱くなるのはコンロではなく、鍋そのものだった。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-28",
+  "sentences": [
+    {
+      "id": "sent-induction-cooktop-1",
+      "english": "An induction cooktop can boil water without any flame or red-hot coil.",
+      "japanese": "IHコンロは、炎も真っ赤な電熱線もなしでお湯を沸かせます。",
+      "additionalInfoEn": "In Japan, these cooktops are called IH, short for induction heating.",
+      "additionalInfoJa": "日本では、誘導加熱の英語の頭文字をとって「IH」と呼ばれます。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "boil",
+          "pos": "動詞",
+          "meaningJa": "沸かす"
+        },
+        {
+          "word": "without",
+          "pos": "前置詞",
+          "meaningJa": "〜なしで"
+        },
+        {
+          "word": "flame",
+          "pos": "名詞",
+          "meaningJa": "炎"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "without any",
+        "ja": "何の〜もなしに"
+      },
+      "explanationJa": "「without any + 名詞」で「何の〜もなしで」と、まったくないことを強調できます。"
+    },
+    {
+      "id": "sent-induction-cooktop-2",
+      "english": "Under the glass top, a copper coil creates a fast-changing magnetic field.",
+      "japanese": "ガラスの天板の下で、銅のコイルが素早く変化する磁場をつくります。",
+      "additionalInfoEn": "Electricity flows back and forth through the coil tens of thousands of times a second.",
+      "additionalInfoJa": "電気はコイルの中を1秒間に何万回も行ったり来たりします。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 24,
+      "vocabulary": [
+        {
+          "word": "copper",
+          "pos": "名詞",
+          "meaningJa": "銅"
+        },
+        {
+          "word": "coil",
+          "pos": "名詞",
+          "meaningJa": "コイル"
+        },
+        {
+          "word": "magnetic",
+          "pos": "形容詞",
+          "meaningJa": "磁気の"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "magnetic field",
+        "ja": "磁場"
+      },
+      "explanationJa": "「fast-changing」のようにハイフンでつなぐと、一語の形容詞として名詞を説明できます。"
+    },
+    {
+      "id": "sent-induction-cooktop-3",
+      "english": "This field makes electric currents flow inside the bottom of the pan.",
+      "japanese": "この磁場が、鍋の底の内部に電流を流します。",
+      "additionalInfoEn": "The metal resists these currents, and that resistance turns into heat.",
+      "additionalInfoJa": "金属はこの電流の流れをさまたげ、その抵抗が熱に変わります。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "currents",
+          "pos": "名詞",
+          "meaningJa": "電流"
+        },
+        {
+          "word": "flow",
+          "pos": "動詞",
+          "meaningJa": "流れる"
+        },
+        {
+          "word": "pan",
+          "pos": "名詞",
+          "meaningJa": "鍋、フライパン"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "make ~ flow",
+        "ja": "〜を流れさせる"
+      },
+      "explanationJa": "使役の「make + 名詞 + 動詞の原形」は、機械の働きを説明するときにもよく使われます。"
+    },
+    {
+      "id": "sent-induction-cooktop-4",
+      "english": "So the pan itself becomes the heater, while the glass stays fairly cool.",
+      "japanese": "つまり鍋そのものがヒーターになり、ガラスはそれほど熱くなりません。",
+      "additionalInfoEn": "The glass only gets warm from touching the hot pan.",
+      "additionalInfoJa": "ガラスは、熱い鍋に触れているせいで温かくなるだけです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "itself",
+          "pos": "代名詞",
+          "meaningJa": "それ自体"
+        },
+        {
+          "word": "heater",
+          "pos": "名詞",
+          "meaningJa": "ヒーター"
+        },
+        {
+          "word": "fairly",
+          "pos": "副詞",
+          "meaningJa": "わりと、かなり"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the pan itself",
+        "ja": "鍋そのもの"
+      },
+      "explanationJa": "「while」はここでは「〜する一方で」と、二つのことを対比させる働きをしています。"
+    },
+    {
+      "id": "sent-induction-cooktop-5",
+      "english": "That is why most induction cooktops need pans that a magnet sticks to.",
+      "japanese": "そのため、ほとんどのIHコンロには磁石がくっつく鍋が必要です。",
+      "additionalInfoEn": "Plain aluminum and copper pans usually do not heat up well.",
+      "additionalInfoJa": "普通のアルミや銅の鍋は、たいていうまく温まりません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "most",
+          "pos": "形容詞",
+          "meaningJa": "ほとんどの"
+        },
+        {
+          "word": "magnet",
+          "pos": "名詞",
+          "meaningJa": "磁石"
+        },
+        {
+          "word": "sticks",
+          "pos": "動詞",
+          "meaningJa": "くっつく"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "stick to",
+        "ja": "〜にくっつく"
+      },
+      "explanationJa": "「pans that a magnet sticks to」は、「磁石がくっつく鍋」と前の名詞を説明する形です。"
+    }
+  ]
+}

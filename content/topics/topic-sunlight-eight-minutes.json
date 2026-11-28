@@ -1,0 +1,167 @@
+{
+  "id": "topic-sunlight-eight-minutes",
+  "categoryId": "space-science",
+  "titleEn": "Sunlight Is Eight Minutes Old",
+  "titleJa": "太陽の光が8分前のものである理由",
+  "subtitleJa": "私たちが見ている太陽は、少しだけ過去の姿。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-11-18",
+  "sentences": [
+    {
+      "id": "sent-sunlight-eight-minutes-1",
+      "english": "Light from the Sun takes about eight minutes to reach us.",
+      "japanese": "太陽の光が私たちに届くまでには、およそ8分かかります。",
+      "additionalInfoEn": "To be exact, it takes about eight minutes and twenty seconds.",
+      "additionalInfoJa": "正確に言うと、およそ8分20秒かかります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Light",
+          "pos": "名詞",
+          "meaningJa": "光"
+        },
+        {
+          "word": "takes",
+          "pos": "動詞",
+          "meaningJa": "（時間が）かかる"
+        },
+        {
+          "word": "reach",
+          "pos": "動詞",
+          "meaningJa": "届く、到着する"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "takes about eight minutes",
+        "ja": "約8分かかる"
+      },
+      "explanationJa": "「It takes + 時間 + to 動詞」は「〜するのに…かかる」の形です。ここでは主語が「Light」になっています。"
+    },
+    {
+      "id": "sent-sunlight-eight-minutes-2",
+      "english": "Light is the fastest thing in the universe.",
+      "japanese": "光は宇宙で最も速いものです。",
+      "additionalInfoEn": "It can go around Earth about seven times in one second.",
+      "additionalInfoJa": "光は1秒間に地球をおよそ7周することができます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 16,
+      "vocabulary": [
+        {
+          "word": "fastest",
+          "pos": "形容詞",
+          "meaningJa": "最も速い"
+        },
+        {
+          "word": "thing",
+          "pos": "名詞",
+          "meaningJa": "もの"
+        },
+        {
+          "word": "universe",
+          "pos": "名詞",
+          "meaningJa": "宇宙"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in the universe",
+        "ja": "宇宙で"
+      },
+      "explanationJa": "「the + 形容詞est」で「最も〜な」という最上級になります。「in + 範囲」で「〜の中で」を表します。"
+    },
+    {
+      "id": "sent-sunlight-eight-minutes-3",
+      "english": "But the Sun is about 150 million kilometers away.",
+      "japanese": "しかし、太陽はおよそ1億5000万キロメートルも離れています。",
+      "additionalInfoEn": "A car driving nonstop would need more than 150 years to get there.",
+      "additionalInfoJa": "車で休まず走り続けても、たどり着くには150年以上かかります。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "million",
+          "pos": "名詞",
+          "meaningJa": "百万"
+        },
+        {
+          "word": "kilometers",
+          "pos": "名詞",
+          "meaningJa": "キロメートル"
+        },
+        {
+          "word": "away",
+          "pos": "副詞",
+          "meaningJa": "離れて"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "150 million kilometers away",
+        "ja": "1億5000万キロ離れて"
+      },
+      "explanationJa": "「数字 + 単位 + away」で「〜離れたところに」と距離を表せます。英語の「million」は「百万」です。"
+    },
+    {
+      "id": "sent-sunlight-eight-minutes-4",
+      "english": "So the sunlight you see now left the Sun earlier.",
+      "japanese": "つまり、今あなたが見ている日光は、少し前に太陽を出発したものです。",
+      "additionalInfoEn": "In a way, we always see the Sun as it was in the past.",
+      "additionalInfoJa": "ある意味、私たちはいつも少し過去の太陽を見ているのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "sunlight",
+          "pos": "名詞",
+          "meaningJa": "日光"
+        },
+        {
+          "word": "now",
+          "pos": "副詞",
+          "meaningJa": "今"
+        },
+        {
+          "word": "earlier",
+          "pos": "副詞",
+          "meaningJa": "より前に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "the sunlight you see",
+        "ja": "あなたが見る日光"
+      },
+      "explanationJa": "「the sunlight you see」は「the sunlight (that) you see」の that が省略された形で、後ろから名詞を説明しています。"
+    },
+    {
+      "id": "sent-sunlight-eight-minutes-5",
+      "english": "Moonlight is much quicker and reaches us in about one second.",
+      "japanese": "月の光はずっと速く、およそ1秒で私たちに届きます。",
+      "additionalInfoEn": "The Moon does not make light; it reflects sunlight.",
+      "additionalInfoJa": "月は自分で光を出しているのではなく、太陽の光を反射しています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "Moonlight",
+          "pos": "名詞",
+          "meaningJa": "月の光"
+        },
+        {
+          "word": "quicker",
+          "pos": "形容詞",
+          "meaningJa": "より速い"
+        },
+        {
+          "word": "second",
+          "pos": "名詞",
+          "meaningJa": "秒"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "in about one second",
+        "ja": "約1秒で"
+      },
+      "explanationJa": "「in + 時間」で「〜で、〜のうちに」とかかる時間を表します。「much」は比較級を強めます。"
+    }
+  ]
+}

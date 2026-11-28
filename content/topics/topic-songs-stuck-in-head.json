@@ -1,0 +1,167 @@
+{
+  "id": "topic-songs-stuck-in-head",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Songs Get Stuck in Your Head",
+  "titleJa": "同じ曲が頭の中で繰り返される理由",
+  "subtitleJa": "誰にでも起こる「イヤーワーム」の不思議。",
+  "difficulty": "elementary",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-09-25",
+  "sentences": [
+    {
+      "id": "sent-songs-stuck-in-head-1",
+      "english": "Have you ever had a song playing in your head all day?",
+      "japanese": "一日中、ある曲が頭の中で流れ続けたことはありませんか？",
+      "additionalInfoEn": "This kind of song is often called an earworm.",
+      "additionalInfoJa": "このような曲は「イヤーワーム（耳の虫）」と呼ばれます。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "ever",
+          "pos": "副詞",
+          "meaningJa": "今までに"
+        },
+        {
+          "word": "playing",
+          "pos": "動詞",
+          "meaningJa": "流れている"
+        },
+        {
+          "word": "head",
+          "pos": "名詞",
+          "meaningJa": "頭"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "all day",
+        "ja": "一日中"
+      },
+      "explanationJa": "「Have you ever 〜?」は「今までに〜したことがありますか」と経験をたずねる定番表現です。"
+    },
+    {
+      "id": "sent-songs-stuck-in-head-2",
+      "english": "In one study, about ninety percent of people experienced this at least weekly.",
+      "japanese": "ある研究では、約9割の人が少なくとも週に1回この現象を経験していました。",
+      "additionalInfoEn": "So if it happens to you, you are far from alone.",
+      "additionalInfoJa": "ですから、もしあなたに起こっても、決して珍しいことではありません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "study",
+          "pos": "名詞",
+          "meaningJa": "研究"
+        },
+        {
+          "word": "percent",
+          "pos": "名詞",
+          "meaningJa": "パーセント"
+        },
+        {
+          "word": "experienced",
+          "pos": "動詞",
+          "meaningJa": "経験した"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "at least weekly",
+        "ja": "少なくとも週に1回"
+      },
+      "explanationJa": "「about + 数字」は「約〜」。正確な数でないことを示すときに使います。"
+    },
+    {
+      "id": "sent-songs-stuck-in-head-3",
+      "english": "Earworms are usually short parts of songs with simple, repeated patterns.",
+      "japanese": "イヤーワームはたいてい、単純な繰り返しのある曲の短い一部分です。",
+      "additionalInfoEn": "A catchy chorus is a common example.",
+      "additionalInfoJa": "覚えやすいサビの部分がよくある例です。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "usually",
+          "pos": "副詞",
+          "meaningJa": "たいてい"
+        },
+        {
+          "word": "simple",
+          "pos": "形容詞",
+          "meaningJa": "単純な"
+        },
+        {
+          "word": "repeated",
+          "pos": "形容詞",
+          "meaningJa": "繰り返される"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "short parts of",
+        "ja": "〜の短い部分"
+      },
+      "explanationJa": "「with + 名詞」で「〜を持った」。ここでは「繰り返しのある曲」と特徴を加えています。"
+    },
+    {
+      "id": "sent-songs-stuck-in-head-4",
+      "english": "Earworms often show up when your mind is relaxed or not busy.",
+      "japanese": "イヤーワームは、頭がリラックスしていたり暇だったりするときによく現れます。",
+      "additionalInfoEn": "Walking, showering, and doing housework are common moments.",
+      "additionalInfoJa": "歩いているときやシャワー中、家事の最中などがよくあるタイミングです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "show",
+          "pos": "動詞",
+          "meaningJa": "（show upで）現れる"
+        },
+        {
+          "word": "mind",
+          "pos": "名詞",
+          "meaningJa": "心、頭"
+        },
+        {
+          "word": "relaxed",
+          "pos": "形容詞",
+          "meaningJa": "リラックスした"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "show up",
+        "ja": "現れる"
+      },
+      "explanationJa": "「show up」は「現れる、姿を見せる」。人が来るときにも、よく会話で使います。"
+    },
+    {
+      "id": "sent-songs-stuck-in-head-5",
+      "english": "One study found that chewing gum can help push the song away.",
+      "japanese": "ガムをかむと、その曲を追い払いやすくなるという研究もあります。",
+      "additionalInfoEn": "Chewing may keep your mouth too busy for silent singing.",
+      "additionalInfoJa": "かむことで口が忙しくなり、心の中で歌いにくくなるのかもしれません。",
+      "difficulty": "intermediate",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "chewing",
+          "pos": "動詞",
+          "meaningJa": "かむこと"
+        },
+        {
+          "word": "gum",
+          "pos": "名詞",
+          "meaningJa": "ガム"
+        },
+        {
+          "word": "push",
+          "pos": "動詞",
+          "meaningJa": "押す"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "push the song away",
+        "ja": "曲を追い払う"
+      },
+      "explanationJa": "「found that 〜」は「〜だとわかった」。研究結果を紹介するときの決まった言い方です。"
+    }
+  ]
+}

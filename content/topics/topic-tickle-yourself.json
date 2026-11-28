@@ -1,0 +1,167 @@
+{
+  "id": "topic-tickle-yourself",
+  "categoryId": "human-psychology",
+  "titleEn": "Why You Can't Tickle Yourself",
+  "titleJa": "自分をくすぐってもくすぐったくない理由",
+  "subtitleJa": "脳はいつも、次に起こることを予想している。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-08-21",
+  "sentences": [
+    {
+      "id": "sent-tickle-yourself-1",
+      "english": "Try tickling your own side, and you will probably feel nothing special.",
+      "japanese": "自分のわき腹をくすぐってみても、たぶん特に何も感じないでしょう。",
+      "additionalInfoEn": "But when a friend does the same thing, you may laugh loudly.",
+      "additionalInfoJa": "でも友達に同じことをされると、大声で笑ってしまうかもしれません。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "tickling",
+          "pos": "動詞",
+          "meaningJa": "くすぐること"
+        },
+        {
+          "word": "own",
+          "pos": "形容詞",
+          "meaningJa": "自分自身の"
+        },
+        {
+          "word": "probably",
+          "pos": "副詞",
+          "meaningJa": "たぶん"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "feel nothing special",
+        "ja": "特に何も感じない"
+      },
+      "explanationJa": "「命令文, and 〜」は「〜してごらん、そうすれば…」という意味になる形です。"
+    },
+    {
+      "id": "sent-tickle-yourself-2",
+      "english": "This is because your brain knows exactly what your hand will do.",
+      "japanese": "これは、自分の手がどう動くかを脳が正確に知っているからです。",
+      "additionalInfoEn": "It sends a copy of each movement plan to other parts of the brain.",
+      "additionalInfoJa": "脳は動きの計画のコピーを、脳の別の部分に送っています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "because",
+          "pos": "接続詞",
+          "meaningJa": "なぜなら"
+        },
+        {
+          "word": "brain",
+          "pos": "名詞",
+          "meaningJa": "脳"
+        },
+        {
+          "word": "exactly",
+          "pos": "副詞",
+          "meaningJa": "正確に"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "This is because",
+        "ja": "これは〜だからです"
+      },
+      "explanationJa": "「This is because 〜」は理由を説明するときの定番表現。会話でも作文でも使えます。"
+    },
+    {
+      "id": "sent-tickle-yourself-3",
+      "english": "Because the feeling is predicted, the brain turns it down.",
+      "japanese": "感覚が予想できているため、脳はその感覚を弱めてしまいます。",
+      "additionalInfoEn": "A part at the back of the brain, the cerebellum, plays a big role.",
+      "additionalInfoJa": "脳の後ろにある小脳という部分が、大きな役割を果たしています。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "feeling",
+          "pos": "名詞",
+          "meaningJa": "感覚"
+        },
+        {
+          "word": "predicted",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "予測される"
+        },
+        {
+          "word": "turns",
+          "pos": "動詞",
+          "meaningJa": "（音量などを）変える"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "turn it down",
+        "ja": "それを弱める"
+      },
+      "explanationJa": "「turn down」は「（音量などを）下げる」。代名詞itは「turn it down」と間に入れます。"
+    },
+    {
+      "id": "sent-tickle-yourself-4",
+      "english": "Tickling works best when you cannot guess the next touch.",
+      "japanese": "くすぐりは、次にどこを触られるか予想できないときに一番効きます。",
+      "additionalInfoEn": "That is why surprise makes tickling feel so strong.",
+      "additionalInfoJa": "だからこそ、驚きがくすぐったさをとても強くするのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "works",
+          "pos": "動詞",
+          "meaningJa": "効果がある"
+        },
+        {
+          "word": "guess",
+          "pos": "動詞",
+          "meaningJa": "推測する"
+        },
+        {
+          "word": "touch",
+          "pos": "名詞",
+          "meaningJa": "触れること"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "works best",
+        "ja": "一番効果がある"
+      },
+      "explanationJa": "「work」は「働く」だけでなく「うまくいく、効く」という意味でもよく使われます。"
+    },
+    {
+      "id": "sent-tickle-yourself-5",
+      "english": "In one study, adding a short delay made self-tickling feel ticklish again.",
+      "japanese": "ある研究では、少し時間差をつけると、自分でくすぐってもくすぐったく感じるようになりました。",
+      "additionalInfoEn": "Scientists used a robot so the touch came a moment later.",
+      "additionalInfoJa": "科学者はロボットを使い、触れるタイミングを一瞬遅らせたのです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "study",
+          "pos": "名詞",
+          "meaningJa": "研究"
+        },
+        {
+          "word": "delay",
+          "pos": "名詞",
+          "meaningJa": "遅れ"
+        },
+        {
+          "word": "ticklish",
+          "pos": "形容詞",
+          "meaningJa": "くすぐったい"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "a short delay",
+        "ja": "少しの遅れ"
+      },
+      "explanationJa": "「make + 物 + feel + 形容詞」で「〜に感じさせる」。makeの後の動詞は原形になります。"
+    }
+  ]
+}

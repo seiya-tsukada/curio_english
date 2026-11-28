@@ -1,0 +1,167 @@
+{
+  "id": "topic-bright-light-sneeze",
+  "categoryId": "human-psychology",
+  "titleEn": "Why Bright Light Makes Some People Sneeze",
+  "titleJa": "まぶしい光でくしゃみが出る理由",
+  "subtitleJa": "4人に1人ほどが持つ、ちょっと不思議な体質。",
+  "difficulty": "beginner",
+  "estimatedMinutes": 2,
+  "publishedAt": "2026-10-21",
+  "sentences": [
+    {
+      "id": "sent-bright-light-sneeze-1",
+      "english": "Some people sneeze when they step out into bright sunlight.",
+      "japanese": "明るい日差しの中に出ると、くしゃみをしてしまう人がいます。",
+      "additionalInfoEn": "This is called the photic sneeze reflex.",
+      "additionalInfoJa": "これは「光くしゃみ反射」と呼ばれています。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "sneeze",
+          "pos": "動詞",
+          "meaningJa": "くしゃみをする"
+        },
+        {
+          "word": "bright",
+          "pos": "形容詞",
+          "meaningJa": "明るい、まぶしい"
+        },
+        {
+          "word": "sunlight",
+          "pos": "名詞",
+          "meaningJa": "日光"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "step out into",
+        "ja": "〜の中へ出る"
+      },
+      "explanationJa": "「Some people 〜」は「〜する人もいる」。全員ではないことを自然に伝えられます。"
+    },
+    {
+      "id": "sent-bright-light-sneeze-2",
+      "english": "Studies suggest that about one in four people have this reaction.",
+      "japanese": "研究によると、およそ4人に1人がこの反応を持っているようです。",
+      "additionalInfoEn": "Many of them don't realize that it is unusual.",
+      "additionalInfoJa": "その多くは、それが珍しいことだと気づいていません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "suggest",
+          "pos": "動詞",
+          "meaningJa": "示唆する"
+        },
+        {
+          "word": "about",
+          "pos": "副詞",
+          "meaningJa": "およそ"
+        },
+        {
+          "word": "reaction",
+          "pos": "名詞",
+          "meaningJa": "反応"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "one in four people",
+        "ja": "4人に1人"
+      },
+      "explanationJa": "「one in four」は「4つのうち1つ」。割合を表すときによく使う表現です。"
+    },
+    {
+      "id": "sent-bright-light-sneeze-3",
+      "english": "It often runs in families, passed from parents to children.",
+      "japanese": "この体質はよく家系に受け継がれ、親から子へと伝わります。",
+      "additionalInfoEn": "If one parent has it, a child has a good chance of having it too.",
+      "additionalInfoJa": "親の一人がこの体質なら、子どもも同じである可能性が高いです。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 20,
+      "vocabulary": [
+        {
+          "word": "runs",
+          "pos": "動詞",
+          "meaningJa": "（家系に）流れる"
+        },
+        {
+          "word": "families",
+          "pos": "名詞",
+          "meaningJa": "家族、家系"
+        },
+        {
+          "word": "passed",
+          "pos": "動詞（過去分詞）",
+          "meaningJa": "伝えられる"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "run in families",
+        "ja": "家系に受け継がれる"
+      },
+      "explanationJa": "「run in the family」は「家系に伝わる」という決まった言い方。性格や体質に使います。"
+    },
+    {
+      "id": "sent-bright-light-sneeze-4",
+      "english": "One idea is that the nerves for the eyes and nose are closely linked.",
+      "japanese": "有力な説の一つは、目と鼻の神経が密接につながっているというものです。",
+      "additionalInfoEn": "A strong light signal may accidentally trigger a sneeze signal.",
+      "additionalInfoJa": "強い光の信号が、うっかりくしゃみの信号まで引き起こしてしまうのかもしれません。",
+      "difficulty": "elementary",
+      "estimatedSeconds": 22,
+      "vocabulary": [
+        {
+          "word": "nerves",
+          "pos": "名詞",
+          "meaningJa": "神経"
+        },
+        {
+          "word": "closely",
+          "pos": "副詞",
+          "meaningJa": "密接に"
+        },
+        {
+          "word": "linked",
+          "pos": "形容詞",
+          "meaningJa": "つながった"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "closely linked",
+        "ja": "密接につながった"
+      },
+      "explanationJa": "「One idea is that 〜」は「一つの説は〜だ」。確定していない考えを紹介する言い方です。"
+    },
+    {
+      "id": "sent-bright-light-sneeze-5",
+      "english": "Its funny scientific nickname is the ACHOO syndrome.",
+      "japanese": "この現象には「ACHOO症候群」というユーモラスなあだ名があります。",
+      "additionalInfoEn": "\"Achoo\" is the sound English speakers use for a sneeze.",
+      "additionalInfoJa": "「Achoo」は、英語でくしゃみの音を表す言葉です。",
+      "difficulty": "beginner",
+      "estimatedSeconds": 18,
+      "vocabulary": [
+        {
+          "word": "funny",
+          "pos": "形容詞",
+          "meaningJa": "おかしな、面白い"
+        },
+        {
+          "word": "scientific",
+          "pos": "形容詞",
+          "meaningJa": "科学的な"
+        },
+        {
+          "word": "nickname",
+          "pos": "名詞",
+          "meaningJa": "あだ名"
+        }
+      ],
+      "usefulPhrase": {
+        "en": "scientific nickname",
+        "ja": "科学的なあだ名"
+      },
+      "explanationJa": "「its」は「それの」という所有を表す形。「it's（it isの短縮形）」と区別しましょう。"
+    }
+  ]
+}
